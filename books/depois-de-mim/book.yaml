@@ -1,0 +1,86 @@
+# Fonte única de verdade deste livro. Tudo a jusante -- metadados do EPUB, PDF
+# de impressão, largura da lombada, texto do anúncio na KDP -- lê daqui.
+
+slug: depois-de-mim   # renomear junto com a pasta e docs/<slug>/
+title: Depois de mim   # decidido pelo autor
+subtitle: romance
+author: Íris Gradim      # decidido: o mesmo pseudônimo dos dois primeiros livros
+language: pt
+region: BR
+
+series:
+  name: ""               # nome da série a decidir (docs/series.md); vazio não imprime a linha
+  number: 1
+
+publisher: ""
+copyright_year: 2026
+rights: Todos os direitos reservados.
+edition: Primeira edição
+isbn: ""                 # em branco usa o identificador gratuito da KDP
+colophon: |
+  Composto em Libertinus Serif.
+  Esta é uma obra de ficção. Nomes, personagens, empresas, instituições e
+  acontecimentos são produto da imaginação do autor ou usados de forma
+  fictícia.
+  Texto escrito com contribuição intensa de inteligência artificial, sob
+  direção humana.
+  Tipografia e composição produzidas com ferramentas abertas.
+
+labels:
+  chapter: Capítulo
+  contents: Sumário
+  book: Livro
+
+kdp:
+  description: |
+    Em 2031, Helena tinha trinta e oito anos, uma doença que ia chegar à cabeça
+    em poucas semanas e uma filha de seis. Escolheu o dia. Doou o cérebro para a
+    pesquisa. Não esperava acordar.
+
+    Acorda em 2140, num corpo cultivado a partir do próprio DNA: o rosto dela,
+    sem nenhuma das cicatrizes que a vida tinha deixado. A cidade foi refeita
+    contra o calor e a água. Ninguém anda na rua quando chove. Ninguém sabe mais
+    o que é um guarda-chuva.
+
+    E a filha está viva. Tem cento e quinze anos.
+
+    Foi ela quem pagou, com tudo o que a família tinha. E não diz por quê.
+
+    Depois de mim é um romance sobre uma mãe mais nova que a própria filha, sobre
+    o que se promete a uma criança sentada numa cama alta, e sobre o que sobra de
+    uma pessoa quando outra coisa a refaz a partir de um registro.
+  keywords:
+    - ficção científica
+    - mãe e filha
+    - futuro próximo
+    - longevidade
+    - memória e identidade
+    - ficção literária
+    - romance emocional
+  categories:
+    - Ficção > Ficção Científica > Geral
+    - Ficção > Ficção Literária
+    - Ficção > Família
+  age_range: adulto
+  price_usd: 12.99
+
+cover_guides: false
+
+print:
+  # Mesmo formato de romance de Quarenta dias úteis.
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400

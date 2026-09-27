@@ -1,0 +1,11 @@
+dist/
+.DS_Store
+*.pdf.tmp
+styles/          # vale packages, fetched with `vale sync`
+.vale-cache/
+# Research material stays out of the repo -- most of it is in copyright and the
+# rest is large. The *records* of what was checked against it are the book's
+# audit trail and must be tracked, so the convention is: a record is .md, a
+# source never is. What was checked goes in docs/references.md.
+sources/*
+!sources/*.md

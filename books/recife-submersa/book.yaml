@@ -1,0 +1,65 @@
+# Fonte única de verdade deste livro. Tudo a jusante -- metadados do EPUB, PDF
+# de impressão, largura da lombada, texto do anúncio na KDP -- lê daqui.
+
+slug: recife-submersa   # provisório; renomear junto com a pasta e docs/<slug>/ quando houver título
+title: Recife submersa   # título de trabalho -- ver CLAUDE.md, A decidir pelo autor
+subtitle: romance
+author: Íris Gradim      # decidido: o mesmo pseudônimo dos dois primeiros livros
+language: pt
+region: BR
+
+series:
+  name: ""               # nome da série a decidir (docs/series.md); vazio não imprime a linha
+  number: 3
+
+publisher: ""
+copyright_year: 2026
+rights: Todos os direitos reservados.
+edition: Primeira edição
+isbn: ""                 # em branco usa o identificador gratuito da KDP
+colophon: |
+  Composto em Libertinus Serif.
+  Esta é uma obra de ficção. Nomes, personagens, empresas, instituições e
+  acontecimentos são produto da imaginação do autor ou usados de forma
+  fictícia.
+  Texto escrito com contribuição intensa de inteligência artificial, sob
+  direção humana.
+  Tipografia e composição produzidas com ferramentas abertas.
+
+labels:
+  chapter: Capítulo
+  contents: Sumário
+  book: Livro
+
+kdp:
+  description: |
+    A escrever quando o enredo existir.
+  keywords:
+    - ficção científica
+    - ficção especulativa
+    - futuro
+  categories:
+    - Ficção > Ficção Científica
+  age_range: adulto
+  price_usd: 12.99
+
+cover_guides: false
+
+print:
+  # Mesmo formato de romance de Quarenta dias úteis.
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400

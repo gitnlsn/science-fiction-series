@@ -1,0 +1,67 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install toolchain
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq pandoc imagemagick qpdf poppler-utils default-jre
+          # typst
+          TYPST_VER=0.15.1
+          curl -sSL "https://github.com/typst/typst/releases/download/v${TYPST_VER}/typst-x86_64-unknown-linux-musl.tar.xz" \
+            | tar -xJ --strip-components=1 -C /usr/local/bin typst-x86_64-unknown-linux-musl/typst
+          # epubcheck
+          curl -sSLo /tmp/epubcheck.zip https://github.com/w3c/epubcheck/releases/download/v5.2.1/epubcheck-5.2.1.zip
+          unzip -q /tmp/epubcheck.zip -d /opt
+          printf '#!/bin/sh\nexec java -jar /opt/epubcheck-5.2.1/epubcheck.jar "$@"\n' \
+            | sudo tee /usr/local/bin/epubcheck >/dev/null
+          sudo chmod +x /usr/local/bin/epubcheck
+          pip install --quiet pyyaml
+
+      # The manuscript gates run first and are hard failures: a broken promise
+      # or a marker left in a sealed chapter is a defect in the book, not in
+      # the build.
+      #
+      # check.py is the KDP preflight, and it will report "10 pages -- KDP
+      # paperback minimum is 24" for as long as the manuscript is a scaffold.
+      # That is correct and expected; it goes away when the book has words in
+      # it. Do not soften the rule to make CI green.
+      - name: Build and preflight every book
+        run: |
+          status=0
+          for book in books/*/; do
+            slug=$(basename "$book")
+            echo "::group::$slug"
+            python3 scripts/check-claims.py "$slug" || status=1
+            python3 scripts/check-threads.py "$slug" || status=1
+            python3 scripts/build.py "$slug" --all
+            python3 scripts/check.py "$slug" || status=1
+            echo "::endgroup::"
+          done
+          exit $status
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: books
+          path: |
+            dist/*/*.epub
+            dist/*/*.pdf
+
+      - name: Attach files to the release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/*/*.epub
+            dist/*/*.pdf
