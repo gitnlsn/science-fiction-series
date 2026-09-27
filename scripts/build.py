@@ -629,6 +629,23 @@ def build_print(book_dir: Path, cfg: dict, pieces: list[Piece],
 # print cover
 # --------------------------------------------------------------------------
 
+def cover_colours(cfg: dict) -> list[str]:
+    """Optional `cover:` block in book.yaml -- bg, ink, accent as hex strings.
+
+    Each book in a series can carry its own palette on the same typographic
+    template. Anything left out keeps the template's default.
+    """
+    colours = cfg.get("cover") or {}
+    lines = []
+    for key in ("bg", "ink", "accent"):
+        if value := colours.get(key):
+            hexv = str(value).strip().lstrip("#")
+            if len(hexv) != 6 or any(c not in "0123456789abcdefABCDEF" for c in hexv):
+                sys.exit(f"!! cover.{key} must be a hex colour like \"#1d2b2b\", got {value!r}")
+            lines.append(f'  {key}: rgb("#{hexv}"),')
+    return lines
+
+
 def typeset_ebook_cover(cfg: dict, work: Path, dest: Path) -> None:
     """The eBook cover, typeset from the same template as the printed wrap.
 
@@ -646,6 +663,7 @@ def typeset_ebook_cover(cfg: dict, work: Path, dest: Path) -> None:
         f"  subtitle: {typ_str(cfg.get('subtitle'))},",
         f"  author: {typ_str(cfg.get('author'))},",
         f"  series: {typ_str(series.get('name') or None)},",
+        *cover_colours(cfg),
         ")",
         "",
     ]) + "\n"
@@ -686,6 +704,7 @@ def build_cover(book_dir: Path, cfg: dict) -> Path:
         f"  spine: {spine:.4f}in,",
         f"  pages: {pages},",
         f"  guides: {str(bool(cfg.get('cover_guides', True))).lower()},",
+        *cover_colours(cfg),
         ")",
         "",
     ]) + "\n"

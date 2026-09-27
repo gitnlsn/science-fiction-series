@@ -127,6 +127,10 @@ first two books. Printed labels come from `labels:` in `book.yaml`.
 - The build still supports the `::: {.registro}` block (a set-apart machine
   document) from *Quarenta dias úteis*. Useful for logs, transmissions and
   system output — whether any of the three uses it is undecided.
+- Covers are typographic, from `shared/print/cover.typ`. Each book can set its
+  own palette in `book.yaml` under `cover:` (`bg`, `ink`, `accent`, hex); the
+  build passes them to both the print wrap and the eBook cover. *Depois de mim*
+  has no cover artwork, by the author's decision.
 - `dist/` is never committed.
 
 ## Commands

@@ -1,5 +1,15 @@
 # Arte — prompts para o Gemini
 
+**Estado:** as quatro aberturas de parte estão prontas e no livro. **A capa não
+terá arte, por decisão do autor**: é tipográfica, gerada pelo build a partir do
+`shared/print/cover.typ`, com as cores do bloco `cover:` de `book.yaml`
+(ardósia `#2c3a45`, título `#eef1f2`, fio `#9fb8c8`). O prompt de capa abaixo
+fica só como registro. Os originais do Gemini estão em
+`illustrations/originais/`; as versões `-v1` foram recusadas (III tinha uma
+mulher sem cabeça atrás do balcão; IV tinha botas masculinas e de marca). Os
+masters foram ampliados a 200% com Lanczos e tiveram o papel clareado para
+branco (`-level 0%,90%`); III também perdeu a moldura desenhada.
+
 Cinco imagens: a capa e as quatro aberturas de parte. As aberturas **abrem sem
 epígrafe** (decisão do autor), então a imagem é a única coisa na página além do
 título da parte.

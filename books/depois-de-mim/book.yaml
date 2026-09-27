@@ -64,6 +64,13 @@ kdp:
   age_range: adulto
   price_usd: 12.99
 
+# Capa tipográfica, sem arte, por decisão do autor. As cores são as da chuva
+# do livro; o template é o mesmo de Quarenta dias úteis, mas não a paleta.
+cover:
+  bg: "#2c3a45"       # ardósia, a chuva
+  ink: "#eef1f2"      # título e texto
+  accent: "#9fb8c8"   # o fio prateado sob o título
+
 cover_guides: false
 
 print:
