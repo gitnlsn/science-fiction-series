@@ -97,7 +97,7 @@ menor que a orbital abaixo da GEO:
 um corpo sumir, basta soltá-lo**. Ele cai, entra na atmosfera e queima, sem
 deixar nada. Se o corpo do mentor **está preso no cabo**, alguém quis que ele
 fosse encontrado, ou quem o matou foi interrompido, ou **ele mesmo se prendeu**,
-para ser encontrado por ela. [[?autor: qual das três — decide o livro]]
+para ser encontrado por ela. **Decidido: ele se prendeu sozinho** (ver `outline.md`).
 
 ### Se o cabo romper [core]
 
@@ -117,6 +117,84 @@ escala certa para um mistério**. A 20.000 km, o corpo está dentro da faixa em 
 uma ruptura faz o cabo cair sobre o Equador.
 Fontes: https://en.wikipedia.org/wiki/Space_elevator_safety ·
 https://www.researchgate.net/publication/251231502_Dynamics_of_Space_Elevator_After_Tether_Rupture
+
+### O para-sol em L1 — por que o mundo depende do elevador [core]
+
+- **Roger Angel (2006)** propôs um para-sol espacial feito de **trilhões de discos
+  refrativos**, transparentes, que desviam a luz em vez de bloqueá-la. Ficariam
+  perto do **ponto de Lagrange L1**, entre a Terra e o Sol, a cerca de 1,5 milhão
+  de km, e **bloqueariam 1,8% do fluxo solar**, o bastante para compensar o
+  aquecimento global.
+- A massa total seria de cerca de **20 milhões de toneladas**, construída ao longo
+  de **25 anos** por menos de 0,5% do PIB mundial no período.
+- **Lançar a partir do elevador:** uma carga que sobe além da GEO e é solta na
+  ponta do cabo ganha velocidade suficiente para **escapar da Terra**. Soltar
+  depois de ~2.000 km dá órbita baixa, e na GEO dá geoestacionária. Com um cabo de
+  144.000 km, a ponta chega a 10,93 km/s. *(calculado, ver a tabela acima)*
+  Solto a 50.000 km, já escapa.
+
+**O que isso dá ao livro:** o elevador é **a única maneira barata** de subir 20
+milhões de toneladas. **Parar o elevador é parar o para-sol**, e o calor mata no
+Equador, onde fica a Âncora. **Não parar é arriscar que o cabo caia sobre o
+Equador.** As duas escolhas cobram da mesma gente. É o dilema do livro, e é o
+que faz de Álvaro uma figura trágica e não um vilão.
+**Os números reais por trás da decisão de 2110:**
+
+- **1,7 a 1,8% menos luz** (~23 W/m² da constante solar de 1.367 W/m²) compensa o
+  aquecimento de equilíbrio de **uma duplicação do CO₂** (Bala, Duffy e Taylor).
+- **Roteiros reais:** missões precursoras nas próximas duas décadas, fase
+  operacional inicial por volta de 2040, implantação completa por volta de 2080.
+- **Termination shock:** se uma geoengenharia solar que mascara muito
+  aquecimento para de repente, a temperatura sobe rápido, mais depressa do que a
+  sociedade consegue se adaptar, e a alta depende de quanto resfriamento havia.
+  Um estudo de 2018 (Parker e Irvine, *Earth's Future*) diz que o risco foi
+  superestimado e que sistemas com reserva são resistentes. [care]
+
+Fontes: https://www.pnas.org/doi/10.1073/pnas.0608163103 ·
+https://www.sciencedirect.com/science/article/pii/S0273117726004503 (roteiro para um para-sol planetário) ·
+https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000735 ·
+https://www.carbonbrief.org/explainer-six-ideas-to-limit-global-warming-with-solar-geoengineering
+
+A decisão do livro está em `bible.md`, *O para-sol*: dois terços pronto em
+2110, reposição de 5% ao ano (invenção) e um ano parado custando ~0,1 °C.
+
+Fontes: https://en.wikipedia.org/wiki/Space_sunshade ·
+https://www.researchgate.net/publication/6710728_Feasibility_of_cooling_the_Earth_with_a_cloud_of_small_spcecraft_near_the_inner_Lagrange_point_L1 ·
+https://en.wikipedia.org/wiki/Roger_Angel ·
+https://arxiv.org/pdf/2008.05244 (Peet, *The Orbital Mechanics of Space Elevator Launch Systems*)
+
+### A âncora no mar [core]
+
+A maior parte dos projetos põe a âncora **numa plataforma no oceano**, no
+Pacífico equatorial, longe das rotas aéreas e marítimas: a LiftPort fala em 650
+km de qualquer rota. **A plataforma é móvel**, um navio ou plataforma que se
+desloca para tirar a fita do caminho de satélites e detritos quando os
+rastreadores avisam. O Equador também tem menos furacões e raios.
+Fontes: https://www.esa.int/ESA_Multimedia/Images/2002/10/Space_Elevator_platform_in_the_Pacific ·
+https://www.isec.org/2015-study (ISEC, *Design Considerations of a Space Elevator Earth Port*) ·
+https://science.howstuffworks.com/space-elevator.htm
+
+**O que isso dá ao livro, se for adotado:** a Âncora seria **uma cidade flutuante,
+longe de tudo**, o que explica sem esforço por que o país não tem nome. E é **um
+círculo fechado**: pouca gente, todos com credencial, ninguém chega nem sai sem
+registro. É a situação clássica do mistério de suspeitos limitados.
+
+### O calor que mata — temperatura de bulbo úmido [core] [care]
+
+- A **temperatura de bulbo úmido** combina calor e umidade e mede se o corpo
+  ainda consegue se resfriar suando. **35 °C** foi por muito tempo o limite
+  teórico de sobrevivência.
+- **Pesquisas recentes com pessoas** acharam limites **menores**: de cerca de 25,8
+  a 34,1 °C para adultos jovens e de 21,9 a 33,7 °C para idosos, conforme as
+  condições. [care] É um debate em aberto; não cravar um número sem fonte.
+
+Fontes: https://iopscience.iop.org/article/10.1088/1748-9326/ace83c ·
+https://www.pnas.org/doi/10.1073/pnas.2305427120 ·
+https://www.nature.com/articles/s41467-023-43121-5
+
+**O que isso dá ao livro:** a onda de calor de *O que ele deixou* pode ser
+precisa. Na Âncora, no Equador, sobre o mar quente, é o bulbo úmido que mata, e
+os velhos morrem primeiro. É o que o para-sol existe para impedir.
 
 ### A radiação: o cinturão externo de Van Allen [core] [care]
 
@@ -161,3 +239,22 @@ As obras com que este livro conversa, e o que cada uma empresta.
 
 - **Arthur C. Clarke, *The Fountains of Paradise* (1979):** o romance clássico do
   elevador espacial. Serve para conhecer, e para não repetir.
+- **Kim Stanley Robinson, *Red Mars* (1992):** o elevador de Marte é sabotado e o
+  cabo, de 35.000 km e 6 bilhões de toneladas, se enrola duas vezes em volta do
+  equador marciano. **É a queda de cabo mais famosa da ficção. *O elevador* não
+  pode repeti-la**, e não repete: aqui o cabo não cai, e o livro é sobre impedir.
+- **Kim Stanley Robinson, *The Ministry for the Future* (2020):** abre com uma
+  onda de calor na Índia, com o bulbo úmido acima do limite, que mata 20
+  milhões. **A onda de calor de *O que ele deixou* tem de ser pequena, de perto,
+  pelos olhos de Iara: uma pessoa, não uma estatística**, para não ecoar essa
+  abertura.
+- **Isaac Asimov, *The Caves of Steel* (1954):** o romance que tirou o detetive de
+  ficção científica da revista barata; um mistério de regras claras num mundo
+  novo.
+- **Mur Lafferty, *Six Wakes* (2017)** e **Mary Robinette Kowal, *The Spare Man*
+  (2022):** assassinatos em espaço fechado (uma nave, um cruzeiro espacial), com
+  suspeitos limitados. São a referência para o círculo fechado da Âncora e do
+  cabo.
+Fontes: https://en.wikipedia.org/wiki/Space_elevators_in_fiction ·
+https://en.wikipedia.org/wiki/The_Ministry_for_the_Future ·
+https://fivebooks.com/best-books/best-sci-fi-mysteries-mary-robinette-kowal/

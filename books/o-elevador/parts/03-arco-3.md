@@ -1,6 +1,6 @@
 ---
-part: III — A CONSPIRAÇÃO
-title: A conspiração
+part: III — A SUBIDA
+title: A subida
 illustration: 03-arco-3
 status: outline
 ---
