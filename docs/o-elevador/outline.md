@@ -12,11 +12,46 @@ o scaffolder cria um arquivo por vaga.
 
 ## A premissa — escolhida
 
-O Brasil opera o elevador espacial do mundo, ancorado perto de Alcântara.
-Uma técnica de manutenção encontra um corpo a 20.000 km de altura no cabo.
+Um país sem nome opera o elevador espacial do mundo, ancorado perto da linha do
+Equador. Uma técnica de manutenção encontra um corpo a 20.000 km de altura no
+cabo. **O corpo é do mentor dela**: o técnico mais velho que a formou e que foi
+para ela quase um segundo pai.
 
-- **Protagonista:** [[?autor: nome e idade]] — técnica de manutenção do elevador
-- **Quando:** [[?autor: o ano]]
+**Decidido (2026-09-28):**
+
+- **O lugar não tem nome**, e nem o país. Vale a mesma regra de *Depois de mim*:
+  sem nome não quer dizer vago. A física não muda: o elevador só precisa estar
+  perto do Equador. (Antes era Alcântara, no Brasil.)
+- **O tom é de mistério com coração.** É um mistério de verdade, com pistas,
+  suspeitos e tensão, mas o que está em jogo é pessoal para a protagonista. O
+  leitor que chega de *Depois de mim* reencontra a emoção, agora dentro de um
+  thriller.
+- **A vítima é o mentor dela.** O caso é pessoal desde a primeira página, e ela
+  sabe coisas dele que ninguém mais sabe.
+- **Por que o corpo ficou no cabo:** a 20.000 km, soltar um corpo o faria cair e
+  queimar na atmosfera, sem deixar nada (ver `references.md`). **O mentor se
+  prendeu sozinho, morrendo, para que ela o encontrasse.** O corpo é a mensagem:
+  alguma coisa nele, ou com ele, é a pista. O mistério é também a última
+  conversa dele com ela.
+- **A protagonista** tem 34 anos e é técnica de manutenção do cabo há doze,
+  a melhor da geração dela. O mentor a formou desde os 22. Ela tem tudo a perder
+  no arco II, *A queda*.
+- **Quando:** ~**2110**. O elevador está em serviço há uns vinte anos: velho o
+  bastante para ter história e segredos, novo o bastante para ainda ser
+  perigoso.
+- **O segredo que matou o mentor:** **o cabo está falhando.** Ele achou dano
+  microscópico num trecho do cabo que a operadora esconde, porque admitir obriga a
+  parar o elevador. Se o cabo romper abaixo de ~25.000 km, a parte de baixo cai e
+  se estende ao longo do Equador; pedaços chegam ao chão em alta velocidade
+  (ver `references.md`).
+- **Proposta:** o mentor se prendeu **exatamente no trecho danificado**. O corpo é
+  a mensagem e é também **a marca do lugar**: a primeira pista do livro.
+  [[?autor: confirmar]]
+- **A voz:** ela narra, em **primeira pessoa, no presente**. Ponto de vista
+  único: o leitor sabe só o que ela sabe. Falas com travessão.
+
+- **Protagonista:** [[?autor: nome]], 34 anos — técnica de manutenção do elevador
+- **Quando:** ~2110
 
 **Mistério com ficção científica hard.** A física do elevador tem de estar
 certa — ancoragem equatorial, órbita geoestacionária, contrapeso, tempo de
