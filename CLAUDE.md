@@ -13,7 +13,7 @@ Reading order is **strongest hook first**, by the author's decision:
 | # | Slug (working) | Working title | Premise | Year |
 |---|---|---|---|---|
 | 1 | `depois-de-mim` | **Depois de mim** (decided) | Helena, 38, scanned before dying in 2031, wakes in 2140 in a body grown from her DNA; her daughter, 115 and dying, brought her back for herself | 2140 |
-| 2 | `o-elevador` | O elevador | on the world's space elevator, anchored near the equator in an unnamed country, a maintenance technician finds a body 20,000 km up the cable: her mentor. A mystery with a heart | [[?autor]] |
+| 2 | `a-volta-a-mais` | **A volta a mais** (decided) | on the world's space elevator, anchored near the equator in an unnamed country, Iara, a maintenance technician, finds her mentor Otávio tied to the cable 20,000 km up. A science-fiction mystery with a heart, structured by altitude | 2110 |
 | 3 | `recife-submersa` | Recife submersa | a water engineer leads a community rebuilding flooded Recife on the water | 2090 |
 
 - **Separate worlds.** The three books share a series label and nothing else:

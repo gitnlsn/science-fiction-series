@@ -6,14 +6,14 @@ outro lado. Mesma cadeia de ferramentas de *Quarenta dias úteis* e do
 
     make deps                        # uma vez, no macOS
     make                             # constrói o livro 1
-    make BOOK=o-elevador             # constrói outro livro
+    make BOOK=a-volta-a-mais         # constrói outro livro
     make books                       # constrói os três
     make check BOOK=recife-submersa  # preflight contra o que a KDP recusa
 
 | # | Livro (título de trabalho) | `BOOK=` |
 |---|---|---|
 | 1 | Depois de mim | `depois-de-mim` |
-| 2 | O elevador | `o-elevador` |
+| 2 | A volta a mais | `a-volta-a-mais` |
 | 3 | Recife submersa | `recife-submersa` |
 
 ## Layout

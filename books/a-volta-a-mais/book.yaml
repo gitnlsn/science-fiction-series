@@ -1,0 +1,94 @@
+# Fonte única de verdade deste livro. Tudo a jusante -- metadados do EPUB, PDF
+# de impressão, largura da lombada, texto do anúncio na KDP -- lê daqui.
+
+slug: a-volta-a-mais   # provisório; renomear junto com a pasta e docs/<slug>/ quando houver título
+title: A volta a mais   # decidido pelo autor
+subtitle: romance
+author: Íris Gradim      # decidido: o mesmo pseudônimo dos dois primeiros livros
+language: pt
+region: BR
+
+series:
+  name: ""               # nome da série a decidir (docs/series.md); vazio não imprime a linha
+  number: 2
+
+publisher: ""
+copyright_year: 2026
+rights: Todos os direitos reservados.
+edition: Primeira edição
+isbn: ""                 # em branco usa o identificador gratuito da KDP
+colophon: |
+  Composto em Libertinus Serif.
+  Esta é uma obra de ficção. Nomes, personagens, empresas, instituições e
+  acontecimentos são produto da imaginação do autor ou usados de forma
+  fictícia.
+  Texto escrito com contribuição intensa de inteligência artificial, sob
+  direção humana.
+  Tipografia e composição produzidas com ferramentas abertas.
+
+labels:
+  chapter: Capítulo
+  contents: Sumário
+  book: Livro
+
+kdp:
+  description: |
+    A vinte mil quilômetros de altura, uma pessoa pesa três quilos, e tudo o que
+    se solta do cabo cai, devagar, até queimar no céu.
+
+    Iara é técnica de manutenção do único elevador espacial do mundo: uma fita
+    mais fina que papel que sobe do meio do mar até além da órbita. Numa subida
+    de rotina, ela encontra um corpo preso à fita. É Otávio, o homem que a
+    formou. Ele devia estar de folga, num navio. Está amarrado com um nó que só
+    ele dava, com uma volta a mais que não segura nada.
+
+    Solto ali, ninguém o teria achado. Ele quis ser encontrado. Por ela.
+
+    Suspensa e carregando uma ligação que não atendeu, Iara sobe de novo,
+    escondida, para descobrir o que ele marcou com o próprio corpo, enquanto o
+    mundo lá embaixo depende do cabo para não morrer de calor.
+
+    A volta a mais é um mistério sem vilão, sobre uma fita cansada, um relatório
+    que ninguém leu, e o que se faz com as perguntas que nunca vão ter resposta.
+  keywords:
+    - ficção científica
+    - mistério
+    - elevador espacial
+    - ficção científica hard
+    - luto
+    - mudança climática
+    - ficção literária
+  categories:
+    - Ficção > Ficção Científica > Geral
+    - Ficção > Mistério e Detetive
+    - Ficção > Ficção Literária
+  age_range: adulto
+  price_usd: 12.99
+
+# Capa tipográfica, sem arte, como Depois de mim. Paleta própria: o azul da
+# noite acima do cabo e o âmbar dos macacões e do pôr do sol do enterro.
+cover:
+  bg: "#151c26"       # azul-noite, o espaço acima do cabo
+  ink: "#eef0f3"      # título e texto
+  accent: "#d98a3d"   # âmbar: o fio sob o título
+
+cover_guides: false
+
+print:
+  # Mesmo formato de romance de Quarenta dias úteis.
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400

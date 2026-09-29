@@ -162,6 +162,9 @@ As obras com que este livro conversa, e o que cada uma empresta.
   Sol* e *Não me abandone jamais*, e o artigo de 2026 dos catorze minutos
   (Song, LaVergne & Wróbel, acima). O texto diz "um animal", sem nomear o porco,
   e "compatível com a morte assistida", como diz o título do artigo.
+  **Terceira dívida em "Sobre a autora":** os estudos com supercentenários (New England
+  Centenarian Study), acima, em *Aos 115 anos, a doença vem no fim*. O texto não nomeia o
+  estudo.
   Conferido: *Klara e o Sol* (Companhia das Letras, 2021) e *Não me abandone
   jamais* (Companhia das Letras, tradução de Beth Vieira).
   Fontes: https://www.companhiadasletras.com.br/livro/9786559210237/klara-e-o-sol

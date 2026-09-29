@@ -1,9 +1,9 @@
 # Book production. `make` on its own builds everything for the default book;
 # pass BOOK=<slug> for another one. The series:
 #
-#   1  depois-de-mim   2  o-elevador   3  recife-submersa
+#   1  depois-de-mim   2  a-volta-a-mais   3  recife-submersa
 #
-#   make BOOK=o-elevador all        epub + interior pdf + cover
+#   make BOOK=a-volta-a-mais all    epub + interior pdf + cover
 #   make books                      all three books, one after another
 #   make epub / print / cover       one target at a time
 #   make check                      KDP preflight + both manuscript gates
