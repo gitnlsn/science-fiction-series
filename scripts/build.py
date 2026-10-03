@@ -344,8 +344,13 @@ def build_epub(book_dir: Path, cfg: dict, pieces: list[Piece],
                     lbl = (str(op.illustration).split(":", 1)[1] if miss
                            else op.illustration.stem)
                     src = epub_derivative(None if miss else op.illustration, lbl)
+                    # A part file's `alt:` describes the picture for screen
+                    # readers; without one, a label in the book's language.
+                    alt = op.meta.get("alt") or (
+                        f'{(cfg.get("labels") or {}).get("opener", "Ilustração de abertura")}: {op.title}')
+                    alt = str(alt).replace('"', "&quot;").strip()
                     fig = (f'<figure class="opener"><img src="{src}" '
-                           f'alt="Ilustração de abertura: {op.title}"/></figure>\n\n')
+                           f'alt="{alt}"/></figure>\n\n')
                 chunks.append(f"# {op.title}\n\n{fig}{op.body}")
 
         # `{.unlisted}` keeps a piece (a dedication, say) out of the TOC.

@@ -55,18 +55,18 @@ kdp:
     After Me is a novel about a mother younger than her own daughter, about what
     you promise a child sitting on a high bed, and about what is left of a person
     when something else remakes her from a record.
-  keywords:
-    - science fiction
-    - mother and daughter
-    - near future
-    - longevity
+  keywords:             # as set on KDP, 2026-10-03: search phrases, not category repeats
+    - mother daughter novel
+    - waking up in the future
+    - brain preservation
+    - body grown from dna
+    - caring for an aging parent
+    - literary science fiction
     - memory and identity
-    - literary fiction
-    - emotional novel
-  categories:
-    - Fiction > Science Fiction > General
-    - Fiction > Literary
-    - Fiction > Family Life > General
+  categories:           # as set on KDP (Kindle Books), 2026-10-03
+    - Science Fiction & Fantasy > Science Fiction > Genetic Engineering
+    - Literature & Fiction > Women's Fiction > Literary
+    - Literature & Fiction > Literary Fiction > Psychological
   age_range: adult
   price_usd: 12.99
 

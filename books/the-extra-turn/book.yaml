@@ -55,18 +55,18 @@ kdp:
 
     The Extra Turn is a mystery without a villain, about a tired ribbon, a report
     nobody read, and what we do with the questions that will never have an answer.
-  keywords:
+  keywords:             # as set on KDP, 2026-10-03: search phrases, not category repeats
     - space elevator
-    - hard science fiction mystery
-    - climate fiction
-    - grief and mentorship
-    - science fiction mystery
-    - near-future engineering thriller
-    - literary science fiction
-  categories:
-    - Fiction > Science Fiction > Hard Science Fiction
-    - Fiction > Mystery & Detective > General
-    - Fiction > Literary
+    - mentor death mystery
+    - woman engineer heroine
+    - climate engineering future
+    - locked room mystery in space
+    - orbital station thriller
+    - grief and duty
+  categories:           # as set on KDP (Kindle Books), 2026-10-03
+    - Science Fiction & Fantasy > Science Fiction > Hard Science Fiction
+    - Mystery, Thriller & Suspense > Mystery > Amateur Sleuth
+    - Literature & Fiction > Literary Fiction > Mystery, Thriller & Suspense
   age_range: adult
   price_usd: 12.99
 
