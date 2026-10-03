@@ -9,7 +9,7 @@ language: pt
 region: BR
 
 series:
-  name: ""               # nome da série a decidir (docs/series.md); vazio não imprime a linha
+  name: "O que fica"     # decidido (2026-10-03)
   number: 3
 
 publisher: ""

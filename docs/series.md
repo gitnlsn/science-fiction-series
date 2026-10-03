@@ -29,4 +29,17 @@ Ordem de leitura e de publicação: **o gancho mais forte primeiro.**
 
 ## A decidir pelo autor
 
-- [[?autor: o nome da série — preencher `series.name` nos três `book.yaml`]]
+Nada em aberto.
+
+## O nome — decidido (2026-10-03)
+
+**What Remains** em inglês, **O que fica** em português. É o que os três livros têm em
+comum: Helena fica até o fim, Iara guarda a volta a mais, Joana fica na água.
+
+## Publicação — decidido (2026-10-03)
+
+**Por enquanto, só as edições em inglês vão para a KDP**, como a série *What Remains*
+(1 *After Me*, 2 *The Extra Turn*, 3 *What Belongs to the Sea*), com a amazon.com como
+loja principal. As edições em português ficam prontas e saem depois, como série
+própria (*O que fica*): na KDP, uma série reúne livros de uma língua só. `make
+release-en` constrói e confere só as três em inglês.

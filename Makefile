@@ -12,6 +12,7 @@
 #   make release                    build + check all three, list the upload files
 #   make release BOOK=<slug>        the same, for one book only
 #   make traducao                   English chapters behind their Portuguese source
+#   make release-en                 release only the English editions (the ones on KDP)
 #   make epub / print / cover       one target at a time
 #   make check                      KDP preflight + both manuscript gates
 #   make fios                       setups without payoffs, payoffs without setups
@@ -38,7 +39,7 @@ DIST := dist/$(BOOK)
 
 .DEFAULT_GOAL := all
 .PHONY: all books epub print cover check fios marcadores watch stats digest outline \
-        clean new-book chapter open deps release traducao
+        clean new-book chapter open deps release release-en traducao
 
 all:
 	@$(PY) scripts/build.py $(BOOK) --all
@@ -87,6 +88,10 @@ release:
 		echo "  $$b/"; \
 		ls -lh dist/$$b/*.epub dist/$$b/*.pdf 2>/dev/null | awk '{print "    " $$9 "  " $$5}'; \
 	done
+
+# Only the English editions: the ones published on KDP for now (docs/series.md).
+release-en:
+	@$(MAKE) --no-print-directory release RELEASE="$(TRANSLATIONS)"
 
 # Every English chapter whose Portuguese source changed after it was translated.
 traducao:
