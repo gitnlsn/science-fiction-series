@@ -1,0 +1,91 @@
+# Fonte única de verdade deste livro. Tudo a jusante -- metadados do EPUB, PDF
+# de impressão, largura da lombada, texto do anúncio na KDP -- lê daqui.
+
+slug: o-que-e-do-mar     # decidido (2026-10-03)
+title: O que é do mar    # decidido (2026-10-03)
+subtitle: romance
+author: Íris Gradim      # decidido: o mesmo pseudônimo dos dois primeiros livros
+language: pt
+region: BR
+
+series:
+  name: ""               # nome da série a decidir (docs/series.md); vazio não imprime a linha
+  number: 3
+
+publisher: ""
+copyright_year: 2026
+rights: Todos os direitos reservados.
+edition: Primeira edição
+isbn: ""                 # em branco usa o identificador gratuito da KDP
+colophon: |
+  Composto em Libertinus Serif.
+  Esta é uma obra de ficção. Nomes, personagens, empresas, instituições e
+  acontecimentos são produto da imaginação do autor ou usados de forma
+  fictícia.
+  Texto escrito com contribuição intensa de inteligência artificial, sob
+  direção humana.
+  Tipografia e composição produzidas com ferramentas abertas.
+
+labels:
+  chapter: Capítulo
+  contents: Sumário
+  book: Livro
+
+kdp:
+  description: |
+    Na noite da maior maré do ano, a muralha que Joana projetou para proteger
+    a cidade baixa de Thalassa é galgada, e a comporta que ela desenhou cede. O
+    mar entra pelas ruas. O pai dela, um velho construtor de barcos, se recusa a
+    sair.
+
+    O Conselho declara o bairro zona de recuo: sem água, sem luz, sem ninguém.
+    Mas trezentas pessoas ficam. Moram nos telhados, fazem água doce com janelas
+    velhas, e começam a construir casas que sobem e descem com a maré. Joana, a
+    engenheira da muralha que falhou, tem de aprender com elas tudo o que não
+    estava nos livros.
+
+    Então chega uma empresa com a muralha que ela sempre quis fazer: seis metros,
+    bombas, prédios secos. A chance de consertar o passado. Só que alguém vai
+    pagar por ela.
+
+    Um romance de ficção científica sobre o mar que sobe, uma cidade que aprende
+    a subir junto, e a diferença entre segurar uma coisa e deixá-la passar.
+  keywords:
+    - ficção científica
+    - ficção climática
+    - solarpunk
+    - subida do nível do mar
+    - cidade flutuante
+    - comunidade
+    - esperança
+  categories:
+    - Ficção > Ficção Científica > Geral
+    - Ficção > Ficção Literária
+  age_range: adulto
+  price_usd: 12.99
+
+cover_guides: false
+
+print:
+  # Mesmo formato de romance de Quarenta dias úteis.
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400
+
+cover:                  # decidido (delegado pelo autor, 2026-10-03)
+  bg: "#16302e"       # verde-mar escuro: a água do canal na maré cheia
+  ink: "#eef2ef"      # título e texto
+  accent: "#d9825b"   # coral: o fio sob o título

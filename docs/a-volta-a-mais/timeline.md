@@ -64,7 +64,7 @@ fair play vai conferir.
 | 2110-05-10 → 15 | III | A subida escondida, do chão à Estação, em ~5 dias (partida às 10h de 05-10, chegada às ~9h de 05-15) | *Megapascal* → *Ele se prendeu* |
 | 2110-05-15 → 16 | IV | A mensagem; o dilema; o trecho cede; Iara para o elevador | *A última mensagem* → *O que não cai* |
 | 2110-05-16 (sexta) | IV | Leituras de hora em hora: −0,9% às 2h, −1,1% às 5h (fora da tolerância), −1,4% às 8h, −1,6% às 9h; ~60 h até romper; Iara puxa a parada de emergência | *O que não cai* |
-| 2110-05-16 (~10h) → 05-18 (domingo, ~14h37) | IV | Álvaro e Iara descem 52 h 35 min até o Posto; a trava | *A trava* |
+| 2110-05-16 (~10h) → 05-18 (domingo, ~14h37) | IV | Álvaro e Iara descem 52 h 37 min até o Posto; a trava | *A trava* |
 | ~2110-05-21 | IV | Iara e Álvaro descem na M-1 | *Terra* |
 | ~2110-05-30 | IV | Começa a troca do trecho | *Terra* |
 | 2110-06-19 (quinta) | IV | Inês fecha o caso: causa indeterminada; Iara aceita o posto com duas condições | *Terra* |

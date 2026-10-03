@@ -8,13 +8,15 @@ outro lado. Mesma cadeia de ferramentas de *Quarenta dias úteis* e do
     make                             # constrói o livro 1
     make BOOK=a-volta-a-mais         # constrói outro livro
     make books                       # constrói os três
-    make check BOOK=recife-submersa  # preflight contra o que a KDP recusa
+    make check BOOK=o-que-e-do-mar  # preflight contra o que a KDP recusa
+    make release                     # constrói e confere os seis (pt + en)
+    make traducao                    # capítulos em inglês atrás do original
 
-| # | Livro (título de trabalho) | `BOOK=` |
-|---|---|---|
-| 1 | Depois de mim | `depois-de-mim` |
-| 2 | A volta a mais | `a-volta-a-mais` |
-| 3 | Recife submersa | `recife-submersa` |
+| # | Livro | `BOOK=` | Edição em inglês | `BOOK=` |
+|---|---|---|---|---|
+| 1 | Depois de mim | `depois-de-mim` | After Me | `after-me` |
+| 2 | A volta a mais | `a-volta-a-mais` | The Extra Turn | `the-extra-turn` |
+| 3 | O que é do mar | `o-que-e-do-mar` | What Belongs to the Sea | `what-belongs-to-the-sea` |
 
 ## Layout
 

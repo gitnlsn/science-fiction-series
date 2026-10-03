@@ -39,8 +39,7 @@ agora que alguém mandou os robôs olharem de perto, apita. Um apito curto, educ
 de quem avisa uma coisa que devia ter avisado antes.
 
 Eu não durmo. Refaço a conta do Otávio a cada leitura, na margem da página vinte e
-quatro, embaixo das rasuras dele, com a caneta do kit. A curva dele tinha seis pontos
-em quatro anos. A minha tem seis pontos em seis horas.
+quatro, embaixo das rasuras dele, com a caneta do kit. A curva dele tinha cinco pontos em quatro anos. A minha tem seis pontos em seis horas.
 
 Às oito da manhã: *−1,4%*.
 
@@ -66,7 +65,7 @@ O Álvaro fica olhando o número. Os ombros dele, aqueles ombros largos, não se
 
 — Dois por dia — diz ele, baixo.
 
-— Dois por dia era a resposta de dois meses atrás. — Eu fecho o caderno. — Hoje,
+— Dois por dia era a resposta de três meses atrás. — Eu fecho o caderno. — Hoje,
 qualquer coisa que passar por lá é o que arrebenta.
 
 ---
@@ -83,7 +82,7 @@ moldura da porta.
 
 O Hugo fecha os olhos.
 
-Atrás dele, no corredor, vem o comandante da Estação, uma mulher magra de cabelo
+Atrás dele, no corredor, vem a comandante da Estação, uma mulher magra de cabelo
 raspado que se chama Laís e que eu vi duas vezes na vida, e que está com a cara de quem
 foi acordada com uma notícia ruim e ainda não decidiu se acredita. E vem o Moisés, do
 pátio. E, no pulso de todo mundo, ao mesmo tempo, a voz calma da Inês, lá de baixo, da
@@ -201,7 +200,7 @@ A conta é esta, e eu faço em voz alta, para todo mundo, no módulo redondo, co
 tamanho de um punho na janela grande.
 
 Da Estação até o Posto são quinze mil setecentos e oitenta e seis quilômetros. A
-trezentos por hora, cinquenta e duas horas e trinta e cinco minutos. O trecho tem
+trezentos por hora, cinquenta e duas horas e trinta e sete minutos. O trecho tem
 sessenta, mais ou menos. Pode ser cinquenta. Se a gente sair agora, chega com sete horas
 de sobra, ou com nenhuma.
 
@@ -276,7 +275,7 @@ inteira nos treinamentos, na tela, sem nunca acontecer de verdade.
 
 Em toda a fita, ao mesmo tempo, cem mil quilômetros, os anéis de rodas de todos os
 escaladores param. Os três de carga que estavam subindo o comboio da manhã, a cinco, doze
-e vinte e oito mil quilômetros. O C-114, lá embaixo, na Âncora, que ia descer vazio. Os
+e vinte e oito mil quilômetros. O C-114, no pátio de transferência, onde eu desci, que ia descer vazio. Os
 braços do pátio de transferência, que param no meio do movimento com uma coluna de discos
 pendurada. A esteira que leva à fita de cima. Na ponta, a cem mil quilômetros, o lançador
 do para-sol, que pela primeira vez em vinte anos não solta nada em direção ao Sol.

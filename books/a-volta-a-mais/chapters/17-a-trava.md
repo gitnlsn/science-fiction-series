@@ -24,12 +24,11 @@ status: draft
 ---
 A Laís libera uma cabine só, a nossa, com a mão, na parada.
 
-É o que a parada de emergência deixa fazer: para tudo, e depois o comandante da
-Estação solta, um por um, o que precisa andar. Ela solta a cabine de manutenção M-1
+É o que a parada de emergência deixa fazer: para tudo, e depois a comandante da Estação solta, um por um, o que precisa andar. Ela solta a cabine de manutenção M-1
 às dez e dois da manhã de sexta, e a cabine desce, sozinha, pela fita parada, com o
 Álvaro e eu dentro, e em todo o resto do cabo, cem mil quilômetros, nada se mexe.
 
-Cinquenta e duas horas e trinta e cinco minutos.
+Cinquenta e duas horas e trinta e sete minutos.
 
 O painel diz *0,0 kg*. Depois, muito devagar, *0,1*.
 

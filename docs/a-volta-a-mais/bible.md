@@ -586,7 +586,7 @@ isso comigo." "...daqui a Terra está... a mão aberta... é, mas olha." **"Olha
   mostrou a Iara no segundo ano dela. Álvaro treinou em 2089, com uma de mentira, e esqueceu a
   ordem.
 - **A descida:** a M-1, liberada por Laís às 10h02 de 05-16, chega ao Posto às **14h39 de
-  domingo 05-18**, com 52 h 35 min de viagem. A leitura da chegada é −2,9%.
+  domingo 05-18**, com 52 h 37 min de viagem. A leitura da chegada é −2,9%.
 - **Iara desfaz as duas voltas de corda** (pago de `o-no`) e guarda o meio metro enrolado no
   pulso, **sem nó: "Ainda não."** As voltas deixam **duas marcas claras** na face da fita.
 - Durante a instalação a leitura chega a −3,1%. No fim, **"Carga desviada pela trava: 71%...

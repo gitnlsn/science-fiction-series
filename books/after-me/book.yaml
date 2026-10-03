@@ -1,0 +1,99 @@
+# The English edition of *Depois de mim*. A separate book, not a variant:
+# the Portuguese manuscript is canon, and every chapter here names its source
+# and the hash of the source body it was translated from. `make traducao` lists
+# the ones that have fallen behind. Rules: docs/translation-en.md and
+# docs/depois-de-mim/translation-en.md.
+
+
+slug: after-me
+title: After Me
+subtitle: a novel
+author: Íris Gradim      # decidido: o mesmo pseudônimo dos dois primeiros livros
+language: en
+region: US
+
+series:
+  name: ""               # nome da série a decidir (docs/series.md); vazio não imprime a linha
+  number: 1
+
+publisher: ""
+copyright_year: 2026
+rights: All rights reserved.
+edition: First English edition
+isbn: ""
+colophon: |
+  Set in Libertinus Serif.
+  This is a work of fiction. Names, characters, businesses, institutions and
+  events are the products of the author's imagination or are used
+  fictitiously.
+  Written with extensive contribution from artificial intelligence, under
+  human direction. Translated from the Portuguese the same way.
+  Typesetting and layout produced with open tools.
+
+labels:
+  chapter: Chapter
+  contents: Contents
+  book: Book
+  part: Part
+
+kdp:
+  description: |
+    In 2031, Helena was thirty-eight, with an illness that would reach her mind
+    within weeks and a six-year-old daughter. She chose the day. She donated her
+    brain to research. She didn't expect to wake up.
+
+    She wakes in 2140, in a body grown from her own DNA: her face, without any of
+    the scars life had left on it. The city has been remade against the heat and
+    the water. Nobody walks in the street when it rains. Nobody knows what an
+    umbrella is anymore.
+
+    And her daughter is alive. She is a hundred and fifteen.
+
+    She is the one who paid, with everything the family had. And she won't say
+    why.
+
+    After Me is a novel about a mother younger than her own daughter, about what
+    you promise a child sitting on a high bed, and about what is left of a person
+    when something else remakes her from a record.
+  keywords:
+    - science fiction
+    - mother and daughter
+    - near future
+    - longevity
+    - memory and identity
+    - literary fiction
+    - emotional novel
+  categories:
+    - Fiction > Science Fiction > General
+    - Fiction > Literary
+    - Fiction > Family Life > General
+  age_range: adult
+  price_usd: 12.99
+
+# Capa tipográfica, sem arte, por decisão do autor. As cores são as da chuva
+# do livro; o template é o mesmo de Quarenta dias úteis, mas não a paleta.
+cover:
+  bg: "#2c3a45"       # ardósia, a chuva
+  ink: "#eef1f2"      # título e texto
+  accent: "#9fb8c8"   # o fio prateado sob o título
+
+cover_guides: false
+
+print:
+  # Mesmo formato de romance de Quarenta dias úteis.
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400

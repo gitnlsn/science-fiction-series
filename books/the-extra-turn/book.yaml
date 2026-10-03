@@ -1,0 +1,99 @@
+# The English edition of *A volta a mais*. A separate book, not a variant:
+# the Portuguese manuscript is canon, and every chapter here names its source
+# and the hash of the source body it was translated from. `make traducao` lists
+# the ones that have fallen behind. Rules: docs/translation-en.md and
+# docs/a-volta-a-mais/translation-en.md.
+
+
+slug: the-extra-turn
+title: The Extra Turn
+subtitle: a novel
+author: Íris Gradim      # decidido: o mesmo pseudônimo dos dois primeiros livros
+language: en
+region: US
+
+series:
+  name: ""               # nome da série a decidir (docs/series.md); vazio não imprime a linha
+  number: 2
+
+publisher: ""
+copyright_year: 2026
+rights: All rights reserved.
+edition: First English edition
+isbn: ""
+colophon: |
+  Set in Libertinus Serif.
+  This is a work of fiction. Names, characters, businesses, institutions and
+  events are the products of the author's imagination or are used
+  fictitiously.
+  Written with extensive contribution from artificial intelligence, under
+  human direction. Translated from the Portuguese the same way.
+  Typesetting and layout produced with open tools.
+
+labels:
+  chapter: Chapter
+  contents: Contents
+  book: Book
+  part: Part
+
+kdp:
+  description: |
+    Twenty thousand kilometers up, a person weighs three kilos, and anything that
+    comes loose from the cable falls, slowly, until it burns in the sky.
+
+    Iara is a maintenance technician on the world's only space elevator: a ribbon
+    thinner than paper that rises from the middle of the sea to beyond orbit. On a
+    routine climb, she finds a body fastened to the ribbon. It is Otávio, the man
+    who trained her. He was supposed to be on leave, on a ship. He is tied on with
+    a knot only he tied, with an extra turn that holds nothing.
+
+    Let go up there, no one would ever have found him. He wanted to be found. By her.
+
+    Suspended, and carrying a call she didn't answer, Iara climbs again, in hiding,
+    to find out what he marked with his own body, while the world below depends on
+    the cable to keep from dying of heat.
+
+    The Extra Turn is a mystery without a villain, about a tired ribbon, a report
+    nobody read, and what we do with the questions that will never have an answer.
+  keywords:
+    - space elevator
+    - hard science fiction mystery
+    - climate fiction
+    - grief and mentorship
+    - science fiction mystery
+    - near-future engineering thriller
+    - literary science fiction
+  categories:
+    - Fiction > Science Fiction > Hard Science Fiction
+    - Fiction > Mystery & Detective > General
+    - Fiction > Literary
+  age_range: adult
+  price_usd: 12.99
+
+# Capa tipográfica, sem arte, como Depois de mim. Paleta própria: o azul da
+# noite acima do cabo e o âmbar dos macacões e do pôr do sol do enterro.
+cover:
+  bg: "#151c26"       # azul-noite, o espaço acima do cabo
+  ink: "#eef0f3"      # título e texto
+  accent: "#d98a3d"   # âmbar: o fio sob o título
+
+cover_guides: false
+
+print:
+  # Mesmo formato de romance de Quarenta dias úteis.
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400

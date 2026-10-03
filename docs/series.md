@@ -13,7 +13,7 @@ Ordem de leitura e de publicação: **o gancho mais forte primeiro.**
 |---|---|---|---|
 | 1 | *Depois de mim* | `depois-de-mim` | ficção científica emocional; o futuro visto por quem veio de 2031 |
 | 2 | *A volta a mais* | `a-volta-a-mais` | mistério com coração + ficção científica hard; lugar sem nome |
-| 3 | *Recife submersa* | `recife-submersa` | solarpunk / hopepunk; clima e comunidade |
+| 3 | *O que é do mar* | `o-que-e-do-mar` | solarpunk / hopepunk; clima e comunidade |
 
 `series.number` em cada `book.yaml` segue esta tabela.
 

@@ -241,7 +241,7 @@ O Álvaro franze a testa.
 
 — Como assim?
 
-— A conta dele é de quatro meses atrás. Com seis pontos. — Eu aperto o caderno. — Desde
+— A conta dele é de três meses atrás. Com cinco pontos. — Eu aperto o caderno. — Desde
 então passaram três meses de extras. Quatro por dia. Mais o do C-X9, que passou por lá na
 noite em que ele morreu, e pode ter puxado a fita de lado com um homem preso nela. Mais
 todos os outros. A curva não é reta, Álvaro. Cada ano tira mais do que o anterior. Se

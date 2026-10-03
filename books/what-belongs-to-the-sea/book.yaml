@@ -1,0 +1,96 @@
+# The English edition of *O que é do mar*. A separate book, not a variant:
+# the Portuguese manuscript is canon, and every chapter here names its source
+# and the hash of the source body it was translated from. `make traducao` lists
+# the ones that have fallen behind. Rules: docs/translation-en.md and
+# docs/o-que-e-do-mar/translation-en.md.
+
+
+slug: what-belongs-to-the-sea
+title: What Belongs to the Sea
+subtitle: a novel
+author: Íris Gradim      # decidido: o mesmo pseudônimo dos dois primeiros livros
+language: en
+region: US
+
+series:
+  name: ""               # nome da série a decidir (docs/series.md); vazio não imprime a linha
+  number: 3
+
+publisher: ""
+copyright_year: 2026
+rights: All rights reserved.
+edition: First English edition
+isbn: ""
+colophon: |
+  Set in Libertinus Serif.
+  This is a work of fiction. Names, characters, businesses, institutions and
+  events are the products of the author's imagination or are used
+  fictitiously.
+  Written with extensive contribution from artificial intelligence, under
+  human direction. Translated from the Portuguese the same way.
+  Typesetting and layout produced with open tools.
+
+labels:
+  chapter: Chapter
+  contents: Contents
+  book: Book
+  part: Part
+
+kdp:
+  description: |
+    On the night of the highest tide of the year, the seawall Joana designed to
+    protect the lower city of Thalassa is overtopped, and the gate she drew gives
+    way. The sea comes in through the streets. Her father, an old boatbuilder,
+    refuses to leave.
+
+    The Council declares the neighborhood a retreat zone: no water, no power, no
+    one. But three hundred people stay. They live on the rooftops, make fresh
+    water with old windows, and begin to build houses that rise and fall with the
+    tide. Joana, the engineer of the wall that failed, has to learn from them
+    everything that wasn't in the books.
+
+    Then a company arrives with the wall she always wanted to build: six meters,
+    pumps, dry buildings. The chance to put the past right. Except that someone
+    is going to pay for it.
+
+    A science fiction novel about a rising sea, a city that learns to rise with
+    it, and the difference between holding something back and letting it through.
+  keywords:
+    - climate fiction
+    - solarpunk
+    - sea level rise
+    - floating city
+    - hopeful science fiction
+    - coastal community
+    - literary science fiction
+  categories:
+    - Fiction > Science Fiction > General
+    - Fiction > Literary
+  age_range: adult
+  price_usd: 12.99
+
+cover_guides: false
+
+print:
+  # Mesmo formato de romance de Quarenta dias úteis.
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400
+
+cover:                  # decidido (delegado pelo autor, 2026-10-03)
+  bg: "#16302e"       # verde-mar escuro: a água do canal na maré cheia
+  ink: "#eef2ef"      # título e texto
+  accent: "#d9825b"   # coral: o fio sob o título

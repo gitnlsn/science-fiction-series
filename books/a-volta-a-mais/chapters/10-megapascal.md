@@ -167,7 +167,7 @@ cem mil. O dobro. É o que a gente chama de fator de segurança: dois. A fita in
 foi feita para aguentar o dobro do que precisa.
 
 Mas cada fibra que se parte tira um pouco do cem mil, e não tira nada do quarenta e
-oito. E a curva dele, com seis pontos, não é uma reta. Sobe cada vez mais depressa.
+oito. E a curva, com os cinco pontos dele e o meu, não é uma reta. Sobe cada vez mais depressa.
 Cada ano tira mais do que o ano anterior tirou. Porque cada fibra partida põe mais
 peso nas outras, e as outras partem mais depressa, e assim por diante.
 
@@ -227,7 +227,7 @@ Eu nunca ouvi falar de relatório nenhum.
 Abro o caderno de novo na página vinte e quatro e ponho o dedo no quadrado feito
 à régua. Nos dois números. Nos quatro meses.
 
-Não é o que eu acho. É o que ele mediu, seis vezes em quatro anos, com a luva, com
+Não é o que eu acho. É o que ele mediu, cinco vezes em quatro anos, com a luva, com
 o leitor de mão, parando sempre no mesmo lugar, com um asterisco, mesmo quando a
 saída era para outro trecho. E é o que eu medi, uma vez, com o Álvaro gritando.
 

@@ -194,7 +194,7 @@ pediu de volta, e eu nunca devolvi. Uso pela primeira vez em nove anos.
 
 Na porta, tem um selo. Uma faixa fina, transparente, colada na junta da porta com
 a marca da agência, e embaixo, em letra pequena: *inspecionado — dia 14 — não
-violar*. A agência esteve aqui. Três dias atrás, enquanto eu estava no Posto
+violar*. A agência esteve aqui. Sete dias atrás, enquanto eu estava no Posto
 sentada ao lado dele na câmara fria.
 
 Eu rompo o selo.

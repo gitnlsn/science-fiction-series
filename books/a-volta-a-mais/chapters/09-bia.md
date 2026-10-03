@@ -179,8 +179,8 @@ segundos de vento e o meu nome, e foi até a Bia, e deu a ela o caderno, e disse
 
 Ele não me acordou porque eu estava cansada.
 
-Ele subiu com o meu código, sem pedir, a um homem que não é da Operadora pagando a
-minha amiga por fora, numa semana em que ninguém sabe quem mais estava no cabo, e
+Ele subiu com o meu código, sem pedir, no escalador de um homem que não é da Operadora,
+que pagava a minha amiga por fora, numa semana em que ninguém sabe quem mais estava no cabo, e
 morreu lá em cima, e antes de morrer se amarrou com uma volta a mais para eu achar.
 E, na última noite em que eu podia ter falado com ele, ele escolheu me deixar
 dormir.

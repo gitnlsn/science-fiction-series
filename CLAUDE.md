@@ -14,7 +14,7 @@ Reading order is **strongest hook first**, by the author's decision:
 |---|---|---|---|---|
 | 1 | `depois-de-mim` | **Depois de mim** (decided) | Helena, 38, scanned before dying in 2031, wakes in 2140 in a body grown from her DNA; her daughter, 115 and dying, brought her back for herself | 2140 |
 | 2 | `a-volta-a-mais` | **A volta a mais** (decided) | on the world's space elevator, anchored near the equator in an unnamed country, Iara, a maintenance technician, finds her mentor Otávio tied to the cable 20,000 km up. A science-fiction mystery with a heart, structured by altitude | 2110 |
-| 3 | `recife-submersa` | Recife submersa | a water engineer leads a community rebuilding flooded Recife on the water | 2090 |
+| 3 | `o-que-e-do-mar` | **O que é do mar** (decided) | Joana, a hydraulic engineer whose seawall failed, helps a community rebuild Thalassa, an invented flooded coastal city, on the water (not the real Recife) | 2090 |
 
 - **Separate worlds.** The three books share a series label and nothing else:
   no shared characters, technology, timeline or events. **Never cross-reference
@@ -96,10 +96,29 @@ bullet. `make marcadores` fails on it (`lint_dialogue` in
 `scripts/check-claims.py`). Book 1's own voice rules (Helena in first person present, Cecília in
 third person past, alternating) are in `docs/depois-de-mim/outline.md`.
 
-## Language
+## Language — and the English editions
 
 Portuguese (pt-BR) is the primary edition of all three, as with the author's
 first two books. Printed labels come from `labels:` in `book.yaml`.
+
+Each book has an **English edition, a separate book** (US English), set up the
+way *Forty Working Days* is for *Quarenta dias úteis*:
+
+| Portuguese | English | Slug |
+|---|---|---|
+| *Depois de mim* | *After Me* | `after-me` |
+| *A volta a mais* | *The Extra Turn* | `the-extra-turn` |
+| *O que é do mar* | *What Belongs to the Sea* | `what-belongs-to-the-sea` |
+
+- **The Portuguese is canon.** Docs are never translated. Each English chapter
+  has the same filename as its source, Portuguese planning notes in its front
+  matter, and `source:` + `source_sha:`. **`make traducao`** lists English
+  chapters whose source changed; `make release` stops on a stale one.
+- Rules: `docs/translation-en.md` (series) and `docs/<source-slug>/translation-en.md`
+  (titles, glossary, fixed sentences, *Found in the Portuguese*).
+- **Revise the Portuguese first, then carry the change into the English** and
+  restamp: `python3 scripts/check-translation.py <english-slug> --stamp <file>`.
+- The English books share the Portuguese art through an `illustrations` symlink.
 
 ## Structure and conventions
 
@@ -139,6 +158,7 @@ Every target takes `BOOK=<slug>`; the default is `depois-de-mim`.
 
     make                 # build the book (epub + interior + cover)
     make books           # build all three
+    make release         # build + check all three, list the upload files (BOOK=… for one)
     make check           # KDP preflight + both manuscript gates
     make fios            # setups without payoffs, payoffs without setups
     make marcadores      # unresolved [[?...]] markers (the book + docs/<slug>/ + docs/series.md)

@@ -85,7 +85,7 @@ olhava de longe, com a cara de quem sabia que não era para perguntar.
 
 Não pedi o contrato à Ciça. Não consegui. Fiquei três dias com a frase na boca,
 no café da manhã, no jantar, na hora de dar boa-noite. *Posso ler o contrato?*
-Cinco palavras. Eu já disse coisas muito mais difíceis na vida. E não consegui,
+Quatro palavras. Eu já disse coisas muito mais difíceis na vida. E não consegui,
 porque sabia que, se ela tinha escondido, era porque não queria que eu lesse, e
 pedir era dizer que eu sabia que ela escondia.
 
