@@ -47,7 +47,7 @@ proa, e ela tinha descido da torre do relógio e ido até a plataforma da roda, 
 conversado meia hora no convés, com metade do Baixo olhando das varandas. Sobre nada. Sobre
 o pai. Ele tinha ido ao enterro? Não tinha podido, estava no sul, numa obra. Sobre o Davi,
 que ele não via desde que o menino tinha dez anos. Depois ele tinha deixado um cartão, de
-papel de verdade, grosso, com a marca do quadrado cortado ao meio, e dito: *Terça que vem,
+papel de verdade, grosso, com a marca do quadrado cortado ao meio, e dito: *Terça, dia cinco,
 às três. Eu queria te mostrar uma coisa. Só você.*
 
 — Você tá bem — disse ele.
@@ -120,14 +120,14 @@ numa língua antiga. Ela nunca tinha conferido.
 
 Ela ficou olhando o modelo muito tempo. Raul não falou. Ele sempre tinha sabido quando não
 falar. Era uma das coisas que ela lembrava do subsolo: ele percebia quando ela estava
-fazendo uma conta e esperava ela acabar.
+fazendo uma conta e esperava que ela acabasse.
 
 Ela estava fazendo várias.
 
 O talude de pedra em degraus, do lado do mar, quebrava a onda antes de ela subir. Era
 bom. Era muito melhor que uma face lisa de concreto. A crista larga, de vinte metros, com
 árvores, distribuía a carga e aguentava galgamento sem erodir o tardoz. Bom. Seis metros
-acima do mar médio davam dois metros e oitenta de borda livre na maré do equinócio, com uma
+acima do mar médio davam três metros e quarenta de borda livre na maré do equinócio, com uma
 ressaca igual à da maré grande. Quase nenhuma onda chegava lá. Bom. A estação de bombas na boca do
 canal, com seis bombas, e — ela tocou a mesa sem pedir licença, e a mesa obedeceu, e abriu
 o corte da estação — gerador próprio, solar e a diesel, e uma redundância de duas bombas
@@ -161,6 +161,13 @@ Mesma metragem que tinha, ou maior. Escritura nova. Num prédio que não alaga.
 
 Ela leu. Leu de novo.
 
+— Isso é zona de recuo, Raul. O título vale?
+
+— Vale. Os advogados olharam três vezes. — Ele tocou uma linha do texto, que acendeu. — A
+Lei da Orla só pega o que fica debaixo da preamar, e a linha da preamar foi medida há
+quarenta e dois anos e passa na praia, fora da muralha. No papel, o Baixo inteiro é terra
+seca.
+
 — E quem não tem título?
 
 Raul não desviou os olhos.
@@ -193,7 +200,7 @@ Departamento cobrava de água.
 
 — O Conselho que não consertou a Comporta Dois.
 
-Raul ficou calado um momento.
+Raul passou a mão no tampo da mesa, onde não havia nada para limpar.
 
 — Você tá fazendo a conta certa — disse ele. — Eu sabia que ia fazer. É por isso que eu
 quero você. Não quero um engenheiro que diga sim. Quero você, que vai fazer todas essas
@@ -202,20 +209,21 @@ perguntas, e depois vai fazer o dique de um jeito que elas não sejam um problem
 ---
 
 Ele tocou a mesa uma última vez, e o modelo voltou, grande, no meio. Mas não era o modelo
-do dique. Era o Baixo de agora. As plataformas. A rua que respirava. E por cima, no canto, a
+do dique. Era o Baixo de agora. As plataformas, as pontes, a lona azul. E por cima, no canto, a
 data de uma maré.
 
-— A próxima do equinócio — disse Raul. — Lua nova
-de novo. A tábua dá dez centímetros acima da maré grande deste ano. Não dá pra saber se vem
+— A próxima do equinócio — disse Raul. — Lua nova de novo. A tábua dá dez centímetros acima da maré grande deste ano. Não dá pra saber se vem
 ressaca. Mas se vier igual...
 
 O azul subiu no modelo. Devagar, como no mapa de inundação da sala de controle. Encheu o
-canal. As plataformas subiram nos postes. Subiram até o alto dos postes. E Joana viu, antes
-de o modelo mostrar, o que ia acontecer, porque já sabia: a onda que entrava pela boca do
-canal, a que tinha derrubado o pai, vinha com a maré no alto e as plataformas no topo dos
-postes, sem mais poste para subir, e a corrente batia nelas de lado.
+canal. As plataformas subiram nos postes, e sobrava poste. Não era a altura. E Joana viu,
+antes de o modelo mostrar, o que ia acontecer, porque já sabia: a onda que entrava pela boca
+do canal, a que tinha arrancado a parede do estaleiro, vinha de lado, com a corrente atrás, e
+batia nas primeiras plataformas como num casco atravessado. Os postes vergavam. As argolas
+abriam.
 
-No modelo, as plataformas da boca do canal se soltaram. Uma, duas. Foram contra as outras.
+No modelo, as plataformas da boca do canal arrancaram as argolas dos postes. Uma, duas.
+Foram contra as outras.
 
 Raul apagou a mesa antes do resto.
 
@@ -225,14 +233,14 @@ costa. Eu fiquei olhando da proa naquele sábado, as casas subindo, e quase chor
 aguenta a próxima maré grande. E você sabe disso também.
 
 Ela sabia. Tinha sabido em algum lugar embaixo da cabeça desde a noite em que viu a casa da
-Dona Célia deitar no canal. Os postes eram de luz, de seis metros. Ninguém tinha feito a
-conta do poste.
+Dona Célia deitar no canal. Os postes eram de luz, velhos, de seis metros, plantados na rua para
+segurar lâmpada, não casa empurrada de lado. Ninguém tinha feito a conta do poste.
 
 — Eu preciso pensar — disse ela.
 
 — Claro. — Ele se levantou. — Você tem até o fim do mês. A Terra Firme vai apresentar a
 proposta para os moradores numa reunião aberta, no dia primeiro. Eles votam. Se aceitarem,
-a obra começa quarenta dias depois. — Ele parou na porta de vidro escuro. — Eu queria que você
+a obra começa uma semana depois. — Ele parou na porta de vidro escuro. — Eu queria que você
 estivesse lá, do meu lado. Mas se não estiver, eu entendo.
 
 Ela ficou sentada.
@@ -254,11 +262,11 @@ Ele abriu a porta. O calor do convés entrou, e o cheiro de sal, e de lama, e de
 
 ---
 
-Ela voltou para a plataforma dela pelas pontes, na maré cheia, devagar. As pontes balançavam
+Ela voltou para a plataforma dela pelas pontes, com a maré enchendo. As pontes balançavam
 um pouco debaixo dos pés, e ela tinha aprendido a andar nelas sem pensar, com os joelhos
 soltos. Passou pela plataforma do Jairo. Ele estava sentado na varanda, consertando uma
 rede, e levantou os olhos quando ela passou, e olhou na direção do catamarã, branco, parado
-no meio do canal, e não disse nada.
+no meio do canal, e puxou a agulha da rede com mais força.
 
 Na plataforma dela, o Davi estava sentado no chão da varanda, com as pernas para fora, os
 pés na água, lixando um remo novo.
@@ -269,7 +277,9 @@ pés na água, lixando um remo novo.
 
 — Que projeto?
 
-Ela não respondeu. Entrou no quarto, e abriu a mochila, e tirou do fundo, de dentro de uma
+— Depois.
+
+Entrou no quarto, e abriu a mochila, e tirou do fundo, de dentro de uma
 pasta de plástico velha, uma folha impressa, dobrada em quatro, amarela nas dobras. Uma
 planilha. Dezesseis anos antes. Com a conta da cota de cinco metros, e a da cota de quatro e
 vinte, e a da cidade sem muralha. Ela tinha guardado aquela folha em todas as gavetas de
@@ -280,4 +290,4 @@ Abriu a folha em cima da cama. Olhou os números. Os dela. Certos.
 Lá fora, pela janela de tela, o catamarã branco começava a sair pelo canal, sem barulho,
 sem onda, com o sol baixo batendo no vidro escuro da cabine.
 
-Ela queria dizer sim. Queria tanto que as mãos tremiam em cima da folha.
+As mãos tremiam em cima da folha.

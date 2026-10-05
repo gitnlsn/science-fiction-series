@@ -22,10 +22,9 @@ cast:
 - nilo
 - lauro
 source: o-que-e-do-mar/chapters/02-o-dia-seguinte.md
-source_sha: e120d40f4861
+source_sha: 7bbe9a882fbd
 status: draft
 ---
-
 The tide bottomed out at six thirty-five, as the table said, and started rising again at
 six thirty-six.
 
@@ -42,11 +41,11 @@ relief. The streets showed between the houses the way they should, streets, long
 straight, only brown. Covered in a smooth, shining silt that reflected the white sky, and
 in things. A refrigerator lying on its side. A whole door, with its handle. A market
 vendor's handcart, wheels in the air. Branches. Plastic of every color, snagged on
-everything tall enough to snag it. And over it all, hanging on the bars of the
-ground-floor windows, a meter and a half off the ground, a dark mark, straight,
-unbroken, running from house to house as far as she could see.
+everything tall enough to snag it. And over it all, high on the bars of the
+ground-floor windows, almost at the lintel, a dark mark, straight, unbroken, running from
+house to house as far as she could see.
 
-The night's waterline. Joana stood looking at it the way she would look at a signature.
+The night's waterline. Joana read it the way she would read a signature.
 
 Then, at six thirty-six, the water came back.
 
@@ -58,8 +57,8 @@ went to mirror. Gate Two was there at the far end, crooked, half lying down, and
 low side the sea came in without hurry, a little more every minute, as if it had been
 invited.
 
-She did the math without meaning to. That day's tide would rise to nearly a meter and a
-half above mean sea level. The corner of Caulkers Street was at one meter ten.
+The math came on its own. That day's tide would rise to nearly a meter and a half above
+mean sea level. The corner of Caulkers Street was twenty centimeters below it.
 
 Lowtown would flood again at noon. And at midnight. And the next day, twice. And every
 time the moon was full or new, more. And the eighteen-meter gate she had drawn was lying
@@ -107,7 +106,7 @@ back.
 
 "Then I'm going," he said.
 
-The Civil Defense boy looked at her. She looked at her son. Fifteen, a meter eighty, his
+The Civil Defense boy waited, the laminated paper in his hand. She looked at her son. Fifteen, a meter eighty, his
 grandfather's chin.
 
 "Sit in the middle," she said. "And keep your hands out of the water."
@@ -136,7 +135,7 @@ She kept the image. She was going to need it.
 
 "Yes."
 
-He looked too. He didn't say anything else.
+He looked too. He gripped the rope along the side with both hands.
 
 ---
 
@@ -176,7 +175,8 @@ Davi didn't say anything. Joana put her hand on his knee, over the wet pants, an
 her.
 
 That day, Civil Defense counted thirty-one. Joana learned the number that night, on the
-device, in a five-line bulletin. At the time, in the boat, she counted two.
+device, in a five-line bulletin, between *Gate Two: out of service* and *The Shallows:
+water to the knee, no casualties*. At the time, in the boat, she counted two.
 
 ---
 
@@ -186,7 +186,7 @@ Laércio's, where she bought bread when she was eight. The bakery's iron door wa
 inward. The display window no longer existed.
 
 The water was deeper there. It would have come to the waist of anyone standing, if anyone
-had been standing. The boat moved slowly up the middle of the street, steering around a
+had been standing. The boat moved up the middle of the street, steering around a
 plastic table floating legs up, and Davi was already kneeling on the seat, neck stretched,
 looking ahead.
 
@@ -218,13 +218,13 @@ Davi climbed after her without asking. She learned it from a neighbor, Mrs. Ilda
 broad woman of seventy-one with white hair cut short, who was sitting in the middle of the
 ridge with a blanket on her shoulders and a voice that hadn't tired at all.
 
-"The water came in all at once," said Mrs. Ilda, looking down at Joana the way you look at
-someone you knew a long time ago. She had. She had sold tapioca outside the school Joana
+"The water came in all at once," said Mrs. Ilda, from up there, in the tone you use with
+someone you knew a long time ago. She had. She had sold corn cake outside the school Joana
 went to. "Ten to midnight, more or less. Slow at first, from above, down the hill. Then it
-came from the canal, and there was that bang. In ten minutes it was on my second floor. I
-went up on the roof with Nilo." She pointed to a young man of about twenty, sitting
-further along, who gave a short wave. "And then we stayed there. With the water slapping
-the gutter."
+came from the canal, and there was that bang. In ten minutes it was halfway up my stairs.
+I went up on the roof with Nilo." She pointed to a young man of about twenty, sitting
+further along, who gave a short wave. "And then we stayed there. Not knowing where it
+would stop."
 
 "And my father?"
 
@@ -235,7 +235,7 @@ with Davi crouched beside him, talking low.
 
 Joana looked into the shed.
 
-The boatyard was full of water to a little below the loft. Light came in through the open
+The boatyard had water to a man's waist, and rising. Light came in through the open
 door and through the gaps in the zinc in stripes, and fell on the brown water, and on the
 water, tied with two ropes to an iron column, a hull was floating. A wooden boat, about
 seven meters, high in the bow and wide in the bottom, the hull painted white with a blue
@@ -246,14 +246,14 @@ birthday, still without its top planks.
 Severino's hull. *It came out good. I knew it had come out good.*
 
 "He let the boat off the cradle with the water," said Mrs. Ilda, behind her. "Opened the
-door, God knows how, with the water up to his chest. And went out rowing down the street
+door, God knows how, with the water over his head. And went out rowing down the street
 in the dark. Seventy-eight years old and that heart. He picked us up on my roof. Then the
 Ferreiras, who were at the window, the girl and her mother. Then Mr. Lauro, who'd fallen
 and was hanging on to a post. Four trips, it was. He brought everyone here because it's the
-highest roof on the street." She stopped. "I told him to stop after the third. He said the
+widest roof on the street." She stopped. "I told him to stop after the third. He said the
 boat was still dry inside, so it could do one more."
 
-Joana didn't say anything. She looked at the hull floating, quiet, tied, the water lapping
+Joana looked at the hull floating, quiet, tied, the water lapping
 gently at its side. A blue stripe on the gunwale. Seven meters of wood her father had
 taken eight months to make, alone, by hand, the same hands that now shook a little when
 they held a cup.
@@ -318,7 +318,7 @@ where the hull floated tied to the column. "She came out good."
 She didn't understand. She waited for the rest, and the rest didn't come, and she realized
 that that *was* the rest. That for him the sentence was whole.
 
-Davi was looking at his grandfather with a face Joana hadn't seen on her son since he was
+Davi was watching his grandfather with a face Joana hadn't seen on her son since he was
 small. She didn't know its name. She knew it wasn't for her.
 
 "Grandpa," said Davi. "Will you teach me?"
@@ -364,7 +364,7 @@ of the wall, whole, with the sun hitting it from the side.
 "This house is older than your wall," he said. There was no anger in his voice at all.
 "It'll be older than anybody's. It knows how to get wet."
 
-He went down the iron ladder, slowly, one rung at a time, facing it, the way you go down a
+He went down the iron ladder, one rung at a time, facing it, the way you go down a
 ladder on a boat.
 
 Joana stayed on the ridge, sitting, her hands flat on the hot zinc, and looked at the wall

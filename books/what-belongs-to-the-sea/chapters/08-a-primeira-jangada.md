@@ -17,16 +17,14 @@ cast:
 - davi
 - ilda
 - nilo
-- teo
 - jairo
 - celia
 - clara
 - lauro
 source: o-que-e-do-mar/chapters/08-a-primeira-jangada.md
-source_sha: 281df7c4063a
+source_sha: 6c301d07825a
 status: draft
 ---
-
 Mrs. Célia Ferreira's house keeled over at eighteen minutes past three in the afternoon, in
 front of fifty people, and it was Joana's fault.
 
@@ -75,7 +73,7 @@ house. So she would have pressure.
 
 She wanted it to be a house. She wanted Mrs. Célia and Clara to walk in and think it was a
 house, and not a boat, and not something temporary. Mrs. Célia had lived thirty years in a
-one-room single-story house on Caulkers Street, which the sea had filled to the ceiling on
+one-room single-story house on Caulkers Street, which the sea had filled nearly to the ceiling on
 the night of the big tide and again in the surge, and since then she had slept on a mattress
 on the floor of the second story of Mrs. Ilda's green house, with her twelve-year-old
 daughter, and complained about nothing, and Joana had never seen anyone so tired of not
@@ -120,13 +118,13 @@ People on the planks over the street. Jairo, on Mr. Lauro's roof, with a thermos
 in her beach chair, on the terrace of the green house, with Mrs. Célia standing beside her,
 hands clasped.
 
-The water came in through the door at eight forty. It reached the foam boards at ten past
-nine. At twenty past nine, the platform moved.
+The water came in through the door at ten to ten. It reached the foam boards at five past
+ten. At a quarter past ten, the platform moved.
 
 It was nothing. A creak of wood. One of the corners rising a finger. But up on the roofs
 someone clapped, and then someone else, and then the whole street.
 
-At nine forty, the platform was floating. All of it. Level. With the house on top, the
+At ten forty, the platform was floating. All of it. Level. With the house on top, the
 cement-board house, with the clay roof and the two windows and the door, and the black plastic
 water tank on the roof, still empty, and the brown water passing underneath it.
 
@@ -136,7 +134,7 @@ Two, when she was thirty-three and slept on the site.
 
 ---
 
-They pulled the platform to the canal at eleven, at high tide. Davi in Amaro's boat, with a
+They pulled the platform to the canal at eleven, with the tide coming in. Davi in Amaro's boat, with a
 rope at the bow. Nilo and two more young men in a dinghy, with another. People on the banks,
 walking along the planks, holding long ropes so the house wouldn't hit the walls. It took
 half an hour. They brought the platform in between the two iron posts, on the east bank, in
@@ -159,13 +157,13 @@ poured it into the tank on the roof by the ladder, one bucket at a time. Each pe
 bucket. Mr. Lauro. The young men from the ledge. Jairo, with two. Mrs. Ilda sent Nilo with a
 whole pot. Five hundred liters.
 
-The platform sank two fingers. Joana looked at the waterline on the boards. It was where the
+The platform sank a finger. Joana looked at the waterline on the boards. It was where the
 math said.
 
 Mrs. Célia went into the house at half past one. She opened the door. She looked. She walked
 to the sink. She turned on the tap. Water came out.
 
-She didn't say anything. She stood with her hand under the water, and Clara beside her,
+She stood with her hand under the water, without turning off the tap, and Clara beside her,
 looking at her mother, and Joana saw it from the bank, through the open door, and had to look
 somewhere else.
 
@@ -191,14 +189,16 @@ And the water tank slid.
 
 Joana saw it. That was when she knew. The tank was sitting on top of the clay roof, on a
 plank base, tied with two ropes, and the roof was pitched, and with the heel the tank ran on
-its base, a little, a hand-span, toward the low side. Five hundred kilos. A hand-span
-sideways, four meters up. And the moment the platform had to come back with, the positive
-metacentric height she had calculated at the table with her father's slide rule, became, in
-one second, smaller than the moment of the tank.
+its base, a little, a hand-span, toward the low side. Five hundred kilos on the side
+that was already low. She had checked, at the table, with her father's slide rule, the
+metacentric height, and the metacentric height was right. She hadn't checked how much
+freeboard was left, on the low side, with the heavy house and the full tank. Almost none was
+left. The next wave, the same hand-span, washed over the edge and onto the deck, and the
+boards on that side, already sunk to the tarp, had nothing more to give.
 
 The platform didn't come back.
 
-It kept going over. Slowly. Far too slowly. With the house on top, tilting, and the clay tiles
+It kept going over. Far too slowly. With the house on top, tilting, and the clay tiles
 sliding off the roof one by one and falling into the water with a sound like stones, and the
 door open, and inside it Clara, who had stayed at the sink playing with the tap.
 
@@ -231,14 +231,14 @@ wouldn't be this time, and hadn't had the heart to say so.
 
 Davi came out of the water and sat on the bank, beside Joana. Dripping.
 
-She waited for him to say it. *Weight low.* He had the right. He had said it on Thursday,
+She waited for him to say it. He had the right. He had said it on Thursday,
 looking at the drawing. He had said *in still water*.
 
 He didn't say it.
 
 "The tank," she said. "It was the tank. The math was right for the tank sitting still. I
-didn't put the tank sliding in. I tied it on a pitched roof and didn't put in the math that
-it could slide."
+didn't account for it sliding. I tied it to a pitched roof and never put in the math that it
+could move."
 
 "I know."
 
@@ -248,7 +248,7 @@ it could slide."
 turned it over in his hands. "I didn't know why. Grandpa said it and I repeated it. You knew
 why. You just didn't believe it."
 
-She looked at him. Fifteen. The adze held near the blade.
+Fifteen. The adze held near the blade.
 
 "The house was meant to be a house," she said. "Not a boat."
 
@@ -263,7 +263,7 @@ They righted the platform the next day, at low tide, with block and tackle and r
 people pulling, and the cement-board house came off it in pieces. The foam boards were whole.
 Davi's grid of beams was whole. Not one joint had opened.
 
-They rebuilt it in twelve days.
+They rebuilt it in two weeks.
 
 The platform grew. Seven meters by six. Wide in the beam. Joana drew it again, at night, in
 the loft, but this time Davi sat beside her, and she drew and he spoke, and when he spoke she
@@ -271,8 +271,10 @@ stopped and did the math to see why, and nearly always he was right, and when he
 explained and he understood faster than any intern at the Department. The water tank didn't
 go on the roof. It went under the floor, lying between the beams, in the middle, at the lowest
 point of the house. Five hundred liters of ballast. The drinking water became the weight that
-held the house upright. Mrs. Célia wouldn't have pressure at the tap. She would have a hand
-pump, foot-operated, which Nilo found in a fishing boat abandoned at the foot of the wall.
+held the house upright. Under the drawing, in the corner of the sheet, she wrote the three
+things: *weight low, wide in the beam, and freeboard*. The first two were her father's. The
+third was the one she hadn't checked. Mrs. Célia wouldn't have pressure at the tap. She would have a foot
+pump, with a pedal, which Nilo found in a fishing boat abandoned at the foot of the wall.
 
 The walls weren't cement board. They were woven bamboo with tarp on the inside and planks on
 the outside, on the bottom half, and mesh on the top half, to let the wind through. The roof
@@ -283,12 +285,12 @@ On the last day, before putting the house in the water, Davi took the plumb bob 
 toolbox.
 
 Joana watched him climb onto the platform, still up on the sawhorses in the boatyard, and go
-to the middle of the floor, and hold the cord up high, and let the brass cone down, slowly,
+to the middle of the floor, and hold the cord up high, and let the brass cone down
 until it almost touched the planks. The cone swung. It stopped. He looked at the cone, and
 looked at the line of the floor, and looked at the bamboo wall beside him, and went to the
 other end and did it again.
 
-"It's true," he said.
+"True," he said.
 
 She had a laser level in the bottom of her backpack. From the Department too. She didn't take
 it out.
@@ -297,21 +299,23 @@ it out.
 
 The house went into the water on a Saturday of a spring tide, a new moon, with the water
 rising higher than usual, and there was no ceremony at all. They pulled it with rope to the
-canal, to the two posts, and put the rings on. Nobody brought a bucket. The tank was already
-full, under the floor.
+canal, to the two posts, and put the rings on. Nobody brought a bucket. The tank was already under the floor,
+half full, with the week's drinking water.
 
 In the afternoon, the same man in the aluminum dinghy came up the canal, fast, making a wake.
 Joana was on Mrs. Ilda's terrace and saw him coming, and didn't move, and didn't breathe.
 
 The wake hit the platform side-on.
 
-The house heeled a hand-span. The ballast water under the floor gave a thick sigh that could
-be heard from the bank. The house came back. It rocked twice, three times, and stopped.
+The house heeled a hand-span. The loose water in the tank, under the floor, ran to the low
+side with a thick sigh that could be heard from the bank. Loose water cost stability, and this
+time it was in the math: not much, with that beam. The low edge stayed a hand-span and a half
+above the canal. The house came back. It rocked twice, three times, and stopped.
 
 Inside, Clara was at the sink, her foot on the pump pedal. She didn't even look up.
 
 That night, Mrs. Célia slept in the house. Joana knew because she stayed awake on the terrace
-of the green house until the early-morning tide, watching, and saw the house rise on the posts,
-slowly, with the water, the rings sliding on the iron without a sound, and then stop at the
+of the green house until the early-morning tide, watching, and saw the house rise on the posts
+with the water, the rings sliding on the iron without a sound, and then stop at the
 top, and then come down, and settle on the mud, on its wooden skids, and stay there, level,
 dark, with a flashlight lit in the mesh window, waiting for the sea to come back.

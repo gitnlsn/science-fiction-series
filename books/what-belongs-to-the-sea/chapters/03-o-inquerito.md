@@ -25,12 +25,11 @@ cast:
 - viegas
 - lauro
 source: o-que-e-do-mar/chapters/03-o-inquerito.md
-source_sha: 4dac29c228f2
+source_sha: d27c8d589fb8
 status: draft
 ---
-
 The Council chamber was on the top floor of the tallest building in the upper city, and it
-had been built, Joana knew, so that you could see the sea from it.
+had been built so that you could see the sea from it.
 
 It was a long room with a low ceiling, a horseshoe table of pale wood and one whole wall of
 glass facing east. Behind the horseshoe, in high-backed chairs, sat the nine councilors.
@@ -41,7 +40,7 @@ shoulders. From the window, that morning, the sea was smooth and blue and innoce
 between it and the room, far below, the gray wall ran along the coast like a pencil line,
 and behind it Lowtown was a brown stain.
 
-The tide was high. Joana didn't need to look at the clock to know.
+The tide was low, and the stain was mud. Joana didn't need to look at the clock to know.
 
 She was sitting in the front row, in the long-sleeved Department shirt, buttoned to the
 top. She had spent the night before choosing that shirt and then giving up on it and then
@@ -71,9 +70,9 @@ thirty-first."
 She had rehearsed. In front of the bathroom mirror, at two in the morning, with the tap
 dripping. And when she opened her mouth, she used none of what she had rehearsed.
 
-She said that the tide that night was the biggest of the year, a new-moon tide, close to
-the equinox, and that the surge was coming from the southeast with waves of more than four
-meters. She said that the wall had been overtopped from ten forty on, and that the
+She said that the tide that night was a high spring tide, close to the equinox, and that the
+surge, coming from the southeast with waves of more than four meters, had made it the
+worst. She said that the wall had been overtopped from ten forty on, and that the
 overtopping had gone past the capacity of the pumps at five past eleven. She said that the
 water coming over ran down the streets and gathered at the lowest point, which was the
 Market canal. She said that the canal had filled from the inside, with Gate Two closed,
@@ -100,7 +99,7 @@ inside."
 
 "In my design."
 
-Councilor Viegas didn't say anything. She moved a paper in front of her, slowly, and Joana
+Councilor Viegas drew a paper from the bottom of the stack and laid it on top, and Joana
 knew that she already knew, and that she had waited three days to get there.
 
 ---
@@ -123,7 +122,8 @@ under the tide and sea-level-rise scenarios adopted for the design horizon. Appr
 votes to three.*
 
 Below, the nine signatures of the councilors of the time. None of them was in the room
-anymore. Two had died. One, Joana knew, now lived inland, in a house with a pool.
+anymore. Two had died. One now lived inland, in a house with a pool; he had sent
+photos to the Department group.
 
 "You were aware of this report," said Councilor Viegas.
 
@@ -207,8 +207,8 @@ it. You could have refused to sign."
 
 "And with no wall at all, how many would have died that night?"
 
-Joana looked at her. Then, for the first time, she turned in her chair and looked at the
-room. At the plastic rows. At the people leaning on the back wall. She recognized some
+Joana gripped the edge of the small table. Then, for the first time, she turned in her
+chair and looked at the room. At the plastic rows. At the people leaning on the back wall. She recognized some
 faces. The woman with the baby from Caulkers Street. Mr. Lauro, his arm still in its
 splint. Two young men who had been sitting on a ledge on Ropemakers Street with their legs
 hanging out. Mrs. Ilda, short and broad, in the third row, arms crossed, looking at her
@@ -224,6 +224,29 @@ read it too.
 
 "I won't say the number." She turned back to the horseshoe. "It isn't fair to the
 thirty-one."
+
+"Point of order, Councilor."
+
+It was a man in the second row, in a gray suit with a folder on his lap, whom Joana didn't
+know. Councilor Viegas gave his name for the record and said who he was there for: the
+families of the thirty-one.
+
+He didn't stand up. He spoke from his seat, without a microphone, and the room heard him
+anyway.
+
+"The engineer says the alternative was no wall. It wasn't. The alternative was for her not
+to sign. The engineer of record had a duty to refuse. That isn't my opinion, Councilor.
+It's what the profession demands of anyone who puts their name in a title block: don't sign
+what you know won't hold." He turned his head toward Joana. "And she knew. She just said
+so. She even wrote it down."
+
+Councilor Viegas waited. The room waited.
+
+"I had," said Joana, into the microphone. "I had the duty."
+
+The man made a note in his folder.
+
+"So recorded," said Councilor Viegas.
 
 ---
 
@@ -254,7 +277,7 @@ The Department's report, which she had helped write over the last twenty days, s
 things, and Joana could recite all three with her eyes closed. The first: rebuilding Gate
 Two would cost what the whole wall had cost sixteen years before, adjusted. The second:
 rebuilding the gate wasn't enough, because the wall, even with a new gate, would be
-overtopped again at the next big tide with a surge, and the next one, by the model's
+overtopped again at the next big spring tide with a surge, and the next one, by the model's
 reckoning, would come in less than three years, and after that more often. The third: a
 wall that could hold the sea of the next thirty years needed a six-meter crest and new
 foundations, and would cost four times what the city spent in a year on everything.
@@ -270,7 +293,7 @@ as shown on the attached map, is hereby declared a retreat zone,*" read Councilo
 from the paper. "*In the retreat zone, from twenty-five days after this date, the supply of
 treated water and electricity and the collection of waste will cease, and health and
 education services will be provided exclusively in the upper city. Residents of the
-retreat zone will be offered relocation places in the housing estates of the Plateau, with
+retreat zone will be offered relocation places in the housing developments of the Plateau, with
 transport and moving costs paid by the Council. Gate Two will not be rebuilt.*"
 
 Six votes to three.
@@ -282,8 +305,8 @@ standing. She hadn't stood up to leave. She was standing in the middle of the pl
 chairs, short, arms crossed, looking at the horseshoe, and the people around her, one by
 one, stood up too. The young men from the ledge. Mr. Lauro, with his arm in the splint. The
 woman with the baby. People Joana didn't know. Nobody shouted. Nobody said anything. They
-stood, looking at the Council, for as long as it took Councilor Viegas to say that the
-session was closed, and then a little longer, and then they went out, slowly, through the
+stood, facing the Council, for as long as it took Councilor Viegas to say that the
+session was closed, and then a little longer, and then they went out through the
 corridor.
 
 Mrs. Ilda passed the front row without looking at Joana.
@@ -307,7 +330,7 @@ into a folder. Joana took her Department badge out of her pocket, a thin plastic
 her photo from ten years before, her hair shorter, and put it on the table in front of
 her.
 
-Councilor Viegas looked at the badge. Then she looked at her.
+Councilor Viegas looked at the badge. Then she pushed her glasses up onto her forehead.
 
 "Nobody asked for this, Engineer."
 
@@ -337,9 +360,9 @@ week.
 "I watched on the screen," he said. "Out here. I didn't want to come in. I figured you
 wouldn't want one more face."
 
-She didn't say anything. He took his hands out of his pockets and opened his arms, and she
+She stopped in front of him, her backpack over one shoulder. He took his hands out of his pockets and opened his arms, and she
 walked into them without thinking, and stayed there, her forehead on the shoulder of the
-dark coat, which smelled of rain and of an expensive lotion, and for the first time in
+dark coat, which smelled of rain and of aftershave, and for the first time in
 twenty days felt her legs not quite hold.
 
 "It wasn't you," Raul said, low, close to her ear. "Joana. Listen. It wasn't you. It was a
@@ -352,14 +375,14 @@ with that face she knew from eleven years in the basement, the face of someone w
 already thought of everything and is waiting for you to get there. "You signed because it
 was that or nothing. I was there. I remember."
 
-She nodded. She didn't ask where exactly he had been, back then. She remembered him in the
+"Yes," she said. She didn't ask where exactly he had been, back then. She remembered him in the
 basement, at the next desk, with headphones on, doing something else. She didn't remember
 much more.
 
 "Where are you going now?" he asked.
 
 She looked out the window at the end of the corridor. You could see the sea from there too.
-The brown stain of Lowtown was getting smaller, slowly, as the tide went down, and the
+The brown stain of Lowtown was getting smaller as the tide went down, and the
 streets were appearing, made of mud.
 
 "To my father's roof," she said.

@@ -25,46 +25,77 @@ cast:
 - tais
 status: draft
 ---
-A ensecadeira do trecho sul tinha trezentos e dez metros de comprimento, e Joana tinha
-visto cravar cada estaca.
+A máquina vibrava desde as seis, e Joana sentia nos dentes.
 
-Eram chapas de aço, compridas, de doze metros, com as bordas dobradas em gancho para
-encaixar umas nas outras. Uma máquina grande, montada numa barcaça, pegava cada chapa de pé
-com um braço, punha a ponta na areia e vibrava. Era um barulho que ela ia lembrar o resto
-da vida: não um martelo, uma vibração contínua, grossa, que entrava pela sola do pé e subia
-até os dentes, e durante a qual a chapa de aço afundava na areia como uma faca quente na
-manteiga, e depois parava, e a máquina soltava, e pegava a seguinte. Uma por hora. Às vezes
-duas. Durante três semanas.
+Não era um martelo. Era uma vibração contínua, grossa, que vinha da barcaça pela água, pela
+areia, pelo concreto da crista, entrava pela sola da bota e subia até os dentes. A máquina
+pegava uma chapa de aço de pé com um braço, doze metros, as bordas dobradas em gancho para
+encaixar na vizinha, punha a ponta na areia e vibrava, e a chapa afundava como uma faca
+quente na manteiga, e parava, e a máquina soltava e pegava a seguinte. Duas, três por hora.
+Três semanas de estaca.
 
-No fim, era uma parede de aço cinza, enferrujando nas bordas, que saía da praia ao lado da
-ponta da muralha velha, corria para dentro pela borda sul do Baixo, e fechava um retângulo
-de areia onde as escavadeiras iam abrir o buraco da fundação do dique. Do lado de fora do
-retângulo, a dez metros, as primeiras casas da Vila Rasa.
+No fim, ia ser um arco de trezentos e dez metros de aço cinza, saindo da ponta sul da
+Barreira, avançando pela praia e voltando para a terra depois da boca do riacho, fechando do
+lado do mar o canteiro do trecho sul. Do lado de dentro do arco, ao mesmo tempo, as
+escavadeiras já abriam o buraco da fundação do dique: cinco semanas de escavação, correndo
+junto com as estacas. A obra tinha começado uma semana depois da votação. Do lado de fora,
+a dez metros, as primeiras casas da Vila Rasa.
 
-E no meio da parede, onde ela passava por cima do riacho, um tubo. Preto. De plástico grosso.
-Seiscentos milímetros de diâmetro, enterrado na areia, por baixo da ensecadeira, com uma
-grade na boca para não entupir.
+E na boca do riacho, um tubo. Preto. De plástico grosso. Seiscentos milímetros de diâmetro,
+enterrado na areia, por baixo da ensecadeira, com uma grade na boca para não entupir.
 
-A licença era para o projeto original. Raul tinha explicado na segunda semana, no contêiner
-do canteiro, com a voz paciente. O Conselho tinha licenciado aquilo. Qualquer mudança
-precisava de licença nova, e licença nova levava seis meses. O vertedouro dela, o canal de
-seis metros no lugar do tubo, tudo isso ia entrar no aditivo. Na segunda fase. *A gente
-crava a ensecadeira agora, como está licenciada, e no aditivo você abre o que quiser. Ela
-é provisória, Joana. É provisória por definição.*
+---
 
-Ela tinha concordado. Tinha feito a conta: a próxima maré grande de verdade era a do
-equinócio, quatro meses depois. O aditivo saía antes. Tinha de sair.
+— A licença é do projeto original — disse Raul.
 
-Era a segunda vez que ela fazia aquela conta. Ela sabia que era. Fez mesmo assim.
+Era a segunda semana, no contêiner do canteiro, e ele falava com a voz paciente.
+
+— O trecho sul é meu — disse Joana. — Era a condição.
+
+— É seu. No aditivo. — Ele pôs o dedo no cronograma, na tela da parede. — O Conselho
+licenciou esse desenho. Qualquer mudança é licença nova, e licença nova leva seis meses. O
+teu vertedouro, o canal de seis metros no lugar do tubo, entra tudo no aditivo, na segunda
+fase. A gente crava a ensecadeira agora, como está licenciada, e no aditivo você abre o que
+quiser. Ela é provisória, Joana. É provisória por definição.
+
+Ela podia brigar. A condição estava escrita, com a assinatura dele. Podia levar ao Conselho,
+pedir a licença nova, parar a obra seis meses. E ia ter de dizer por quê.
+
+Fez a conta. A próxima maré grande de verdade era a do equinócio, dali a cinco meses. O
+aditivo saía antes. Tinha de sair.
+
+Era a segunda vez que ela fazia aquela conta. Fez mesmo assim. Assinou a ordem de serviço na
+tela, com o dedo: *Joana Amaral, engenheira-chefe.*
+
+No sábado, a moça da Terra Firme montou uma mesa no mezanino do Mercado, do lado da fila da
+carga, e quem tinha título fez fila também. A associação de moradores tinha aderido na
+véspera, numa folha só, com o carimbo novo ainda cheirando a tinta. Cada um punha o polegar
+no tablet, o tablet apitava, e a moça dizia *cedido*. As perguntas eram para Joana, não para
+a moça. Se o prédio ficava seco. Se a bomba parava. Ela respondia, e tudo o que respondia
+era verdade.
+
+O Edson foi o terceiro. Pôs o polegar, esperou o apito, e não saiu da frente da mesa.
+
+— No prédio novo tem lugar pra serralheria?
+
+— Loja no térreo — disse a moça. — Com prioridade de compra.
+
+O Edson olhou para Joana, como quem pergunta se a moça falava a verdade.
+
+— Tem — disse Joana.
+
+Ele desceu a escada de caracol com o recibo dobrado no bolso da camisa.
+
+No fim da semana eram cento e quarenta títulos.
 
 ---
 
 O contêiner do canteiro ficava em cima da muralha velha, na crista, a cem metros da ponta
 sul. Era uma caixa de aço branco com uma janela de cada lado e dentro uma mesa, quatro
 cadeiras, um ar-condicionado que pingava, e duas telas na parede: o cronograma da obra e as
-câmeras. Joana passava ali doze horas por dia. Às vezes quatorze. Dormia na plataforma dela,
-no canal do Mercado, e saía às seis, na maré seca, a pé pela lama até a muralha, e subia a
-escada de ferro da crista, e andava pela crista até o contêiner, e de lá via tudo.
+câmeras. Joana passava ali doze horas por dia. Às vezes catorze. Dormia na plataforma dela,
+no canal do Mercado, e saía às seis, a pé pela lama quando a maré deixava, de barco quando
+não deixava, e subia a escada de ferro da crista, e andava pela crista até o contêiner, e de lá via tudo.
 
 O Baixo de um lado. O mar do outro. E no sul, depois da parede de aço, a Vila Rasa.
 
@@ -79,8 +110,8 @@ outros meninos. Uma vez, sentado no barracão com o Benedito, com a caixa de fer
 aberta no chão, consertando um remo. Uma vez com a Taís, os dois sentados no casco virado de
 uma canoa, de costas para a muralha, olhando o mar.
 
-Ele não respondia às mensagens. Ela tinha parado de mandar na terceira semana. Mandava uma
-por domingo. *Tô aqui.* Ele lia. Ela via que lia.
+Ele não respondia às mensagens. Na terceira semana, tinha parado de mandar todo dia. Agora
+mandava uma por domingo. *Tô aqui.* Ele lia. Ela via que lia.
 
 ---
 
@@ -93,7 +124,7 @@ o mar contra a costa. Na sexta às quatro da tarde, as boias de onda, as seis qu
 davam três metros e meio. Às seis, quatro.
 
 Joana estava no contêiner. Viu as boias mudarem de cor na tela das câmeras, uma por uma. Viu
-a previsão da maré da noite subir no gráfico, quarenta centímetros acima da tábua. Fez a
+a previsão da maré da noite subir no gráfico, oitenta centímetros acima da tábua. Fez a
 conta que tinha feito antes da votação, na mesa da plataforma, com a lanterna balançando. A
 conta que estava dobrada em quatro dentro de uma pasta de plástico no fundo da mochila, que
 estava pendurada nas costas da cadeira dela, ali, no contêiner.
@@ -128,15 +159,15 @@ Ela desligou.
 
 ---
 
-Às nove da noite, a maré começou a galgar a muralha velha na rua do Cais.
+Às onze da noite, o mar começou a galgar a muralha velha na rua do Cais.
 
 Ela viu pela câmera. Um fiapo de azul. Depois mais. As plataformas que a roda tinha posto na
 rua do Cais, onze, coladas na muralha, subiam nos postes, e a água que passava por cima da
 crista caía nelas, e elas subiam. Joana olhou as argolas. Tinham folga. Os postes, ali, eram
-os novos, de oito metros, que o Edson tinha soldado de dois postes velhos cada um. Iam
-aguentar. Ela tinha feito a conta.
+os do Edson: dois postes velhos emendados ponta com ponta, metade cravada fundo na lama, para
+não envergar quando a onda batesse de lado. Iam aguentar. Ela tinha feito a conta.
 
-Às nove e meia, ela olhou para o sul.
+Às onze e meia, ela olhou para o sul.
 
 A Vila Rasa estava cheia.
 
@@ -149,12 +180,11 @@ pequenas, balançando.
 E a água ainda subindo.
 
 Era o que a conta dizia. O mar vinha pela costa, batia na muralha velha, corria para o sul
-ao longo dela, e na ponta, onde antes se espalhava pelo Baixo também, pelo canal do Mercado,
-agora encontrava a parede de aço da ensecadeira, trezentos e dez metros, e virava. Para a
-vila. Toda. E entrava. E o riacho, que devia levar a água de volta quando a maré virasse,
-estava fechado por um tubo de seiscentos milímetros com uma grade na boca, e na grade,
-Joana sabia sem ver, estava tudo o que a água tinha arrastado pela vila: galhos, plástico,
-rede, uma porta.
+ao longo dela, e na ponta, onde antes se abria pela praia, encontrava agora o arco de aço
+da ensecadeira, trezentos e dez metros, e virava. Para a vila. Toda. E entrava. E o riacho,
+que devia levar a água de volta quando a maré virasse, estava fechado por um tubo de
+seiscentos milímetros com uma grade na boca, e na grade, ela não precisava ver, estava tudo
+o que a água tinha arrastado pela vila: galhos, plástico, rede, uma porta.
 
 Ela ligou a câmera que apontava para o tubo. A boca do tubo estava debaixo d'água. Do lado
 da vila, a água estava um metro e meio acima do lado do canteiro.
@@ -163,13 +193,13 @@ Um metro e meio de diferença, separados por uma parede de aço de doze milímet
 
 ---
 
-O barco branco com a faixa azul passou pela frente da câmera às nove e cinquenta.
+O barco branco com a faixa azul passou pela frente da câmera às onze e cinquenta.
 
-Ela o viu de relance, na tela, e depois pela janela. Vinha do meio da vila, devagar, com uma
+Ela o viu de relance, na tela, e depois pela janela. Vinha do meio da vila, com uma
 lanterna na proa, e um menino nos remos, e dentro dele pessoas. Quatro, cinco. Uma velha
 sentada no fundo, enrolada num cobertor. Ele encostou no telhado do barracão de palha, que
 era o mais alto da vila, e as pessoas saíram, ajudadas por outras que já estavam lá, e o
-barco se afastou de novo, devagar, para o meio da água, para as casas do fundo.
+barco se afastou de novo para o meio da água, para as casas do fundo.
 
 Ele não lutava com a água. Esperava a ondulação passar, e dava duas remadas.
 
@@ -179,8 +209,8 @@ Joana pegou o aparelho. Ligou. Chamou cinco vezes, seis.
 
 A voz dele estava longe, molhada, com o vento e o barulho da água.
 
-— Davi. A água vai subir mais. A maré só vira às onze e quarenta. E quando virar, não vai
-descer. O riacho tá fechado.
+— Davi. A água vai subir mais. A maré só vira às duas. E quando virar, não vai descer. O
+riacho tá fechado.
 
 — Eu sei. — Ele estava ofegante. — O Benedito disse. A vó da Taís tá no fundo da vila, numa
 casa de um andar. A água tá na janela. Eu vou buscar.
@@ -193,26 +223,25 @@ A linha caiu.
 
 ---
 
-Ela desceu do contêiner pela escada de ferro da crista para o lado de dentro, para o
-canteiro. O canteiro estava seco, ainda. Era um retângulo de areia batida de trezentos metros
-por quarenta, cercado pela ensecadeira do lado da vila e do lado do mar, e pela muralha velha
-do lado do Baixo. No fundo do retângulo, o buraco da fundação, cavado até dois metros abaixo
-do mar, com a água do lençol porejando nas paredes. As máquinas estavam paradas, encostadas
+Ela desceu do contêiner pela escada de ferro da crista para o canteiro. O canteiro estava
+seco, ainda. Era uma meia-lua de areia batida, duzentos e setenta metros de comprido e
+quarenta no mais largo, fechada pelo arco do lado do mar, pelo aterro do riacho do lado da
+vila, e pela muralha velha do lado do Baixo. No fundo, o buraco da fundação, cavado até dois
+metros abaixo do mar, com a água do lençol porejando nas paredes. As máquinas estavam paradas, encostadas
 na muralha. Duas escavadeiras. Um trator. Ninguém. Raul tinha mandado todo mundo embora.
 
-E no ponto onde a ensecadeira passava por cima do riacho, a parede de aço não era só de aço.
-Ela sabia porque tinha visto fazer. Ali, para encaixar o tubo, tinham tirado quatro chapas e
-feito um aterro: um dique de terra batida e pedra, de quinze metros de largura, com o tubo
-por baixo, e as chapas de aço só nas pontas.
+E na boca do riacho, a ensecadeira não era de aço. Tinha visto fazer. Ali, para encaixar o
+tubo, tinham tirado quatro chapas e feito um aterro: um dique de terra batida e pedra, de
+quinze metros de largura, com o tubo por baixo, e as chapas de aço só nas pontas.
 
 Terra.
 
 Ela ficou olhando aquilo do pé da escada, no escuro, com o vento batendo e a chuva começando.
 Do outro lado do aterro, um metro e meio acima, a vila. Do lado de cá, o buraco da fundação.
-Seis semanas de escavação. Os blocos de estaca já cravados no fundo. O cronograma inteiro do
-trecho sul. A segunda fase. O aditivo. O vertedouro dela. A muralha certa.
+Cinco semanas de escavação. As estacas da fundação já cravadas no fundo. O cronograma inteiro
+do trecho sul. A segunda fase. O aditivo. O vertedouro dela. A muralha certa.
 
-E o que custava. Ela sabia o que custava. Tinha a conta na mochila.
+E o que custava. A conta estava na mochila.
 
 Correu até a escavadeira mais perto.
 
@@ -221,7 +250,7 @@ Correu até a escavadeira mais perto.
 Não sabia dirigir uma escavadeira. Tinha sentado numa vez, aos vinte e oito anos, num
 canteiro do Departamento, por cinco minutos, com o operador do lado explicando as alavancas.
 A cabine estava trancada. A chave estava no contêiner, num quadro na parede, com as outras,
-ela tinha visto todo dia durante seis semanas. Subiu a escada de ferro de volta, correndo,
+ela tinha visto todo dia durante cinco semanas. Subiu a escada de ferro de volta, correndo,
 pegou a chave, desceu.
 
 A escavadeira ligou na segunda tentativa. Um ronco grosso, de diesel. As luzes de cima se
@@ -244,33 +273,35 @@ Na quinta, o aterro cedeu sozinho.
 Não foi devagar. O que sobrava da terra batida, empurrado por um metro e meio de vila de um
 lado, foi embora de uma vez, num estalo grosso, como um dente que sai, e a água entrou no
 canteiro. Escura. Rápida. Uma rampa de água descendo do nível da vila para o fundo do
-retângulo, levando terra e pedra, e Joana sentiu a escavadeira inteira tremer, e puxou a
+canteiro, levando terra e pedra, e Joana sentiu a escavadeira inteira tremer, e puxou a
 alavanca da esteira, e a máquina andou para trás, aos trancos, enquanto a água corria pela
 frente dela e caía no buraco da fundação com um barulho de cachoeira.
 
-O buraco encheu em quatro minutos. Ela contou. Depois a água começou a se espalhar pelo
-canteiro, pela areia batida, o retângulo inteiro de trezentos metros por quarenta virando um
-lago novo, e cada palmo que o lago subia era um palmo que saía da vila.
+O buraco encheu em quatro minutos. Ela contou. Depois a água começou a se espalhar pela
+areia batida, a meia-lua inteira virando um lago novo, e o riacho tinha de novo o caminho
+dele para o mar: pelo canteiro, como antes da obra. O arco tinha sido escorado para segurar o
+mar de fora, não um lago de dentro. Quando a maré virasse e o mar baixasse do outro lado, as
+chapas da ponta, onde o arco voltava para a praia, iam abrir.
 
 Ela desligou a escavadeira e subiu no teto da cabine.
 
 Lá de cima via a vila. A água entre as casas não estava mais lisa. Estava andando. Toda ela,
-devagar, na direção do buraco que ela tinha aberto. E o nível, nas paredes das casas mais
-perto, ia descendo. Ela viu uma linha escura aparecer numa parede pintada de rosa. Um palmo.
-Dois.
+na direção do buraco que ela tinha aberto. E o nível, nas paredes das casas mais perto, ia
+descendo. Ela viu uma linha escura aparecer numa parede pintada de rosa. Um palmo.
 
 Lá no fundo da vila, uma lanterna pequena, baixa, balançando, voltava para o barracão de
 palha.
 
 ---
 
-O canteiro do trecho sul ficou debaixo d'água até a maré baixa de domingo.
+O canteiro do trecho sul não secou mais.
 
-Raul chegou no contêiner às duas da manhã, de botas e capa, molhado até os joelhos, depois
+Raul chegou no contêiner às três da manhã, de botas e capa, molhado até os joelhos, depois
 de atravessar a pé pela crista da muralha velha. Joana estava sentada na cadeira dela, com a
 mochila no colo. Ele ficou parado na porta.
 
-— Seis semanas — disse ele. — A fundação. As estacas. Você sabe quanto...
+— Cinco semanas — disse ele. — A fundação. As estacas. A ponta do arco tá abrindo, eu vi
+da crista. Você sabe quanto...
 
 — Sei.
 
@@ -288,8 +319,8 @@ frente dele. E por cima, o aparelho, com a tela acesa.
 
 Raul olhou a tela muito tempo.
 
-Depois sentou. Na cadeira do outro lado da mesa. Tirou a capa molhada, devagar. Pôs as mãos
-em cima da mesa, abertas, ao lado do aparelho, e Joana viu que estavam tremendo.
+Depois sentou. Na cadeira do outro lado da mesa. Tirou a capa molhada, uma manga de cada
+vez. Pôs as mãos em cima da mesa, abertas, ao lado do aparelho, e Joana viu que estavam tremendo.
 
 — Eu tinha trinta e quatro anos — disse ele. Não era desculpa. Era a voz de quem lê um
 número. — Me cederam pra assessoria do Conselho três dias por semana. Me deram a tua planilha
@@ -301,13 +332,14 @@ achei uma cota que cabia e escrevi que o risco era aceitável. Era aceitável. N
 
 — Era o que eu tinha pra te dar.
 
-Ela olhou para ele. Para o homem da mesa ao lado, de fone no ouvido, por onze anos. Não
+Ela olhou para ele. Para o homem da mesa ao lado, de fone no ouvido, por sete anos. Não
 sentiu o que tinha achado que ia sentir. Não sentiu raiva. Sentiu uma coisa parecida com o
 que tinha sentido no inquérito, olhando a prancha com a própria assinatura.
 
-— Eu fiz a mesma coisa — disse ela. — Eu sabia da vila. Eu sabia do tubo. Fiz a conta antes da votação e guardei na mochila. Disse pro meu filho que dava pra resolver. Disse pra quinhentas
-pessoas confiarem em mim. — Ela empurrou as páginas para o lado dele. — Eu achei uma cota que
-cabia, Raul. Igual você.
+— Eu fiz a mesma coisa — disse ela. — Eu sabia da vila. Eu sabia do tubo. Fiz a conta
+antes da votação e guardei na mochila. Disse pro meu filho que dava pra resolver. Disse pra
+quinhentas pessoas confiarem em mim. — Ela empurrou as páginas para o lado
+dele. — Eu achei uma cota que cabia, Raul. Igual você.
 
 Lá fora, o vento estava caindo. A maré tinha virado.
 
@@ -316,7 +348,7 @@ Inclusive que eu sabia.
 
 Raul ficou olhando as páginas. Depois levantou os olhos.
 
-— O contrato tá assinado, Joana — disse ele, devagar. — A associação aderiu. Cento e quarenta
+— O contrato tá assinado, Joana — disse ele. — A associação aderiu. Cento e quarenta
 títulos já foram cedidos. O Conselho homologou a concessão na semana passada. — Ele balançou
 a cabeça. — Você pode sair. A roda pode mudar de ideia. Não muda nada. Não dá pra
 desassinar.
@@ -325,17 +357,17 @@ desassinar.
 
 O Davi apareceu no contêiner às cinco da manhã, com a primeira luz.
 
-Ela não o ouviu subir a escada de ferro. Viu ele na porta. Molhado inteiro, de calção, sem
+Ela não o ouviu subir a escada de ferro. Viu-o na porta. Molhado inteiro, de calção, sem
 camisa, com a pulseira de contas no pulso e um corte na canela que alguém tinha amarrado com
 um pano. Ele não entrou. Ficou na porta, olhando para ela, sentada na cadeira, e para Raul,
-dormindo no banco do canto, de capa, e para as páginas em cima da mesa.
+dormindo no banco do canto, debaixo da capa, e para as páginas em cima da mesa.
 
 — A vó da Taís tá bem — disse ele. — Todo mundo tá bem. A água parou de subir na hora. Depois
-que a maré virou, desceu. Pelo buraco. — Ele olhou pela janela do contêiner, para o canteiro, que era um lago
-marrom com uma escavadeira no meio, até o teto da cabine. — O Benedito disse que foi alguém
-com uma máquina.
+que a maré virou, desceu. Pelo buraco. — Ele olhou pela janela do contêiner, para o
+canteiro, que era um lago marrom com uma escavadeira no meio, até o teto da cabine. — O
+Benedito disse que foi alguém com uma máquina.
 
-Joana não disse nada.
+Joana tirou a mochila do colo e pôs no chão.
 
 O Davi olhou para ela mais um tempo. Depois entrou, e sentou no chão do contêiner, encostado
 na parede, do lado da cadeira dela, com os joelhos para cima. Como no telhado do estaleiro,

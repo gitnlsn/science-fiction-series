@@ -22,10 +22,9 @@ cast:
 - jairo
 - celia
 source: o-que-e-do-mar/chapters/10-terra-firme.md
-source_sha: 6c03af1ca080
+source_sha: 0d5b29bbd044
 status: draft
 ---
-
 Inside the catamaran it was cold.
 
 That was the first thing. Joana went in through the dark-glass door of the cabin, from the deck
@@ -51,7 +50,7 @@ platform, and they had talked for half an hour on the deck, with half of Lowtown
 their porches. About nothing. About her father. Had he gone to the funeral? He hadn't been able
 to, he was in the south, on a job. About Davi, whom he hadn't seen since the boy was ten.
 Then he had left a card, real paper, thick, with the logo of the square cut in half, and said:
-*Next Tuesday, at three. I'd like to show you something. Just you.*
+*Tuesday the fifth, at three. I'd like to show you something. Just you.*
 
 "You look well," he said.
 
@@ -130,10 +129,10 @@ She was doing several.
 The stepped stone slope, on the sea side, broke the wave before it could climb. That was good.
 It was much better than a smooth concrete face. The wide crest, twenty meters, with trees,
 spread the load and could take overtopping without eroding the landward slope. Good. Six meters
-above mean sea level gave two meters eighty of freeboard on the equinox tide, with a surge like
-the one on the night of the big tide. Almost no wave would reach it. Good. The pump station at
-the mouth of the canal, with six pumps, and (she touched the table without asking, and the
-table obeyed, and opened the section of the station) its own generator, solar and diesel, and a
+above mean sea level left three point four meters of freeboard on the equinox tide, with a surge
+like the one on the night of the big tide. Almost no wave would reach it. Good. The pump station at
+the mouth of the canal, with six pumps, and — she touched the table without asking, and the
+table obeyed, and opened the section of the station — its own generator, solar and diesel, and a
 redundancy of two pumps on standby. Good.
 
 It was good. It was very good. It was what she would have drawn, if they had given her money
@@ -165,6 +164,13 @@ flood."
 
 She read it. She read it again.
 
+"This is the retreat zone, Raul. Does the title hold?"
+
+"It holds. The lawyers went over it three times." He touched a line of the text, which lit up.
+"The Shore Law only takes what lies under high water, and the high-water line was measured
+forty-two years ago and runs along the beach, outside the wall. On paper, all of Lowtown is dry
+land."
+
 "And whoever doesn't have title?"
 
 Raul didn't look away.
@@ -187,7 +193,7 @@ has declared doesn't exist. I'm offering a real home to sixty percent of them. F
 "The pumps." She pointed at the corner of the table, where the model had shrunk. "The level
 inside a meter below the sea. Forever. If the pumps stop, it fills. Who pays for the pumps?"
 
-"A building fee." He didn't hesitate. "It's in the contract. It's low. Less than the Department
+"Condo fees." He didn't hesitate. "It's in the contract. It's low. Less than the Department
 used to charge for water."
 
 "And if Terra Firma goes bust? If it leaves? In twenty years, in fifty?"
@@ -196,7 +202,7 @@ used to charge for water."
 
 "The Council that didn't fix Gate Two."
 
-Raul was quiet for a moment.
+Raul ran his hand over the tabletop, where there was nothing to wipe.
 
 "You're doing the right math," he said. "I knew you would. That's why I want you. I don't want
 an engineer who says yes. I want you, who's going to ask all those questions, and then build the
@@ -205,21 +211,21 @@ dike in a way that keeps them from being a problem."
 ---
 
 He touched the table one last time, and the model came back, big, in the middle. But it wasn't
-the model of the dike. It was Lowtown as it was now. The platforms. The street that breathed.
+the model of the dike. It was Lowtown as it was now. The platforms, the bridges, the blue tarp.
 And over it, in the corner, the date of a tide.
 
-"The next equinox," said Raul. "New moon again. The table gives ten centimeters above this year's
-big tide. No way to know if a surge comes with it. But if it comes like the last one..."
+"The next equinox," said Raul. "New moon again. The tide table puts it ten centimeters above this
+year's big tide. No way to know if a surge comes with it. But if it comes like the last one..."
 
 The blue rose in the model. Slowly, as on the flood map in the control room. It filled the
-canal. The platforms rose on their posts. They rose to the tops of the posts. And Joana saw,
-before the model showed it, what was going to happen, because she already knew: the wave that
-came in at the mouth of the canal, the one that had brought down her father, came with the tide
-at the top and the platforms at the tops of the posts, with no more post to climb, and the
-current hit them side-on.
+canal. The platforms rose on their posts, and there was post to spare. It wasn't the height. And
+Joana saw, before the model showed it, what was going to happen, because she already knew: the
+wave that came in at the mouth of the canal, the one that had torn the front wall off the
+boatyard, came in sideways, with the current behind it, and struck the first platforms like a
+hull lying broadside. The posts bent. The rings opened.
 
-In the model, the platforms at the mouth of the canal broke loose. One, two. They went into the
-others.
+In the model, the platforms at the mouth of the canal tore their rings off the posts. One, two.
+They went into the others.
 
 Raul switched off the table before the rest.
 
@@ -229,14 +235,14 @@ coastline. I stood watching from the bow that Saturday, the houses rising, and I
 But it won't survive the next big tide. And you know that too."
 
 She knew. She had known it somewhere under her thinking since the night she saw Mrs. Célia's
-house keel over in the canal. The posts were lamp posts, six meters. Nobody had done the math on
-the posts.
+house keel over in the canal. The posts were lamp posts, old, six meters, planted in the street
+to hold up a bulb, not a house shoved sideways. Nobody had done the math on the posts.
 
 "I need to think," she said.
 
 "Of course." He got up. "You have until the end of the month. Terra Firma is going to present the
 proposal to the residents at an open meeting, on the first. They vote. If they accept, work
-starts forty days later." He stopped at the dark-glass door. "I'd like you to be there, beside
+starts a week later." He stopped at the dark-glass door. "I'd like you to be there, beside
 me. But if you're not, I understand."
 
 She stayed sitting.
@@ -259,10 +265,10 @@ smoke.
 
 ---
 
-She went back to her platform over the bridges, at high tide, slowly. The bridges swayed a little
+She went back to her platform over the bridges, with the tide coming in. The bridges swayed a little
 underfoot, and she had learned to walk on them without thinking, her knees loose. She passed
 Jairo's platform. He was sitting on his porch, mending a net, and raised his eyes when she went
-by, and looked toward the catamaran, white, sitting in the middle of the canal, and said nothing.
+by, and looked toward the catamaran, white, sitting in the middle of the canal, and pulled the net needle through harder.
 
 On her platform, Davi was sitting on the porch floor, legs over the edge, feet in the water,
 sanding a new oar.
@@ -273,10 +279,12 @@ sanding a new oar.
 
 "What project?"
 
-She didn't answer. She went into the room, and opened her backpack, and took from the bottom,
+"Later."
+
+She went into the room, and opened her backpack, and took from the bottom,
 from inside an old plastic folder, a printed sheet, folded in four, yellow at the folds. A
-spreadsheet. Sixteen years old. With the math for the five-meter elevation, and for the four
-twenty, and for the city with no wall. She had kept that sheet in every drawer of every place
+spreadsheet. Sixteen years old. With the math for the five-meter elevation, and for the
+four-twenty, and for the city with no wall. She had kept that sheet in every drawer of every place
 she had lived.
 
 She opened the sheet on the bed. She looked at the numbers. Hers. Right.
@@ -284,4 +292,4 @@ She opened the sheet on the bed. She looked at the numbers. Hers. Right.
 Outside, through the mesh window, the white catamaran was starting out along the canal, without
 noise, without a wake, with the low sun striking the dark glass of the cabin.
 
-She wanted to say yes. She wanted it so much that her hands shook on the sheet.
+Her hands shook on the sheet.

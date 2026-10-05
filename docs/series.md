@@ -27,6 +27,13 @@ Ordem de leitura e de publicação: **o gancho mais forte primeiro.**
   científica movida por emoção e, no fim, esperançosa — é o que os leitores do
   gênero estão procurando agora.
 
+## As três vozes
+
+As vozes da série ficam diferentes: Helena (*Depois de mim*) em primeira pessoa no presente,
+alternando com Cecília em terceira no passado; Iara (*A volta a mais*) em primeira pessoa no
+presente; Joana (*O que é do mar*) em terceira pessoa no passado, vista de fora. Fica aqui,
+porque é da série: nenhum livro cita outro.
+
 ## A decidir pelo autor
 
 Nada em aberto.

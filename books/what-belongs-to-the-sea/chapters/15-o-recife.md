@@ -2,7 +2,7 @@
 title: The Reef
 part: IV — THE NEW CITY
 pov: Joana
-when: 2091-01-09 — manhã
+when: 2091-01-09 — tarde (preamar às 14h20)
 where: debaixo d'água, nas ruas afogadas do Baixo
 premise: Davi mergulha e acha os prédios velhos cobertos de ostra e coral.
 turn: 'a ideia: a cidade afogada como recife vivo que quebra as ondas da cidade que boia'
@@ -19,17 +19,16 @@ cast:
 - benedito
 - tais
 source: o-que-e-do-mar/chapters/15-o-recife.md
-source_sha: 605eba7a95dd
+source_sha: 55a67e8de784
 status: draft
 ---
-
 Joana hadn't dived since she was eleven.
 
 She hadn't decided to stop. She had stopped, the way you stop childhood things, without noticing, in a
 year when there were too many exams. Before that, she dived every summer, at the Quay, at high tide,
 with the boys from Caulkers Street, eyes open in the salt water until they stung, looking for coins and
 crabs at the foot of the old wall that wasn't a wall yet, that was only a stone quay. Then came
-university, and the slide rule, and the Barrier, and the sea became something she saw from above, on a
+college, and the slide rule, and the Barrier, and the sea became something she saw from above, on a
 screen, in centimeters.
 
 Davi held the mask out to her. A black rubber mask with a round glass, cracked in one corner, which he
@@ -43,15 +42,17 @@ She put it on. It sealed.
 
 ---
 
-They were at the mouth of the canal, at Tuesday morning's high tide, in Amaro's boat, tied up to Gate
-Two.
+They were at the mouth of the canal, on Tuesday, she and Davi and Taís, in Amaro's boat, tied up
+to Gate Two. High tide was at two twenty. Davi had picked the time: around slack water, when the
+current at the mouth slept.
 
 The gate was as it had been since the night of the big tide. Lying on its side, crooked on its axle,
 the curve of orange steel half out of the water and half in. Joana had passed it by boat a hundred times
 in the last few months and hadn't looked once. She looked now. The orange was almost all covered. Not
-with rust. With something else. A thick crust, rough, gray and white, in plates, that rose from the
-waterline to where the high tide reached, and stopped there, in a straight line, like the dark line on
-the window bars of Lowtown on the morning after the big tide.
+with rust. With something else. A thick crust, rough, gray and white, in plates, in a wide band that
+began far down, where low tide left the steel bare, and rose to the high-tide line, and stopped
+there, in a straight line, a hand-span above the water as it stood now, like the dark line on the
+window bars of Lowtown on the morning after the big tide.
 
 "Oysters," said Davi. "All of that part. You can touch it, but with gloves. It cuts."
 
@@ -60,9 +61,19 @@ each other, on top of each other, some open and empty, most of them closed, aliv
 
 "This grew in nine months?"
 
-"Taís says oysters grow fast where the water's good. Where there's a tide to take food away and bring
-food in." Davi tied one end of a rope to a hook on the gate and threw the coil into the water. The rope
-went down, pulled straight by a lead net weight at the end. "Go down the rope. Slowly. I'll go first."
+"Oysters grow fast where the water moves," said Taís. She was in the bow, gloved too. "Where
+there's a tide to take food away and bring food in." She pried one off with the tip of her knife,
+opened it, looked, and threw it in the water. "But you don't eat that one. You don't eat canal
+oysters."
+
+"The water's clean."
+
+"It's clean now. The oyster ate what came before."
+
+Davi tied one end of a rope to a hook on the gate and threw the coil into the water. The rope went
+down, pulled straight by a lead net weight at the end.
+
+"Go down the rope. Slowly. I'll go first."
 
 He dove headfirst, without a sound, and was gone.
 
@@ -71,7 +82,7 @@ backward.
 
 ---
 
-The cold came first, then the silence.
+The warmth came first, summer water, then the silence.
 
 She had forgotten the silence. She had forgotten that under water the whole world switched off, the
 wind, the voices, the motor of some boat far away, and all that was left was a thick, continuous noise,
@@ -101,7 +112,7 @@ Davi put his hand on her arm and pointed.
 
 At the foot of the gate, at the axle bearing on the east side, where on the morning after the big tide
 she had seen the anchor bolts bent like nails, there was a block of broken concrete, fallen. And on top
-of it, the size of a large coin, something round, golden brown, with a honeycomb texture, that wasn't
+of it, the size of a fingernail, something round, golden brown, with a honeycomb texture, that wasn't
 oyster and wasn't seaweed.
 
 She looked at Davi. He made a gesture with his hand that she didn't understand, and then, more slowly,
@@ -113,25 +124,31 @@ She went up out of air.
 
 ---
 
-"Taís found it," said Davi, hanging on the side of the boat, the mask pushed up on his forehead. "Before
-the end of the year. The first one was at the foot of the old wall, on the sea side, near the southern
-tip. Now there's about thirty we've seen. Tiny ones. None bigger than my hand."
+"I found the first new one," said Taís, when Joana's head came out of the water. "Before the end
+of the year. On a wall that fell, at the end of Quay Street."
+
+"Now there's about thirty we've seen," said Davi, hanging on the side of the boat, the mask pushed
+up on his forehead. "Tiny ones. A grain of rice. The biggest is a fingernail."
 
 "Where else?" she asked.
 
-"On everything that's hard and stays under water." Davi climbed into the boat, dripping. "The gate. The
-wall, on the outside, below the low-tide line. The pillars of the footbridge. The houses at the end of
-Quay Street that fell down, the brick walls that stayed on the bottom. Taís says coral needs something
-hard to stick to and clean, warm water. All of Lowtown turned hard. And the water's clean, now. There's
-no more sewage from the upper city coming down the canal. They cut it off along with the piped water."
-He smiled. "It was the Council that cleaned it up."
+"On everything that's hard and stays under water," said Taís. "The gate. The wall, on the outside,
+below the low-tide line. The pillars of the footbridge. The brick walls of the houses at the end of
+Quay Street, the ones that fell. Coral wants something hard to stick to, and clean, warm water. On
+the wall there are some the size of your hand. Those are as old as the wall."
+
+"And the water's clean, now." Davi climbed into the boat, dripping. "There's no more sewage from the
+upper city coming down the canal. They cut it off along with the piped water." He smiled. "It was
+the Council that cleaned it up."
+
+"And Mrs. Ilda's buckets," said Taís.
 
 Joana sat on the rower's thwart. She took off the mask. She sat looking at the canal.
 
-The platforms, in the distance, on both banks. The clock tower. The street that breathed. And under all
-of it, she knew now, under the green, another city. The old one. The one of brick, of concrete, of
-steel, of glass, of stone. The one the sea had swallowed on the night of the big tide and in the
-surge, and which she had spent nine months believing was dead.
+The platforms, in the distance, on both banks. The clock tower. And under all of it, she knew now,
+under the green, another city. The old one. The one of brick, of concrete, of steel, of glass, of
+stone. The one the sea had swallowed on the night of the big tide and in the surge, and which she
+had spent nine months believing was dead.
 
 It wasn't dead. It was turning into something else.
 
@@ -139,62 +156,57 @@ It wasn't dead. It was turning into something else.
 
 "Show me the wall," she said.
 
-Davi rowed along the coast, on the outside, along the old Barrier. Joana had never seen the Barrier from
-that angle, from below, from a boat, right up against it. It was high. Four meters twenty above mean sea
+Taís rowed along the coast, on the outside, along the old Barrier. Joana had never seen the Barrier from
+that angle, from below, from a boat, right up against it. It was high. Four point two meters above mean sea
 level, and with the tide in there were still almost three meters of gray concrete above her head. The
 sea face was smooth, as she had drawn it, vertical, with a curve at the top to send the wave back. A
 wall.
 
-But from the waterline down it wasn't smooth anymore.
+But from the high-tide line down it wasn't smooth anymore.
 
-She dove again, without a rope. She went down along the face. The oysters began at the low-tide line and
-went down as far as she could see, a continuous shell, thick, rough, full of cracks and holes and
-ledges, and in the cracks there were crabs, and on the ledges there was seaweed, and around all of it
-there were fish. The smooth face she had drawn for the wave to hit and bounce back whole no longer
-existed. It had become a reef.
-
-And a reef doesn't send the wave back whole. She knew that. Every coastal engineer knew it. A reef breaks
-the wave. It makes it stumble on the roughness, on the cracks, on the ledges, and lose strength before it
-gets where it was going.
+She dove again, without a rope. She went down along the face. The oysters filled the band between
+the two tides, as on the gate, a continuous shell, thick, rough, and below it, where the water never
+left, the wall went on being alive: cracks and holes and ledges, and in the cracks there were crabs,
+and on the ledges there was seaweed, and around all of it there were fish. On one ledge, a golden
+brown coral the size of her hand. The smooth face she had drawn for the wave to hit and bounce back
+whole no longer existed.
 
 She came up.
 
 ---
 
-She stayed in the boat all morning, with the notebook on her knee, while Davi dove and came back and dove
-again, and brought things up to show her. An empty oyster shell, as big as her palm. A stone with three
-small corals stuck to it, which he showed her and put back on the bottom in the same place. A blue crab,
-which bit his finger.
+Back at the gate, she stayed in the boat for the rest of the tide, with the notebook on her knee,
+while Davi dove and came back and dove again, and brought things up to show her. An empty oyster
+shell, as long as her finger. A stone with three corals the size of a grain of rice stuck to it,
+which he showed her and put back on the bottom in the same place. A blue crab, which bit his finger.
 
-She did the math.
+Taís was looking out past the mouth, at the sea.
 
-It wasn't math she knew how to do well. It wasn't in the five-hundred-page books of her second year. It
-was in the papers she had read in passing, years before, with a little contempt, about coasts that
-defended themselves with mangroves and oyster reefs instead of concrete. Living breakwaters. She
-remembered the conclusions. That a shallow reef, wide enough, took a large part of the height out of a
-wave before it reached the shore. That a mangrove a hundred meters wide took out more. That neither one
-held back the tide. The tide went through. The tide was only water rising slowly, and the mangrove and
-the reef let the tide go through.
+"When the sea's big, it breaks there," she said, and pointed at the orange curve of the gate, half
+out of the water. "On top of the gate lying there. It comes in high, hits the shallow, breaks, and
+what gets into the canal gets in small. My father won't take the canoe over it when the sea's big.
+He goes along the edge, where it doesn't break."
 
-What they held back was the wave.
+Joana did the math. A shallow, wide reef took most of the height out of a wave before it reached the
+shore; the mangrove, behind it, took out a little more. The tide, neither one. The tide went
+through. What they held back was the wave.
 
-And she thought of the night of the big tide. Of Gate Two. It hadn't been the tide that broke the axle
-bearing. The tide had only filled the canal. It had been the wave. The wave hitting the gate from
-outside, with the canal full on the inside. It had been the wave that knocked Jairo down the stairs, his
-wife off the ground floor. It had been the wave that came into the boatyard through the door on the
-night of the surge and tore off the front wall.
+And it had been the wave. On the night of the big tide, it hadn't been the tide that broke the axle
+bearing of Gate Two; the tide had only filled the canal. It had been the wave hitting the gate from
+outside, with the canal full on the inside. The wave that came into the boatyard through the door on
+the night of the surge and tore off the front wall. And the water behind it, the water that took
+Jairo's wife from the ground floor.
 
-She thought of Raul's simulation. The platforms at the tops of the posts, with no more post to climb, and
-the wave hitting them side-on.
+She thought of Raul's simulation. The platforms at the mouth of the canal tearing their rings off the
+posts under the wave that came in through the mouth. There was no shortage of post: no tide reached
+the top of a lamp post. What the platforms couldn't take was the wave side-on. Nobody had done the
+math on the posts. Not even her.
 
-The platforms rose with the tide. That they already knew how to do. Edson's posts, eight meters, gave
-height for the equinox tide, and a hand-span. What the platforms couldn't take was the wave.
+And the wave, there, already had something to stumble over. A crooked gate. Brick on the bottom. An
+old wall that was no use anymore for holding anything back, rough with oysters. A drowned city,
+turning into a reef, on its own, without anyone having asked.
 
-And the wave, there, already had something to stumble over. An old wall that was no use anymore for
-holding anything back, covered in oysters. A crooked gate. Brick on the bottom. A drowned city, turning
-into a reef, on its own, without anyone having asked.
-
-She had spent her life making things that held. The wall. The gate. The list. The dike. Things that told
+All her life she had made things that held. The wall. The gate. The list. The dike. Things that told
 the sea *this far*. And the sea had gone over all of them.
 
 And now the sea was making, out of what was left of them, something that said nothing. That let the tide
@@ -221,14 +233,12 @@ rest."
 "And this?" Davi put his finger on the hatching.
 
 "Mangrove. Along the edges of the canal, at the mouth. In the creek. Where the mud is soft. Mangrove holds
-the mud and breaks the wave the reef let through." She looked at him. "Do they know how to plant mangrove
-in the Shallows?"
+the mud and breaks the wave the reef let through." She looked at Taís. "Does anyone in the village
+know how to plant mangrove?"
 
-"Benedito knows everything about mangrove. His father used to plant it to catch crabs."
+"My father. His father used to plant it, to catch crabs."
 
-She nodded.
-
-"It doesn't hold back the tide," she said. "The tide goes through. We rise with it, on the platforms. But
+"It doesn't hold back the tide," said Joana. "The tide goes through. We rise with it, on the platforms. But
 the wave..." She looked at the drawing. "The wave stumbles. It arrives tired."
 
 Davi looked at the drawing for a long time. The way his grandfather had, looking at someone else's hull.
@@ -240,8 +250,6 @@ Davi looked at the drawing for a long time. The way his grandfather had, looking
 "And the equinox tide is in ten weeks."
 
 "Yes."
-
-He didn't say anything.
 
 "It won't be finished," she said. "Nothing's ever finished. The wall wasn't either. But whatever's there
 will help. And what we don't do now, we do later. And after later. It grows, Davi. That's the difference.
@@ -255,5 +263,5 @@ in a boat.
 
 She looked at it. She didn't rub it out.
 
-The tide was going out. Amaro's boat, tied to Gate Two, went down with it, slowly, and the line of oysters
+The tide was going out. Amaro's boat, tied to Gate Two, went down with it, and the line of oysters
 on the orange steel showed itself, centimeter by centimeter, alive, wet, shining in the sun.

@@ -23,6 +23,30 @@ baixo" em sessenta e um). *A maré grande*.
 
 - **A cidade alta:** os morros, onde fica o Departamento, o Conselho, o apartamento de
   Joana e Davi. De lá se vê o Baixo e a muralha. *A maré grande*.
+- **As cotas (revisão de 2026-10-05) — a tabela única.** Alturas acima do mar médio. O chão do
+  Baixo afundou ~1,3 m em décadas (aterro sobre mangue, 1–2 cm/ano; *A conta*).
+
+  | Onde | Cota |
+  |---|---|
+  | fundo do canal do Mercado | −2,50 |
+  | esquina da rua dos Calafates | −0,20 |
+  | piso do estaleiro (Calafates 72) | +0,10 (o zero da coluna) |
+  | mezanino do estaleiro | +3,00 |
+  | cumeeira do telhado de zinco | +6,50 |
+  | casa do Jairo, Cordoeiros 18 (aterro mais velho, perto da ponte) | +1,10 |
+  | casa verde da Ilda (aterro alto, oito degraus acima da rua) | +1,45 |
+  | preamar média no Baixo (caderno / oficial) | +1,32 / +1,29 |
+  | preamar comum de sizígia | ~+1,50 |
+  | ressaca de 2090-03-31 (água parada) | ~+2,60 |
+  | ressaca de 2090-05-15 | ~+2,40 |
+  | ressaca de 2090-11-10 | ~+2,30 |
+  | maré do equinócio de 2091-03-21 | ~+2,70 |
+  | crista da Barreira (projeto) | +4,20 (+5,00) |
+  | crista do dique da Terra Firme | +6,00 |
+  | topo dos postes de luz (~6 m, numa rua a −0,20) | ~+5,80 |
+
+  Numa preamar comum há ~1,2 m de água no estaleiro, e a esquina alaga até a cintura; na
+  sizígia, água no peito. Na ressaca de março, ~2,5 m no galpão, abaixo do mezanino.
 - **O Baixo:** a cidade baixa, atrás da Barreira. ~19.000 moradores pelo último censo do
   Departamento, menos na prática. O canal do Mercado corta o meio dele como uma espinha.
   *A maré grande*.
@@ -34,6 +58,9 @@ Muralha de concreto cinza de **3,2 km** ao longo da costa, do Cais para o sul. C
 **4,20 m** acima do mar médio. Joana projetou **5,00 m**; o Conselho cortou 80 cm numa
 reunião de terça-feira, **dezesseis anos antes** do livro (~2074), para caber no
 orçamento. Construída e com as comportas içadas há **catorze anos** (~2076, Joana com 33).
+- **O galgamento** (EurOtop, muralha vertical; ver `references.md`): na noite de março, água
+  parada a +2,6, onda no pé de ~2 m, **borda livre de 1,60 m → ~42 L/s/m**. Com a crista de
+  5,00, ~9: um quinto.
 - **Calhas de galgamento** no topo, a cada 100 m, medem a água que passa, em litros por
   segundo por metro de muralha.
 - **Três comportas** (Um, Dois, Três) nas bocas dos canais, portões de setor em aço curvo
@@ -110,8 +137,8 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
 |---|---|---|
 | I | constrói muralhas, e vive da culpa dos oitenta centímetros | fica na água |
 | II | especialista sozinha | uma entre muitos |
-| III | quer se redimir com uma muralha | abre mão da redenção pelos outros |
-| IV | luta contra o mar; líder | vive com o mar; uma entre muitos |
+| III | quer se redimir com uma muralha | abre mão da redenção pelos outros, dizendo *eu sabia* na frente de todos |
+| IV | luta contra o mar; a que escondeu a conta | vive com o mar; diz a conta em voz alta, mesmo quando der o que ninguém quer |
 
 ---
 
@@ -185,7 +212,7 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
 - Joana devolve o crachá e se demite.
 
 ### Elenco novo
-- **Dona Ilda**, 71. Pequena e larga, cabelo branco curto. Vendia tapioca na porta da escola
+- **Dona Ilda**, 71. Pequena e larga, cabelo branco curto. Vendia bolo de milho na porta da escola
   de Joana. Casa verde na rua dos Calafates. Ficou três dias no abrigo e voltou.
 - **Nilo**, ~20, neto de Ilda. Caiaque amarelo (perdido na ressaca de maio).
 - **Seu Lauro** (braço na tala), **os Ferreira** (mãe e filha), **a mulher com o bebê**,
@@ -206,7 +233,8 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
 ## Apêndice — Parte II (o que os capítulos inventaram)
 
 ### O Baixo na maré cheia — *Os que ficaram*
-- **Dois mapas:** o da maré baixa (ruas de lama, ~7–10 h e ~19–22 h) e o da maré cheia,
+- **Dois mapas:** o da maré baixa (ruas de lama, nas três horas em volta da baixa-mar, que anda
+  quase uma hora por dia) e o da maré cheia,
   feito de telhados, **pranchas entre parapeitos** (a do Seu Lauro é a porta da cozinha
   dele, verde, com maçaneta), escadas de ferro e de corda, janelas de segundo andar que
   viraram portas.
@@ -218,6 +246,17 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
 - Joana e Davi moram no mezanino do estaleiro (lona azul de telhado, frente de tábuas
   achadas), depois numa plataforma. O apartamento da cidade alta segue alugado e fechado;
   vão lá uma vez por semana. Davi vai à escola três dias. Economias para um ano, ano e meio.
+- **Os baldes (*Os que ficaram*):** regra da roda — banheiro seco ou de balde, levado na
+  baixa-mar para a fossa do morro; botas na lama; os gatos do Mercado e ratoeiras. **O susto
+  (*O bairro que boia*):** Seu Lauro com leptospirose, febre; o rapaz da Defesa o leva ao
+  hospital da cidade alta; ele vive, e bota vira regra. **Ostra do canal não se come.**
+- **O aparelho:** uma lâmina de tela flexível do tamanho de uma mão, dobrada uma vez, morna
+  quando carrega; a de Joana tem um canto rachado. Morre sem energia, e no Baixo energia são
+  os dois painéis solares velhos do Mercado: **fila de carga** no mezanino. A Ilda nunca teve.
+  Barco a combustão é raro e proibido na cidade ("desses que ainda havia").
+- **Fogo:** fogão só em caixa de areia sobre chapa de zinco, nunca no deque nu.
+- **O gerador a diesel** que a roda comprou para a solda do Edson (o que custou no caixa; o
+  diesel desce a ladeira em galão). O maçarico de *Mangue* é de botijão.
 - **O Mercado:** galpão de ferro e vidro de dois andares, telhado em arco (metade dos vidros
   quebrados), **torre do relógio parado nas quatro e dez**, escada de caracol; térreo de
   peixe e carne com **seis câmaras frias** (placas de isopor de 20 cm coladas em chapa);
@@ -227,6 +266,8 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   porque tinha a tua parede.* Carrega vidro sem falar. Faz a plataforma mais reta, com um
   pé de manjericão num vaso de lata. Passa o café a Joana na roda sem falar com ela.
 - **A mãe de Joana** dizia na porta da escola: *a minha filha vai ser engenheira de água*.
+- **Nilo na coluna**, de noite, com lanterna e caderno azul (*Os que ficaram*): a primeira
+  imagem do caderno, sem explicação.
 - **Trezentas pessoas** em junho (contando os telhados); **460** em agosto (Ilda conta de
   cabeça).
 
@@ -236,6 +277,7 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   calha de alumínio de janela, mangueira, tambor azul. **~900 L num dia de sol bom**
   (870 na terça), ~410 nublado. Vidro de vitrines, janelas e das portas da agência de banco
   da ladeira.
+- **A água por cabeça:** 3 L, só para beber.
 - **A lista** de Joana (casas, pessoas, 3 L por cabeça, coluna de quem já pegou) dá briga
   por um galão. *A gente bota o nome numa lista e depois vem alguém e risca.*
 - **Os tanques de janela** (dos Ferreira, no terraço de Ilda): janela inteira em cima de
@@ -251,6 +293,10 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
 ### As casas que boiam — *A primeira jangada*, *O bairro que boia*
 - **Dona Célia Ferreira**, ~40, morou trinta anos numa casa térrea de um quarto nos
   Calafates; **Clara**, 12, a filha.
+- **Por que a primeira deitou:** a planilha de Joana conferiu a altura metacêntrica, **não a
+  borda livre que sobrava com a caixa cheia**; uma onda de um palmo cobre a borda baixa, entra
+  água no deque, e os flutuadores daquele lado não têm mais o que dar. A regra vira *peso
+  embaixo, boca larga, e borda livre*.
 - **Primeira plataforma:** 6 × 5 m, 48 placas de isopor das câmaras frias embrulhadas em
   lona, cinta de carga, grade de vigas das bancas de feira (Davi, com enxó e graminho), piso
   de tábua. Casa de **placa cimentícia** (do depósito do Departamento, trazida por **Téo**
@@ -259,25 +305,43 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   combustão faz a caixa correr no telhado e a casa deita a ~40°, presa nos postes. Davi tira
   Clara pela janela (com o sabonete na mão).
 - **Segunda plataforma (12 dias depois, lua nova):** 7 × 6 m, **a caixa-d'água deitada
-  embaixo do piso como lastro**, bomba de mão de pedal (de um barco de pesca), paredes de
+  embaixo do piso como lastro**, bomba de pé, de pedal (de um barco de pesca), paredes de
   bambu trançado com lona e tábua embaixo, tela em cima, **telhado do zinco do estaleiro**
   desentortado por Davi. Davi confere com **o prumo**; Joana não tira o nível laser.
 - **A amarração:** argolas de aço (das correntes das comportas, trazidas por Téo) correndo em
-  **postes de luz de ferro**; na maré seca a casa pousa na lama em **dois patins de madeira
+  **postes de luz de ferro** de ~6 m, com o topo a ~+5,80, muito acima de qualquer água. **O
+  perigo é de lado, não de altura:** onda e corrente na boca do canal e na rua do Cais empurram
+  as plataformas, entortam postes, abrem argolas e soldas. na maré seca a casa pousa na lama em **dois patins de madeira
   dura**.
 - **O estaleiro vira oficina** de Davi; a caixa de ferramentas fica aberta na mesa do fundo.
 - **Fim de agosto:** 31 plataformas no canal do Mercado, 15 de cada lado e **a plataforma da
-  roda** no meio (12 × 10 m, isopor e 40 tambores, lona alta em bambus). A de Joana é a 19ª,
+  roda** no meio (12 × 10 m, isopor e **80 tambores**, lona alta em bambus), amarrada **nos tocos
+  da ponte de pedestres velha**. A de Joana é a 19ª,
   lado oeste, perto da curva da ladeira. A de Seu Lauro (22 tambores, varanda maior que o
   quarto); a dos rapazes dos Cordoeiros (três irmãos e um primo, "vagão de trem" de portas);
-  a de Jairo (a 7ª). **Pontes que boiam** entre as plataformas: "uma rua que respirava".
-- **Edson**, 66, da serralheria, volta do Planalto com máquina de solda; solda as argolas. O
+  a de Jairo (a 7ª; de lá ele divide a rua do Cais com Dona Lúcia).
+- **Gilson**, da rua do Cais (mulher e três filhos), volta do Planalto, vai para o fim da lista e
+  sai de vez no sábado 2090-08-26, às 6h30, na maré seca. Regra nova da roda: *Quem chega, entra.*
+- **O incêndio do deque dos Cordoeiros** (uma brasa) é o que faz a regra do fogo.
+- **O gerador** foi pago com a lata de biscoito da roda e a meia da Ilda; ~20 L de diesel por
+  tarde de solda.
+- **O bate-estaca do Edson:** tripé de bambu, talha, um tambor cheio de concreto, sobre duas
+  canoas; um poste por semana; em *Mangue*, doze postes na boca do canal, e o diesel acaba no oitavo.
+- **Seu Lauro** passa doze dias no hospital; botas: 18 pares do depósito da Defesa.
+- **A fila (*O bairro que boia*):** 51 lugares em plataforma para 460 pessoas; gente divide
+  quarto. Quando as primeiras famílias voltam do Planalto, **Ilda as põe no fim da lista, atrás
+  de quem ficou**, e uma vai embora de vez. Ela admite: *Eu risquei. Igual eles.* Daí a lista
+  que "põe, não risca".
+- **Benedito chega ao estaleiro** com a canoa rachada (*O bairro que boia*). **Pontes que boiam** entre as plataformas: "uma rua que respirava".
+- **Edson**, 66, da serralheria, volta do Planalto com máquina de solda; solda as argolas, com o
+  gerador a diesel da roda. Troca os postes da boca do canal por **dois postes velhos emendados,
+  metade cravada na lama**, pela rigidez, não pela altura. O
   filho (o rapaz da Defesa) desce aos domingos.
 - **A roda** decide pôr as próximas casas na **rua do Cais**, colada na muralha: *ela é um
   quebra-mar bom; só não é uma muralha* (uma mulher dos Cordoeiros). Joana guarda o desenho
   da ladeira.
 - **O drone do Conselho:** cinza, do tamanho de uma bandeja, quatro hélices, câmera; passa
-  todo sábado às 16h a 30 m, desde julho.
+  todo sábado **ao meio-dia** a 30 m, desde julho.
 
 ### A Terra Firme — *O bairro que boia*
 - Empresa que fez **os bairros secos** de outras costas, "mais ao sul", nos últimos dez
@@ -287,7 +351,7 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   em cima vazio. TERRA FIRME em azul escuro.
 - **O catamarã:** branco, ~15 m, dois cascos finos, cabine de vidro escuro, painéis solares
   pretos foscos, sem barulho, sem onda.
-- **Raul** chega nele no sábado 2090-08-26, ~16h30, de camisa branca.
+- **Raul** chega nele no sábado 2090-08-26, **~12h30**, com a maré quase no alto, de camisa branca.
 
 ---
 
@@ -313,8 +377,12 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   heranças não passadas) têm prioridade de compra com desconto e financiamento de 30 anos,
   ou vaga no Planalto. Bombas pagas por **taxa de condomínio**; se a Terra Firme sair, o
   Conselho assume.
-- **A simulação de Raul:** na próxima maré do equinócio, as plataformas no topo dos postes
-  de seis metros se soltam na boca do canal. Joana sabe que ninguém fez a conta do poste.
+- **A simulação de Raul:** na próxima maré do equinócio, **as plataformas perto da boca do canal
+  arrancam as argolas dos postes com a onda que entra pela boca**. Joana sabe que ninguém fez a
+  conta do poste.
+- **A Lei da Orla, plantada:** Raul diz que os lotes estão a salvo porque a linha da preamar
+  foi medida há quarenta e dois anos e passa na praia, fora da muralha.
+- A borda livre do dique de 6,00 numa ressaca como a de março: **3,40 m**.
 - **A moça da Terra Firme:** engenheira jovem, camisa clara, segura o tablet como escudo.
 
 ### A conta — *A conta*
@@ -325,7 +393,8 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   morro. A Barreira terminava 300 m antes dela (nota de Joana no projeto: *trecho sul não
   protegido — área de baixa ocupação, fora do escopo*). Na maré grande alagou "até o joelho,
   sem vítimas" (gravação do Nilo do rádio da Defesa). **Barracão comprido de telhado de
-  palha** onde se conserta rede.
+  palha**, com paredes de palha trançada em três lados e o quarto aberto para a praia, onde se
+  conserta rede.
 - **Com o anel:** +40 a 70 cm na Vila Rasa numa maré igual à de março (três modelos).
 - **O riacho:** escoa a vila em 6–7 h; o projeto o desvia por **bueiro com comporta de maré**
   sob o pé do dique; durante a obra, **a ensecadeira fecha a boca do riacho por onze meses**
@@ -359,22 +428,30 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   *O vô dizia que barco não segura nada. Você tá fazendo uma parede de novo.*
 
 ### A obra — *A ensecadeira*
-- **A ensecadeira do trecho sul:** 310 m de estacas-prancha de aço de 12 m, cravadas por
-  martelo vibratório numa barcaça (uma ou duas por hora, três semanas). No riacho, **15 m de
+- **A ensecadeira do trecho sul:** **um arco de 310 m** de estacas-prancha de aço de 12 m, da ponta
+  sul da Barreira para fora e de volta à praia depois da boca do riacho, fechando o lado do mar do
+  canteiro; cravadas por martelo vibratório numa barcaça (**duas, três por hora**, três semanas).
+  **A obra começa em 10-08**, uma semana depois da votação; a escavação, **cinco semanas**, corre
+  junto com o estaqueamento. No riacho, **15 m de
   aterro de terra batida e pedra** com o tubo por baixo.
+- **O canteiro** é uma meia-lua de 270 × 40 m atrás do arco. Na segunda semana, Joana desiste de
+  brigar pela licença (brigar "ia ter de dizer por quê") e assina a ordem de serviço como
+  *Joana Amaral, engenheira-chefe*. A associação adere em 10-20; **o dia das escrituras** é 10-21,
+  por digital no tablet, na galeria do Mercado; Edson pede loja no térreo e guarda o recibo no
+  bolso da camisa. 140 títulos até o fim da semana.
 - **A licença** é do projeto original; mudar exige licença nova (seis meses); o vertedouro de
   Joana fica para **o aditivo**, na segunda fase. Joana aceita.
 - **O contêiner do canteiro:** branco, na crista da Barreira, a 100 m da ponta sul; duas telas
   (cronograma e câmeras); ar-condicionado que pinga; quadro de chaves na parede.
-- **Os postes novos da rua do Cais:** 8 m, dois postes velhos soldados por Edson; 11
-  plataformas ali.
-- **A ressaca de 2090-11-10 (sexta):** frente do sul, vento sudeste, boias a 4 m, maré 40 cm
-  acima da tábua, 3 dias depois da lua cheia; preamar 23h40. Vila Rasa cheia; 1,5 m de
+- **Os postes novos da rua do Cais:** ~8 m, dois postes velhos emendados por Edson, metade cravada
+  na lama; 11 plataformas ali.
+- **A ressaca de 2090-11-10 (sexta):** frente do sul, vento sudeste, boias a 4 m, maré **80 cm**
+  acima da tábua, 3 dias depois da lua cheia; água parada ~+2,3; **preamar ~01h58 de 11-11**. Vila Rasa cheia; 1,5 m de
   diferença entre os dois lados da ensecadeira; a grade do tubo entupida.
 - Davi tira a vó da Taís de uma casa de um andar no barco do Amaro.
 - **Joana rompe o aterro do riacho com uma escavadeira** (sentou numa aos 28, cinco minutos);
-  na quinta caçamba o aterro cede; o buraco da fundação enche em quatro minutos; o canteiro
-  vira lago e a vila baixa. Ninguém morre. Davi corta a canela.
+  na quinta caçamba o aterro cede; o buraco da fundação enche em quatro minutos; **o rombo reabre o caminho do riacho
+  para o mar pelo canteiro**, e a vila baixa. Ninguém morre. Davi corta a canela.
 - Raul: *Eu tinha trinta e quatro anos... me disseram que tinha de caber em setenta e oito
   por cento do orçamento. Eu fiz caber.* *Era o que eu tinha pra te dar.* Joana: *Eu achei
   uma cota que cabia, Raul. Igual você.*
@@ -386,9 +463,27 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
 ## Apêndice — Parte IV (o que os capítulos inventaram)
 
 ### A linha — *O que é do mar*
+- **A confissão (abertura de *O que é do mar*, 11-11 de manhã):** Joana diz *eu sabia* à roda;
+  Jairo, que votou sim por causa dela, responde: *Da outra vez quem me contou foi a água… Dessa
+  vez foi você. Antes.* **412 a 31**: Edson fica no sim; a família da
+  Cordoeiros 26 (um casal e dois meninos) vai para o Planalto na terça; a Ilda escreve *Planalto*
+  ao lado dos nomes, em vez de riscar.
+- **O processo:** a Terra Firme retira a concessão mas **mantém uma ação de danos contra Joana**,
+  pessoalmente, pela ensecadeira ("ato deliberado de uma ex-funcionária", cinco semanas de obra). Chega no aparelho, com
+  confirmação de leitura, no começo de 2091. Em *Mangue* ela diz: se perder, levam a plataforma
+  dezenove. Em *Thalassa*: "Corre… até o ano que vem. Essa conta é minha, conselheira."
+  As economias dela vão para advogado; a ação ainda corre em *Thalassa*.
+- **Edson** (serralheria na rua do Cais, 40): o lote cai abaixo da linha — trinta anos de prestação. O "de quem
+  varre" do Jairo não responde a ele.
+- **Raul entrega o outro cenário** (o "mandei rodar com outro cenário" de *A conta*): o modelo da
+  Vila Rasa.
+- **Téo** ainda fala com Joana; é o operador que lhe passa as leituras da torre.
 - **O caderno azul do Nilo:** desde a manhã seguinte à morte de Amaro, a pedido de Ilda,
   Nilo anota toda preamar na **coluna de ferro do meio do estaleiro** (as marcas de palmo
-  de Amaro): data, hora, marca, notas (*lua cheia*, *ventou*). ~380 marés até a sessão.
+  de Amaro, **sempre em palmos, de 22 cm, com o zero no pé da coluna, no piso, a +0,10**: a marca
+  *n* fica a +0,10 + 0,22·*n*): data, hora, marca, notas (*lua cheia*, *ventou*). A preamar média
+  fica **entre a quinta e a sexta marca, mais perto da sexta**; uma preamar comum, na sexta; a
+  ressaca de maio passou da décima. ~350 marés em 19-11; ~380 até a sessão.
   Bate com o marégrafo da torre dentro de 3 cm.
 - **A roda revoga o sim** na manhã seguinte à ensecadeira, depois de Joana contar tudo:
   **412 a 31**. Jairo põe no da direita e passa o café a ela.
@@ -409,13 +504,16 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   gestão da faixa de uso comum (papel levado pelo rapaz da Defesa, antes de *Mangue*).
 
 ### O recife — *O recife*
-- A **Comporta Dois** e a face de mar da **Barreira velha** estão cobertas de **ostra** até a
+- A **Comporta Dois** e a face de mar da **Barreira velha** estão cobertas de **ostra** numa faixa entremarés, até a
   linha da preamar; abaixo, alga marrom, esponjas amarelas, coisas vermelhas rendadas,
   cardumes prateados, caranguejo azul.
-- **Corais**: colônias marrom-douradas de favo, do tamanho de uma moeda, nenhuma maior que
-  uma mão; a primeira achada pela **Taís** antes do fim do ano, no pé da muralha perto da
+- **Corais**: colônias marrom-douradas de favo, **do tamanho de um grão de arroz, de uma unha**;
+  só na face de mar da Barreira, de catorze anos, há uma do tamanho de uma mão; a primeira achada pela **Taís** antes do fim do ano, no pé da muralha perto da
   ponta sul; ~30 conhecidas em janeiro. Crescem em tudo que é duro debaixo d'água. A água
-  ficou limpa porque o Conselho **cortou o esgoto** da cidade alta junto com a água encanada.
+  ficou limpa porque o Conselho **cortou o esgoto** da cidade alta junto com a água encanada, e
+  por causa dos baldes da roda. Mesmo assim, ostra do canal não se come.
+- **Taís:** *Ostra do canal não se come. A ostra comeu a de antes.* O primeiro coral novo ela
+  achou num muro caído no fim da rua do Cais.
 - **A máscara de Davi:** borracha preta, vidro redondo rachado num canto (trocada na Vila
   Rasa por um conserto de remo).
 - **O plano de Joana:** recife na frente da muralha (gaiolas de vergalhão com casca, entulho,
@@ -431,35 +529,46 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   casca do **monte de cascas atrás do barracão** (décadas de pescaria). Em fila no raso, a
   50–60 m da muralha. Entre elas, entulho: concreto da fundação, tijolo da rua do Cais,
   estacas da ensecadeira cortadas a maçarico.
+- **Jairo e Raul:** Jairo faz Raul carregar o feixe inteiro sozinho até a água e não pega a mão
+  que ele estende.
 - **Raul** chega a pé com um feixe de vergalhão de 6 m e um caminhão alugado com 800 kg no
   alto da ladeira; trabalha sob as ordens de Benedito, Edson, do filho do Edson e de Davi;
   mãos em carne viva. *Você me odeia?* — *Eu ia te odiar se você fosse diferente de mim.*
 - **A roda no barracão da Vila Rasa**, a primeira do Baixo e da vila juntos. Ilda propõe
-  Joana como coordenadora; **Joana recusa**. **Mestres por trecho** (votados com pedras):
-  Benedito, o mangue; Taís e Davi, o recife; Edson, os postes e as gaiolas; **dona Lúcia dos
+  Joana como coordenadora; **Joana recusa**, e a Ilda se magoa. A virada: a mulher que escondeu a
+  conta passa a dizê-la em voz alta (o processo, as economias, o que a plataforma pode perder). **Mestres por trecho** (votados com pedras):
+  Benedito, o mangue; Taís e Davi, o recife; Edson, os postes e as gaiolas; **Dona Lúcia dos
   Cordoeiros** (a mulher que pediu a rua do Cais) e Jairo, a rua do Cais; Nilo, o caderno
   azul, as marés e o rádio. Na parede a carvão: *CONTA — Joana. Pergunta pra ela.*
 
 ### A segunda maré grande — *A grande maré*
-- 2091-03-21, quarta, lua nova, equinócio; boia sete nova (do Departamento, fim do ano)
+- 2091-03-21, quarta, lua nova, equinócio; água parada ~+2,7; o recife baixa a onda no pé para
+  ~1,4–1,5 m; boia sete nova (do Departamento, fim do ano)
   dá 4,10 m, depois 4,30 no pico; maré da tábua 10 cm acima da do ano anterior; **preamar
   0h03**; vira às 0h40.
 - **Regra do Benedito:** quem mora em plataforma pequena vai para as grandes; as pequenas
-  sobem vazias. Sessenta pessoas na plataforma da roda. O barco do Amaro é o barco de
+  sobem vazias. *Casa vazia que soltar, deixa ir. Casa se faz de novo.* O barco de socorro sai
+  só por gente. Sessenta pessoas na plataforma da roda. O barco do Amaro é o barco de
   socorro (Davi, Jairo, dois meninos dos Cordoeiros). Nilo no estaleiro com o caderno.
 - **Galgamento na rua do Cais:** 8 L/s/m às 22h45 (22 no ano anterior); pico de **11**
   (42 no ano anterior). *Agora desce feito chuva de calha.*
-- As argolas param a **um palmo e meio** do topo dos postes de 8 m.
+- As argolas sobem **uns três metros** nos postes, e sobra poste.
 - A ondulação entra pela boca do canal com um palmo e chega à plataforma da roda com meio.
 - Às 23h50 a **argola da plataforma do Seu Lauro abre na solda** (uma das primeiras do
   Edson); Jairo e Davi a seguram com corda e **o nó de Amaro** (de amarrar casco em
   carreira, que Davi ensinou na roda).
 - Vila Rasa: água no joelho, sai pelo **buraco da engenheira** (o aterro rompido, alargado e
   forrado de pedra, com mangue nas margens: a boca nova do riacho).
-- Nilo: **marca sete e um dedo**, a mais alta desde que Amaro pintou. *Não teve onda. Teve
+- Nilo: **marca onze e um dedo**, a mais alta desde que ele anota. *Não teve onda. Teve
   maré.*
-- Boletim da Defesa: **ninguém**. Uma plataforma solta recuperada, um corte na mão, uma lona
-  arrancada numa casa vazia.
+- **O custo:** as duas plataformas pequenas e vazias do fim da rua do Cais se soltam e se
+  arrebentam na muralha; parte do mangue novo é arrancada (Benedito, de manhã: planta duas vezes);
+  **Jairo quebra a perna** (seis semanas de tala; Davi rema o barco dele) no barco de socorro, porque **Davi** saiu atrás de uma plataforma solta
+  contra a regra do Benedito, e Jairo foi junto.
+- Boletim da Defesa: **ninguém morto**. Uma perna quebrada, um corte na mão, duas plataformas
+  perdidas.
+- **Joana divide o crédito** em voz alta: nenhuma comporta para falhar, uma ressaca um pouco
+  menor, plataformas que sobem, a rugosidade das ostras; o recife, um quinto, um quarto.
 
 ### Depois — *Thalassa*
 - **Viegas desce ao Baixo** (sexta, duas semanas depois da grande maré), ouve a roda duas
@@ -471,8 +580,8 @@ Os quatro arcos, e em que estado ela entra e sai de cada um:
   imagens do drone também para a roda.
 - **A lista de 304 nomes** da cidade alta que pedem para descer. *Essa eu deixo. Essa não é
   pra riscar ninguém. É pra pôr.*
-- **"O Recife"**: as crianças (Clara e os meninos da vila) chamam o bairro de *o recife*,
-  depois *o Recife*. Os velhos dizem o Baixo, a vila diz a vila, o Conselho diz
+- **"o recife"**: as crianças (Clara e os meninos da vila) chamam o bairro de *o recife*, em
+  minúscula. Os velhos dizem o Baixo, a vila diz a vila, o Conselho diz
   assentamento. Nome oficial não decidido — de propósito; fica como apelido.
 - Joana devolve o apartamento da cidade alta; leva os livros da faculdade, as fotos da mãe,
   a pasta de plástico. **A régua de cálculo** (madeira e plástico amarelado, cursor de vidro

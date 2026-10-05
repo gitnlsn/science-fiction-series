@@ -17,7 +17,6 @@ cast:
 - davi
 - ilda
 - nilo
-- teo
 - jairo
 - celia
 - clara
@@ -27,9 +26,9 @@ status: draft
 A casa da Dona Célia Ferreira deitou às três e dezoito da tarde, na frente de cinquenta
 pessoas, e a culpa foi de Joana.
 
-Ela soube na hora. Não depois, fazendo a conta. Na hora, no segundo em que viu a caixa-
-d'água escorregar no telhado. Antes da casa começar a deitar. Antes da Clara gritar. Soube
-como se sabe que um copo vai cair da mesa um instante antes de ele cair, com a mão já
+Ela soube na hora. Não depois, fazendo a conta. Na hora, no segundo em que viu a
+caixa-d'água escorregar no telhado. Antes da casa começar a deitar. Antes da Clara gritar.
+Soube como se sabe que um copo vai cair da mesa um instante antes de ele cair, com a mão já
 indo, já tarde.
 
 Mas isso foi à tarde. De manhã, a casa boiava.
@@ -72,7 +71,7 @@ a Dona Célia ter torneira dentro de casa. Para ter pressão.
 
 Ela queria que fosse uma casa. Que a Dona Célia e a Clara entrassem e achassem que era uma
 casa, e não um barco, e não uma coisa provisória. A Dona Célia tinha morado trinta anos
-numa casa térrea na rua dos Calafates, de um quarto só, que o mar tinha enchido até o teto
+numa casa térrea na rua dos Calafates, de um quarto só, que o mar tinha enchido quase até o teto
 na maré grande e de novo na ressaca, e desde então dormia num colchão no chão do segundo andar da
 casa verde da Dona Ilda, com a filha de doze anos, e não reclamava de nada, e Joana nunca
 tinha visto uma pessoa tão cansada de não reclamar.
@@ -115,13 +114,13 @@ lado, como o pai gostava de sentar. Gente nos terraços. Gente nas pranchas por 
 rua. O Jairo, no telhado do Seu Lauro, com uma garrafa térmica. A Dona Ilda na cadeira de
 praia, no terraço da casa verde, com a Dona Célia do lado, de pé, de mãos juntas.
 
-A água entrou pelo portão às oito e quarenta. Chegou nas placas de isopor às nove e dez.
-Às nove e vinte, a plataforma se mexeu.
+A água entrou pelo portão às nove e cinquenta. Chegou nas placas de isopor às dez e cinco.
+Às dez e quinze, a plataforma se mexeu.
 
 Não foi nada. Um estalo da madeira. Uma das pontas subindo um dedo. Mas de cima dos
 telhados alguém bateu palma, e depois outro, e depois a rua inteira.
 
-Às nove e quarenta, a plataforma boiava. Inteira. Reta. Com a casa em cima, a casa de
+Às dez e quarenta, a plataforma boiava. Inteira. Reta. Com a casa em cima, a casa de
 placa cimentícia, com o telhado de barro e as duas janelas e a porta, e a caixa-d'água de
 plástico preto no telhado, ainda vazia, e a água marrom passando por baixo dela.
 
@@ -131,7 +130,7 @@ Dois, aos trinta e três anos, e ela dormiu no canteiro.
 
 ---
 
-Puxaram a plataforma até o canal às onze, com a maré cheia. O Davi no barco do Amaro, com
+Puxaram a plataforma até o canal às onze, com a maré enchendo. O Davi no barco do Amaro, com
 uma corda na proa. O Nilo e mais dois rapazes num bote, com outra. Gente nas margens,
 andando pelas pranchas, segurando cordas compridas para a casa não bater nas paredes.
 Levaram meia hora. Encostaram a plataforma entre os dois postes de ferro, na margem leste,
@@ -149,19 +148,19 @@ para longe. Não ia virar. Não ia bater.
 
 À uma da tarde, com a maré parada no alto, encheram a caixa-d'água.
 
-Foi uma cerimônia. A Joana não tinha planejado que fosse, mas foi. Os vizinhos da rua dos
+Foi uma cerimônia. Joana não tinha planejado que fosse, mas foi. Os vizinhos da rua dos
 Calafates foram trazendo, de barco, de prancha, de balde, a água das janelas deles, e
 despejando na caixa do telhado pela escada, um balde de cada vez. Cada pessoa um balde. O
 Seu Lauro. Os rapazes do parapeito. O Jairo, com dois. A Dona Ilda mandou o Nilo com uma
 panela inteira. Quinhentos litros.
 
-A plataforma afundou dois dedos. Joana olhou a linha da água nas placas. Estava onde a conta
+A plataforma afundou um dedo. Joana olhou a linha da água nas placas. Estava onde a conta
 dizia.
 
 A Dona Célia entrou na casa à uma e meia. Abriu a porta. Olhou. Andou até a pia. Abriu a
 torneira. Saiu água.
 
-Ela não disse nada. Ficou com a mão debaixo da água, e a Clara do lado dela, olhando a mãe,
+Ficou com a mão debaixo da água, sem fechar a torneira, e a Clara do lado dela, olhando a mãe,
 e Joana viu da margem, pela porta aberta, e teve de olhar para outro lado.
 
 ---
@@ -186,20 +185,22 @@ E a caixa-d'água escorregou.
 
 Joana viu. Foi aí que ela soube. A caixa estava apoiada em cima do telhado de barro, numa
 base de tábua, amarrada com duas cordas, e o telhado era inclinado, e com o adernamento a
-caixa correu na base, pouco, um palmo, para o lado baixo. Quinhentos quilos. Um palmo para o
-lado, a quatro metros de altura. E o momento que a plataforma tinha para voltar, a altura
-metacêntrica positiva que ela tinha calculado na mesa com a régua de cálculo do pai, ficou,
-num segundo, menor que o momento da caixa.
+caixa correu na base, pouco, um palmo, para o lado baixo. Quinhentos quilos em cima do lado
+que já estava baixo. Ela tinha conferido, na mesa, com a régua de cálculo do pai, a altura
+metacêntrica, e a altura metacêntrica estava certa. Não tinha conferido quanto sobrava de
+borda, do lado baixo, com a casa pesada e a caixa cheia. Sobrava quase nada. A onda seguinte,
+do mesmo palmo, passou por cima da borda e entrou no piso, e as placas daquele lado, já
+afundadas até a lona, não tinham mais o que dar.
 
 A plataforma não voltou.
 
-Continuou deitando. Devagar. Devagar demais. Com a casa em cima, inclinando, e as telhas de
+Continuou deitando. Devagar demais. Com a casa em cima, inclinando, e as telhas de
 barro escorregando do telhado uma por uma e caindo na água com um barulho de pedra, e
 a porta aberta, e lá dentro a Clara, que tinha ficado na pia brincando com a torneira.
 
 A Clara gritou.
 
-O Davi já estava na água. Joana não o viu pular. Viu ele já nadando, do barco do Amaro até
+O Davi já estava na água. Joana não o viu pular. Viu-o já nadando, do barco do Amaro até
 a porta da casa, que agora estava de lado, meio na água, e entrando por ela, e sumindo lá
 dentro, e a casa ainda deitando, a caixa-d'água agora pendurada pelas cordas do lado de
 fora do telhado, puxando para baixo, e as placas de isopor do lado alto saindo da água,
@@ -226,7 +227,7 @@ tido coragem de dizer.
 
 O Davi saiu da água e sentou na margem, ao lado de Joana. Pingando.
 
-Ela esperou que ele dissesse. *Peso embaixo.* Ele tinha o direito. Tinha dito na quinta,
+Ela esperou que ele dissesse. Ele tinha o direito. Tinha dito na quinta,
 olhando o desenho. Tinha dito *em água parada*.
 
 Ele não disse.
@@ -243,7 +244,7 @@ correr.
 dele e ficou virando nas mãos. — Eu não sabia por quê. O vô dizia e eu repetia. Você sabia
 por quê. Você só não acreditou.
 
-Ela olhou para ele. Quinze anos. A enxó segurada perto da lâmina.
+Quinze anos. A enxó segurada perto da lâmina.
 
 — A casa era pra ser uma casa — disse ela. — Não um barco.
 
@@ -258,7 +259,7 @@ Desviraram a plataforma no dia seguinte, com a maré seca, com talha e corda e v
 pessoas puxando, e a casa de placa cimentícia saiu dela em pedaços. As placas de isopor
 estavam inteiras. A grade de vigas do Davi estava inteira. Nenhum encaixe tinha aberto.
 
-Refizeram em doze dias.
+Refizeram em duas semanas.
 
 A plataforma cresceu. Sete metros por seis. Boca larga. Joana desenhou de novo, à noite,
 no mezanino, mas dessa vez o Davi sentou do lado, e ela desenhava e ele dizia, e quando ele
@@ -266,8 +267,10 @@ dizia ela parava e fazia a conta para ver por quê, e quase sempre ele tinha raz
 quando não tinha ela explicava e ele entendia mais rápido que qualquer estagiário do
 Departamento. A caixa-d'água não foi para o telhado. Foi para baixo do piso, deitada entre
 as vigas, no meio, no ponto mais baixo da casa. Quinhentos litros de lastro. A água de
-beber virou o peso que segurava a casa em pé. A Dona Célia não ia ter pressão na torneira.
-Ia ter uma bomba de mão, de pedal, que o Nilo achou num barco de pesca abandonado na beira
+beber virou o peso que segurava a casa em pé. Embaixo do desenho, no canto da folha, ela
+escreveu as três coisas: *peso embaixo, boca larga, e borda livre*. As duas primeiras eram do
+pai. A terceira era a que ela não tinha conferido. A Dona Célia não ia ter pressão na torneira.
+Ia ter uma bomba de pé, de pedal, que o Nilo achou num barco de pesca abandonado na beira
 da muralha.
 
 As paredes não foram de placa cimentícia. Foram de bambu trançado com lona por dentro e
@@ -278,7 +281,7 @@ empilhada no térreo, torta, e que o Davi desentortou a martelo em dois dias.
 No último dia, antes de pôr a casa na água, o Davi tirou o prumo da caixa de ferramentas.
 
 Joana o viu subir na plataforma, ainda em cima dos cavaletes no estaleiro, e ir até o meio
-do piso, e segurar o cordão no alto, e deixar o cone de latão descer, devagar, até quase
+do piso, e segurar o cordão no alto, e deixar o cone de latão descer até quase
 encostar nas tábuas. O cone balançou. Parou. Ele olhou o cone, e olhou a linha do piso, e
 olhou a parede de bambu do lado, e foi até a outra ponta e fez de novo.
 
@@ -290,21 +293,23 @@ Ela tinha um nível laser no fundo da mochila. Do Departamento também. Não tir
 
 A casa foi para a água num sábado de maré grande, de lua nova, com a água subindo mais
 do que de costume, e não teve cerimônia nenhuma. Puxaram com corda até o canal, até os dois
-postes, passaram as argolas. Ninguém trouxe balde. A caixa já estava cheia, embaixo do
-piso.
+postes, passaram as argolas. Ninguém trouxe balde. A caixa já estava embaixo do piso, pela
+metade, com a água de beber da semana.
 
 À tarde, o mesmo homem do bote de alumínio passou pelo canal, rápido, fazendo onda. Joana
 estava no terraço da Dona Ilda e viu vindo, e não se mexeu, e não respirou.
 
 A onda bateu na plataforma de lado.
 
-A casa adernou um palmo. A água de lastro embaixo do piso deu um suspiro grosso, que se
-ouviu da margem. A casa voltou. Balançou duas vezes, três, e parou.
+A casa adernou um palmo. A água solta na caixa, embaixo do piso, correu para o lado baixo
+com um suspiro grosso, que se ouviu da margem. Água solta tirava estabilidade, e
+dessa vez estava na conta: pouca, com aquela boca. A borda baixa ficou um palmo e meio acima
+do canal. A casa voltou. Balançou duas vezes, três, e parou.
 
-Lá dentro, a Clara estava na pia, com a mão no pedal da bomba. Nem olhou.
+Lá dentro, a Clara estava na pia, com o pé no pedal da bomba. Nem olhou.
 
 À noite, a Dona Célia dormiu na casa. Joana soube porque ficou acordada no terraço da casa
-verde até a maré da madrugada, olhando, e viu a casa subir nos postes, devagar, com a água,
+verde até a maré da madrugada, olhando, e viu a casa subir nos postes com a água,
 as argolas correndo nos ferros sem barulho, e depois parar no alto, e depois descer, e
 pousar na lama, nos patins de madeira, e ficar ali, reta, escura, com uma lanterna acesa
 na janela de tela, esperando o mar voltar.

@@ -19,14 +19,10 @@ cast:
 - davi
 - nilo
 - raul
-- viegas
-- benedito
-- tais
 source: o-que-e-do-mar/chapters/11-a-conta.md
-source_sha: 74d27f5e906e
+source_sha: b5668e29ecb4
 status: draft
 ---
-
 The math took a week, and she knew the answer on the first day.
 
 That was something she never told the interns at the Department, back when there were still
@@ -67,8 +63,8 @@ It always had been. The Barrier ended three hundred meters short of it, at a poi
 marked on the design, sixteen years before, with a note: *southern stretch unprotected — area
 of low occupancy, outside scope*. Nobody had questioned the note.
 
-On the night of the big tide, the Shallows had flooded. She hadn't known that at the time. She
-hadn't looked. The Civil Defense bulletin talked about Lowtown. She went looking now, in the
+On the night of the big tide, the Shallows had flooded. She had heard it at the time, on the
+Civil Defense bulletin, somewhere in a list, and hadn't kept it. She went looking now, in the
 recordings Nilo made from the crank radio, and found it: *The Shallows, water to the knee, no
 casualties*. To the knee. Because the village was at the end of the curve, and the sea that
 came along the coast hit the wall, and ran along it to the south, and when the wall ended, it
@@ -86,8 +82,8 @@ The sea that ran along the coast would hit the rampart and turn. Toward where th
 rampart.
 
 She did the math with the data from the night of the big tide. She did it with three different
-propagation models, because the first gave a number she didn't want, and the second gave the
-same, and the third gave a little more.
+propagation models, because the first came out with a number she didn't want, and the second
+came out the same, and the third a little higher.
 
 In the Shallows, with the ring, a tide like that night's would rise between forty and seventy
 centimeters higher than it had.
@@ -115,10 +111,8 @@ the meeting on the catamaran, whole, with every drawing, in a four-hundred-page 
 didn't disappear. It was diverted. It went through a concrete culvert, under the toe of the dike,
 with a tide gate at the outlet. Well drawn. Correct.
 
-But during construction, to build the toe of the dike, the design called for a cofferdam. A
-temporary wall, of steel piles driven into the sand, around the site, to hold back the water
-while the foundation was dug. She went to the cofferdam drawing for the southern stretch. She
-found it. The cofferdam closed the mouth of the creek. For eleven months. With a temporary pipe
+But during construction, to build the toe of the dike, the design called for a cofferdam. She
+went to the cofferdam drawing for the southern stretch. She found it. The cofferdam closed the mouth of the creek. For eleven months. With a temporary pipe
 of six hundred millimeters for the water to get through.
 
 Six hundred millimeters was enough for the rain off the hill. It wasn't enough for the big tide
@@ -140,8 +134,8 @@ Firma's own reports: one, two centimeters a year. Sometimes more.
 In fifty years, the length of the concession, the ground of Lowtown would be half a meter, a
 meter lower than it was. And the sea, in the same fifty years, higher. The difference between
 the inside and the outside of the dike would grow from both sides at once. The pumps would have
-to work harder every year, and forever, and the day they stopped (through a failure, a
-bankruptcy, a Council that didn't fix gates) Lowtown wouldn't flood the way it had flooded on
+to work harder every year, and forever, and the day they stopped — through a failure, a
+bankruptcy, a Council that didn't fix gates — Lowtown wouldn't flood the way it had flooded on
 the night of the big tide. It would fill like a bucket. To sea level, all at once, with the
 ground a meter deeper.
 
@@ -161,9 +155,8 @@ sliding on the posts, a low creak, metal on metal, which had become the sound of
 
 She went still.
 
-Davi had started going to the Shallows in the middle of winter, when a fisherman from there,
-Benedito, showed up at the boatyard with a canoe hull split from bow to stern and asked if this
-was where Amaro's grandson fixed boats. Davi fixed it. Then he fixed another. Now he went two
+Davi had been going to the Shallows ever since Benedito turned up at the boatyard with the canoe
+split from bow to stern. Davi fixed it. Then he fixed another. Now he went two
 afternoons a week, by boat, along the coast, around the tip of the wall. He came back with fish.
 He came back with his hair stiff with salt and burnt by the sun, and once with a beaded bracelet
 on his wrist that she didn't ask about, and found out later belonged to Benedito's daughter,
@@ -182,7 +175,7 @@ Joana looked at the closed notebook on the table.
 "Oh." Davi was quiet for a while. "Benedito said that when it's done, we can go look at it from
 up top. From the village. He said it must be pretty, from below."
 
-She didn't answer.
+She switched off the flashlight.
 
 ---
 
@@ -205,7 +198,7 @@ document arrived unsigned: you looked at who had created it. Nobody ever remembe
 
 *Created: a Monday, sixteen years before, at seven forty in the evening.*
 
-She sat looking at that for a very long time.
+She read it three times.
 
 Raul Mendes. Who sixteen years before had worked at the desk next to hers, in the windowless
 basement. Who three days a week, that year, she remembered now, left after lunch with his coat
@@ -221,7 +214,7 @@ that the residual risk was acceptable. And on Tuesday the Council had voted. And
 director had come down to the basement with the four-twenty drawing, and he was at the next desk,
 headphones on, while she chose.
 
-And afterward, for eleven years, every day, *Morning, Joana.*
+And afterward, for seven more years, every day, *Morning, Joana.*
 
 And in the Council corridor, arms open: *It wasn't you. It was a room of nine people on a
 Tuesday. You did the math right.*
@@ -233,7 +226,7 @@ He knew she had done the math right. He had read it.
 She closed the file.
 
 She sat. The flashlight swung a little from the ceiling, because the platform was rising, and
-the light moved over the bamboo walls, slowly, from one side to the other.
+the light moved over the bamboo walls, from one side to the other.
 
 She could go down now, take Amaro's boat, go along the coast to the white catamaran, which had
 been anchored since the week before at the tip of the Quay, and knock on the dark glass of the
@@ -260,7 +253,7 @@ left as it was in their design.
 
 If she said yes, the village would be as it was in hers.
 
-That was it. It was the only math that came out.
+That was it. It was the only math that worked.
 
 She opened the notebook. She tore out the week's pages, carefully, along the stitching. The ones
 on the Shallows. The ones on the creek. The ones on the pumps. She folded them in four. She put
@@ -269,5 +262,5 @@ the bottom of her backpack.
 
 She wasn't going to hide it. She was going to solve it. It wasn't the same thing.
 
-Outside, in the hammock, Davi was asleep. The beaded bracelet on his wrist, hanging over the edge
-of the hammock, swung a little with the platform rising.
+Outside, in the hammock, Davi was asleep. His arm, with the bracelet, hanging over the edge of
+the hammock, swung a little with the platform rising.

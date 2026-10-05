@@ -24,39 +24,71 @@ cast:
 - benedito
 - tais
 source: o-que-e-do-mar/chapters/13-a-ensecadeira.md
-source_sha: e60dbb1ae5e5
+source_sha: 90eae5c9c955
 status: draft
 ---
+The machine had been vibrating since six, and Joana could feel it in her teeth.
 
-The cofferdam on the southern stretch was three hundred and ten meters long, and Joana had watched
-every pile go in.
+It wasn't a hammer. It was a continuous vibration, thick, that came from the barge through the
+water, through the sand, through the concrete of the crest, came in through the soles of her boots
+and rose to her teeth. The machine took a steel sheet upright in one arm, twelve meters, its edges
+bent into hooks to lock into the next, set its tip on the sand and vibrated, and the sheet sank like
+a hot knife into butter, and stopped, and the machine let go and took the next one. Two, three an
+hour. Three weeks of piling.
 
-They were steel sheets, long, twelve meters, with their edges bent into hooks so they locked into
-one another. A big machine, mounted on a barge, took each sheet upright in one arm, set its tip on
-the sand and vibrated. It was a noise she would remember the rest of her life: not a hammer, a
-continuous vibration, thick, that came in through the soles of her feet and rose to her teeth, and
-during which the steel sheet sank into the sand like a hot knife into butter, and then stopped, and
-the machine let go, and took the next one. One an hour. Sometimes two. For three weeks.
+In the end it would be an arc of three hundred and ten meters of gray steel, leaving the southern
+tip of the Barrier, running out across the beach and coming back to land past the mouth of the
+creek, closing off the sea side of the site on the southern stretch. Inside the arc, at the same
+time, the excavators were already opening the pit for the dike's foundation: five weeks of digging,
+running alongside the piling. The work had started a week after the vote. Outside, ten meters away,
+the first houses of the Shallows.
 
-In the end, it was a wall of gray steel, rusting at the edges, that came out of the beach beside the
-tip of the old wall, ran inland along the southern edge of Lowtown, and closed in a rectangle of sand
-where the excavators would open the pit for the dike's foundation. Outside the rectangle, ten meters
-away, the first houses of the Shallows.
+And at the mouth of the creek, a pipe. Black. Thick plastic. Six hundred millimeters in diameter,
+buried in the sand, under the cofferdam, with a grate over the mouth so it wouldn't clog.
 
-And in the middle of the wall, where it crossed the creek, a pipe. Black. Thick plastic. Six hundred
-millimeters in diameter, buried in the sand, under the cofferdam, with a grate over the mouth so it
-wouldn't clog.
+---
 
-The permit was for the original design. Raul had explained in the second week, in the site container,
-in his patient voice. The Council had permitted that. Any change needed a new permit, and a new permit
-took six months. Her spillway, the six-meter channel in place of the pipe, all of that would go into
-the amendment. In the second phase. *We drive the cofferdam now, as permitted, and in the amendment you
-open whatever you want. It's temporary, Joana. It's temporary by definition.*
+"The permit is for the original design," said Raul.
 
-She had agreed. She had done the math: the next truly big tide was the equinox, four months away. The
-amendment would come through before then. It had to.
+It was the second week, in the site container, and he was using his patient voice.
 
-It was the second time she had done that math. She knew it was. She did it anyway.
+"The southern stretch is mine," said Joana. "That was the condition."
+
+"It's yours. In the amendment." He put his finger on the schedule, on the screen on the wall. "The
+Council permitted this design. Any change is a new permit, and a new permit takes six months. Your
+spillway, the six-meter channel in place of the pipe, it all goes into the amendment, in the second
+phase. We drive the cofferdam now, as permitted, and in the amendment you open whatever you want.
+It's temporary, Joana. It's temporary by definition."
+
+She could fight it. The condition was in writing, with his signature. She could take it to the
+Council, ask for the new permit, stop the work for six months. And she would have to say why.
+
+She did the math. The next truly big tide was the equinox, five months off. The amendment would come
+through before then. It had to.
+
+It was the second time she had done that math. She did it anyway. She signed the work order on the
+screen, with her finger: *Joana Amaral, chief engineer.*
+
+On Saturday, the young woman from Terra Firma set up a table in the Market gallery, beside the
+charging line, and everyone who had title lined up too. The residents' association had signed on the
+day before, on a single sheet, with the new stamp still smelling of ink. Each of them pressed a thumb
+to the tablet, the tablet beeped, and the young woman said *signed over*. The questions were for
+Joana, not for the young woman. Whether the building would stay dry. Whether the pump could stop. She
+answered, and everything she answered was true.
+
+Edson was the third. He pressed his thumb, waited for the beep, and didn't step away from the table.
+
+"Is there room in the new building for a metal shop?"
+
+"Retail on the ground floor," said the young woman. "With priority purchase."
+
+Edson looked at Joana, the way you look at someone to ask if the other person is telling the truth.
+
+"There is," said Joana.
+
+He went down the spiral staircase with the receipt folded in his shirt pocket.
+
+By the end of the week there were a hundred and forty titles.
 
 ---
 
@@ -64,7 +96,7 @@ The site container sat on top of the old wall, on the crest, a hundred meters fr
 It was a box of white steel with a window on each side and inside a table, four chairs, an air
 conditioner that dripped, and two screens on the wall: the construction schedule and the cameras.
 Joana spent twelve hours a day there. Sometimes fourteen. She slept on her platform, on the Market
-canal, and left at six, at low tide, on foot across the mud to the wall, and climbed the iron ladder
+canal, and left at six, on foot across the mud when the tide allowed, by boat when it didn't, and climbed the iron ladder
 to the crest, and walked along the crest to the container, and from there she saw everything.
 
 Lowtown on one side. The sea on the other. And to the south, past the steel wall, the Shallows.
@@ -80,21 +112,21 @@ other boys. Once, sitting in the net shed with Benedito, the toolbox open on the
 Once with Taís, the two of them sitting on the upturned hull of a canoe, their backs to the wall,
 looking at the sea.
 
-He didn't answer her messages. She had stopped sending them in the third week. She sent one every
-Sunday. *I'm here.* He read it. She could see that he read it.
+He didn't answer her messages. In the third week, she had stopped sending one every day. Now she
+sent one every Sunday. *I'm here.* He read it. She could see that he read it.
 
 ---
 
 That Friday's surge wasn't in the forecast.
 
-It was, afterward. On Friday morning the model gave moderate wind and a spring tide, three days after
+It was, afterward. On Friday morning the model called for moderate wind and a spring tide, three days after
 the full moon, high but not the highest. At noon on Friday the model changed. A front coming up from
-the south, faster than forecast, swung the wind round to the southeast and started pushing the sea
-against the coast. At four on Friday afternoon, the wave buoys, the six that were left, were giving
+the south, faster than forecast, swung the wind around to the southeast and started pushing the sea
+against the coast. At four on Friday afternoon, the wave buoys, the six that were left, were reading
 three and a half meters. At six, four.
 
 Joana was in the container. She watched the buoys change color on the camera screen, one by one. She
-watched the forecast for the night's tide climb on the graph, forty centimeters above the table. She
+watched the forecast for the night's tide climb on the graph, eighty centimeters above the tide table. She
 did the math she had done before the vote, at the table on the platform, with the flashlight swinging.
 The math that was folded in four inside a plastic folder at the bottom of her backpack, which was
 hanging on the back of her chair, right there, in the container.
@@ -129,15 +161,16 @@ She hung up.
 
 ---
 
-At nine at night, the tide began overtopping the old wall at Quay Street.
+At eleven at night, the sea began overtopping the old wall at Quay Street.
 
 She watched it on the camera. A thread of blue. Then more. The platforms the circle had put on Quay
 Street, eleven of them, right against the wall, rose on their posts, and the water that came over the
-crest fell onto them, and they rose. Joana looked at the rings. They had slack. The posts there were the
-new ones, eight meters, that Edson had welded together from two old posts each. They would hold. She
+crest fell onto them, and they rose. Joana looked at the rings. They had slack. The posts there were
+Edson's: two old posts spliced end to end, half of each driven deep into the mud, so they wouldn't
+bend when a wave hit side-on. They would hold. She
 had done the math.
 
-At half past nine, she looked south.
+At half past eleven, she looked south.
 
 The Shallows was full.
 
@@ -149,10 +182,10 @@ with the water halfway up its posts. People on the roofs. Not much light. Small 
 And the water still rising.
 
 It was what the math said. The sea came along the coast, hit the old wall, ran south along it, and at
-the tip, where before it had spread over Lowtown too, through the Market canal, it now met the steel
-wall of the cofferdam, three hundred and ten meters, and turned. Toward the village. All of it. And went
+the tip, where before it had opened out across the beach, it now met the steel arc of the cofferdam,
+three hundred and ten meters, and turned. Toward the village. All of it. And went
 in. And the creek, which should have carried the water back out when the tide turned, was closed off by
-a six-hundred-millimeter pipe with a grate over its mouth, and on the grate, Joana knew without seeing,
+a six-hundred-millimeter pipe with a grate over its mouth, and on the grate, she didn't need to see it,
 was everything the water had dragged through the village: branches, plastic, net, a door.
 
 She switched on the camera that pointed at the pipe. The mouth of the pipe was under water. On the
@@ -162,13 +195,13 @@ A meter and a half of difference, separated by a wall of steel twelve millimeter
 
 ---
 
-The white boat with the blue stripe went past the camera at ten to ten.
+The white boat with the blue stripe went past the camera at ten to midnight.
 
 She caught it on the screen, and then through the window. It was coming from the middle of the village,
-slowly, with a light in the bow, and a boy at the oars, and people in it. Four, five. An old woman
+with a light in the bow, and a boy at the oars, and people in it. Four, five. An old woman
 sitting in the bottom, wrapped in a blanket. It came up against the roof of the thatched net shed,
 which was the highest in the village, and the people got out, helped by others who were already there,
-and the boat moved off again, slowly, into the middle of the water, toward the houses at the back.
+and the boat moved off again into the middle of the water, toward the houses at the back.
 
 He didn't fight the water. He waited for the swell to pass, and gave two strokes.
 
@@ -178,8 +211,8 @@ Joana took out the device. She called. It rang five times, six.
 
 His voice was far away, wet, with the wind and the noise of the water.
 
-"Davi. The water's going to rise more. The tide doesn't turn until twenty to midnight. And when it
-turns, it won't go down. The creek is closed off."
+"Davi. The water's going to rise more. The tide doesn't turn until two. And when it turns, it won't
+go down. The creek is closed off."
 
 "I know." He was out of breath. "Benedito said. Taís's grandma is at the back of the village, in a
 one-story house. The water's at the window. I'm going to get her."
@@ -192,15 +225,15 @@ The line went dead.
 
 ---
 
-She went down from the container by the crest's iron ladder on the inside, to the site. The site was
-still dry. It was a rectangle of packed sand three hundred meters by forty, enclosed by the cofferdam
-on the village side and the sea side, and by the old wall on the Lowtown side. At the far end of the
-rectangle, the foundation pit, dug to two meters below the sea, with groundwater seeping out of its
+She went down from the container by the crest's iron ladder to the site. The site was still dry. It
+was a half-moon of packed sand, two hundred and seventy meters long and forty at the widest, closed by
+the arc on the sea side, by the creek embankment on the village side, and by the old wall on the
+Lowtown side. At the far end, the foundation pit, dug to two meters below the sea, with groundwater seeping out of its
 walls. The machines were parked, up against the wall. Two excavators. A bulldozer. Nobody. Raul had sent
 everyone home.
 
-And at the point where the cofferdam crossed the creek, the wall wasn't only steel. She knew because she
-had watched it built. There, to fit the pipe, they had left out four sheets and made an embankment: a
+And at the mouth of the creek, the cofferdam wasn't steel. She had watched it built. There, to fit the
+pipe, they had left out four sheets and made an embankment: a
 dike of packed earth and stone, fifteen meters wide, with the pipe underneath, and steel sheets only at
 the ends.
 
@@ -208,10 +241,10 @@ Earth.
 
 She stood looking at it from the foot of the ladder, in the dark, with the wind blowing and the rain
 beginning. On the other side of the embankment, a meter and a half higher, the village. On this side,
-the foundation pit. Six weeks of digging. The pile caps already driven at the bottom. The whole schedule
+the foundation pit. Five weeks of digging. The foundation piles already driven at the bottom. The whole schedule
 for the southern stretch. The second phase. The amendment. Her spillway. The right wall.
 
-And what it cost. She knew what it cost. She had the math in her backpack.
+And what it cost. The math was in her backpack.
 
 She ran to the nearest excavator.
 
@@ -219,7 +252,7 @@ She ran to the nearest excavator.
 
 She didn't know how to drive an excavator. She had sat in one once, at twenty-eight, on a Department
 site, for five minutes, with the operator beside her explaining the levers. The cab was locked. The key
-was in the container, on a board on the wall, with the others; she had seen it every day for six weeks.
+was in the container, on a board on the wall, with the others; she had seen it every day for five weeks.
 She climbed the iron ladder again, running, got the key, came down.
 
 The excavator started on the second try. A thick diesel roar. The lights on top came on and caught the
@@ -241,32 +274,35 @@ At the fifth, the embankment gave way on its own.
 
 It wasn't slow. What was left of the packed earth, pushed by a meter and a half of village on one side,
 went all at once, with a thick crack, like a tooth coming out, and the water came into the site. Dark.
-Fast. A ramp of water dropping from the level of the village to the floor of the rectangle, carrying
+Fast. A ramp of water dropping from the level of the village to the floor of the site, carrying
 earth and stone, and Joana felt the whole excavator shake, and pulled the track lever, and the machine
 went backward, in jerks, while the water ran past in front of it and fell into the foundation pit with
 the sound of a waterfall.
 
-The pit filled in four minutes. She counted. Then the water began to spread over the site, over the
-packed sand, the whole rectangle of three hundred meters by forty turning into a new lake, and every
-hand-span the lake rose was a hand-span that left the village.
+The pit filled in four minutes. She counted. Then the water began to spread over the packed sand,
+the whole half-moon turning into a new lake, and the creek had its way to the sea again: through the
+site, as before the works. The arc had been braced to hold back the sea from outside, not a lake from
+inside. When the tide turned and the sea dropped on the other side, the sheets at the end, where the
+arc came back to the beach, would open.
 
 She switched off the excavator and climbed onto the roof of the cab.
 
 From up there she could see the village. The water between the houses wasn't smooth anymore. It was
-moving. All of it, slowly, toward the hole she had opened. And the level, on the walls of the nearest
-houses, was going down. She saw a dark line appear on a wall painted pink. One hand-span. Two.
+moving. All of it, toward the hole she had opened. And the level, on the walls of the nearest
+houses, was going down. She saw a dark line appear on a wall painted pink. One hand-span.
 
 Far back in the village, a small light, low, swinging, was heading back to the thatched shed.
 
 ---
 
-The site on the southern stretch stayed under water until Sunday's low tide.
+The site on the southern stretch never dried out again.
 
-Raul got to the container at two in the morning, in boots and a slicker, wet to the knees, after
+Raul got to the container at three in the morning, in boots and a slicker, wet to the knees, after
 crossing on foot along the crest of the old wall. Joana was sitting in her chair, her backpack in her
 lap. He stood in the doorway.
 
-"Six weeks," he said. "The foundation. The piles. Do you know how much..."
+"Five weeks," he said. "The foundation. The piles. The end of the arc is opening, I saw it from
+the crest. Do you know how much..."
 
 "I know."
 
@@ -284,7 +320,7 @@ of him. And on top, the device, its screen lit.
 
 Raul looked at the screen for a long time.
 
-Then he sat down. In the chair on the other side of the table. He took off the wet slicker, slowly. He
+Then he sat down. In the chair on the other side of the table. He took off the wet slicker, one sleeve at a time. He
 put his hands on the table, open, beside the device, and Joana saw that they were shaking.
 
 "I was thirty-four," he said. It wasn't an excuse. It was the voice of someone reading out a number.
@@ -297,7 +333,7 @@ He stopped. "I believed that until the night of the thirty-first."
 
 "It was what I had to give you."
 
-She looked at him. At the man at the next desk, with headphones on, for eleven years. She didn't feel
+She looked at him. At the man at the next desk, with headphones on, for seven years. She didn't feel
 what she had thought she would feel. She didn't feel anger. She felt something like what she had felt at
 the inquiry, looking at the drawing with her own signature on it.
 
@@ -312,7 +348,7 @@ Including that I knew."
 
 Raul sat looking at the pages. Then he raised his eyes.
 
-"The contract's signed, Joana," he said, slowly. "The association has signed on. A hundred and forty
+"The contract's signed, Joana," he said. "The association has signed on. A hundred and forty
 titles have already been signed over. The Council ratified the concession last week." He shook his head.
 "You can leave. The circle can change its mind. It doesn't change anything. You can't unsign it."
 
@@ -323,14 +359,14 @@ Davi appeared at the container at five in the morning, with the first light.
 She didn't hear him come up the iron ladder. She saw him in the doorway. Soaked through, in swim shorts,
 no shirt, with the beaded bracelet on his wrist and a cut on his shin that someone had bound with a rag.
 He didn't come in. He stood in the doorway, looking at her, sitting in the chair, and at Raul, asleep on
-the bench in the corner, in his slicker, and at the pages on the table.
+the bench in the corner, under his slicker, and at the pages on the table.
 
 "Taís's grandma is fine," he said. "Everybody's fine. The water stopped rising right then. After the tide
 turned, it went down. Through the hole." He looked out the container window, at the site, which was a
 brown lake with an excavator in the middle of it, up to the roof of the cab. "Benedito said it was
 somebody with a machine."
 
-Joana didn't say anything.
+Joana took the backpack off her lap and set it on the floor.
 
 Davi looked at her a while longer. Then he came in, and sat on the floor of the container, against the
 wall, beside her chair, his knees up. Like on the roof of the boatyard, on the morning after the big

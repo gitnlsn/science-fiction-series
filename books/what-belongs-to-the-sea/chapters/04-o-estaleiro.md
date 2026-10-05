@@ -19,7 +19,7 @@ cast:
 - ilda
 - nilo
 source: o-que-e-do-mar/chapters/04-o-estaleiro.md
-source_sha: 490221fe7133
+source_sha: 6d0cf94460c4
 status: draft
 ---
 The chickens were floating.
@@ -28,7 +28,7 @@ Joana saw it from the end of Caulkers Street, with the water up to her knees, he
 boots full, a shopping bag in each hand, held up to keep them dry: in the middle of the
 street, in front of the boatyard, tied to a lamp post that hadn't lit in a month, a
 henhouse. A box of wire mesh and wood the size of a table, with an old zinc roof, sitting
-on four blue plastic drums. Inside, six chickens. The water was rising slowly, with the
+on four blue plastic drums. Inside, six chickens. The water was rising with the
 afternoon tide, and the henhouse was rising with it, a finger at a time, held to the post
 by a loop of rope that slid upward as the box rose.
 
@@ -60,7 +60,7 @@ the water left on the brick every day.
 In the loft, now, there was a house.
 
 A double bed made of two bed frames. A plank table with two chairs. A two-burner stove,
-on a gas bottle, and a shelf with pots. A five-hundred-liter water tank, black plastic, in
+on a propane tank, and a shelf with pots. A five-hundred-liter water tank, black plastic, in
 the back corner, with a pipe that ran up the wall to the roof and went in through a gap in
 the zinc. A hammock for two. A clothesline. A crank radio on the table, the Civil Defense
 one. And, hanging on nails on the wooden wall, in a row, her father's tools, each in its
@@ -84,7 +84,7 @@ the exact spot where there was a space the size of a bag of coffee. "Davi brings
 
 Davi was down below, on the ground floor, in the water.
 
-Joana saw him from the rail of the loft. The water in the shed was at his chest and still
+Joana saw him from the rail of the loft. The water in the shed was at his waist and still
 rising, and he was standing in the middle of it, in swim shorts, no shirt, arms spread,
 holding a long plank horizontally above his head. At the other end of the plank, against
 the wall, there was a frame of wood and bamboo, a square two meters by two, tied underneath
@@ -104,7 +104,7 @@ times.
 She didn't say anything. She had gone five weeks without saying anything about Davi and the
 water.
 
-He had started coming down to Lowtown the Saturday after the inquiry. He hadn't asked. He
+He had started coming down to Lowtown the Saturday after the big tide. He hadn't asked. He
 had told her, at the front door, with his backpack on: *I'm going to Grandpa's.* And she had
 let him, because she didn't know how not to, and because her father wasn't going to come
 up, and someone had to bring the coffee. Then it had been Saturday and Sunday. Then the
@@ -138,7 +138,7 @@ Davi looked for a long time. Then he slapped the water.
 She stayed the afternoon.
 
 She hadn't planned to. She had come down to bring the groceries, because her father's
-relocation place expired in nine days and she wanted to talk to him about it, and the
+relocation offer expired in nine days and she wanted to talk to him about it, and the
 afternoon tide had started rising while she was crossing Lowtown, and by the time she got
 there there was no way back on foot without swimming. So she stayed. She sat on a stool in
 the loft, beside her father, and watched her son work.
@@ -166,8 +166,8 @@ rocked three, four times, and settled level.
 "Standing up."
 
 Davi climbed on. Joana held her breath without meaning to. He put one knee on the edge,
-then the other, then crouched in the middle, and then, slowly, stood, arms spread, a boy a
-meter eighty tall on top of a square of bamboo and old bottles in the middle of a flooded
+then the other, then crouched in the middle, and then, slowly, stood, arms spread, a boy one
+point eight meters tall on top of a square of bamboo and old bottles in the middle of a flooded
 shed. The frame sank to the edge of the top bottles. It rocked. And it stayed.
 
 Davi laughed. A loud laugh, a child's, that hit the zinc of the roof and came back.
@@ -191,10 +191,10 @@ Davi thought about it, crouching, with the water slapping at the bottles.
 Joana was doing the math in her head and couldn't stop. Center of gravity, center of
 buoyancy. Metacenter. The distance between one and the other, and the width of the base
 squared, and the moment that brought the hull back upright. She had studied it in a
-five-hundred-page book, in her second year of university, with integrals. Her father had
+five-hundred-page book, in her second year of college, with integrals. Her father had
 learned it from his father, in a shed, with a boat.
 
-*Weight low. Wide in the beam.* It was the same thing. It was exactly the same thing.
+It was the same thing. It was exactly the same thing.
 
 ---
 
@@ -225,7 +225,7 @@ fifty, just in these four blocks. Further over I don't know."
 
 "And what are you going to do?"
 
-Her father didn't answer. He got up from the stool, slowly, leaning on the rail, and Joana
+Her father passed a hand over his mouth. He got up from the stool, leaning on the rail, and Joana
 saw that he needed two tries, and that on the second he stood still for a second, his hand
 on his chest, breathing short. Then it passed. He went over to the wall where the tools
 were.
@@ -242,8 +242,8 @@ plumb bob: a brass cone the size of a finger, hanging on a cord, which her fathe
 everything, to see whether a wall was straight, whether a mast was upright, whether a thing
 was where it should be.
 
-He took them off the nails one by one. Slowly. And laid them on the plank table, in a row,
-the way they had been on the wall.
+He took them off the nails one by one and laid them on the plank table, in a row, the way
+they had been on the wall.
 
 Davi watched, the towel on his shoulders, not understanding.
 
@@ -253,8 +253,8 @@ Davi watched, the towel on his shoulders, not understanding.
 
 Davi got it. A long wooden box with a hinged lid, which Joana knew too, where the tools went
 when her father traveled to some boatyard somewhere else, once a year, to help a friend. Her
-father packed them in. The adze first, at the bottom, because it was the heaviest. Weight
-low. Then the chisels, the plane, the marking gauge, the saw in its cloth. The caulking
+father packed them in. The adze first, at the bottom, because it was the heaviest. Then
+the chisels, the plane, the marking gauge, the saw in its cloth. The caulking
 mallet. Last, the plumb bob, wound in its own cord, in a corner.
 
 He closed the lid. He ran his hand over it.
@@ -275,8 +275,8 @@ He looked at her.
 
 She didn't know what she was going to say. There was something in her throat, very big, and
 she didn't know if it was anger or the opposite. She had asked for those tools once, at
-twelve. She had asked to learn. Her father had said it wasn't for a girl who was going to be
-a doctor of something, and had bought her an old slide rule in a junk shop, as a present,
+twelve. She had asked to learn. Her father had said it wasn't for a girl who was going to
+college, and had bought her an old slide rule in a junk shop, as a present,
 and she had been so happy with the slide rule that she had never asked again.
 
 She still had the slide rule. In a drawer.
@@ -315,30 +315,30 @@ That's why it lasts."
 
 She opened her mouth. And she had nothing. She had a hundred technical answers, and none of
 them was an answer to that. Foundations. Sewage. Scale. People who can't swim. But under all
-of them was a question she had never asked, because she had spent her whole life, since she
-was twelve, since the slide rule, learning to make things that held.
+of them was a question she had never asked, because since she was twelve, since the slide
+rule, she had been learning to make things that held.
 
 "I don't know," she said.
 
-Her father nodded, as if that were the right answer.
+"That's it," her father said, as if that were the right answer.
 
 "Your mother used to say you'd be the only Amaral who built things that stood still," he
 said. "She was proud of it. So was I."
 
-"Was."
+"Were."
 
-"Am." He put his hand on her knee. The hand was warm, rough, and shook a little. "Your wall
+"Still am." He put his hand on her knee. The hand was warm, rough, and shook a little. "Your wall
 held for fourteen years, Joana. It held the tide of seventy-nine, of eighty-four, of
 eighty-seven. I was here. I saw. Nobody died, not once."
 
-She couldn't answer.
+She squeezed his hand.
 
-"Now it's done," he said. "It's not blame. It's age. Everything that holds stops holding one
-day. Then it has to be something else."
+"Now it's done," he said. "It's not blame. It's age. What belongs to the sea, the sea comes
+back for. Then it has to be something else."
 
 Down below, on the mud, the bottle frame was waiting.
 
-"What something?" she asked.
+"Like what?" she asked.
 
 Her father looked at the hammock where Davi was sleeping, his hand hanging out, over the
 wooden box.

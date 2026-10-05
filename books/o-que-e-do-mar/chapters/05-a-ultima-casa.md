@@ -70,18 +70,19 @@ O Nilo, neto da Dona Ilda, apareceu às dez num caiaque amarelo, remando com um 
 para avisar que o rádio da Defesa tinha dado ressaca para a noite.
 
 — Não tão grande quanto a outra — disse ele, segurando o caiaque com a mão na parede do
-estaleiro. — Mas com a lua cheia de ontem, a maré tá alta igual. E agora não tem comporta.
+estaleiro. — Mas com a lua cheia de sábado, a maré tá alta igual. E agora não tem comporta.
 
 Joana fez a conta. Não queria e fez. A maré de lua cheia daquela noite ia chegar perto da
-da maré grande, uns dez centímetros abaixo. A ressaca era menor, a muralha ia ser galgada menos.
-Mas não fazia mais diferença quanto a muralha era galgada. A boca do canal do Mercado
-estava aberta. O mar não precisava passar por cima de nada. Ia entrar pela porta.
+altura da maré grande, uns dez centímetros abaixo. A ressaca era menor, a muralha ia ser
+galgada menos. Mas não fazia mais diferença quanto a muralha era galgada. A boca do canal
+do Mercado estava aberta. O mar não precisava passar por cima de nada. Ia entrar pela porta.
 
-Na noite da maré grande, a água tinha chegado a um metro e meio dentro do estaleiro. Naquela
-noite ia chegar a dois e meio. Talvez três, com a ressaca empurrando pelo canal.
+Na noite da maré grande, a água tinha chegado a dois metros e meio dentro do estaleiro.
+Naquela noite a água parada ia ficar um palmo abaixo disso, dois metros e trinta. Mas ia vir
+com onda, pelo canal, e a onda vinha por cima.
 
-O mezanino estava a quatro e trinta. O piso do mezanino aguentava. As paredes de tijolo
-do térreo também. O que ela não sabia era o madeiramento de cima, as tábuas velhas que
+O piso do mezanino ficava a dois metros e noventa do chão do galpão, e aguentava. As
+paredes de tijolo do térreo também. O que ela não sabia era o madeiramento de cima, as tábuas velhas que
 fechavam o galpão do meio da parede até o telhado, e que nunca tinham tomado onda.
 
 — Pai — disse ela. — O senhor vai pra casa da Dona Ilda essa noite. É de concreto, tem
@@ -102,7 +103,7 @@ cansado. Era uma coisa diferente.
 maternidade, porque a maré tava cheia e o caminho fechado, e eu nasci ali, onde tá o berço
 do Severino. Deixa eu ficar.
 
-Ela não disse mais nada.
+Ela foi ajudar o Davi com as cordas.
 
 ---
 
@@ -130,7 +131,7 @@ O Davi tinha olhado para a mãe. Ela tinha dito o número. Ele tinha medido a co
 braço, de ombro a ponta do dedo, e amarrado.
 
 Às sete, a Dona Ilda chegou no caiaque do Nilo, sentada no meio, com uma sacola no colo, e
-subiu a escada de madeira devagar, sem aceitar mão de ninguém.
+subiu a escada de madeira sem aceitar mão de ninguém.
 
 — Ele disse que aqui é mais alto — disse ela a Joana, no mezanino, tirando a capa de chuva.
 — Eu disse que aqui é madeira. Ele disse que eu podia ficar na minha. — Ela olhou em
@@ -142,9 +143,8 @@ A água entrou no galpão às oito, pelo portão aberto, e subiu.
 
 Joana ficou no parapeito do mezanino, com uma lanterna de cabeça, olhando a linha da água
 contra as colunas de ferro, que o pai tinha marcado com tinta branca, de palmo em palmo,
-anos antes, para medir as marés de outros tempos. Às oito e meia, a água estava na marca do
-metro. Às nove, no metro e meio, onde tinha ficado na noite da maré grande. Às nove e vinte, no
-segundo metro. O casco do Severino subiu com ela, quieto, nas cordas, e a armação de tábuas
+anos antes, para medir as marés de outros tempos. Às oito e meia, a água estava na quarta
+marca. Às nove, na sexta, onde chegava uma maré comum. Às nove e vinte, na oitava. O casco do Severino subiu com ela, quieto, nas cordas, e a armação de tábuas
 e garrafas subiu também, e os tambores azuis do galinheiro, e as galinhas lá dentro, que
 tinham parado de reclamar.
 
@@ -186,11 +186,10 @@ puxando as cordas.
 O que aconteceu depois, Joana ia lembrar para sempre em pedaços, e nunca na ordem certa.
 
 Lembraria do Davi descendo a escada de madeira com a água já no penúltimo degrau, e
-pulando dentro do casco do Severino, e o casco balançando e voltando. Peso embaixo. Boca
-larga. Lembraria de pôr a Dona Ilda dentro do casco, que pesava muito menos do que parecia,
+pulando dentro do casco do Severino, e o casco balançando e voltando. Lembraria de pôr a Dona Ilda dentro do casco, que pesava muito menos do que parecia,
 e da Dona Ilda dizendo *eu sei entrar num barco, menina*. Lembraria do Nilo soltando o
 caiaque amarelo e deixando ir, porque não cabia. Lembraria do pai descendo a escada por
-último, devagar, de costas, um degrau de cada vez, como se desce escada de barco, com a
+último, de costas, um degrau de cada vez, como se desce escada de barco, com a
 água no peito e a chuva na cara, e sentando na popa, no banco do remador, e pegando os
 remos.
 
@@ -215,7 +214,8 @@ corrente empurrava para o lado da ladeira, para longe do canal, e ele deixou que
 empurrasse, e só remava para corrigir. Uma remada de um lado. Uma do outro. A chuva na
 cara. A lanterna de Joana na proa pegando as janelas das casas, as grades, os postes. A
 casa da Dona Ilda ficava a quatro casas, do outro lado. Uma construção de concreto de três
-andares, pintada de verde, com uma escada externa de ferro até o terraço.
+andares, pintada de verde, num aterro alto, oito degraus acima da rua, com uma escada externa de ferro
+até o terraço.
 
 Ele chegou na escada de ferro com três remadas. Encostou o casco nela como se encosta um
 carro na garagem.
@@ -299,7 +299,7 @@ dela, e Joana parou.
 
 A maré virou às onze e cinquenta.
 
-Ela ficou no casco com o pai. Não quis subir. Cobriu ele com a capa de chuva da Dona Ilda e
+Ela ficou no casco com o pai. Não quis subir. Cobriu-o com a capa de chuva da Dona Ilda e
 ficou sentada no banco da frente, com a mão no joelho dele, enquanto a água descia pela
 rua, e o casco descia com ela, devagar, nas cordas, até pousar na lama, inclinado, na frente
 da escada de ferro da casa verde.
@@ -327,8 +327,8 @@ Ele esperou.
 
 Joana olhou a rua dos Calafates. A água subia de novo, um dedo de cada vez. O estaleiro, a
 quatro casas, sem a parede da frente, com o telhado pela metade, as colunas de ferro em pé
-com as marcas de tinta branca, e lá dentro, pousada na lama, a armação de tábuas e garrafas
-que o Davi tinha feito para a Dona Ilda. Tinha aguentado a noite inteira, amarrada a uma
+com as marcas de tinta branca e a linha de lama da noite passando da décima marca. Lá
+dentro, pousada no chão do galpão, a armação de tábuas e garrafas que o Davi tinha feito para a Dona Ilda. Tinha aguentado a noite inteira, amarrada a uma
 coluna. Ainda estava lá. Esperando a água para ser alguma coisa.
 
 — Eu não vou pro Planalto — disse ela. — E não vou pra cidade alta.

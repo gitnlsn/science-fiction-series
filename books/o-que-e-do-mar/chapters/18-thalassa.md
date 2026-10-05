@@ -3,9 +3,8 @@ title: Thalassa
 part: IV — A CIDADE NOVA
 pov: Joana
 when: 2091-06-18 — manhã
-where: o Baixo, sobre a casa de Amaro
-premise: O Conselho reconhece o bairro que boia; gente da cidade alta pede para morar na água;
-  Joana mergulha com Davi sobre a casa de Amaro, que virou recife.
+where: o Baixo, na carreira do estaleiro de Amaro
+premise: O Conselho reconhece o bairro que boia; gente da cidade alta pede para morar na água; Joana mergulha com Davi na carreira do estaleiro de Amaro, onde há corais.
 turn: o fim, com esperança
 threads:
 - a-cidade-nova
@@ -38,7 +37,7 @@ pra descer. Pra morar aqui. A conselheira Viegas mandou perguntar o que a roda a
 A Dona Ilda abriu a pasta. Eram quatro folhas impressas, com nomes, idades, endereços da
 cidade alta, e uma coluna no fim, em branco, com o título *Situação*.
 
-Ela leu a primeira folha inteira, devagar, com o dedo correndo pelos nomes. Joana estava do
+Ela leu a primeira folha inteira com o dedo correndo pelos nomes. Joana estava do
 lado dela, e viu o dedo parar em alguns. Num casal de velhos do morro. Numa mulher com três
 filhos. Num nome que Joana também conhecia, de uma professora da escola da cidade alta, a do
 Davi.
@@ -55,8 +54,8 @@ Fechou a pasta. Ficou com ela no colo.
 
 Fazia três meses da grande maré, e o Baixo tinha nome no papel.
 
-A conselheira Viegas tinha descido em pessoa. Numa sexta-feira, duas semanas depois da grande maré, à noite, num bote
-da Defesa, com o rapaz de colete laranja nos remos e dois funcionários do Conselho que
+A conselheira Viegas tinha descido em pessoa. Numa quarta-feira, duas semanas depois da grande
+maré, à noite, num bote da Defesa, com o rapaz de colete laranja nos remos e dois funcionários do Conselho que
 pareciam ter medo da água. Tinha subido a escada de corda da plataforma da roda sem aceitar
 mão de ninguém, de calça e camisa de manga comprida, com o coque grisalho e os óculos, e tinha
 sentado no piso de tábua, na roda, entre o Seu Lauro e uma criança, e tinha ouvido a roda
@@ -70,18 +69,24 @@ na forma do termo de uso coletivo.*
 Seis votos a três. A conselheira Viegas tinha dito que ia ser sempre seis a três, para tudo,
 e que tinha aprendido a gostar do número.
 
+Na saída, na escada de corda, ela parou do lado de Joana.
+
+— E a ação da Terra Firme?
+
+— Corre — disse Joana. — O advogado diz que até o ano que vem. Essa conta é minha,
+conselheira. Não é do bairro.
+
 O Conselho não ia mandar água encanada. Não tinha como, e ninguém pediu. Ia mandar uma
 professora num barco, três manhãs por semana, para as crianças que não subiam a ladeira. Ia
 mandar o rapaz da Defesa. Ia mandar painéis solares velhos que a cidade alta estava trocando.
-Ia mandar o drone, aos sábados, às quatro, mas agora as imagens vinham para a roda também, e
+Ia mandar o drone, aos sábados, ao meio-dia, mas agora as imagens vinham para a roda também, e
 o Nilo as olhava no aparelho, à noite, e anotava no caderno azul, ao lado das marés.
 
 O papel do Conselho dizia *assentamento sobre a água*. Ninguém chamava assim.
 
 As crianças chamavam de *o recife*. Tinha começado com a Clara e com os meninos da vila, que
 mergulhavam na boca do canal, na maré cheia, para ver as ostras e os peixes, e diziam *vou no
-recife*, e depois *moro no recife*, e depois, uma tarde, Joana ouviu um menino de seis anos
-dizer a outro, numa ponte, *aqui é o Recife*, com a voz de quem diz o nome de uma cidade.
+recife*, e depois *moro no recife*.
 
 Ela não corrigiu. Os velhos diziam o Baixo. A vila dizia a vila. O Conselho dizia
 assentamento. A roda ia decidir um dia, com pedras, se precisasse. Talvez não precisasse.
@@ -115,13 +120,13 @@ Ela embrulhou de novo no pano e pôs no fundo da mochila.
 
 ---
 
-Naquela segunda-feira, à tarde, a maré ia ser a maior do mês. Lua nova de dois dias antes.
-Não ia ser grande como a do equinócio. Ia ser bonita.
+Naquela segunda-feira, a maré da manhã ia ser uma das grandes do mês. Lua nova de dois dias
+antes. Não ia ser grande como a do equinócio. Ia ser bonita.
 
-O Davi encostou o barco do Amaro na escada da plataforma dezenove às quatro, com a maré
+O Davi encostou o barco do Amaro na escada da plataforma dezenove às nove, com a maré
 subindo.
 
-Ele tinha dezesseis anos agora. Tinha feito no começo do ano, num domingo, na vila, com a Taís
+Ele tinha dezesseis anos agora. Tinha feito no começo do ano, numa segunda-feira, na vila, com a Taís
 e o Benedito e um peixe assado na areia, e Joana tinha ido, pela costa, de caiaque, e tinha
 voltado de noite com o cabelo duro de sal, como ele. Estava mais alto. Mais largo. Morava
 meio na plataforma, meio na vila, e meio no estaleiro, que agora era a oficina de quatro
@@ -133,7 +138,8 @@ Ela desceu.
 
 Ele remou pelo canal, entre as plataformas. Joana ia sentada na proa, como na manhã depois da
 maré grande, olhando. A rua que respirava. Gente nas varandas. A Dona Célia pendurando roupa.
-O manjericão do Jairo, que agora era uma moita, num balde. A plataforma do Seu Lauro, que o
+O Jairo regando o manjericão, que agora era uma moita, num balde, e ainda puxando um pouco
+a perna. A plataforma do Seu Lauro, que o
 Edson tinha ressoldado e endireitado, com uma argola nova, grossa, que o Seu Lauro pintou de
 vermelho. Um menino pescando da ponte com uma linha de náilon. A professora do barco do
 Conselho, de chapéu, dando aula na varanda da plataforma da roda para doze crianças sentadas
@@ -173,8 +179,8 @@ Ele estendeu a máscara para ela.
 
 ---
 
-Ela desceu pela parede do galpão, segurando nas pedras. A água estava morna. Verde. Com a luz
-da tarde entrando inclinada, em fachos.
+Ela desceu pela parede do galpão, segurando nas pedras. O frio veio primeiro. Depois o verde,
+com a luz da manhã entrando inclinada, em fachos.
 
 A carreira estava lá embaixo.
 
@@ -183,16 +189,16 @@ o escuro. Os trilhos de madeira no meio, que agora não eram madeira, eram duas 
 ostra, grossas, cinzentas, seguindo a forma da madeira por baixo como uma pele. As pedras da
 rampa, em volta, cobertas de alga marrom curta, que balançava toda junta com a ondulação que
 vinha do canal. Peixe. Um cardume de peixinhos prateados virando ao mesmo tempo. Um peixe
-maior, listrado, parado na sombra do trilho da esquerda. Um caranguejo andando de lado,
-devagar, por cima de uma pedra.
+maior, listrado, parado na sombra do trilho da esquerda. Um caranguejo andando de lado
+por cima de uma pedra.
 
 E na ponta de baixo da carreira, onde a rampa acabava e começava o fundo do canal velho, onde o
 pai tinha lançado cada barco da vida dele, onde o avô tinha lançado, onde ela tinha visto,
 aos sete anos, de cima, um casco branco escorregar no berço e bater na água e boiar, e o pai
 gritar *voltou!*, e todo mundo rir, ali, numa pedra solta da ponta, havia três corais.
 
-Pequenos. Do tamanho de uma moeda, de uma tampa de garrafa, de uma mão de criança. Marrom-
-dourados, de favo. Encostados um no outro, numa fileira torta.
+Pequenos. Um do tamanho de um grão de arroz, dois do tamanho de uma unha. Marrom-dourados, de
+favo. Quase encostados um no outro, numa fileira torta.
 
 Ela ficou olhando até o ar acabar. Subiu. Respirou. Desceu de novo.
 
@@ -215,7 +221,7 @@ no banco do remador. O banco do pai. Pingando.
 
 Ela tirou da mochila o pano.
 
-O Davi olhou o pano. Depois olhou para ela.
+O Davi olhou o pano. Depois levantou as sobrancelhas para ela.
 
 Ela desembrulhou a régua de cálculo. A madeira, o plástico amarelado, o cursor de vidro com a
 linha fina vermelha. Pôs no colo dele.
@@ -223,7 +229,7 @@ linha fina vermelha. Pôs no colo dele.
 — O vô me deu — disse ela. — No lugar das ferramentas. Quando eu tinha doze anos.
 Eu pedi as ferramentas e ele me deu isso.
 
-O Davi pegou a régua com as duas mãos. Correu a lâmina do meio, devagar. Correu o cursor.
+O Davi pegou a régua com as duas mãos. Correu a lâmina do meio. Correu o cursor.
 
 — Pra que serve?
 
@@ -235,8 +241,9 @@ O Davi pegou a régua com as duas mãos. Correu a lâmina do meio, devagar. Corr
 você ver a conta inteira, de uma ponta à outra, e saber de onde vem cada número. Pra quando
 alguém disser que é aceitável, você saber dizer aceitável pra quem.
 
-Ele ficou olhando a régua muito tempo. Depois embrulhou de volta no pano, com cuidado, e pôs na caixa de ferramentas, que estava no fundo do barco. No fundo da caixa. Embaixo
-de tudo, até da enxó.
+Ele ficou com a régua no colo até a água parar de pingar do cabelo. Depois embrulhou de volta
+no pano, com cuidado, e pôs na caixa de ferramentas, que estava no fundo do barco. No fundo da
+caixa. Embaixo de tudo, até da enxó.
 
 — Peso embaixo — disse ele.
 
@@ -246,26 +253,26 @@ gritou *que foi?*, e o Davi gritou *nada!*, e riu também.
 
 ---
 
-A maré parou no alto às cinco e vinte. Joana sabia sem olhar o relógio. Sentiu no barco.
+A maré parou no alto às onze e dez. Joana sabia sem olhar o relógio. Sentiu no barco.
 
 Ficou ali, sentada no banco do pai, com as mãos nos joelhos, olhando para cima.
 
 Dali, dos fundos do estaleiro, via-se pouco. A parede de tijolo. O telhado de lona azul. E por
-cima, recortado contra o céu da tarde, um pedaço do Baixo. As cumeeiras das casas. A torre do
+cima, recortado contra o céu da manhã, um pedaço do Baixo. As cumeeiras das casas. A torre do
 relógio do Mercado, parada nas quatro e dez. E mais longe, para o leste, o mar, que não se via,
 mas se ouvia, um barulho grosso e contínuo, batendo na muralha velha coberta de ostra, e
 tropeçando, e chegando cansado.
 
-Thalassa. A mãe dizia que queria dizer *mar* numa língua antiga. Ela tinha passado a vida
-achando que a mãe tinha inventado aquilo. Tinha conferido, uma noite, no inverno, na mesa da
+Thalassa. A mãe dizia que queria dizer *mar* numa língua antiga. Ela tinha crescido achando
+que a mãe tinha inventado aquilo. Tinha conferido, uma noite, no inverno, na mesa da
 plataforma, com a lanterna balançando no teto. Era verdade. A cidade sempre tinha se chamado
 mar. Só tinha passado trezentos anos fingindo que não.
 
-A maré começou a descer. O barco do Amaro desceu com ela, devagar, na argola coberta de ostra.
+A maré começou a descer. O barco do Amaro desceu com ela, na argola coberta de ostra.
 
 E no canal, do outro lado do estaleiro, ela não precisava ver para saber, as trinta e uma
-plataformas, e as onze da rua do Cais, e as nove novas da ladeira, desciam também, todas
-juntas, devagar, nas argolas, correndo nos postes, com um rangido baixo de metal em metal,
-que era o barulho do sono no Baixo. No Recife. Na cidade.
+plataformas, e as onze da rua do Cais, duas delas refeitas, e as nove novas da ladeira,
+desciam também, todas juntas, nas argolas, correndo nos postes, com um rangido baixo de metal
+em metal, que era o barulho do sono no Baixo. Na cidade.
 
-À meia-noite a água ia voltar. E a cidade ia subir com ela.
+Perto da meia-noite a água ia voltar. E a cidade ia subir com ela.

@@ -1,6 +1,6 @@
 # Plano — O que é do mar
 
-Livro 3 da série. Este arquivo é a **fonte única**
+Este arquivo é a **fonte única**
 dos títulos e da numeração dos capítulos: `make outline BOOK=o-que-e-do-mar` cria
 ou atualiza os arquivos em `books/o-que-e-do-mar/chapters/`, sem nunca tocar no
 corpo já escrito.
@@ -18,8 +18,7 @@ que reconstrói Thalassa, uma cidade costeira alagada — sobre a água.
 - **Protagonista:** Joana, 47 anos — engenheira hidráulica, que projetou a Barreira
 - **Quando:** de 2090 (a maré grande) a 2091
 - **A voz:** terceira pessoa, passado, colada em Joana. Ponto de vista único. Falas com
-  travessão. As três vozes da série ficam diferentes: Helena em primeira pessoa no
-  presente, Iara em primeira pessoa no presente, Joana vista de fora.
+  travessão.
 
 **Solarpunk / hopepunk.** O livro mais esperançoso da série: o futuro é
 difícil, mas é construído por gente. A ciência do clima (nível do mar,
@@ -71,15 +70,15 @@ Nada em aberto. As quatro decisões abaixo foram delegadas pelo autor (2026-10-0
 estão tomadas:
 
 - **Joana, 47, terceira pessoa no passado**, ponto de vista único. Fica: a distância da
-  terceira pessoa combina com quem guarda o que sente, e dá à série três vozes diferentes.
+  terceira pessoa combina com quem guarda o que sente.
 - **A oferta da Terra Firme** é o dique de seis metros com Joana como engenheira-chefe. Fica:
   a tentação tem de ser a coisa que ela mais quer, não dinheiro.
 - **Amaro é a única grande morte.** Fica: os 31 da maré grande são o luto da cidade; Amaro é
   o dela. Mais uma morte puxaria o livro mais esperançoso da série para o lado errado.
-- **"O Recife"** fica como apelido que as crianças dão ao bairro sobre o recife, em
-  *Thalassa*, sem nome oficial. É a palavra comum (*recife*), não a cidade real, e devolve
-  ao livro o nome de que o autor gostava desde o começo, com sentido próprio.
-- [[?fato: projeções reais de subida do mar até 2090 para uma costa baixa e tropical]]
+- **"o recife"**, em minúscula, fica como a palavra das crianças para o bairro sobre o
+  recife, em *Thalassa*, sem nome oficial. A forma maiúscula "o Recife" saiu na revisão de
+  2026-10-05 (M15), porque ligava Thalassa à cidade real.
+- A subida do mar até 2090 está conferida em `references.md` (IPCC AR6, tab. 9.9).
 
 ---
 
@@ -110,7 +109,7 @@ alguém que fica na água.
 - **POV** — Joana
 - **Quando** — 2090-03-31 — noite
 - **Onde** — a sala de controle da Barreira, na ponta do Cais
-- **A ideia** — Na maré mais alta do ano, com ressaca, Joana vê da sala de controle a muralha que projetou ser galgada, e a Comporta Dois ceder.
+- **A ideia** — Numa maré de sizígia perto do equinócio, com ressaca, Joana vê da sala de controle a muralha que projetou ser galgada, e a Comporta Dois ceder.
 - **A virada** — a água chega ao Baixo, onde mora o pai dela
 - **Fios** — a-perda, a-muralha
 - **Planta** — a-barreira, os-oitenta-centimetros, a-casa-de-amaro, a-comporta
@@ -258,9 +257,9 @@ alguém que fica na água.
 
 ### 14. O que é do mar
 - **POV** — Joana
-- **Quando** — 2090-12-12 — manhã
+- **Quando** — 2090-11-11 — manhã (a roda); a sessão em 2090-12-12
 - **Onde** — o Conselho, na cidade alta
-- **A ideia** — A briga pela escritura de uma terra que está debaixo do mar; a lei antiga da costa diz que o que fica abaixo da maré é de todos.
+- **A ideia** — Joana conta à roda que sabia, e a roda revoga o sim; depois, a briga pela escritura de uma terra que está debaixo do mar: a lei antiga da costa diz que o que fica abaixo da maré é de todos.
 - **A virada** — o próprio mar ganha a causa, e o contrato da Terra Firme perde o valor
 - **Fios** — a-cidade-nova
 - **Paga** — o-contrato, zona-de-recuo
@@ -268,7 +267,7 @@ alguém que fica na água.
 
 ### 15. O recife
 - **POV** — Joana
-- **Quando** — 2091-01-09 — manhã
+- **Quando** — 2091-01-09 — tarde (preamar às 14h20)
 - **Onde** — debaixo d'água, nas ruas afogadas do Baixo
 - **A ideia** — Davi mergulha e acha os prédios velhos cobertos de ostra e coral.
 - **A virada** — a ideia: a cidade afogada como recife vivo que quebra as ondas da cidade que boia
@@ -280,8 +279,8 @@ alguém que fica na água.
 - **POV** — Joana
 - **Quando** — 2091-02-14 — tarde
 - **Onde** — a borda do Baixo e a Vila Rasa
-- **A ideia** — A comunidade planta mangue e monta recifes de ostra com a Vila Rasa; Raul larga a Terra Firme e aparece para ajudar.
-- **A virada** — Joana deixa de liderar, porque a comunidade não precisa mais
+- **A ideia** — A comunidade planta mangue e monta recifes de ostra com a Vila Rasa; Raul, que já largou a Terra Firme, aparece para ajudar.
+- **A virada** — Joana recusa coordenar e passa a dizer a conta em voz alta
 - **Fios** — a-cidade-nova, a-reuniao
 - **Paga** — escutar
 - **Elenco** — joana, ilda, davi, raul
@@ -290,8 +289,8 @@ alguém que fica na água.
 - **POV** — Joana
 - **Quando** — 2091-03-21 — noite
 - **Onde** — o Baixo
-- **A ideia** — Um ano depois, a maré grande com ressaca de novo: o recife quebra as ondas, as casas sobem com a água, a Vila Rasa fica seca.
-- **A virada** — ninguém morre
+- **A ideia** — Um ano depois, a maré do equinócio com ressaca de novo: o recife quebra parte das ondas, as casas sobem com a água, a Vila Rasa fica com água no joelho e escoa; duas plataformas e parte do mangue se perdem, e Jairo quebra a perna.
+- **A virada** — ninguém morre, e custa
 - **Fios** — a-cidade-nova, a-muralha
 - **Paga** — o-recife, a-barreira
 - **Elenco** — joana, davi, ilda, raul
@@ -299,8 +298,8 @@ alguém que fica na água.
 ### 18. Thalassa
 - **POV** — Joana
 - **Quando** — 2091-06-18 — manhã
-- **Onde** — o Baixo, sobre a casa de Amaro
-- **A ideia** — O Conselho reconhece o bairro que boia; gente da cidade alta pede para morar na água; Joana mergulha com Davi sobre a casa de Amaro, que virou recife.
+- **Onde** — o Baixo, na carreira do estaleiro de Amaro
+- **A ideia** — O Conselho reconhece o bairro que boia; gente da cidade alta pede para morar na água; Joana mergulha com Davi na carreira do estaleiro de Amaro, onde há corais.
 - **A virada** — o fim, com esperança
 - **Fios** — a-cidade-nova, a-perda
 - **Elenco** — joana, davi, ilda

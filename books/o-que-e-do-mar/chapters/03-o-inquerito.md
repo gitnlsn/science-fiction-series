@@ -27,7 +27,7 @@ cast:
 status: draft
 ---
 A sala do Conselho ficava no último andar do prédio mais alto da cidade alta, e tinha
-sido construída, Joana sabia, para que dali se visse o mar.
+sido construída para que dali se visse o mar.
 
 Era uma sala comprida, de teto baixo, com uma mesa em ferradura de madeira clara e uma
 parede inteira de vidro voltada para o leste. Atrás da ferradura, sentados em cadeiras
@@ -38,7 +38,7 @@ fora, no corredor, olhando por cima dos ombros. Da janela, naquela manhã, o mar
 liso e azul e inocente, e entre ele e a sala, lá embaixo, a muralha cinza corria ao longo
 da costa como uma linha de lápis, e atrás dela o Baixo era uma mancha marrom.
 
-A maré estava alta. Joana não precisava olhar o relógio para saber.
+A maré estava baixa, e a mancha era lama. Joana não precisava olhar o relógio para saber.
 
 Ela estava sentada na primeira fila, de camisa de manga comprida do Departamento,
 abotoada até em cima. Tinha passado a noite anterior escolhendo aquela camisa e depois
@@ -69,8 +69,8 @@ sexta-feira, trinta e um.
 Ela tinha ensaiado. Na frente do espelho do banheiro, às duas da manhã, com a torneira
 pingando. E quando abriu a boca, não usou nada do que tinha ensaiado.
 
-Disse que a maré daquela noite era a maior do ano, de lua nova, perto do equinócio, e que
-a ressaca vinha do sudeste com ondas de mais de quatro metros. Disse que a muralha tinha
+Disse que a maré daquela noite era de sizígia alta, perto do equinócio, e que a ressaca,
+que vinha do sudeste com ondas de mais de quatro metros, tinha feito dela a pior. Disse que a muralha tinha
 sido galgada a partir das dez e quarenta, e que o galgamento tinha passado da capacidade
 das bombas às onze e cinco. Disse que a água que passava por cima descia pelas ruas e se
 juntava no ponto mais baixo, que era o canal do Mercado. Disse que o canal tinha enchido
@@ -99,7 +99,7 @@ dentro.
 
 — No meu projeto.
 
-A conselheira Viegas não disse nada. Mexeu num papel na frente dela, devagar, e Joana
+A conselheira Viegas tirou um papel de baixo da pilha e o pôs por cima, e Joana
 soube que ela já sabia, e que tinha esperado três dias para chegar naquilo.
 
 ---
@@ -122,7 +122,8 @@ cenários de maré e elevação do nível do mar adotados para o horizonte de pr
 Aprovado por seis votos a três.*
 
 Embaixo, as nove assinaturas dos conselheiros daquela época. Nenhum deles estava mais na
-sala. Dois tinham morrido. Um, Joana sabia, morava agora no interior, numa casa com piscina.
+sala. Dois tinham morrido. Um morava agora no interior, numa casa com piscina; tinha mandado
+foto para o grupo do Departamento.
 
 — A senhora conhecia este parecer — disse a conselheira Viegas.
 
@@ -156,8 +157,8 @@ cadeira ao mesmo tempo.
 
 Joana não respondeu logo.
 
-Ela tinha trinta e um anos quando assinou aquela prancha. Lembrava do dia. Uma sexta-
-feira de calor, na sala de desenho do Departamento, que ficava no subsolo e não tinha
+Ela tinha trinta e um anos quando assinou aquela prancha. Lembrava do dia. Uma
+sexta-feira de calor, na sala de desenho do Departamento, que ficava no subsolo e não tinha
 janela. O diretor tinha descido pessoalmente, o que nunca fazia, e posto a prancha na mesa
 dela, e dito, sem se sentar: *Ou é essa, ou não é nenhuma. O Conselho não aprova outra.
 Você escolhe.*
@@ -207,7 +208,8 @@ desculpas por ela. A senhora podia ter se recusado a assinar.
 
 — E sem muralha nenhuma, quantos teriam morrido naquela noite?
 
-Joana olhou para ela. Depois, pela primeira vez, se virou na cadeira e olhou para a sala.
+Joana segurou a borda da mesa pequena. Depois, pela primeira vez, se virou na cadeira e
+olhou para a sala.
 Para as fileiras de plástico. Para a gente encostada na parede do fundo. Reconheceu
 alguns rostos. A mulher com o bebê da rua dos Calafates. O Seu Lauro, com o braço ainda
 na tala. Dois rapazes que tinham estado sentados num parapeito na rua dos Cordoeiros,
@@ -224,6 +226,28 @@ lido também.
 
 — Não vou dizer o número. — Ela se virou de volta para a ferradura. — Não é justo com
 os trinta e um.
+
+— Pela ordem, conselheira.
+
+Era um homem da segunda fila, de terno cinza e pasta no colo, que Joana não conhecia. A
+conselheira Viegas disse o nome dele para a ata e disse por quem ele estava ali: as
+famílias dos trinta e um.
+
+Ele não se levantou. Falou do lugar dele, sem microfone, e a sala ouviu assim mesmo.
+
+— A engenheira diz que a alternativa era não haver muralha. Não era. A alternativa era
+ela não assinar. O engenheiro responsável tinha o dever de recusar. Não é opinião minha,
+conselheira, é o que a profissão exige de quem põe o nome num carimbo: não assinar o que
+sabe que não segura. — Ele virou a cabeça para Joana. — E ela sabia. Acabou de
+dizer. Escreveu, inclusive.
+
+A conselheira Viegas esperou. A sala esperou.
+
+— Tinha — disse Joana, no microfone. — Tinha o dever.
+
+O homem fez uma anotação na pasta.
+
+— Fica registrado — disse a conselheira Viegas.
 
 ---
 
@@ -282,8 +306,8 @@ Não tinha se levantado para sair. Estava em pé no meio das cadeiras de plásti
 de braços cruzados, olhando para a ferradura, e as pessoas em volta dela, uma por uma,
 foram ficando em pé também. Os rapazes do parapeito. O Seu Lauro, com o braço na tala. A
 mulher com o bebê. Gente que Joana não conhecia. Ninguém gritou. Ninguém disse nada.
-Ficaram em pé, olhando para o Conselho, durante o tempo que a conselheira Viegas levou para
-dizer que a sessão estava encerrada, e depois mais um pouco, e depois foram saindo, devagar,
+Ficaram em pé, virados para o Conselho, durante o tempo que a conselheira Viegas levou para
+dizer que a sessão estava encerrada, e depois mais um pouco, e depois foram saindo
 pelo corredor.
 
 A Dona Ilda passou pela primeira fila sem olhar para Joana.
@@ -305,7 +329,7 @@ guardando papéis numa pasta. Joana tirou do bolso o crachá do Departamento, um
 fino de plástico com a foto dela de dez anos antes, o cabelo mais curto, e pôs na mesa, na
 frente dela.
 
-A conselheira Viegas olhou o crachá. Depois olhou para ela.
+A conselheira Viegas olhou o crachá. Depois empurrou os óculos para a testa.
 
 — Ninguém pediu isso, engenheira.
 
@@ -335,7 +359,7 @@ como se fosse a semana passada.
 — Eu vi pela tela — disse ele. — Lá de fora. Não quis entrar. Achei que você não ia querer
 mais uma cara.
 
-Ela não disse nada. Ele tirou as mãos dos bolsos e abriu os braços, e ela entrou neles sem
+Ela parou na frente dele, com a mochila pendurada num ombro. Ele tirou as mãos dos bolsos e abriu os braços, e ela entrou neles sem
 pensar, e ficou ali, com a testa no ombro do casaco escuro, que cheirava a chuva e a uma
 loção cara, e sentiu pela primeira vez em vinte dias as pernas não aguentarem direito.
 
@@ -349,14 +373,14 @@ ela com aquela cara que ela conhecia de onze anos de subsolo, de quem já pensou
 está esperando você chegar lá. — Você assinou porque era isso ou nada. Eu estava lá. Eu me
 lembro.
 
-Ela fez que sim. Não perguntou onde ele estava, naquela época, exatamente. Lembrava dele no
+— É — disse ela. Não perguntou onde ele estava, naquela época, exatamente. Lembrava dele no
 subsolo, na mesa ao lado, de fone no ouvido, fazendo outra coisa. Não lembrava de muito
 mais.
 
 — Pra onde você vai agora? — perguntou ele.
 
 Ela olhou pela janela do fim do corredor. Dali também se via o mar. A mancha marrom do
-Baixo estava ficando menor, devagar, conforme a maré descia, e as ruas iam aparecendo, de
+Baixo estava ficando menor conforme a maré descia, e as ruas iam aparecendo, de
 lama.
 
 — Pro telhado do meu pai — disse ela.

@@ -5,7 +5,7 @@ estrutura, arcos e risco; o futuro na página e o cânone; ciência real;
 continuidade e prosa; e a edição inglesa, *What Belongs to the Sea*, lida contra o
 português. Achados repetidos foram fundidos (quando duas ou mais leituras
 chegaram sozinhas ao mesmo problema, está marcado **×2**, **×3**). Os achados
-principais foram conferidos no texto. Nada no manuscrito foi alterado.
+principais foram conferidos no texto. Aplicada em 2026-10-05: ver a decisão de cada item.
 
 **Como usar:** marque cada item `[x]` aceito, `[-]` recusado, ou escreva a sua
 versão depois de *Decisão:*. Os itens têm número (M1, M2…) para a gente falar
@@ -52,7 +52,7 @@ peito, e as cenas de telhado ganham fundura. **Alternativa:** costa de macromar�
 (amplitude de 4,5–5 m, como São Luís), subindo a preamar média para ~+2,2 e
 refazendo a lei. Uma tabela única de cotas vai para a bíblia: fundo do canal, rua,
 piso, zero da coluna, preamar média, preamar de sizígia, nível de tempestade.
-- [ ] Decisão:
+- [x] Decisão: aceito: o chão do Baixo baixou ~1,3 m; tabela única de cotas na bíblia.
 
 ### M2. A coluna do Nilo não pode medir a linha de +1,32 **×3, conferido**
 É a prova da vitória em *O que é do mar*. Com o piso a +1,40, o pé da coluna fica
@@ -64,7 +64,7 @@ palmos). E *A última casa* lê as marcas em metros; as outras, em palmos.
 **Proposta:** resolve junto com M1 (o zero do Amaro fica numa cota conhecida
 abaixo do piso). Escolher palmo ou metro. Em *A grande maré*: "marca oito… A mais
 alta desde que eu anoto" — o Nilo só começou depois de 15/05, então é exato.
-- [ ] Decisão:
+- [x] Decisão: aceito: marcas em palmos, zero no pé da coluna (+0,10); preamar média entre a quinta e a sexta; 2091 "marca onze e um dedo".
 
 ### M3. Os níveis da tempestade não fecham com o galgamento **×2**
 *A maré grande* põe a água parada "a uns quarenta centímetros da crista" (~+3,80)
@@ -85,7 +85,7 @@ Linhas a mudar: *A maré grande* "quarenta centímetros" → "um metro e sessent
 "cento e vinte" → "dois metros e quarenta", e a fala que explica os quarenta
 centímetros; *A última casa*, as profundidades previstas e vistas; *Terra Firme*
 "dois metros e oitenta" → ~"três metros e quarenta"; *A grande maré*, as marcas.
-- [ ] Decisão:
+- [x] Decisão: aceito: +2,6 / 1,60 de borda livre / 42 L/s/m; 2091 +2,7 / 11 L/s/m; "três metros e quarenta" no dique.
 
 ### M4. Os postes são altos demais para a ameaça **×3**
 Um poste de luz de 6 m numa rua a ~+1 tem o topo a ~+7; a simulação do Raul em
@@ -99,7 +99,7 @@ só 11 L/s/m. E a bíblia dá postes de 8 m só às 11 plataformas da rua do Cai
 e corrente na boca do canal, que é o que o recife resolve; ou a simulação do Raul
 "no topo" é manipulação, e a Joana pega. Uma linha mostrando o Edson trocando os
 postes da boca do canal.
-- [ ] Decisão:
+- [x] Decisão: decidido: o perigo é de lado; os postes (~6 m) sobram em altura; o Edson crava postes emendados na boca do canal.
 
 ### M5. A obra da ensecadeira não cabe nas datas **×4, conferido**
 O Raul diz em *Terra Firme* que "a obra começa quarenta dias depois" da votação de
@@ -110,7 +110,7 @@ de estaca e "seis semanas de escavação", e os advogados de *O que é do mar* c
 (ou "duas semanas" nos dois capítulos). E pôr em cena o trecho que o resumo pula:
 a Joana engenheira-chefe cedendo a licença, o aditivo, as 140 escrituras, "a
 associação aderiu" (M11).
-- [ ] Decisão:
+- [x] Decisão: aceito: obra uma semana depois; cinco semanas de escavação junto com as estacas; o trecho pulado ganhou cena.
 
 ---
 
@@ -126,7 +126,7 @@ Joana. Pergunta pra ela*": a mulher que escondeu a conta na Parte III vira a que
 a conta em voz alta, "mesmo quando der o que ninguém quer". **Proposta:** essa é a
 virada de *Mangue*. Encurtar a oferta da Ilda, ou dar custo ao não. Atualizar a
 saída da IV na bíblia ("vive com o mar; diz a conta em voz alta").
-- [ ] Decisão:
+- [x] Decisão: aceito: a virada de *Mangue* é dizer a conta em voz alta; a Ilda se magoa com o não.
 
 ### M7. A confissão pública da Joana — o coração da Parte III — está em resumo
 A mudança da III é "abre mão da redenção pelos outros". A escavadeira encena
@@ -136,7 +136,7 @@ para 412–31 acontece fora da página. É a cena que responde ao inquérito.
 **Proposta:** escrever, no fim de *A ensecadeira* ou abrindo *O que é do mar*. Um
 eleitor do sim que mudou de balde por causa dela (Jairo, Edson) responde a ela; a
 segunda votação custa algo — uns ficam no sim, alguns vão embora.
-- [ ] Decisão:
+- [x] Decisão: aceito: a confissão abre *O que é do mar* como cena; 412 × 31, Edson no sim, uma família vai para o Planalto.
 
 ### M8. A Terra Firme é derrotada por uma lei e um caderno que não foram plantados
 A Lei da Orla aparece pela primeira vez em *O que é do mar*. O caderno de marés do
@@ -150,7 +150,7 @@ solução-surpresa, não como pagamento. **Proposta:**
   a Vila Rasa não tem escritura por causa da lei; ou em *O inquérito*, no debate da
   zona de recuo;
 - talvez o Amaro dizer "o que é do mar" cedo.
-- [ ] Decisão:
+- [x] Decisão: aceito: Nilo na coluna (*Os que ficaram*), a Lei da Orla na boca do Raul (*Terra Firme*), "O que é do mar, o mar vem buscar" (*O estaleiro*).
 
 ### M9. A Parte IV não tem adversário, e o clímax quase não custa nada **×2**
 Com a Terra Firme fora em *O que é do mar* ("retirou o pedido… por nota"), quatro
@@ -169,7 +169,7 @@ comporta caindo. **Proposta:**
 - a Joana dividir o crédito em voz alta: nenhuma comporta para falhar, uma ressaca
   um pouco menor, plataformas que sobem, e a rugosidade das ostras. O recife com
   parte modesta.
-- [ ] Decisão:
+- [x] Decisão: decidido: a ação de danos contra Joana corre até o fim; *A grande maré* custa duas plataformas, metade do mangue da boca e a perna do Jairo; Joana divide o crédito.
 
 ### M10. A comunidade nunca erra sozinha, e o lado do sim some
 Todo erro é da Joana (a lista, a casa pesada em cima, o voto no sim). A Ilda acerta
@@ -182,7 +182,7 @@ varre" do Jairo, e o Edson volta sem atrito. **Proposta:** dar à Ilda um erro c
 consequência, e ao Davi um erro dele, talvez na Parte IV. Dar a um dono de título
 com nome (o Edson, os irmãos dos Cordoeiros) raiva ou luto de verdade em *O que é
 do mar* ou *Mangue*; talvez uma família vá para o Planalto.
-- [ ] Decisão:
+- [x] Decisão: aceito: o erro da Ilda (a fila dos que voltaram), o do Davi (o barco contra a regra), o luto do Edson.
 
 ### M11. As instituições soltam a Joana, e a escavadeira não tem consequência **×2**
 No inquérito, o Viegas pede desculpa pela pergunta dura, o Téo depõe a favor, o
@@ -193,7 +193,7 @@ ex-funcionária" dos advogados aparece uma vez e some. **Proposta:** uma voz hos
 no inquérito (advogado das famílias: o engenheiro responsável tinha o dever de
 recusar). Levar uma ação de danos ou uma acusação para a Parte IV — como custo e
 como pressão.
-- [ ] Decisão:
+- [x] Decisão: aceito: o advogado das famílias no inquérito; a ação de danos na Parte IV.
 
 ### M12. Ninguém do Baixo reage à confissão do Raul
 O Jairo está ao lado do Raul quando ele confessa ter escrito o parecer que cortou a
@@ -202,7 +202,7 @@ comunidade põe o Raul para trabalhar; em *A grande maré* ele passa a noite sem
 ninguém o enfrente. **Proposta:** uma cena Jairo–Raul (o corredor de *O que é do
 mar*, ou o barracão em *Mangue*): uma recusa, uma ordem de carregar alguma coisa,
 um silêncio que custa ao Raul.
-- [ ] Decisão:
+- [x] Decisão: aceito: o Jairo faz o Raul carregar o feixe sozinho e não pega a mão dele.
 
 ### M13. A Parte II cede no mesmo compasso três vezes
 *Água doce*, *A primeira jangada*, *O bairro que boia*: "o saber do lugar vence o
@@ -212,7 +212,7 @@ página. **Proposta:** dar ao capítulo um conflito próprio — quem volta cont
 ficou, um roubo, a polícia e o drone — ou a Joana contra a rua do Cais, perdendo,
 com custo. E uma fila de espera por plataforma (51 plataformas para 460 pessoas, e
 nunca falta lugar), com uma lista que "põe, não risca", como a da Ilda.
-- [ ] Decisão:
+- [x] Decisão: aceito: *O bairro que boia* ganhou conflito próprio (a fila, Gilson, a leptospirose, o gerador, o fogo).
 
 ### M14. Os riscos da Parte III são plantados depois do fato
 A Vila Rasa, o Benedito e a Taís aparecem em *A conta*, com o Davi indo lá "desde o
@@ -221,7 +221,7 @@ Taís conduz a ideia do recife quase só em discurso indireto ("A Taís diz…")
 **Proposta:** o Benedito chegando ao estaleiro com a canoa rachada, em *O bairro que
 boia*; "Vila Rasa, água até o joelho" no boletim da Defesa em *O dia seguinte*; falas
 de verdade para a Taís em *O recife* e *Mangue*.
-- [ ] Decisão:
+- [x] Decisão: aceito: o boletim em *O dia seguinte*; Benedito com a canoa em *O bairro que boia*; falas da Taís.
 
 ---
 
@@ -236,7 +236,7 @@ um recife que dá nome ao lugar, "jangada" (título de um capítulo), "tapioca".
 **Proposta:** manter *o recife* minúsculo como palavra das crianças; tirar o "o
 Recife" maiúsculo e o "No Recife." do fim. Considerar palavras neutras no lugar de
 jangada e tapioca. ("the Reef" em inglês não tem problema.)
-- [ ] Decisão:
+- [x] Decisão: aplicada a proposta (decisão do autor — revisar): "o recife" só em minúscula; "o Recife" e "No Recife." saíram; tapioca → bolo de milho; jangada fica.
 
 ### M16. Não existe saneamento **×2**
 Mais de 460 pessoas (e mais 304 a caminho) vivem um ano sobre um canal: nenhum
@@ -247,7 +247,7 @@ depois de enchente urbana no Brasil (958 casos em três meses nas enchentes do R
 de 2024). **Proposta:** uma regra da roda para os dejetos (banheiro seco ou de
 balde, levado na baixa-mar), um custo de saúde — um susto, uma morte, botas,
 controle de rato — e um limite ("ostra do canal não se come").
-- [ ] Decisão:
+- [x] Decisão: aceito: baldes com serragem, fossa do morro, botas, gatos; o susto do Seu Lauro; ostra do canal não se come.
 
 ### M17. Atritos que faltam nas plataformas
 - A solda elétrica do Edson (*O bairro que boia*) precisa de eletricidade num lugar
@@ -257,7 +257,7 @@ controle de rato — e um limite ("ostra do canal não se come").
 - A plataforma da roda com 60 pessoas em *A grande maré*: 40 tambores dão ~8 m³ de
   flutuação, contra ~4,5 t de gente e ~4–5 t de deque e teto. Fecha só se as
   "últimas placas" de isopor somarem ~5 m³; dizer isso, ou 70–80 tambores.
-- [ ] Decisão:
+- [x] Decisão: aceito: gerador a diesel, botijão, regra do fogo, plataforma da roda nos tocos da ponte e em 80 tambores.
 
 ### M18. Pouco 2090 na página
 Fora o nível do mar, a tecnologia é dos anos 2020: um "aparelho" nunca descrito,
@@ -268,7 +268,7 @@ timeline.md está vazia. **Proposta:** descrever o aparelho como hardware, com c
 (morre no Baixo sem energia: alguém fica de fora). Preencher a história do futuro:
 a subida do mar, os "bairros secos" mais ao sul, o fim do barco a combustão, a maré
 de 2061.
-- [ ] Decisão:
+- [x] Decisão: aceito: o aparelho como hardware, a fila de carga; a história do futuro preenchida.
 
 ### M19. Aulas no meio da cena
 - *A conta* define ensecadeira para a própria Joana ("Uma parede provisória, de
@@ -280,14 +280,14 @@ de 2061.
   centrais…" explica antes "Cem janelas… se uma quebrar, quebrou uma". Cortar.
 **Proposta:** cortar para o número na prancha; a Taís e o Benedito carregam o saber
 do recife como prática.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### M20. Referência cruzada nos docs **×1, conferido**
 `docs/o-que-e-do-mar/outline.md`: linha 3, "Livro 3 da série"; linhas 21–22 nomeiam
 Helena e Iara. O CLAUDE.md proíbe. **Proposta:** mover a comparação das três vozes
 para `docs/series.md`. A prosa está limpa; a bibliografia de *Sobre a autora* está
 certa.
-- [ ] Decisão:
+- [x] Decisão: aceito: as três vozes foram para `docs/series.md`.
 
 ---
 
@@ -307,7 +307,7 @@ cheia. A lição "peso embaixo, boca larga" continua e ganha "e borda livre". Me
 500 L em ~30 m² afundam ~1,6 cm ("um dedo", não "dois"); uma caixa *cheia* não dá
 "um suspiro grosso" — uma meio cheia dá, mas a superfície livre *reduz* a
 estabilidade.
-- [ ] Decisão:
+- [x] Decisão: aceito: borda livre, não altura metacêntrica; "um dedo"; caixa pela metade.
 
 ### M22. "A maior maré do ano" está errado astronomicamente **conferido**
 *A maré grande* ("Maré de lua nova, a maior do ano") e *O inquérito*. A lua nova de
@@ -316,7 +316,7 @@ lua cheia de perigeu, 16–17/03; a do ano é ~23–25/09/2090 (lua nova no peri
 dia depois do equinócio, com eclipse solar total). **Proposta:** "maré de sizígia
 alta, perto do equinócio; a ressaca fez dela a pior". Os "dez centímetros a mais" de
 2091 são plausíveis.
-- [ ] Decisão:
+- [x] Decisão: aceito (também nas sinopses dos dois book.yaml).
 
 ### M23. O relógio da maré anda contra a âncora do próprio livro
 Tomando a preamar prevista das 23h52 de 31/03/2090, a maré atrasa ~50 min por dia.
@@ -331,7 +331,7 @@ Estão certos: 01/04 (meio-dia), 06/05, 15/05, 15/07, 21–22/03/2091. Estão er
 A bíblia e *Os que ficaram* / *Água doce* fixam a baixa-mar "das sete às dez", e a
 Joana, engenheira, saberia que não. **Proposta:** reajustar essas cenas, ou "as três
 horas em volta da baixa-mar, que andava quase uma hora por dia".
-- [ ] Decisão:
+- [x] Decisão: aceito, e mais as marés de 04-20, 09-05 e 10-01.
 
 ### M24. Os limiares do EurOtop, como a Joana diz em *A maré grande*
 "Com quatro décimos, quem passa embaixo leva um banho e não cai… Com cinquenta, a
@@ -342,7 +342,7 @@ equipamento a 5–10 m da muralha. "Cem" para dano estrutural cabe na faixa publ
 de 50–200. **Proposta:** "Quatro décimos, com onda desse tamanho, já é proibido ficar
 em cima. Com dez, derruba um homem. Com cinquenta, cem, começa a estragar o que está
 atrás."
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### M25. Corais crescem rápido demais **×2**
 Um coral de favo do tamanho de "uma moeda grande" em janeiro, num bloco quebrado em
@@ -351,14 +351,14 @@ turva aqui é *Siderastrea stellata*: recrutas de 1–2 mm com um ou dois meses,
 adultos crescendo 6–8 mm por ano; colônias de 0,4–5 cm têm 1–10 anos. **Proposta:**
 em 2091, corais do tamanho de um grão de arroz ou de uma unha. Algo do tamanho de
 uma mão só na face do mar da Barreira, que tem 14 anos.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### M26. Mangue e recife com eficácia trocada
 *O recife*: um recife raso tira "uma parte grande da altura"… "Que um mangue de cem
 metros de largura tirava mais". Narayan et al. (2016): recifes reduzem a altura de
 onda em 70%, mangues em 31%; McIvor (2012): 100 m de mangue, 13–66%. **Proposta:**
 "o mangue, atrás, tirava mais um tanto".
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### M27. A escavadeira: para onde a água vai
 *A ensecadeira*: "cada palmo que o lago subia era um palmo que saía da vila" — uma
@@ -371,7 +371,7 @@ reabre o caminho do riacho para o mar pelo canteiro; cortar a oração do canal 
 ficar com o riacho. E "Uma por hora. Às vezes duas" para as estacas → "duas, três
 por hora" (~450 estacas em três semanas). E 310 m de estaca não fecham um retângulo
 de 300×40.
-- [ ] Decisão:
+- [x] Decisão: aceito: o canteiro é uma meia-lua; o rombo devolve ao riacho o caminho pelo canteiro.
 
 ### M28. Números menores
 - *Os que ficaram* / *Água doce*: "três litros… só para beber e cozinhar" → "só para
@@ -385,7 +385,7 @@ de 300×40.
   "A água estava morna". Estão trocados.
 - *Thalassa*: "a maré ia ser a maior do mês" — a lua cheia de perigeu de 01/06/2091
   foi maior.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ---
 
@@ -449,7 +449,7 @@ de 300×40.
 - Fios soltos: as economias da Joana depois de *A ensecadeira*; as faltas do Davi na
   escola; o "mandei rodar com outro cenário" do Raul, um modelo escondido que nunca
   tem consequência.
-- [ ] Decisão:
+- [x] Decisão: aceito, todos; front matter e timeline atualizados.
 
 ---
 
@@ -484,7 +484,7 @@ transformar um terço das reações caladas em gesto físico ou fala.
 
 Os refrões ("Peso embaixo", "a rua que respirava", "não lutava com a água", "dez
 segundos depois") ficam em dois ou três cada, para os últimos usos pesarem.
-- [ ] Decisão:
+- [x] Decisão: aceito: devagar 67→18, "não disse nada" 17→2.
 
 ### M31. Aberturas e fechos repetem a forma
 - Nove dos 18 capítulos abrem com "[fato / número], e [virada]" ("A lista tinha
@@ -500,7 +500,7 @@ palavra por palavra → terminar em "Os dela. Certos.", ou só nas mãos: "As m�
 tremiam em cima da folha." Em *A votação*, cortar o "E foi." depois do "foi mais que
 vinte e três" da Ilda. Fortes, a proteger: o "Raul." de *O bairro que boia* e o
 "Ainda estava quente." de *A votação*.
-- [ ] Decisão:
+- [x] Decisão: aceito em parte: *A ensecadeira* abre em cena; *Terra Firme* fecha nas mãos; "E foi." cortado. As aberturas de *A conta* e *Os que ficaram* ficaram.
 
 ### M32. O Baixo inteiro fala em provérbio
 Amaro ("Todo barco boia…"), Ilda ("Pedra não mente e não tem caneta"), Lúcia ("um
@@ -509,7 +509,7 @@ canoa"), Jairo ("de quem varre"), Nilo ("Não teve onda. Teve maré"), Téo ("N�
 de jangada"). Um registro só, e o do Amaro perde o brilho. **Proposta:** provérbio é
 do Amaro, e um ou dois da Ilda. O Benedito fica prático e calado; o Jairo fala em
 coisas concretas.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### M33. Erros pequenos
 - **Bug de impressão (conferido no EPUB):** cinco palavras com hífen quebradas no fim
@@ -531,7 +531,7 @@ coisas concretas.
 - Pronome oblíquo misturado na narração ("não o viu" × "odiou ele", "Cobriu ele",
   "enterrado ele"). Escolher um registro para a narração; o coloquial fica no
   diálogo.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ---
 
@@ -552,7 +552,7 @@ high, and Joana knew by heart the eighty centimeters it was missing." Depois, a
 abreviação da Joana com hífen ("crest at four-twenty"); manter "meter" onde um
 número solto pareça hora. A entrada do contrato "the one-meter-thirty-two
 elevation" → "the 1.32-meter elevation", atualizando `translation-en.md`.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### G2. "give / giving" para leituras e previsões, do *dar* (~13 vezes)
 "What are the others giving?" → "What are the others reading?"; "the Civil Defense
@@ -562,14 +562,14 @@ centimeters above"; "the model gave moderate wind" → "the model called for mod
 wind"; "If the official survey gives what the boy's notebook gives" → "If the
 official survey comes out where the boy's notebook does". E "The math didn't come
 out" (*Água doce*, *A conta*) → "didn't add up" / "the only math that worked".
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### G3. Inglês britânico numa edição americana (~13)
 "housing estates" / "Estate Four" (o glossário fixou: mudar lá também) →
 "housing developments" / "Development Four"; "trousers" (×3) → "pants"; "cross" →
 "mad"; "gas bottle" → "propane tank"; "round" → "around"; "maternity ward" →
 "hospital"; "second year of university" (×3) → "second year of college".
-- [ ] Decisão:
+- [x] Decisão: aceito (também no contrato).
 
 ### G4. Falas literais e calques
 - *A primeira jangada*: "I didn't put the tank sliding in…" → "I didn't account for it
@@ -602,13 +602,13 @@ out" (*Água doce*, *A conta*) → "didn't add up" / "the only math that worked"
   agora está livre.
 - O inglês está ~1,4% mais longo que o português; costuma sair mais curto. Há espaço
   para enxugar as cadeias de "and… and…".
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### G5. A tradução corrigiu o português sozinha
 *A primeira jangada*: o português diz "a mão no pedal da bomba"; o inglês, "her foot".
 O contrato manda nunca corrigir só no inglês. Vai para *Found in the Portuguese* e
 para M29; depois, "a foot pump, with a pedal".
-- [ ] Decisão:
+- [x] Decisão: aceito: o português agora diz "bomba de pé, de pedal".
 
 ### G6. As páginas da frente e de trás, e o book.yaml
 A amostra da Amazon começa por elas.
@@ -624,7 +624,7 @@ A amostra da Amazon começa por elas.
 - Palavras-chave: "coastal community" é fraca → "cli-fi" ou "climate change
   fiction". Considerar uma categoria de climate fiction na Amazon (conferir a lista
   atual da KDP).
-- [ ] Decisão:
+- [x] Decisão: aceito; palavra-chave "cli-fi". A categoria de climate fiction na KDP fica para conferir.
 
 ---
 

@@ -4,8 +4,7 @@ part: I — A PERDA
 pov: Joana
 when: 2090-03-31 — noite
 where: a sala de controle da Barreira, na ponta do Cais
-premise: Na maré mais alta do ano, com ressaca, Joana vê da sala de controle a muralha que
-  projetou ser galgada, e a Comporta Dois ceder.
+premise: Numa maré de sizígia perto do equinócio, com ressaca, Joana vê da sala de controle a muralha que projetou ser galgada, e a Comporta Dois ceder.
 turn: a água chega ao Baixo, onde mora o pai dela
 threads:
 - a-perda
@@ -30,8 +29,8 @@ sem pensar num dente que dói só com gelado. Mas naquela noite, às nove e dez,
 controle no alto da torre, com a chuva batendo de lado no vidro e o prédio inteiro
 zumbindo baixinho com o vento, ela olhou a linha da crista desenhada no monitor grande e
 viu, por cima dela, sem querer, a outra linha. A que ela tinha desenhado primeiro. Cinco
-metros redondos acima do mar médio. A que o Conselho tinha apagado numa reunião de terça-
-feira, dezesseis anos antes, para caber no orçamento.
+metros redondos acima do mar médio. A que o Conselho tinha apagado numa reunião de
+terça-feira, dezesseis anos antes, para caber no orçamento.
 
 — A boia sete parou de mandar — disse o Téo.
 
@@ -50,7 +49,8 @@ estão dando quanto?
 
 — Quatro e dez. Quatro e meio, a doze quilômetros.
 
-Ela não disse nada. Não precisava. Os dois sabiam fazer a conta.
+Ela anotou os números num canto da prancheta e não precisou dizer o resto. Os dois sabiam
+fazer a conta.
 
 ---
 
@@ -67,7 +67,7 @@ E os monitores.
 
 A parede da sala era uma tela só, curva, de ponta a ponta, e Joana conhecia cada pedaço
 dela como conhecia a cozinha de casa. À esquerda, o marégrafo: uma linha azul subindo
-devagar pela grade, a maré real, e por cima dela uma linha tracejada, a maré prevista,
+pela grade, a maré real, e por cima dela uma linha tracejada, a maré prevista,
 que ia até o pico e descia de novo. O pico estava marcado com um traço vermelho. *Preamar
 23:52.* No meio, a muralha desenhada em corte, com a crista a quatro e vinte, e a água
 subindo contra ela em tempo real, um azul mais claro que tremia com as ondas. À direita,
@@ -145,7 +145,8 @@ Atrás da voz dele havia um barulho grosso, contínuo, que ela levou um segundo 
 entender: a chuva no telhado de zinco do estaleiro. Ela conhecia o barulho. Tinha
 dormido embaixo dele até os dezoito anos, numa rede no mezanino, em cima dos cascos.
 
-— A previsão é ruim — disse ela. — Maré de lua nova, a maior do ano. E a ressaca em cima.
+— A previsão é ruim — disse ela. — Maré de sizígia alta, perto do equinócio. E a ressaca em
+cima, que vai fazer dela a pior.
 
 — Eu sei ler a folhinha.
 
@@ -184,12 +185,12 @@ metro de muralha.
 
 — Começou — disse o Téo. Virou a cadeira para ela. — Quatro décimos.
 
-— É respingo. — Joana não tirou os olhos da tela. — Com quatro décimos, quem passa
-embaixo leva um banho e não cai.
+— É respingo. — Joana não tirou os olhos da tela. — Quatro décimos, com onda desse
+tamanho, já é proibido ficar em cima.
 
-— E com quanto não passa?
+— E atrás dela? Com quanto não dá pra passar?
 
-— Com cinquenta, a água te derruba. Com cem, a muralha começa a sofrer atrás. — Ela
+— Com dez, derruba um homem. Com cinquenta, cem, começa a estragar o que está atrás. — Ela
 apontou, sem olhar, o canto do mapa, onde ficava a estação de bombas do Baixo, um
 quadrado pequeno atrás da muralha, com três bolinhas verdes. — A água que passa cai na
 rua de trás, e as bombas devolvem para o mar. Elas aguentam vinte por metro, contínuo.
@@ -203,12 +204,13 @@ vermelho.
 Ela fez a conta. Não era difícil. Era a mesma conta que ela tinha feito dezesseis anos
 antes, numa planilha, num escritório com ar-condicionado quebrado, para provar ao
 Conselho que cinco metros não era luxo. A maré prevista para o pico, com a ressaca em
-cima, punha a água parada a uns quarenta centímetros da crista. As ondas de quatro metros
-e meio, quebrando na base, subiam pela face de concreto até bem mais que isso. Com cinco
-metros de muralha, sobravam cento e vinte centímetros entre a água parada e a crista, e
-quase nenhuma onda chegava lá em cima. Com quatro e vinte, sobravam quarenta.
+cima, punha a água parada a um metro e sessenta da crista. As ondas de quatro metros e
+meio lá fora chegavam à base com a metade disso, porque o fundo raso na frente da muralha
+não deixava passar onda maior. Com cinco metros de muralha, sobravam dois metros e
+quarenta entre a água parada e a crista, e pouca onda chegava lá em cima. Com quatro e
+vinte, sobrava um metro e sessenta.
 
-Quarenta centímetros é o que uma onda de quatro metros sobe sem esforço.
+Um metro e sessenta é o que uma onda de dois metros, batendo em parede, sobe sem esforço.
 
 — Vai molhar — disse ela.
 
@@ -242,7 +244,7 @@ Bomba dois no gerador.
 — Oito horas.
 
 — Então não é o combustível — disse ela. E ficou olhando a bolinha vermelha, que tinha
-voltado a ser amarela, e pensando, sem querer, no cheiro de diesel queimado que devia
+voltado a ser amarela, e pensando no cheiro de diesel queimado que devia
 estar saindo pelos respiros da estação naquele momento, misturado com a chuva e com o
 sal.
 
@@ -392,7 +394,7 @@ O Téo se pôs na frente da porta. Não encostou nela. Só ficou ali.
 — Não vai — disse ele. — Ninguém entra no Baixo agora. Nem os barcos da Defesa. Você
 sabe. Você escreveu o protocolo.
 
-Ela ficou olhando para ele. Ele tinha razão, e os dois sabiam, e ela odiou ele por
+Ela ficou olhando para ele. Ele tinha razão, e os dois sabiam, e ela o odiou por
 um segundo inteiro com uma força que a assustou, e depois o ódio passou e sobrou só o
 cansaço.
 
@@ -401,18 +403,18 @@ Sentou de volta.
 Havia uma coisa só que ela podia fazer, e era nada. A maré estava no pico. Abrir as
 outras duas comportas para aliviar o canal seria abrir mais duas bocas para o mar.
 Bombear era bombear para dentro de um balde furado. A única coisa que ia tirar a água
-do Baixo era o mar descer, e o mar ia descer quando quisesse, às seis horas da manhã,
-devagar, e ia levar com ele o que levasse.
+do Baixo era o mar descer, e o mar ia descer quando quisesse, até as seis e meia da
+manhã, e ia levar com ele o que levasse.
 
 Então ela ficou sentada e olhou o mapa.
 
 Ela tinha passado a vida inteira olhando aquele desenho por cima. Plantas, cortes,
 curvas de nível. Sabia de cor a altura de cada esquina do Baixo, porque tinha medido.
-A esquina da rua dos Calafates com o canal estava a um metro e dez acima do mar médio.
-O piso do estaleiro, um metro e quarenta. O mezanino, quatro e trinta. A cumeeira do
-telhado de zinco, sete e oitenta.
+A esquina da rua dos Calafates com o canal estava vinte centímetros abaixo do mar médio.
+O piso do estaleiro, dez centímetros acima. O mezanino, três metros. A cumeeira do
+telhado de zinco, seis e meio.
 
-O azul entrou na rua dos Calafates às zero hora e nove minutos.
+O azul entrou na rua dos Calafates à zero hora e nove minutos.
 
 Ela viu entrar. Não podia fazer nada além disso, e fez isso inteiro, sem desviar os
 olhos, porque lhe parecia que era o mínimo. A rua ficou azul da boca do canal até o
@@ -420,7 +422,7 @@ meio, e do meio até o fim, e o quadrado cinza do estaleiro do pai ficou cercado
 pelos quatro lados, e ficou ali, cinza, no meio do azul, como uma ilha. O modelo não
 sabia dizer a altura da água dentro das casas. Só que havia água.
 
-Às zero hora e vinte e dois, meia hora depois do traço vermelho, porque a ressaca
+À zero hora e vinte e dois, meia hora depois do traço vermelho, porque a ressaca
 segurava a água contra a costa, a maré parou de subir.
 
 A linha azul tocou o traço vermelho, ficou um tempo deitada nele, e depois, quase sem

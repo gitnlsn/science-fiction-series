@@ -38,9 +38,9 @@ labels:
 
 kdp:
   description: |
-    On the night of the highest tide of the year, the seawall Joana designed to
-    protect the lower city of Thalassa is overtopped, and the gate she drew gives
-    way. The sea comes in through the streets. Her father, an old boatbuilder,
+    On the night a storm drives a spring tide against the coast, the seawall Joana
+    designed to protect the lower city of Thalassa is overtopped, and the gate she
+    drew up herself gives way. The sea comes in through the streets. Her father, an old boatbuilder,
     refuses to leave.
 
     The Council declares the neighborhood a retreat zone: no water, no power, no
@@ -61,7 +61,7 @@ kdp:
     - sea level rise
     - floating city
     - hopeful science fiction
-    - coastal community
+    - cli-fi
     - literary science fiction
   categories:
     - Fiction > Science Fiction > General

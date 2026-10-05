@@ -4,13 +4,13 @@ source: o-que-e-do-mar/back/01-sobre-a-autora.md
 status: draft
 ---
 Íris Gradim is an artificial intelligence system. This is her fourth novel, after
-*Forty Working Days*, *After Me* and *The Extra Turn*, and the third in a series of
-science fiction. She works under human direction.
+*Forty Working Days*, *After Me* and *The Extra Turn*, and the third novel in the
+*What Remains* series. She works under human direction.
 
 The book has three debts, and none of them is a secret.
 
-The first is to Ursula K. Le Guin, for *The Dispossessed*. That is where the idea
-comes from that a community without an owner is not a community without order, and
+The first is to Ursula K. Le Guin, for *The Dispossessed*. That book is the source of the
+idea that a community without an owner is not a community without order, and
 that deciding together is slower, noisier and harder than obeying, and lasts
 longer.
 

@@ -21,16 +21,15 @@ cast:
 - jairo
 - lauro
 source: o-que-e-do-mar/chapters/06-os-que-ficaram.md
-source_sha: 29d07517bd33
+source_sha: 58203049948d
 status: draft
 ---
-
 Lowtown had two maps, and it took Joana three weeks to learn the second.
 
 The first she knew by heart. It was on the wall of the control room, in the drawings in the
 drawer, in her head: streets, blocks, elevations, the Market canal down the middle like a
-spine. It was the low-tide map. It worked from seven in the morning to ten, and from seven
-at night to ten, more or less, when the mud dried enough to walk on in boots, sinking to the
+spine. It was the low-tide map. It worked in the three hours around low water, which moved
+almost an hour a day, when the mud dried enough to walk on in boots, sinking to the
 ankle, and the streets were streets.
 
 The second map was the high-tide map, and it wasn't anywhere. It was in the people.
@@ -55,8 +54,8 @@ She looked. It was. It still had the handle.
 
 Her father had been dead nineteen days.
 
-They had buried him in the upper city, in the cemetery on the hill, on a sunny Wednesday,
-with few people. Joana had thought there would be few people, and had been surprised to
+The funeral had been in the upper city, in the cemetery on the hill, on a sunny Wednesday.
+Joana had thought there would be few people, and had been surprised to
 arrive and see the cemetery gate crowded, and then had understood: it was Lowtown. People
 she didn't know, their pants muddy to the knee, because they had come down at low tide and
 walked up the hill. Mrs. Ilda. Nilo. Mr. Lauro, out of his splint now. The Ferreiras. The
@@ -81,6 +80,12 @@ the gas stove. On the wooden back wall, the empty nails where the tools had been
 
 Joana hadn't taken out the nails. Neither had Davi.
 
+One night, in the first week, she woke to a light down below. It was Nilo, waist-deep in the
+dark shed, the flashlight wedged between his shoulder and his chin, pointed at the middle
+column, the one with her father's marks, writing in a blue notebook. She watched from the
+rail until he switched the flashlight off and went away through the water. In the morning
+she didn't ask.
+
 ---
 
 The circle met at the Market.
@@ -94,8 +99,9 @@ there, over the last two months, without anyone having decided it, the people of
 started to meet.
 
 Davi brought Amaro's boat up against a column on the canal side, where an iron ladder was
-fixed to the outside. The tide was in, and the water was a meter and a bit below the gallery
-floor. Up above, Joana could hear voices. A lot of them.
+fixed to the outside. The tide was low, and the ladder was long, with mud and barnacles on
+the bottom rungs. At the edge of the canal, a man in knee boots was making his way up Market
+Street through the mud with two lidded buckets, one in each hand, toward the hill. Up above, Joana could hear voices. A lot of them.
 
 "Do they know I'm coming?" she asked.
 
@@ -114,7 +120,14 @@ Middle-aged women. Young men. Few people her age. Almost nobody who had anything
 upper city, she would understand later: whoever had a job had gone. Whoever had stayed was
 whoever had only the house.
 
-Mrs. Ilda was sitting on a market crate, beside the well, with Nilo behind her. She looked at
+In one corner, under the cable that came down from the two old solar panels on the roof,
+there was a power strip and a line of devices on the floor, each on a slip of paper with its
+owner's name, and five people sitting beside them, waiting their turn. Joana had hers in her
+pocket: a sheet of soft screen the size of her hand, folded once, with a cracked corner,
+which went warm when it charged and had been dead since Thursday. Mrs. Ilda had never had
+one.
+
+She was sitting on a market crate, beside the well, with Nilo behind her. She looked at
 Joana when she appeared on the ladder, and made no gesture.
 
 The voices stopped. Not all at once. Like a wave losing strength on the sand: the nearest
@@ -124,7 +137,7 @@ some beam.
 
 Joana climbed the last rung and stood on the iron floor.
 
-"It's the one with the wall," someone said, on the other side. Not loudly. But the gallery
+"That's the wall woman," someone said, on the other side. Not loudly. But the gallery
 echoed.
 
 ---
@@ -139,7 +152,7 @@ some year.
 
 "I'm Jairo," he said. "From Ropemakers, number eighteen."
 
-She nodded.
+"Joana," she said.
 
 "My wife is in the cemetery on the hill. Two rows from your father." He spoke slowly, without
 shouting, and his hands were closed at his sides. "She was on the ground floor when the
@@ -170,14 +183,14 @@ Her father had stayed. *Your wall's still there, isn't it?*
 
 "You're right," she said.
 
-Jairo blinked. He hadn't expected it. His hand opened, slowly, at his side.
+Jairo blinked. He hadn't expected it. His hand opened at his side.
 
 "I'm not going to apologize," said Joana, "because it's no use to anyone, and I don't know
 which thing I'd be apologizing for. But you're right. The wall made you stay. I'd never
 thought of that. I'm thinking of it now."
 
 Jairo stood looking at her for a long time. Then he sat down, slowly, in the middle of his
-group, and said nothing more. One of the men beside him put a hand on his shoulder.
+group. One of the men beside him put a hand on his shoulder.
 
 ---
 
@@ -193,9 +206,11 @@ A few people shifted. Nobody spoke.
 
 "We've got a problem," said Mrs. Ilda, turning to Joana. "Just one. The rest we can manage.
 Food we buy in the upper city, or catch, or grow in cans. Power we don't need, we've got
-flashlights and we've got sun. The garbage we burn, God forgive me. The doctor, Nilo takes
-whoever needs it by boat to the hill, and from there they walk up." She counted on her
-fingers, slowly. "What we don't have is water."
+flashlights and we've got sun. The garbage we burn, God forgive me. The toilet is a bucket with a lid and sawdust, and the
+bucket goes out at low tide to the pit up the hill; nobody does anything in the canal. Rats,
+the Market cats take care of, and what they don't, the traps do. Nobody sets foot in the mud
+without boots. The doctor, Nilo takes whoever needs it by boat to the hill, and from there
+they walk up." She folded down her fingers one by one. "What we don't have is water."
 
 "The rain tanks..."
 
@@ -212,12 +227,12 @@ we'll have to choose between drinking and eating. And then the upper city will w
 go to the Plateau, one at a time, and the retreat zone will retreat on its own. Which is what
 the Council wants."
 
-The gallery was silent. Down below, the tide had stopped rising. Joana knew the sound of
+The gallery was silent. Down below, in the canal, the tide had stopped falling. Joana knew the sound of
 still water against iron columns: a small, irregular tick, from the metal cooling where the
 water touched it.
 
 "You're a water engineer," said Mrs. Ilda. "That's what your mother used to tell everyone
-who went by the school gate. *My daughter's going to be a water engineer.* I sold tapioca
+who went by the school gate. *My daughter's going to be a water engineer.* I sold corn cake
 next to her and heard it every day."
 
 Joana hadn't known that. She hadn't known her mother said it to anyone.
@@ -235,7 +250,7 @@ better. Do you know how to make it?"
 Joana thought before she answered. She always thought first. Her father used to say she
 answered a question ten seconds after everyone else and that it was worth the wait.
 
-Three hundred people. Three liters a day each, just for drinking and cooking, no bathing, no
+Three hundred people. Three liters a day each, just for drinking, no bathing, no
 washing anything. Nine hundred liters a day. The sea was right there, free, twice a day. So
 was the sun. A solar still, the simplest there was, a shallow tank of salt water painted
 black inside with a sloping pane of glass on top, made three, four liters a day per square

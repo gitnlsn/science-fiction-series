@@ -4,8 +4,7 @@ part: I — THE LOSS
 pov: Joana
 when: 2090-03-31 — noite
 where: a sala de controle da Barreira, na ponta do Cais
-premise: Na maré mais alta do ano, com ressaca, Joana vê da sala de controle a muralha que
-  projetou ser galgada, e a Comporta Dois ceder.
+premise: Numa maré de sizígia perto do equinócio, com ressaca, Joana vê da sala de controle a muralha que projetou ser galgada, e a Comporta Dois ceder.
 turn: a água chega ao Baixo, onde mora o pai dela
 threads:
 - a-perda
@@ -21,11 +20,10 @@ cast:
 - amaro
 - teo
 source: o-que-e-do-mar/chapters/01-a-mare-grande.md
-source_sha: 15bc2f2a2da1
+source_sha: a5de0a2bc71e
 status: draft
 ---
-
-The Barrier was four meters twenty high, and Joana knew by heart the eighty
+The Barrier was four point two meters high, and Joana knew by heart the eighty
 centimeters it was missing.
 
 She didn't think about them every day. She had gone years without thinking about them,
@@ -45,16 +43,17 @@ night. Joana liked him for that, and was a little afraid of him for it too.
 
 "When?"
 
-"Just now. Last reading was four meters thirty of wave."
+"Just now. Last reading was four point three meters of wave."
 
 "It didn't stop. It sank or it broke its mooring." Joana pulled the buoy panel onto her
 own screen. Seven yellow dots scattered on the dark sea, eight, twelve, twenty
 kilometers out, each one blinking its number. Seven was gray. "What are the others
-giving?"
+reading?"
 
-"Four ten. Four and a half, at twelve kilometers."
+"Four point one. Four and a half, at twelve kilometers."
 
-She didn't say anything. She didn't need to. They both knew how to do the math.
+She jotted the numbers in a corner of her clipboard and didn't need to say the rest. They
+both knew how to do the math.
 
 ---
 
@@ -71,10 +70,10 @@ And the monitors.
 
 The wall of the room was a single screen, curved, from end to end, and Joana knew every
 piece of it the way she knew her own kitchen. On the left, the tide gauge: a blue line
-climbing slowly up the grid, the real tide, and over it a dashed line, the predicted
+climbing the grid, the real tide, and over it a dashed line, the predicted
 tide, which went up to the peak and came down again. The peak was marked with a red
 stroke. *High water 23:52.* In the middle, the wall drawn in section, with the crest at
-four twenty, and the water rising against it in real time, a paler blue that trembled
+four-twenty, and the water rising against it in real time, a paler blue that trembled
 with the waves. On the right, the three gates, with the sensors for each: pressure, steel
 temperature, and deflection, a thin green line that said how much each gate was giving,
 in millimeters, under the weight of the sea.
@@ -148,8 +147,8 @@ Behind his voice there was a thick, steady noise that took her a second to place
 rain on the zinc roof of the boatyard. She knew the noise. She had slept under it until
 she was eighteen, in a hammock in the loft, above the hulls.
 
-"The forecast is bad," she said. "New-moon tide, the biggest of the year. And the surge
-on top of it."
+"The forecast is bad," she said. "A high spring tide, close to the equinox. And the surge
+on top of it, which will make it the worst."
 
 "I can read an almanac."
 
@@ -189,13 +188,13 @@ tenths of a liter per second, per meter of wall.
 
 "It's started," said Téo. He turned his chair toward her. "Four tenths."
 
-"That's spray." Joana didn't take her eyes off the screen. "At four tenths, someone
-walking underneath gets a shower and stays on their feet."
+"That's spray." Joana didn't take her eyes off the screen. "Four tenths, with waves this
+size, and nobody's allowed up on top."
 
-"And at how much do they not?"
+"And behind it? At what point can't you get through?"
 
-"At fifty, the water knocks you down. At a hundred, the wall starts to suffer at the
-back." She pointed, without looking, at the corner of the map where the Lowtown pump
+"At ten, it knocks a man down. At fifty, a hundred, what's behind it starts taking
+damage." She pointed, without looking, at the corner of the map where the Lowtown pump
 station was, a small square behind the wall with three green dots. "The water that comes
 over falls into the back street, and the pumps send it back to the sea. They can handle
 twenty per meter, continuous. More than that, the back street fills."
@@ -208,13 +207,13 @@ stroke.
 She did the math. It wasn't hard. It was the same math she had done sixteen years
 before, in a spreadsheet, in an office with a broken air conditioner, to prove to the
 Council that five meters wasn't a luxury. The tide forecast for the peak, with the surge
-on top, put the still water some forty centimeters below the crest. The waves of four and
-a half meters, breaking at the base, ran up the concrete face well past that. With a
-five-meter wall, there would have been a hundred and twenty centimeters between the
-still water and the crest, and almost no wave would have reached the top. With four
-twenty, there were forty.
+on top, put the still water one point six meters below the crest. The four-and-a-half-meter
+waves out there reached the base at half that, because the shallow bottom in front of the
+wall wouldn't let a bigger wave through. With a five-meter wall, there would have been two
+point four meters between the still water and the crest, and few waves would have reached
+the top. With a crest at four-twenty, there was one point six.
 
-Forty centimeters is what a four-meter wave climbs without effort.
+One point six meters is what a two-meter wave, hitting a wall, climbs without effort.
 
 "It's going to get wet," she said.
 
@@ -247,7 +246,7 @@ At twelve past eleven, one of the three dots went red.
 "Eight hours."
 
 "Then it isn't the fuel," she said. And she kept looking at the red dot, which had gone
-back to yellow, and thinking, without meaning to, of the smell of burnt diesel that must
+back to yellow, and thinking of the smell of burnt diesel that must
 be coming out of the station's vents at that moment, mixed with the rain and the salt.
 
 The map kept turning blue. Behind Quay Street there were four blocks of old warehouses
@@ -408,15 +407,15 @@ There was only one thing she could do, and it was nothing. The tide was at its p
 Opening the other two gates to relieve the canal would be opening two more mouths to the
 sea. Pumping was pumping into a bucket with a hole in it. The only thing that would take
 the water out of Lowtown was the sea going down, and the sea would go down when it
-pleased, at six in the morning, slowly, and would take with it whatever it took.
+pleased, until half past six in the morning, and would take with it whatever it took.
 
 So she sat and looked at the map.
 
 She had spent her whole life looking at that drawing from above. Plans, sections,
 contour lines. She knew by heart the height of every corner in Lowtown, because she had
-measured them. The corner of Caulkers Street and the canal was one meter ten above mean
-sea level. The boatyard floor, one meter forty. The loft, four thirty. The ridge of the
-zinc roof, seven eighty.
+measured them. The corner of Caulkers Street and the canal was twenty centimeters below
+mean sea level. The boatyard floor, ten centimeters above. The loft, three meters. The
+ridge of the zinc roof, six and a half.
 
 The blue got into Caulkers Street at nine minutes past midnight.
 
@@ -438,7 +437,7 @@ was hot, and because her hands needed to hold something.
 
 Outside, the rain was still hitting the glass sideways. On the middle screen, water was
 still coming over the wall with every wave, less now, a thread of blue at a time. Four
-meters twenty. She looked at the drawn crest and, above it, without meaning to, the other
+point two meters. She looked at the drawn crest and, above it, without meaning to, the other
 line, the five-meter one, which had never existed anywhere except in her head and in an
 old spreadsheet.
 

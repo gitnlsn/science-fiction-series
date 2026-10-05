@@ -65,7 +65,7 @@ night is **the big tide** throughout.
 | a Vila Rasa | **the Shallows** | the fishing village; a place, *in the Shallows* |
 | o riacho | the creek | |
 | o barracão | the net shed | |
-| o Planalto | the Plateau | the relocation estates |
+| o Planalto | the Plateau | the relocation developments |
 | o Conselho | the Council | |
 | a conselheira Marta Viegas | Councillor Marta Viegas | US spelling: **Councilor** |
 | o Departamento | the Department | the city's water department |
@@ -76,6 +76,20 @@ night is **the big tide** throughout.
 | o termo de uso coletivo | the collective-use grant | |
 | a associação de moradores | the residents' association | |
 | a Terra Firme | Terra Firma | the company; its project **Thalassa Firma** |
+| bolo de milho | corn cake | what Ilda sold at the school door |
+| o aparelho; a fila de carga | the device; the charging line | |
+| as marcas (da coluna) | the marks: *the fifth mark, the sixth*; *mark eleven and a finger* | in palmos, never meters |
+| balde de tampa (com serragem); a fossa do morro | lidded bucket (with sawdust); the pit on the hill | |
+| bate-estaca | pile driver | |
+| botijão (de propano) | propane tank | |
+| a ação (de danos) | the (damages) suit | |
+| confirmação de leitura | read receipt | |
+| a meia-lua (o canteiro) | the half-moon | |
+| Pela ordem; Fica registrado | Point of order; So recorded | |
+| *Comporta Dois: inoperante* | *Gate Two: out of service* | |
+| *O que é do mar, o mar vem buscar.* | *What belongs to the sea, the sea comes back for.* | Amaro, fixed |
+| *Eu risquei. Igual eles.* | *I crossed them out. Same as they did.* | Ilda, fixed |
+| *Ostra do canal não se come.* | *You don't eat canal oysters.* | fixed |
 | a roda | the circle | the community meeting |
 | a plataforma (da roda) | the platform (the circle platform) | |
 | o barco do Amaro / o casco do Severino | Amaro's boat / Severino's hull | |
@@ -109,7 +123,7 @@ night is **the big tide** throughout.
 | a cumeeira | the ridge | of the zinc roof |
 | o plantão (de Defesa) | the (Civil Defense) duty desk | |
 | a ponte de pedestres | the footbridge | |
-| o Planalto | the Plateau | (repeated: the relocation estates; *conjunto quatro, bloco C* → *Estate Four, Block C*) |
+| o Planalto | the Plateau | (repeated: the relocation estates; *conjunto quatro, bloco C* → *Development Four, Block C*) |
 | o rapaz da Defesa | the Civil Defense boy | Edson's son |
 | a casa verde (da Dona Ilda) | the green house (Mrs. Ilda's) | |
 | as plataformas | the platforms | the floating houses |
@@ -145,7 +159,7 @@ night is **the big tide** throughout.
 | a folhinha | the almanac | *Eu sei ler a folhinha* → *I can read an almanac* |
 | bairro | quarter / neighborhood | *o bairro que boia* → *the floating quarter* |
 | a faixa de uso comum / uso comum | the common-use strip / common use | under the Shore Law; *É do mar.* → *It belongs to the sea.* |
-| a cota | the elevation (*the contour* for *a cota de quatro metros* as a boundary) | *a cota de um metro e trinta e dois* → *the one-meter-thirty-two elevation* |
+| a cota | the elevation (*the contour* for *a cota de quatro metros* as a boundary) | *a cota de um metro e trinta e dois* → *the 1.32-meter elevation*. **Measurements (G1):** decimals, never the Portuguese "four meters twenty": *four point two meters*; Joana's shorthand *crest at four-twenty*; never a bare number that reads as a time |
 | o cadastro | the land registry | the Department's |
 | o levantamento (oficial) | the (official) survey | |
 | a homologação | the ratification | *a homologação foi suspensa* → *the ratification was suspended* |

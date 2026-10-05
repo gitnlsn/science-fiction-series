@@ -26,8 +26,8 @@ O Baixo tinha dois mapas, e Joana levou três semanas para aprender o segundo.
 
 O primeiro ela sabia de cor. Estava na parede da sala de controle, nas pranchas da
 gaveta, na cabeça: ruas, quadras, cotas, o canal do Mercado no meio como uma espinha. Era
-o mapa da maré baixa. Servia das sete da manhã às dez, e das sete da noite às dez, mais ou
-menos, quando a lama secava o bastante para se andar nela de bota, afundando até o
+o mapa da maré baixa. Servia nas três horas em volta da baixa-mar, que andava quase uma
+hora por dia, quando a lama secava o bastante para se andar nela de bota, afundando até o
 tornozelo, e as ruas eram ruas.
 
 O segundo mapa era o da maré cheia, e não estava em lugar nenhum. Estava nas pessoas.
@@ -52,8 +52,8 @@ Ela olhou. Era. Tinha ainda a maçaneta.
 
 Fazia dezenove dias que o pai tinha morrido.
 
-Tinham enterrado ele na cidade alta, no cemitério do morro, numa quarta-feira de sol, com
-pouca gente. Joana tinha achado que ia ter pouca gente, e tinha ficado surpresa ao chegar e
+O enterro tinha sido na cidade alta, no cemitério do morro, numa quarta-feira de sol. Joana
+tinha achado que ia ter pouca gente, e tinha ficado surpresa ao chegar e
 ver o portão do cemitério cheio, e depois tinha entendido: era o Baixo. Gente que ela não
 conhecia, com as calças sujas de lama até o joelho, porque tinham descido na maré seca e
 subido a ladeira a pé. A Dona Ilda. O Nilo. O Seu Lauro, já sem a tala. Os Ferreira. O
@@ -79,6 +79,11 @@ onde estavam as ferramentas.
 
 Joana não tinha tirado os pregos. O Davi também não.
 
+Uma noite, na primeira semana, ela acordou com uma luz lá embaixo. Era o Nilo, com a água
+pela cintura no galpão escuro, a lanterna presa entre o ombro e o queixo, apontada para a
+coluna do meio, a das marcas do pai, escrevendo num caderno azul. Ela ficou olhando do
+parapeito até ele apagar a lanterna e ir embora pela água. De manhã não perguntou.
+
 ---
 
 A roda era no Mercado.
@@ -92,8 +97,10 @@ dois meses, sem que ninguém tivesse decidido, a gente do Baixo tinha começado 
 encontrar.
 
 O Davi encostou o barco do Amaro numa coluna do lado do canal, onde havia uma escada de
-ferro presa por fora. A maré estava cheia, e a água estava a um metro e pouco do piso do
-mezanino. Lá em cima, Joana ouvia vozes. Muitas.
+ferro presa por fora. A maré estava baixa, e a escada era comprida, com lama e craca nos
+degraus de baixo. Na beira do canal, um homem de bota até o joelho subia a rua do Mercado
+pela lama com dois baldes de tampa, um em cada mão, para o lado da ladeira. Lá em cima,
+Joana ouvia vozes. Muitas.
 
 — Eles sabem que eu vou? — perguntou ela.
 
@@ -111,8 +118,13 @@ cachorro. Velhos, muitos. Mulheres de meia-idade. Rapazes. Pouca gente da idade 
 Quase ninguém que tivesse alguma coisa para fazer na cidade alta, ela ia entender depois:
 quem tinha emprego, tinha ido. Quem tinha ficado era quem tinha só a casa.
 
-A Dona Ilda estava sentada num caixote de feira, do lado do vão, com o Nilo atrás.
-Olhou para Joana quando ela apareceu na escada, e não fez nenhum gesto.
+Num canto, embaixo do fio que descia dos dois painéis solares velhos do telhado, havia uma
+régua de tomadas e uma fila de aparelhos no chão, cada um em cima de um papel com o nome do
+dono, e cinco pessoas sentadas do lado, esperando a vez. Joana tinha o dela no bolso: uma
+lâmina de tela mole do tamanho da mão, dobrada uma vez, com o canto rachado, que esquentava
+quando carregava e estava morta desde quinta. A Dona Ilda nunca tinha tido um.
+
+Estava sentada num caixote de feira, do lado do vão, com o Nilo atrás. Olhou para Joana quando ela apareceu na escada, e não fez nenhum gesto.
 
 As vozes foram parando. Não todas de uma vez. Como uma onda que perde força na areia: as
 mais perto primeiro, depois as do outro lado do vão, depois as do fundo. Até que o único
@@ -135,7 +147,7 @@ esquina, de algum ano.
 
 — Eu sou o Jairo — disse ele. — Dos Cordoeiros, número dezoito.
 
-Ela fez que sim.
+— Joana — disse ela.
 
 — A minha mulher tá no cemitério do morro. Duas quadras do teu pai. — Ele falava devagar,
 sem gritar, e as mãos dele estavam fechadas do lado do corpo. — Ela tava no térreo
@@ -166,14 +178,14 @@ O pai tinha ficado. *A tua parede tá aí, não tá?*
 
 — Tem razão — disse ela.
 
-O Jairo piscou. Não esperava. A mão dele se abriu, devagar, do lado do corpo.
+O Jairo piscou. Não esperava. A mão dele se abriu do lado do corpo.
 
 — Eu não vou pedir desculpa — disse Joana — porque não serve pra nada, e eu não sei de
 qual coisa ia pedir. Mas tem razão. A muralha fez vocês ficarem. Eu nunca tinha pensado
 nisso. Tô pensando agora.
 
 O Jairo ficou olhando para ela um tempo comprido. Depois se sentou, devagar, no meio do
-grupo dele, e não disse mais nada. Um dos homens do lado dele pôs a mão no ombro dele.
+grupo dele. Um dos homens do lado dele pôs a mão no ombro dele.
 
 ---
 
@@ -189,8 +201,10 @@ Algumas pessoas se mexeram. Ninguém falou.
 — A gente tá com um problema — disse a Dona Ilda, se virando para Joana. — Um só. O resto
 a gente dá jeito. A comida a gente compra na cidade alta, ou pesca, ou planta em lata. A
 luz a gente não precisa, tem lanterna e tem sol. O lixo a gente queima, que Deus me
-perdoe. O médico, o Nilo leva de barco quem precisa até a ladeira, e de lá sobe. — Ela
-contou nos dedos, devagar. — O que a gente não tem é água.
+perdoe. Banheiro é balde de tampa, com serragem, e o balde sai na maré seca pra fossa do
+morro; no canal ninguém faz nada. Rato, os gatos do Mercado dão conta, e o que eles não dão
+a ratoeira dá. Na lama ninguém pisa sem bota. O médico, o Nilo leva de barco quem precisa
+até a ladeira, e de lá sobe. — Ela foi dobrando os dedos. — O que a gente não tem é água.
 
 — As caixas de chuva...
 
@@ -207,13 +221,13 @@ Quando acabar a chuva, a gente vai ter que escolher entre beber e comer. E aí a
 vai ganhar, e a gente vai pro Planalto, um de cada vez, e a zona de recuo vai recuar
 sozinha. Que é o que o Conselho quer.
 
-O mezanino estava em silêncio. Lá embaixo, a maré tinha parado de subir. Joana conhecia o
+O mezanino estava em silêncio. Lá embaixo, no canal, a maré tinha parado de descer. Joana conhecia o
 som da água parada nas colunas de ferro: um estalo pequeno, irregular, que vinha do metal
 esfriando onde a água encostava.
 
 — Você é engenheira de água — disse a Dona Ilda. — Era o que a tua mãe dizia pra quem
-passava na porta da escola. *A minha filha vai ser engenheira de água.* Eu vendia tapioca
-do lado e ouvia isso todo dia.
+passava na porta da escola. *A minha filha vai ser engenheira de água.* Eu vendia bolo de
+milho do lado e ouvia isso todo dia.
 
 Joana não sabia disso. Não sabia que a mãe dizia isso para alguém.
 
@@ -231,7 +245,7 @@ coisa melhor. Você sabe fazer?
 Joana pensou antes de responder. Ela sempre pensava antes. O pai dizia que ela respondia
 uma pergunta dez segundos depois de todo mundo e que valia a pena esperar.
 
-Trezentas pessoas. Três litros por dia cada uma, só para beber e cozinhar, sem banho, sem
+Trezentas pessoas. Três litros por dia cada uma, só para beber, sem banho, sem
 lavar nada. Novecentos litros por dia. O mar estava ali, de graça, duas vezes por dia. O sol
 também. Uma destilação solar, a mais simples que existia, um tanque raso de água salgada,
 pintado de preto por dentro, com um vidro inclinado por cima, fazia três, quatro litros por

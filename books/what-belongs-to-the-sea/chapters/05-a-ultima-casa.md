@@ -19,10 +19,9 @@ cast:
 - nilo
 - edson
 source: o-que-e-do-mar/chapters/05-a-ultima-casa.md
-source_sha: 66906f9b8064
+source_sha: e9c777b7660e
 status: draft
 ---
-
 The Civil Defense boats arrived at eight in the morning, with the tide coming in, and this
 time they had police.
 
@@ -38,7 +37,7 @@ him not to come. She didn't anymore.
 
 "Mr. Amaro Amaral," the boy read, from the boat, below the roof. His voice came up half
 broken, as if he had rehearsed the sentence and it had come out different. "Caulkers Street,
-seventy-two. You're on the relocation list, with a place in Estate Four on the Plateau,
+seventy-two. You're on the relocation list, with a place in Development Four on the Plateau,
 Block C. The deadline ended today. I have to ask you to come with us."
 
 Her father was sitting on the ridge, where he liked to sit in the mornings, with a mug of
@@ -69,23 +68,24 @@ boats went from house to house, and the boy read the name, and heard the answer,
 it on the tablet. Some went. Most didn't.
 
 Nilo, Mrs. Ilda's grandson, showed up at ten in a yellow kayak, paddling with a single
-paddle, to say that the Civil Defense radio had given a surge for the night.
+paddle, to say that the Civil Defense radio was calling for a surge tonight.
 
 "Not as big as the other one," he said, holding the kayak against the wall of the boatyard
-with his hand. "But with yesterday's full moon, the tide's just as high. And now there's no
+with his hand. "But with Saturday's full moon, the tide's just as high. And now there's no
 gate."
 
 Joana did the math. She didn't want to and she did. That night's full-moon tide would come
-close to the big tide, some ten centimeters under it. The surge was smaller, the wall would
-be overtopped less. But it no longer made any difference how much the wall was overtopped.
-The mouth of the Market canal was open. The sea didn't need to come over anything. It would
-come in through the door.
+close to the height of the big tide, some ten centimeters under it. The surge was smaller,
+the wall would be overtopped less. But it no longer made any difference how much the wall
+was overtopped. The mouth of the Market canal was open. The sea didn't need to come over
+anything. It would come in through the door.
 
-On the night of the big tide, the water had reached a meter and a half inside the boatyard.
-That night it would reach two and a half. Maybe three, with the surge pushing up the canal.
+On the night of the big tide, the water had reached two and a half meters inside the
+boatyard. That night the still water would stand a hand-span below that, at two point three
+meters. But it would come with waves, up the canal, and the waves came on top.
 
-The loft was at four thirty. The loft floor would hold. So would the brick walls of the
-ground floor. What she didn't know about was the timber above, the old boards that closed in
+The loft floor stood two point nine meters above the floor of the shed, and it would hold.
+So would the brick walls of the ground floor. What she didn't know about was the timber above, the old boards that closed in
 the shed from halfway up the wall to the roof, and that had never taken a wave.
 
 "Dad," she said. "You're going to Mrs. Ilda's house tonight. It's concrete, it's three
@@ -103,10 +103,10 @@ Her father looked at her. For the first time, she saw that he wasn't arguing. He
 That was a different thing.
 
 "Joana," he said. "I was born in this shed. On the floor. Your grandmother didn't make it to
-the maternity ward, because the tide was in and the road was closed, and I was born right
+the hospital, because the tide was in and the road was closed, and I was born right
 there, where Severino's cradle is. Let me stay."
 
-She didn't say anything more.
+She went to help Davi with the ropes.
 
 ---
 
@@ -135,7 +135,7 @@ Davi had looked at his mother. She had said the number. He had measured the rope
 arm, shoulder to fingertip, and tied it.
 
 At seven, Mrs. Ilda arrived in Nilo's kayak, sitting in the middle with a bag on her lap,
-and climbed the wooden stairs slowly, taking no one's hand.
+and climbed the wooden stairs taking no one's hand.
 
 "He said it's higher here," she said to Joana, in the loft, taking off her raincoat. "I said
 it's wood here. He said I could stay in mine." She looked around, at the table, the bed, the
@@ -148,8 +148,8 @@ The water came into the shed at eight, through the open door, and rose.
 Joana stood at the rail of the loft, with a headlamp, watching the waterline against the
 iron columns, which her father had marked with white paint, a hand-span at a time, years
 before, to measure the tides of other days. At half past eight, the water was at the
-one-meter mark. At nine, at a meter and a half, where it had stood on the night of the big
-tide. At twenty past nine, at the second meter. Severino's hull rose with it, quiet, on its
+fourth mark. At nine, at the sixth, where an ordinary tide reached. At twenty past nine, at
+the eighth. Severino's hull rose with it, quiet, on its
 ropes, and the frame of planks and bottles rose too, and the blue henhouse drums, and the
 chickens inside, which had stopped complaining.
 
@@ -192,10 +192,10 @@ What happened next Joana would remember forever in pieces, and never in the righ
 
 She would remember Davi going down the wooden stairs with the water already at the
 next-to-last step, and jumping into Severino's hull, and the hull rocking and coming back.
-Weight low. Wide in the beam. She would remember putting Mrs. Ilda into the hull, and that
+She would remember putting Mrs. Ilda into the hull, and that
 she weighed much less than she looked, and Mrs. Ilda saying *I know how to get into a boat,
 girl.* She would remember Nilo untying the yellow kayak and letting it go, because it didn't
-fit. She would remember her father coming down the stairs last, slowly, facing them, one
+fit. She would remember her father coming down the stairs last, facing them, one
 step at a time, the way you go down a ladder on a boat, with the water at his chest and the
 rain in his face, and sitting in the stern, on the rower's thwart, and taking the oars.
 
@@ -220,7 +220,8 @@ it outside. In the street, the current was pushing toward the hill, away from th
 and he let it push, and rowed only to correct. One stroke on one side. One on the other. The
 rain in his face. Joana's headlamp in the bow catching the windows of the houses, the bars,
 the posts. Mrs. Ilda's house was four houses down, on the other side. A three-story concrete
-building, painted green, with an iron stair outside up to the roof terrace.
+building, painted green, on high fill eight steps above the street, with an iron stair
+outside up to the roof terrace.
 
 He reached the iron stair in three strokes. He brought the hull up against it the way you
 pull a car into a garage.
@@ -333,8 +334,8 @@ He waited.
 
 Joana looked at Caulkers Street. The water was rising again, a finger at a time. The
 boatyard, four houses away, without its front wall, with half its roof, the iron columns
-standing with their marks of white paint, and inside, resting on the mud, the frame of planks
-and bottles Davi had made for Mrs. Ilda. It had held the whole night, tied to a column. It
+standing with their marks of white paint and the night's mud line past the tenth mark.
+Inside, resting on the floor of the shed, the frame of planks and bottles Davi had made for Mrs. Ilda. It had held the whole night, tied to a column. It
 was still there. Waiting for the water so it could be something.
 
 "I'm not going to the Plateau," she said. "And I'm not going to the upper city."

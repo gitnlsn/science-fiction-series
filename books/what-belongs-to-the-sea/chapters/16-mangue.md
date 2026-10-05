@@ -4,9 +4,8 @@ part: IV — THE NEW CITY
 pov: Joana
 when: 2091-02-14 — tarde
 where: a borda do Baixo e a Vila Rasa
-premise: A comunidade planta mangue e monta recifes de ostra com a Vila Rasa; Raul larga a
-  Terra Firme e aparece para ajudar.
-turn: Joana deixa de liderar, porque a comunidade não precisa mais
+premise: A comunidade planta mangue e monta recifes de ostra com a Vila Rasa; Raul, que já largou a Terra Firme, aparece para ajudar.
+turn: Joana recusa coordenar e passa a dizer a conta em voz alta
 threads:
 - a-cidade-nova
 - a-reuniao
@@ -18,17 +17,15 @@ cast:
 - ilda
 - nilo
 - raul
-- viegas
 - jairo
 - celia
 - edson
 - benedito
 - tais
 source: o-que-e-do-mar/chapters/16-mangue.md
-source_sha: 0c960f4bcf15
+source_sha: 7b5b7c42029d
 status: draft
 ---
-
 Benedito planted mangroves the way a man puts a pen in his pocket.
 
 Joana stood watching from the edge of the creek, mud to the shin, the first time she saw it. He had a
@@ -84,14 +81,23 @@ larvae that came in on the water would find somewhere to stick.
 
 Between the cages, rubble. Chunks of concrete from the dike foundation Terra Firma had abandoned on the
 flooded site. Blocks of brick from the houses on Quay Street that had fallen down. Steel piles from the
-cofferdam, which Edson and his son had cut into pieces with a torch and laid on the bottom. Everything
-that was hard and heavy and no longer good for anything, laid in front of the wall, in the shallows,
-waiting.
+cofferdam, which Edson and his son had cut into pieces with the torch, on a propane tank the son carried
+down the hill on his back, and laid on the bottom. Everything that was hard and heavy and no longer good
+for anything, laid in front of the wall, in the shallows.
 
-The reef wasn't going to grow in ten weeks. She knew that. Taís knew it. Nobody had promised.
+The reef wasn't going to grow by the equinox. Nobody had promised.
 
 But the oldest cages, the ones from the first week, already had, on their lower part, a thin layer,
-rough, gray. Oysters the size of a fingernail.
+rough, gray. Oysters the size of a fingernail. Taís had flipped one over in the mud with her foot, the
+day before, for Joana to see.
+
+"The bottom takes first," the girl said, running her thumb over the crust. "On top, at low tide, the
+sun cooks the larvae. That's why the shell goes in loose, not packed. They want cracks."
+
+"And when the cage fills up?"
+
+"You put another one on top." Taís flipped the cage back with her heel, into its place. "And you don't
+move it again, or you break the one underneath."
 
 ---
 
@@ -100,7 +106,7 @@ Raul showed up on a Wednesday, in the afternoon, in the Shallows, on foot.
 Joana didn't see him arrive. She was on the bank of the creek, in the mud, helping Benedito, a bag of
 sticks on her shoulder, and she heard someone say her name from the beach. She turned.
 
-He was standing on the sand, near the net shed. Old trousers, a T-shirt, rubber boots. His gray hair
+He was standing on the sand, near the net shed. Old pants, a T-shirt, rubber boots. His gray hair
 blown every which way. On his shoulders, held with both hands, a bundle of six-meter rebar, which he
 had carried from God knows where, and which bent at the ends with its own weight.
 
@@ -122,8 +128,8 @@ Raul looked at Benedito. Benedito looked at Raul. For a long time.
 
 "Take it to Edson," said Benedito at last. "In the net shed. He welds." And he went back to planting.
 
-Raul stood still for one more second. Then he nodded and walked off across the sand toward the net
-shed, bent under the bundle of iron, his boots sinking.
+Raul stood still for one more second. Then he settled the bundle on his shoulder and walked off across
+the sand toward the net shed, bent under the iron, his boots sinking.
 
 ---
 
@@ -131,8 +137,33 @@ He worked the whole afternoon. Joana looked over now and then, from the bank. He
 hundred kilos of rebar from the truck to the net shed, down the hill, in a wheelbarrow with a flat tire,
 in eleven trips. Then he held the bars for Edson to weld. Then he carried finished cages to the boat. He
 did what he was told. Edson told him. Edson's son told him. Davi told him, once, and Joana saw Raul
-stop, look at the fifteen-year-old boy in swim shorts and a beaded bracelet, and do exactly what he
+stop, look at the sixteen-year-old boy in swim shorts and a beaded bracelet, and do exactly what he
 said.
+
+In the middle of the afternoon, Jairo ran a skiff up onto the beach, to take iron for the cages on Quay
+Street. He got out, and saw Raul in the doorway of the net shed.
+
+Joana dropped the bag of sticks in the mud.
+
+Raul wiped his right hand on his pants, took two steps across the sand and held it out.
+
+Jairo looked at the hand. Then he looked at the bundle of rebar leaning against the net shed's thatch
+wall, whole, tied with wire, six meters of iron.
+
+"That goes in the boat," he said.
+
+Raul lowered his hand. He went to the bundle, crouched, got his shoulder under it and stood. The bars
+knocked against each other. He staggered, set his legs, and walked toward the water, alone, the ends of
+the bundle bending, and waded in to the knee, to the thigh, and laid the iron in the bottom of the skiff.
+The skiff sank a hand-span.
+
+Nobody helped. Edson didn't look up from his welding. The village boys stopped filling their sacks.
+
+Jairo waited for Raul to come out of the water. Then he pushed the skiff off, jumped in and rowed along
+the coast, back toward the canal, without looking back.
+
+Raul stood at the water's edge, the sea running out of his pants, his hands open at his sides. Then he
+went back to the net shed and picked up the next cage.
 
 At the end of the afternoon, with the tide rising and the creek bank getting too soft to plant, she came
 out of the mud and went over to the beach. Raul was sitting on the sand, leaning against an upturned
@@ -145,7 +176,7 @@ She sat beside him. Not too close.
 "I did." He looked at his hands. "I spent twenty-six years being the one who does the math. I figured I
 had to do something where I wasn't."
 
-They were quiet. The sea was coming up the beach, slowly, foaming on the stones.
+They were quiet. The sea was coming up the beach, foaming on the stones.
 
 "Do you hate me?" he asked.
 
@@ -157,7 +188,7 @@ He laughed. Short. With no humor in it at all.
 
 "That's worse."
 
-"It is." She picked up a handful of sand and let it run through her fingers. "But carry cages."
+"It is." She picked up a handful of sand and let it run through her fingers. "But you carry cages."
 
 ---
 
@@ -170,75 +201,87 @@ village to come all the way to the canal to decide village things. Lowtown's boa
 coast, around the tip of the wall, at the end of the afternoon, in a line, with lights. Twenty, thirty
 boats. Amaro's boat in front, with Davi at the oars and Mrs. Ilda sitting in the middle, with Nilo.
 
-The net shed had a thatched roof and no walls. The village fishermen sat on the net-mending benches.
-Lowtown sat on the sand floor. The flashlights, hanging from the beams, swung in the sea wind.
+The net shed had a thatched roof and thatched walls on three sides; the fourth, the sea side, was open.
+The village fishermen sat on the net-mending benches. Lowtown sat on the sand floor. The flashlights,
+hanging from the beams, swung in the wind that came in through the open side.
 
-Mrs. Ilda opened the circle.
+Mrs. Ilda opened the circle from a net bench, between Benedito and Taís. The old woman from Lowtown and
+the girl from the village had found each other in the first week of the cages and since then had
+treated each other as if they had known each other all their lives.
 
-"There's something I want to propose," she said. "And I want nobody to vote now, so we can think."
+"The Council gave us the common-use paper," she said. "Viegas sent it with the Civil Defense boy. So now
+we have a coast." She looked at Joana. "And I propose that the one who coordinates the coast is Joana.
+Nobody here knows more. It's not for voting now. It's for thinking."
 
-She was sitting on a net bench, between Benedito and Taís. The two of them had met in the first week of
-the mangrove and since then had treated each other as if they had known each other all their lives,
-the old woman from Lowtown and the girl from the village, each teaching the other what she knew about
-tides.
+Jairo, sitting on the sand near the entrance, nodded. Others too. Edson didn't.
 
-"The Council gave us the paper," said Mrs. Ilda. "The common-use one. The land below the line belongs to
-whoever uses it, and whoever uses it is us, and the village, together. It's signed. Viegas sent the
-paper with the Civil Defense boy last week." She paused. "So now we have a coast. And a coast needs
-somebody who knows about coasts."
+"She already did the math on the line," said Edson, without taking his eyes off his hands. "My shop
+ended up under it."
 
-She looked at Joana.
+Raul, at the back, leaning against one of the net shed's posts, his hands wrapped in cloth, looked at
+the floor.
 
-"I propose Joana coordinates. The reef, the mangrove, the platforms, the posts. All of it. She's a water
-engineer. She did the math on the line. She broke the embankment with the excavator. Nobody here knows
-more."
+Joana stood up. She hadn't decided to.
 
-A few people nodded. Jairo, sitting on the sand near the entrance, nodded. Edson. Raul, at the back,
-leaning against one of the net shed's posts, his hands wrapped in cloth, didn't move.
-
-Joana looked around the net shed. The flashlights. The faces. Lowtown's, which she knew now one by one,
-by name, by platform, by the way they rowed. The village's, which she was learning.
-
-She thought of the glass field on the Market roof. A hundred and sixty tanks in one place, with a list.
-She thought of the window stills, a hundred roofs, each with its own pot. She thought of the Barrier,
-which was a single thing. She thought of Mrs. Célia's house lying over in the canal, because she had put
-the weight on top. She thought of Benedito, who planted twice because half died, and did no math at all,
-and knew.
-
-*Efficient for who?*
-
-"No," she said.
+"Before anybody thinks," she said, "there's math I haven't said yet."
 
 The net shed went quiet.
 
-"I don't know about mangroves," said Joana. "Benedito does. I don't know about oysters. Taís does, and
-Davi's learning from her. I don't know how to weld a post. Edson does. I don't know where the wave hits
-first on Quay Street, because I've never lived there. Mrs. Lúcia from Ropemakers knows, and Jairo, who
-has a platform there now." She stopped. "I know how to do math. When someone needs a calculation, ask
-me. I'll do it. And I'll tell you what it came to. Even when it comes to what nobody wants. Especially
-then."
+"Terra Firma left Lowtown, but it hasn't left me. There's a damages suit in my name, for the six weeks
+of works I buried with the excavator. What I had saved went to the lawyers before the end of the year. If I lose,
+they take platform nineteen." She breathed. "That's the first. The second: the reef won't be ready by
+the equinox. If it takes a fifth off the wave, that's a lot. The third is the posts at the mouth of the
+canal. Nobody had done the math on them. I did it this week. With the wave that comes in through the
+mouth, the rings there won't hold."
 
-She looked at Mrs. Ilda.
+A flashlight creaked on its beam. Nobody else made a sound.
 
-"But who decides where the mangrove goes is whoever plants it. Who decides where the cage goes is
-whoever dives. Every stretch has someone who knows it. I'm one stretch. I'm not the coast."
+"So no," said Joana. "I won't coordinate. The mangrove belongs to whoever plants it, and whoever plants
+it is Benedito. The oysters are Taís's."
 
-Mrs. Ilda looked at her for a long time. The flashlight above her swung, and the light came and went on
-her small, broad face.
+"And Davi's," said Taís. "He dives deeper than I do. He just can't read the shell yet."
 
-"Your mother would've been cross," said Mrs. Ilda. "She wanted you to be in charge of something."
+"And Davi's. Quay Street is Mrs. Lúcia's from Ropemakers, and Jairo's, who know where the wave hits
+first. The posts are Edson's." She stopped. "I know how to do math. When someone needs a calculation,
+ask me. I'll do it. And I'll tell you what it came to. Even when it comes to what nobody wants.
+Especially then."
+
+Edson raised his head.
+
+"How many posts?"
+
+"Twelve. Two old ones spliced for each, half of it driven into the mud. It isn't to make them taller.
+It's so they don't bend."
+
+"That's a week of diesel for the welding. The circle's box doesn't have it."
 
 "I know."
 
-"I'm not." Mrs. Ilda smiled. It was the first time, Joana realized, in ten months, that Mrs. Ilda had
-smiled at her. "I'm relieved, is what I am. People who are in charge of coasts, I've known plenty.
-People who listen, I've known few."
+He looked at her a while longer, with nothing on his face. Then he went back to looking at his hands.
+
+"I'll start Monday."
+
+Mrs. Ilda hadn't taken her eyes off Joana. The flashlight above her swung, and the light came and went
+on her small, broad face.
+
+"I offered you the coast in front of everybody, girl," she said, "and you left me holding it. That
+hurt."
+
+Joana saw that it had. She didn't take it back.
 
 ---
 
 They voted the following week, with stones, in the net shed. Each stretch got a master. Benedito, the
 mangrove. Taís and Davi, the reef. Edson, the posts and the cages. Mrs. Lúcia from Ropemakers and Jairo,
-Quay Street. Nilo, the blue notebook, the tides, and the radio.
+Quay Street, which he could see from the porch of the canal's seventh platform. Nilo, the blue notebook,
+the tides, and the radio.
+
+Edson had been at the mouth of the canal since Monday. Joana could see it from the Barrier: two old
+posts lying in the mud, end to end, the blue arc of the weld hissing off the circle's generator; then
+the spliced post standing, and four men hauling the rope of the pile driver, an iron weight on a pulley
+that dropped, struck and rose again, until half the iron had gone into the mud. Twelve. The diesel ran
+out at the eighth, and Edson's son carried two jerricans down the hill on his back, paid for out of the
+village's box. Edson didn't speak to her the whole week, except to ask for a number.
 
 Joana got nothing. She got a line on the wall of the net shed, written in charcoal by Taís, below the
 others, after all the stretches and all the names:

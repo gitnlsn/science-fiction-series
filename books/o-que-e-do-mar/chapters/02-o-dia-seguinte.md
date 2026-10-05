@@ -39,11 +39,11 @@ sentiu alívio. As ruas apareciam entre as casas como deviam aparecer, ruas, com
 retas, só que marrons. Cobertas de um lodo liso e brilhante que refletia o céu branco, e
 de coisas. Uma geladeira deitada de lado. Uma porta inteira, com a maçaneta. Um carro de
 mão de feirante, de rodas para cima. Galhos. Plástico de todas as cores, enganchado em
-tudo o que tinha altura para enganchar. E por cima de tudo, pendurado nas grades das
-janelas do primeiro andar, a um metro e meio do chão, um risco escuro, reto, contínuo,
-que corria de casa em casa até onde a vista alcançava.
+tudo o que tinha altura para enganchar. E por cima de tudo, no alto das grades das
+janelas do térreo, quase na verga, um risco escuro, reto, contínuo, que corria de casa
+em casa até onde a vista alcançava.
 
-A linha d'água da noite. Joana ficou olhando para ela como olharia para uma assinatura.
+A linha d'água da noite. Joana a leu como leria uma assinatura.
 
 Depois, às seis e trinta e seis, a água voltou.
 
@@ -54,8 +54,8 @@ lama ficou mais lisa e depois ficou espelho. A Comporta Dois estava lá no fundo
 deitada pela metade, e pelo lado baixo dela o mar entrava sem pressa, a cada minuto um
 pouco mais, como se tivesse sido convidado.
 
-Ela fez a conta sem querer. A maré daquele dia ia subir até perto de um metro e meio
-acima do mar médio. A esquina da rua dos Calafates estava a um metro e dez.
+A conta veio sozinha. A maré daquele dia ia subir até perto de um metro e meio acima do
+mar médio. A esquina da rua dos Calafates estava vinte centímetros abaixo dele.
 
 O Baixo ia alagar de novo ao meio-dia. E à meia-noite. E no dia seguinte, duas vezes.
 E toda vez que a lua fosse cheia ou nova, mais. E o portão de dezoito metros que ela tinha
@@ -101,7 +101,8 @@ alguma coisa embaixo do rosto mudou, e ela viu, e teve vontade de pegar a frase 
 
 — Então eu vou — disse ele.
 
-O rapaz da Defesa olhou para ela. Ela olhou para o filho. Quinze anos, um metro e oitenta,
+O rapaz da Defesa esperou, com o papel plastificado na mão. Ela olhou para o filho.
+Quinze anos, um metro e oitenta,
 o queixo do avô.
 
 — Senta no meio — disse ela. — E não mete a mão na água.
@@ -129,7 +130,7 @@ Ela guardou a imagem. Ia precisar dela.
 
 — É.
 
-Ele olhou também. Não disse mais nada.
+Ele olhou também. Segurou a corda da borda com as duas mãos.
 
 ---
 
@@ -168,7 +169,8 @@ O Davi não disse nada. Joana pôs a mão no joelho dele, por cima da calça mol
 deixou.
 
 Naquele dia, a Defesa contou trinta e um. Joana soube do número à noite, pelo aparelho,
-num boletim de cinco linhas. Na hora, no bote, ela contou dois.
+num boletim de cinco linhas, entre *Comporta Dois: inoperante* e *Vila Rasa: água até o
+joelho, sem vítimas*. Na hora, no bote, ela contou dois.
 
 ---
 
@@ -178,7 +180,7 @@ onde comprava pão quando tinha oito anos. A porta de ferro da padaria estava do
 dentro. A vitrine não existia mais.
 
 A água ali estava mais funda. Batia na cintura de quem estivesse em pé, se alguém
-estivesse em pé. O bote andou devagar pelo meio da rua, desviando de uma mesa de plástico
+estivesse em pé. O bote andou pelo meio da rua, desviando de uma mesa de plástico
 que boiava de pernas para cima, e o Davi já estava ajoelhado no banco, de pescoço esticado,
 olhando para a frente.
 
@@ -210,13 +212,13 @@ dela sem pedir licença. Soube por uma vizinha, a Dona Ilda, uma mulher pequena 
 setenta e um anos, de cabelo branco cortado curto, que estava sentada no meio da cumeeira
 com um cobertor nos ombros e uma voz que não tinha cansado nada.
 
-— A água entrou de uma vez — disse a Dona Ilda, olhando para Joana lá embaixo como quem
-olha para uma conhecida de muito tempo atrás. Era. Ela tinha vendido tapioca na porta da
+— A água entrou de uma vez — disse a Dona Ilda, lá de cima, no tom de quem fala com uma
+conhecida de muito tempo atrás. Era. Ela tinha vendido bolo de milho na porta da
 escola em que Joana estudou. — Às dez pra meia-noite, mais ou menos. Primeiro devagar, de
-cima, pela ladeira. Depois veio do canal e foi aquele estrondo. Em dez minutos estava no
-meu segundo andar. Eu fui pro telhado com o Nilo. — Ela apontou um rapaz de uns vinte
-anos, sentado mais para a ponta, que fez um aceno curto. — E aí a gente ficou lá. Com a
-água batendo na calha.
+cima, pela ladeira. Depois veio do canal e foi aquele estrondo. Em dez minutos estava na
+metade da minha escada. Eu fui pro telhado com o Nilo. — Ela apontou um rapaz de uns vinte
+anos, sentado mais para a ponta, que fez um aceno curto. — E aí a gente ficou lá. Sem
+saber onde ela ia parar.
 
 — E o meu pai?
 
@@ -227,7 +229,7 @@ elas, com o Davi agachado do lado dele, falando baixo.
 
 Joana olhou para dentro do galpão.
 
-O estaleiro estava cheio d'água até um pouco abaixo do mezanino. A luz entrava pelo portão
+O estaleiro estava com água na cintura de um homem, e subindo. A luz entrava pelo portão
 aberto e pelas frestas do zinco em listras, e caía na água marrom, e na água, amarrado com
 duas cordas a uma coluna de ferro, boiava um casco. Um barco de madeira, de uns sete
 metros, de proa alta e fundo largo, com o casco pintado de branco e uma faixa azul na
@@ -238,15 +240,15 @@ tábuas de cima.
 O casco do Severino. *Ficou bom. Eu sabia que tinha ficado bom.*
 
 — Ele soltou o barco do berço com a água — disse a Dona Ilda, atrás dela. — Abriu o
-portão, sei lá como, com a água no peito. E saiu remando pela rua no escuro. Com setenta e
-oito anos e aquele coração. Pegou a gente no meu telhado. Depois os Ferreira, que estavam
-na janela, a menina e a mãe. Depois o Seu Lauro, que tinha caído e estava agarrado num
-poste. Foi quatro viagens. Trouxe todo mundo pra cá porque é o telhado mais alto da rua. —
+portão, sei lá como, com a água por cima da cabeça. E saiu remando pela rua no escuro.
+Com setenta e oito anos e aquele coração. Pegou a gente no meu telhado. Depois os
+Ferreira, que estavam na janela, a menina e a mãe. Depois o Seu Lauro, que tinha caído e estava agarrado num
+poste. Foi quatro viagens. Trouxe todo mundo pra cá porque é o telhado mais largo da rua. —
 Ela parou. — Eu disse a ele pra parar na terceira. Ele disse que o barco ainda estava
 seco por dentro, então podia mais uma.
 
-Joana não disse nada. Olhou o casco boiando, quieto, amarrado, com a água batendo
-mansinho no costado. Uma faixa azul na borda. Sete metros de madeira que o pai tinha
+Joana olhou o casco boiando, quieto, amarrado, com a água batendo mansinho
+no costado. Uma faixa azul na borda. Sete metros de madeira que o pai tinha
 levado oito meses para fazer, sozinho, com as mãos, as mesmas mãos que agora tremiam um
 pouco quando seguravam uma xícara.
 
@@ -308,7 +310,7 @@ baixo, pelo vão do telhado, para dentro do galpão, onde o casco boiava amarrad
 Ela não entendeu. Ficou esperando o resto, e o resto não veio, e ela percebeu que aquilo
 *era* o resto. Que para ele a frase estava inteira.
 
-O Davi estava olhando para o avô com uma cara que Joana não via no filho desde que ele era
+O Davi olhava o avô com uma cara que Joana não via no filho desde que ele era
 pequeno. Não sabia o nome. Sabia que não era para ela.
 
 — Vô — disse o Davi. — Me ensina?
@@ -354,7 +356,7 @@ cinza da muralha, inteira, com o sol batendo de lado.
 — Essa casa é mais velha que a tua parede — disse ele. Não tinha raiva nenhuma na voz.
 — Vai ser mais velha que a de qualquer um. Ela sabe molhar.
 
-Desceu pela escada de ferro, devagar, um degrau de cada vez, de costas, como se desce
+Desceu pela escada de ferro, um degrau de cada vez, de costas, como se desce
 uma escada de barco.
 
 Joana ficou na cumeeira, sentada, com as mãos espalmadas no zinco quente, e olhou a

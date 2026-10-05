@@ -27,14 +27,13 @@ cast:
 - benedito
 - lauro
 source: o-que-e-do-mar/chapters/12-a-votacao.md
-source_sha: bd3f00c6382f
+source_sha: 769a555aebc3
 status: draft
 ---
-
 They put two buckets in the middle of the circle platform, and Mrs. Ilda brought the stones.
 
 They were pebbles from the bottom of the canal, gray, the size of a fingernail, which Nilo and the
-boys had picked up at the afternoon low tide, in a flour sack. Each person took one from the sack.
+boys had picked up at the midday low tide, in a flour sack. Each person took one from the sack.
 Each person put it in a bucket. The one on the left was yes. The one on the right was no. There
 was no name anywhere. There was no list.
 
@@ -100,11 +99,14 @@ Five hundred, maybe. Mrs. Ilda would know.
 Raul had spoken first. Well. Joana had heard him speak at Council meetings, on building sites, at
 wakes, and he always spoke well, but that night he spoke better than ever, because he spoke
 little. He didn't show the model. He had brought a screen, tied to a bamboo pole, and didn't turn
-it on. He said what the dike was, and what the pumps were, and what the buildings were. He said
-the exchange: title for apartment. He said the forty percent, without hiding it, and said the
+it on. He said what the dike was, and what the pumps were, and what the buildings were. He laid out
+the exchange: title for apartment. He gave them the forty percent, without hiding it, and the
 priority to buy and the financing and the place on the Plateau, without dressing it up. And he
-said the next equinox tide, and what could happen to the platforms at the tops of the posts, and
-made no drama of it at all. He said it like someone passing on information.
+told them about the next equinox tide, and what could happen to the platforms at the mouth of
+the canal, and made no drama of it at all. He said it like someone passing on information. Last,
+he said that Terra Firma only signed with someone who had a name at the registry office: if it
+was yes, the circle would have to register as a residents' association, with bylaws and a
+president.
 
 "I've seen what you've made here," he said, at the end. "I've been an engineer for twenty-six
 years. I've never seen anything so beautiful. And I can't let you sleep in these houses on the
@@ -118,8 +120,8 @@ The platform had gone silent.
 
 Joana spoke next.
 
-She didn't remember afterward, exactly, what she said. She remembered pieces, as with the night of
-her father. She remembered saying that she knew the old wall better than anyone, because she had
+She didn't remember afterward, exactly, what she said. She remembered pieces, as she did the night
+her father died. She remembered saying that she knew the old wall better than anyone, because she had
 made it, and that she knew why it had failed. She remembered saying *six meters* and seeing people
 nod. She remembered saying that she would be in there, every day, on the site, as she had been at
 Gate Two, and that this time nobody was going to cut anything on a Tuesday.
@@ -156,7 +158,7 @@ has it."
 
 Jairo shifted.
 
-"Forty percent," said Mrs. Ilda. "The young lady said so. Forty percent of us are going to have to
+"Forty percent," said Mrs. Ilda. "He said so. Forty percent of us are going to have to
 buy what today we're making with our hands, or go to the Plateau." She stopped. "And who made the
 houses that float? Who made the glass field? Who carried the foam boards out of the cold rooms? I
 know who. I counted. It was half people with title and half people without."
@@ -174,7 +176,9 @@ It was Davi who asked the question.
 
 He was standing at the back, leaning against one of the bamboo poles of the roof, arms crossed, the
 beaded bracelet on his wrist. Joana hadn't seen him arrive. She hadn't known he was coming. He had
-spent the afternoon in the Shallows, again.
+spent the afternoon in the Shallows, again, as he had spent two school afternoons that week; the
+absence notice had come to her device on Thursday, and she had put the device away without
+answering.
 
 "And the Shallows?" he said.
 
@@ -202,7 +206,7 @@ millimeters.
 "I did," she said. "It can be solved."
 
 It was true. It was true the way *almost every one* had been true, sixteen years before, on a
-drawing with the crest at four twenty.
+drawing with the crest at four-twenty.
 
 Davi stood looking at her. She didn't look away. She couldn't look away with five hundred people
 watching. He looked away first.
@@ -211,12 +215,13 @@ watching. He looked away first.
 
 They voted at half past ten.
 
-The line moved slowly around the platform, one person at a time, to the flour sack in Mrs. Ilda's
+The line went around the platform, one person at a time, to the flour sack in Mrs. Ilda's
 hands, and then to the buckets. Nobody looked at which bucket anyone else used. Joana looked
-anyway, without meaning to, because she counted everything, and because she couldn't not look.
-Mr. Lauro, in the right. Mrs. Célia, in the right, with Clara by the hand. The three brothers from
-Ropemakers, all three in the left, and the cousin in the right, and the three of them looking at
-the cousin. Edson, in the left. The woman who had asked for the houses on Quay Street, in the left.
+anyway, because she counted everything, and because she couldn't not look.
+Mr. Lauro, the right-hand bucket. Mrs. Célia, the same, with Clara by the hand. The
+three brothers from Ropemakers, all three in the left, and the cousin in the right, and the three
+of them looking at the cousin. Edson, in the left. Mrs. Lúcia, who had asked for the houses on
+Quay Street, in the left.
 
 Jairo stood for a while in front of the two buckets, the stone in his closed hand. Then he looked
 at Joana, across the platform. She didn't know what was on her face.
@@ -237,17 +242,15 @@ Nobody clapped. Some people left right away, by boat, without speaking. Others s
 talking low. The young woman from Terra Firma typed something on her tablet. Raul put his hand on
 Joana's shoulder, for a second, and took it away.
 
-Mrs. Ilda passed in front of her, slowly, on Nilo's arm, as on the day of the inquiry. This time
-she stopped.
+Mrs. Ilda passed in front of her, on Nilo's arm. On the day of the inquiry she had gone by alone,
+without looking. This time she stopped.
 
 "Twenty-three stones," she said. "Do you know how many people heard you say *trust me* and changed
 buckets?"
 
-Joana didn't answer.
+Joana opened her mouth and closed it.
 
 "I don't know either," said Mrs. Ilda. "But it was more than twenty-three."
-
-And it was.
 
 ---
 
@@ -256,13 +259,13 @@ Davi wasn't on her platform when she got there.
 The hammock was on the porch, empty. His backpack wasn't on its hook. In the room, on the table,
 her notebook was open. Where the pages torn out along the stitching were missing, you could see,
 on the page underneath, the mark of the pencil that had come through the paper. The numbers
-backward. *40–70 cm. The Shallows.*
+pressed into the paper. *40–70 cm. The Shallows.*
 
 Her father's toolbox wasn't there.
 
 She ran out onto the porch. Amaro's boat wasn't tied to the post.
 
-She looked at the canal. The lights of the platforms, the bridges, the water standing at the top.
+She looked at the canal. The lights of the platforms, the bridges, the water already going out.
 And far down, at the mouth of the canal, near the fallen Gate Two, a small light, low, swinging,
 moving away. Toward the tip of the wall. Toward the south.
 

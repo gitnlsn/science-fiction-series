@@ -50,14 +50,14 @@ folhas, nas costas, pela escada de ferro do Mercado, e não quebrou nenhuma.
 Num dia de sol bom, o campo fazia novecentos litros. Ela tinha medido. Na terça, oitocentos
 e setenta. Na quarta, nublada, quatrocentos e dez.
 
-Na quinta, às oito da manhã, na maré seca, a fila para a água chegava até o canal.
+Na quinta, ao meio-dia, na maré seca, a fila para a água chegava até o canal.
 
 ---
 
 A briga foi pequena. Joana desceu a escada de ferro do telhado e chegou no térreo do
 Mercado a tempo de ver o fim. Dois homens, um da rua do Cais e um da rua dos Cordoeiros, segurando o
 mesmo galão de vinte litros pela alça, cada um de um lado, e falando ao mesmo tempo. O Nilo
-no meio, com o tablet de Joana na mão, a lista aberta, tentando ler alguma coisa em voz
+no meio, com o aparelho de Joana na mão, aberto, a lista na tela, tentando ler alguma coisa em voz
 alta que ninguém ouvia. Atrás deles, a fila, de lama até o tornozelo, inteira virada para
 olhar.
 
@@ -73,10 +73,10 @@ Joana chegou no meio. Pôs a mão no galão.
 
 Os dois olharam para ela. Largaram.
 
-Ela olhou a lista no tablet do Nilo. Era a lista dela. Tinha feito na segunda à noite, à luz
+Ela olhou a lista no aparelho. Era a lista dela. Tinha feito na segunda à noite, à luz
 de lanterna, no mezanino do estaleiro: todas as casas ocupadas do Baixo, que o Nilo e o
 Davi tinham contado de barco, com o número de pessoas em cada uma, e a quantidade de água
-por dia, três litros por cabeça, e uma coluna para marcar quem já tinha pegado. Era uma boa
+por dia, três litros por cabeça, só para beber, e uma coluna para marcar quem já tinha pegado. Era uma boa
 lista. Era o tipo de lista que ela sabia fazer. Limpa, justa, com as contas certas.
 
 A sogra do homem da rua dos Cordoeiros não estava nela. Nem dois netos de uma mulher da rua do Cais
@@ -101,15 +101,15 @@ tábuas do telhado do Mercado, com o caderno no joelho, olhando os cento e sesse
 debaixo do sol.
 
 Novecentos litros num dia bom davam para trezentas pessoas. Mas o dia nublado dava
-quatrocentos, e aí alguém ficava sem. E a fila era na maré seca, das sete às dez, e quem
-morava no fim da Ladeira levava quarenta minutos para chegar no Mercado pela lama, e
+quatrocentos, e aí alguém ficava sem. E a fila era na maré seca, nas três horas em volta da baixa-mar, que andava quase uma hora
+por dia, e quem morava no fim da Ladeira levava quarenta minutos para chegar no Mercado pela lama, e
 quando chegava a água tinha acabado. E quem chegava primeiro levava para a família inteira,
 para a sogra, para o vizinho, e não havia como saber se a sogra existia. E o Nilo, com a
 lista, virava o homem que dizia não, e o Nilo tinha vinte anos e conhecia todo mundo, e
 não aguentava dizer não para ninguém.
 
 E tinha a outra coisa, que ela não tinha previsto, e que um velho dos Cordoeiros disse na
-fila na quinta de manhã, para ninguém em particular, enquanto esperava:
+fila, para ninguém em particular, enquanto esperava:
 
 — Lista de novo. Igual a Defesa. Igual o Conselho. A gente bota o nome numa lista e depois
 vem alguém e risca.
@@ -129,7 +129,7 @@ crianças e um saco de farinha para algum lugar. Levantou a mão para ela.
 
 À noite, a Dona Ilda mandou chamar.
 
-Não foi um recado. Foi o Nilo, no barco, na maré cheia das nove, encostando na escada do
+Não foi um recado. Foi o Nilo, no barco, na maré cheia das sete, encostando na escada do
 estaleiro e dizendo, sem subir:
 
 — A vó pediu pra senhora ir lá. Agora, se der.
@@ -174,7 +174,7 @@ ensine. O Davi e o Nilo vão de telhado em telhado, nos que pegam sol, e ensinam
 gente tem janela que não acaba mais. Cada casa faz a sua. Ou cada três casas, uma. O
 Mercado fica pra quem não tem telhado bom e pros dias de nuvem.
 
-Joana não respondeu logo.
+Joana demorou a responder.
 
 Ela fez a conta. Um tanque grande de lona e vidro bem vedado, como os dela, rendia mais por
 metro do que uma janela velha em cima de um caixote. Trinta por cento a mais. Talvez
@@ -220,15 +220,11 @@ metros de uma coisa só, num lugar só, que segurava todo mundo ou não segurava
 
 Pensou no Jairo. *A gente ficou porque tinha a tua parede.*
 
-Ela tinha passado a vida inteira fazendo coisas grandes e centrais e eficientes, que
-seguravam muita gente de uma vez. E que, quando quebravam, quebravam para todo mundo de uma
-vez.
+— Cem janelas — disse ela, devagar. — Se uma quebrar, quebrou uma.
 
-— Cem janelas — disse ela, devagar — se uma quebrar, quebrou uma.
-
-A Dona Ilda não disse nada. Pegou a lanterna do chão e apagou, e as duas ficaram no escuro,
+A Dona Ilda pegou a lanterna do chão e apagou, e as duas ficaram no escuro,
 e com o escuro apareceram as estrelas por cima do Baixo, muitas, porque não havia mais luz
-nenhuma no bairro, e o barulho da água subindo nas ruas, e de algum lugar, longe, um rádio
+nenhuma no bairro, e o barulho da água vazando das ruas, e de algum lugar, longe, um rádio
 de manivela tocando uma música velha.
 
 — O sal você resolve fácil — disse Joana, no escuro. — Põe a calha um dedo acima da borda
@@ -251,7 +247,7 @@ Joana não foi com eles. Ficou no estaleiro, sentada à mesa do mezanino, com o 
 velho do Departamento, um aparelho do tamanho de uma caneta grossa que ela tinha esquecido
 de devolver junto com o crachá, e que media quanto sal havia numa água pela facilidade com
 que a eletricidade passava por ela. Na mesa, em fila, havia doze copos. A água das primeiras
-doze janelas. O Davi tinha trazido de barco, na véspera, cada copo com um papel embaixo,
+doze janelas. O Davi tinha trazido de barco, no meio da tarde, cada copo com um papel embaixo,
 escrito o nome da casa.
 
 Ela mergulhou a ponta do condutivímetro no primeiro copo. Leu o número. Bom. Muito bom.
@@ -265,7 +261,7 @@ Ela mesma pegou o barco na maré da tarde.
 
 O Jairo estava no telhado dele, na frente da janela deitada em cima do caixote, e quando
 viu o barco encostar na parede, ficou em pé, de braços cruzados. Ela subiu pela escada de
-ferro. Não disse nada. Olhou o tanque. A calha de bambu estava encostada na borda. O
+ferro e foi direto ao tanque. A calha de bambu estava encostada na borda. O
 respingo da água do mar, quando o vento batia, pulava direto para dentro.
 
 Ela tirou a calha. Pegou dois pedaços de tijolo do chão. Pôs a calha de volta em cima deles,
@@ -284,7 +280,7 @@ encostou o dedo nela, mediu com o dedo a distância da borda.
 
 — Um dedo.
 
-Ele fez que sim. Não agradeceu. Ela não esperava.
+Ele bateu com o dedo na calha, uma vez. Não agradeceu. Ela não esperava.
 
 Quando ela estava descendo a escada de ferro, ele disse, de cima, sem olhar:
 

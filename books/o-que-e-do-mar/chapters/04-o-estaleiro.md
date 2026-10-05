@@ -27,7 +27,7 @@ cheias, uma sacola de compras em cada mão, levantada para não molhar: no meio 
 frente do estaleiro, amarrado a um poste de luz que não acendia havia um mês, um
 galinheiro. Uma caixa de tela e madeira do tamanho de uma mesa, com telhado de zinco
 velho, assentada em quatro tambores de plástico azul. Dentro, seis galinhas. A água subia
-devagar, com a maré da tarde, e o galinheiro subia com ela, um dedo de cada vez, preso ao
+com a maré da tarde, e o galinheiro subia com ela, um dedo de cada vez, preso ao
 poste por uma argola de corda que escorregava para cima conforme a caixa subia.
 
 Uma das galinhas olhou para ela por entre a tela, com um olho só, sem nenhum interesse.
@@ -82,8 +82,8 @@ lugar exato onde havia um espaço do tamanho de um pacote de café. — O Davi t
 
 O Davi estava lá embaixo, no térreo, dentro d'água.
 
-Joana o viu do parapeito do mezanino. A água no galpão estava na altura do peito dele e
-ainda subindo, e ele estava em pé no meio dela, de calção, sem camisa, com os braços
+Joana o viu do parapeito do mezanino. A água no galpão batia na cintura dele e
+ainda subia, e ele estava em pé no meio dela, de calção, sem camisa, com os braços
 abertos, segurando uma tábua comprida na horizontal em cima da cabeça. Na outra ponta da
 tábua, encostada na parede, havia uma armação de madeira e bambu, um quadrado de dois
 metros por dois, amarrada por baixo a garrafas de plástico vazias, centenas delas, presas
@@ -101,7 +101,7 @@ Duas vezes. Três.
 
 Ela não disse nada. Tinha passado cinco semanas sem dizer nada sobre o Davi e a água.
 
-Ele tinha começado a descer para o Baixo no sábado seguinte ao inquérito. Não tinha pedido.
+Ele tinha começado a descer para o Baixo no sábado seguinte à maré grande. Não tinha pedido.
 Tinha avisado, na porta de casa, com a mochila nas costas: *Vou no vô*. E ela tinha
 deixado, porque não sabia como não deixar, e porque o pai não ia subir, e alguém tinha de
 levar o café. Depois tinha sido o sábado e o domingo. Depois a escola da cidade alta tinha
@@ -189,7 +189,7 @@ momento que devolvia o casco à posição. Tinha estudado aquilo num livro de qu
 páginas, no segundo ano da faculdade, com integrais. O pai tinha aprendido com o avô, num
 galpão, com um barco.
 
-*Peso embaixo. Boca larga.* Era a mesma coisa. Era exatamente a mesma coisa.
+Era a mesma coisa. Era exatamente a mesma coisa.
 
 ---
 
@@ -220,7 +220,7 @@ pra lá eu não sei.
 
 — E o senhor vai fazer o quê?
 
-O pai não respondeu. Levantou do banquinho, devagar, apoiado no parapeito, e Joana viu que
+O pai passou a mão na boca. Levantou do banquinho, apoiado no parapeito, e Joana viu que
 ele precisou de duas tentativas, e que na segunda ficou um segundo parado, com a mão no
 peito, respirando curto. Depois passou. Ele foi até a parede onde estavam as ferramentas.
 
@@ -236,8 +236,8 @@ cone de latão do tamanho de um dedo, pendurado num cordão, que o pai usava par
 para ver se uma parede estava reta, se um mastro estava em pé, se uma coisa estava no
 lugar.
 
-Ele foi tirando uma por uma dos pregos. Devagar. E pondo na mesa de tábua, em fila, do
-jeito que estavam na parede.
+Ele foi tirando uma por uma dos pregos e pondo na mesa de tábua, em fila, do jeito que
+estavam na parede.
 
 O Davi olhava, com a toalha nos ombros, sem entender.
 
@@ -248,7 +248,7 @@ O Davi olhava, com a toalha nos ombros, sem entender.
 O Davi pegou. Uma caixa de madeira comprida, com tampa de dobradiça, que Joana também
 conhecia, onde as ferramentas iam quando o pai viajava para algum estaleiro de outro lugar,
 uma vez por ano, para ajudar um amigo. O pai foi guardando dentro. A enxó primeiro, embaixo,
-porque era a mais pesada. Peso embaixo. Depois os formões, a plaina, o graminho, o serrote
+porque era a mais pesada. Depois os formões, a plaina, o graminho, o serrote
 no pano. O martelo de calafate. Por último, o prumo, enrolado no próprio cordão, num canto.
 
 Fechou a tampa. Passou a mão em cima.
@@ -306,13 +306,12 @@ A água vem, ele sobe. A água vai, ele desce. Ele não briga. É por isso que d
 
 Ela abriu a boca. E não tinha. Tinha cem respostas técnicas, e nenhuma delas era uma
 resposta para aquilo. Fundação. Esgoto. Escala. Gente que não sabe nadar. Mas por baixo de
-todas elas havia uma pergunta que ela nunca tinha feito, porque tinha passado a vida
-inteira, desde os doze anos, desde a régua de cálculo, aprendendo a fazer coisas que
-seguravam.
+todas elas havia uma pergunta que ela nunca tinha feito, porque desde os doze anos, desde
+a régua de cálculo, vinha aprendendo a fazer coisas que seguravam.
 
 — Não sei — disse ela.
 
-O pai fez que sim, como se fosse a resposta certa.
+— Isso — disse o pai, como se fosse a resposta certa.
 
 — A tua mãe dizia que você ia ser a única Amaral que construía coisa parada — disse ele.
 — Ela tinha orgulho disso. Eu também.
@@ -323,10 +322,10 @@ O pai fez que sim, como se fosse a resposta certa.
 A tua parede segurou catorze anos, Joana. Segurou a maré de setenta e nove, a de oitenta
 e quatro, a de oitenta e sete. Eu tava aqui. Eu vi. Ninguém morreu nenhuma vez.
 
-Ela não conseguiu responder.
+Ela apertou a mão dele.
 
-— Agora acabou — disse ele. — Não é culpa. É idade. Tudo que segura um dia para de
-segurar. Aí tem que ser outra coisa.
+— Agora acabou — disse ele. — Não é culpa. É idade. O que é do mar, o mar vem buscar.
+Aí tem que ser outra coisa.
 
 Lá embaixo, na lama, a armação de garrafas esperava.
 

@@ -21,10 +21,9 @@ cast:
 - jairo
 - lauro
 source: o-que-e-do-mar/chapters/07-agua-doce.md
-source_sha: a0907b9b3b3c
+source_sha: a2682fdb6053
 status: draft
 ---
-
 The glass field was finished on a Tuesday, and by Thursday there had already been a fight.
 
 Joana was on the roof of the Market when she heard it. It was where she spent most of the day
@@ -51,14 +50,14 @@ back, up the Market's iron ladder, and didn't break a single one.
 On a good sunny day, the field made nine hundred liters. She had measured it. On Tuesday,
 eight hundred and seventy. On Wednesday, cloudy, four hundred and ten.
 
-On Thursday, at eight in the morning, at low tide, the line for water reached the canal.
+On Thursday, at noon, at low tide, the line for water reached the canal.
 
 ---
 
 The fight was a small one. Joana came down the iron ladder from the roof and reached the
 Market's ground floor in time to see the end of it. Two men, one from Quay Street and one from
 Ropemakers Street, holding the same twenty-liter jug by the handle, one on each side, both
-talking at once. Nilo in the middle, with Joana's tablet in his hand, the list open, trying
+talking at once. Nilo in the middle, with Joana's device in his hand, open, the list on the screen, trying
 to read something out loud that nobody heard. Behind them, the line, mud to the ankle,
 turned all the way around to watch.
 
@@ -74,10 +73,10 @@ Joana got into the middle. She put her hand on the jug.
 
 The two men looked at her. They let go.
 
-She looked at the list on Nilo's tablet. It was her list. She had made it on Monday night, by
+She looked at the list on the device. It was her list. She had made it on Monday night, by
 flashlight, in the boatyard loft: every occupied house in Lowtown, which Nilo and Davi had
 counted by boat, with the number of people in each, and the amount of water per day, three
-liters a head, and a column to mark who had already collected. It was a good list. It was
+liters a head, for drinking only, and a column to mark who had already collected. It was a good list. It was
 the kind of list she knew how to make. Clean, fair, with the sums right.
 
 The Ropemakers man's mother-in-law wasn't on it. Nor were the two grandchildren of a woman
@@ -93,7 +92,7 @@ alone in a house at the end of the Hill and never opened his door to any boat.
 "Then it won't stretch."
 
 Joana looked back at the line. Sixty people, seventy. With jugs, buckets, bottles, pots. She
-did the math. The math didn't come out.
+did the math. The math didn't add up.
 
 ---
 
@@ -102,16 +101,15 @@ platform on the Market roof, her notebook on her knee, watching the hundred and 
 sweat under the sun.
 
 Nine hundred liters on a good day was enough for three hundred people. But the cloudy day
-made four hundred, and then someone went without. And the line was at low tide, from seven
-to ten, and whoever lived at the end of the Hill took forty minutes to reach the Market
+made four hundred, and then someone went without. And the line was at low tide, in the three
+hours around low water, which moved nearly an hour a day, and whoever lived at the end of the Hill took forty minutes to reach the Market
 through the mud, and when they got there the water was gone. And whoever got there first
 took it for the whole family, for the mother-in-law, for the neighbor, and there was no way
 to know whether the mother-in-law existed. And Nilo, with the list, became the man who said
 no, and Nilo was twenty and knew everyone, and couldn't bear to say no to anyone.
 
 And there was the other thing, which she hadn't foreseen, and which an old man from
-Ropemakers had said in the line on Thursday morning, to nobody in particular, while he
-waited:
+Ropemakers had said in the line, to nobody in particular, while he waited:
 
 "A list again. Like Civil Defense. Like the Council. You put your name on a list and then
 somebody comes along and crosses it out."
@@ -130,7 +128,7 @@ children and a sack of flour somewhere. He raised a hand to her.
 
 At night, Mrs. Ilda sent for her.
 
-It wasn't a message. It was Nilo, in the boat, on the nine o'clock high tide, bumping up
+It wasn't a message. It was Nilo, in the boat, on the seven o'clock high tide, bumping up
 against the boatyard stairs and saying, without coming up:
 
 "Grandma asked if you'd come over. Now, if you can."
@@ -174,7 +172,7 @@ go from roof to roof, the ones that get sun, and teach people how to make them. 
 windows without end. Every house makes its own. Or one for every three houses. The Market is
 for whoever doesn't have a good roof, and for cloudy days."
 
-Joana didn't answer right away.
+Joana took a while to answer.
 
 She did the math. A big tank of tarp and glass, well sealed, like hers, yielded more per
 meter than an old window on top of a crate. Thirty percent more. Maybe forty. A hundred and
@@ -220,15 +218,11 @@ place, that held everyone or held no one.
 
 She thought about Jairo. *We stayed because there was your wall.*
 
-She had spent her whole life making big, central, efficient things, that held a lot of people
-at once. And that, when they broke, broke for everyone at once.
-
 "A hundred windows," she said, slowly. "If one breaks, one's broken."
 
-Mrs. Ilda didn't say anything. She picked the flashlight up off the floor and switched it
-off, and the two of them sat in the dark, and with the dark the stars came out over Lowtown,
+Mrs. Ilda picked the flashlight up off the floor and switched it off, and the two of them sat in the dark, and with the dark the stars came out over Lowtown,
 a lot of them, because there was no light left anywhere in the neighborhood, and the sound of
-the water rising in the streets, and from somewhere, far off, a crank radio playing an old
+the water draining out of the streets, and from somewhere, far off, a crank radio playing an old
 song.
 
 "The salt's easy to fix," said Joana, in the dark. "Put the channel a finger above the edge
@@ -250,8 +244,8 @@ Joana didn't go with them. She stayed at the boatyard, sitting at the table in t
 the Department's old conductivity meter, a device the size of a fat pen that she had
 forgotten to give back along with her badge, and that measured how much salt there was in
 water by how easily electricity passed through it. On the table, in a row, there were twelve
-glasses. The water from the first twelve windows. Davi had brought them by boat the day
-before, each glass with a slip of paper under it, the name of the house written on it.
+glasses. The water from the first twelve windows. Davi had brought them by boat in the
+middle of the afternoon, each glass with a slip of paper under it, the name of the house written on it.
 
 She dipped the tip of the meter into the first glass. She read the number. Good. Very good.
 Purer than the tap water in the upper city.
@@ -263,8 +257,8 @@ In the fifth, salty. Not very. Enough. She looked at the slip: *Jairo, Ropemaker
 She took the boat herself on the afternoon tide.
 
 Jairo was on his roof, in front of the window laid on its crate, and when he saw the boat
-come up against the wall, he stood, arms crossed. She climbed the iron ladder. She didn't say
-anything. She looked at the still. The bamboo channel was resting against the edge. The
+come up against the wall, he stood, arms crossed. She climbed the iron ladder and went straight
+to the still. The bamboo channel was resting against the edge. The
 seawater splash, when the wind hit, jumped straight in.
 
 She took off the channel. She picked up two pieces of brick from the floor. She put the
@@ -283,7 +277,7 @@ touched it with his finger, measured the gap from the edge with his finger.
 
 "A finger."
 
-He nodded. He didn't thank her. She didn't expect him to.
+He tapped the channel once with his finger. He didn't thank her. She didn't expect him to.
 
 When she was going down the iron ladder, he said, from above, without looking:
 

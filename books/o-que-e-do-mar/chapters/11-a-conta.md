@@ -19,9 +19,6 @@ cast:
 - davi
 - nilo
 - raul
-- viegas
-- benedito
-- tais
 status: draft
 ---
 A conta levou uma semana, e ela soube a resposta no primeiro dia.
@@ -65,8 +62,8 @@ fora da muralha. Sempre tinha ficado. A Barreira terminava trezentos metros ante
 ponto que Joana tinha marcado no projeto, dezesseis anos antes, com uma nota: *trecho sul
 não protegido — área de baixa ocupação, fora do escopo*. Ninguém tinha discutido a nota.
 
-Na maré grande, a Vila Rasa tinha alagado. Ela não tinha sabido disso na época. Não
-tinha olhado. O boletim da Defesa falava do Baixo. Ela foi procurar, agora, nos arquivos do
+Na maré grande, a Vila Rasa tinha alagado. Ela tinha ouvido, na época, no boletim da
+Defesa, no meio de uma lista, e não tinha guardado. Foi procurar, agora, nos arquivos do
 rádio de manivela que o Nilo gravava, e achou: *Vila Rasa, água até o joelho, sem vítimas*.
 Até o joelho. Porque a vila ficava no fim da curva, e o mar que vinha pela costa batia na
 muralha, e corria ao longo dela para o sul, e quando a muralha acabava, abria, e se
@@ -110,11 +107,9 @@ Não destruía. Ela foi olhar o projeto da Terra Firme, que Raul tinha mandado n
 O riacho não sumia. Era desviado. Passava por um bueiro de concreto, por baixo do pé do
 dique, com uma comporta de maré na saída. Bem desenhado. Correto.
 
-Mas durante a obra, para fazer o pé do dique, o projeto previa uma ensecadeira. Uma parede
-provisória, de estacas de aço cravadas na areia, em volta do canteiro, para segurar a água
-enquanto se cavava a fundação. Ela foi na prancha da ensecadeira do trecho sul. Achou. A
-ensecadeira fechava a boca do riacho. Durante onze meses. Com uma tubulação provisória de
-seiscentos milímetros para a água passar.
+Mas durante a obra, para fazer o pé do dique, o projeto previa uma ensecadeira. Ela foi na
+prancha da ensecadeira do trecho sul. Achou. A ensecadeira fechava a boca do riacho. Durante
+onze meses. Com uma tubulação provisória de seiscentos milímetros para a água passar.
 
 Seiscentos milímetros dava para a chuva do morro. Não dava para a maré grande saindo da
 vila.
@@ -157,9 +152,8 @@ barulho do sono.
 
 Ela ficou parada.
 
-O Davi tinha começado a ir à Vila Rasa no meio do inverno, quando um pescador de lá, o Benedito,
-apareceu no estaleiro com um casco de canoa rachado de proa a popa e perguntou se era ali
-que o neto do Amaro consertava barco. O Davi consertou. Depois consertou outro. Agora ia
+O Davi ia à Vila Rasa desde que o Benedito tinha aparecido no estaleiro com a canoa rachada
+de proa a popa. O Davi consertou. Depois consertou outro. Agora ia
 duas tardes por semana, de barco, pela costa, contornando a ponta da muralha. Voltava com
 peixe. Voltava com o cabelo duro de sal e queimado de sol, e uma vez com uma pulseira de
 contas no pulso que ela não perguntou de quem era, e que soube depois que era da filha do
@@ -178,7 +172,7 @@ Joana olhou o caderno fechado na mesa.
 — Ah. — O Davi ficou quieto um tempo. — O Benedito disse que quando ficar pronto, a gente
 pode ir lá ver de cima. Da vila. Ele disse que deve ser bonito, de baixo.
 
-Ela não respondeu.
+Ela apagou a lanterna.
 
 ---
 
@@ -203,7 +197,7 @@ apagar.
 
 *Criado em: uma segunda-feira, dezesseis anos antes, às dezenove e quarenta.*
 
-Ela ficou olhando aquilo um tempo muito comprido.
+Ela leu aquilo três vezes.
 
 Raul Mendes. Que dezesseis anos antes trabalhava na mesa ao lado dela, no subsolo sem
 janela. Que três dias por semana, naquele ano, ela lembrava agora, saía depois do almoço com
@@ -219,7 +213,7 @@ que o risco residual era aceitável. E na terça o Conselho tinha votado. E na s
 tinha descido ao subsolo com a prancha de quatro e vinte, e ele estava na mesa ao lado, de
 fone no ouvido, enquanto ela escolhia.
 
-E depois, por onze anos, todo dia, *bom dia, Joana*.
+E depois, por mais sete anos, todo dia, *bom dia, Joana*.
 
 E no corredor do Conselho, com os braços abertos: *Não foi você. Foi uma sala de nove
 pessoas numa terça-feira. Você fez a conta certa.*
@@ -231,7 +225,7 @@ Ele sabia que ela tinha feito a conta certa. Tinha lido.
 Ela fechou o arquivo.
 
 Ficou sentada. A lanterna balançava um pouco no teto, porque a plataforma estava subindo, e
-a luz andava pelas paredes de bambu, devagar, de um lado para o outro.
+a luz andava pelas paredes de bambu, de um lado para o outro.
 
 Ela podia descer agora, pegar o barco do Amaro, ir pela costa até o catamarã branco, que
 estava ancorado desde a semana anterior na ponta do Cais, e bater no vidro escuro da
@@ -266,5 +260,5 @@ velha, junto com a planilha amarela dos cinco metros. Guardou no fundo da mochil
 
 Não ia esconder. Ia resolver. Não era a mesma coisa.
 
-Lá fora, na rede, o Davi dormia. A pulseira de contas no pulso dele, pendurada para fora da
+Lá fora, na rede, o Davi dormia. O braço dele, com a pulseira, pendurado para fora da
 rede, balançava um pouco com a plataforma subindo.

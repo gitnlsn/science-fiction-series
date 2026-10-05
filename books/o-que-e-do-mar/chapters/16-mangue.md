@@ -4,9 +4,8 @@ part: IV — A CIDADE NOVA
 pov: Joana
 when: 2091-02-14 — tarde
 where: a borda do Baixo e a Vila Rasa
-premise: A comunidade planta mangue e monta recifes de ostra com a Vila Rasa; Raul larga a
-  Terra Firme e aparece para ajudar.
-turn: Joana deixa de liderar, porque a comunidade não precisa mais
+premise: A comunidade planta mangue e monta recifes de ostra com a Vila Rasa; Raul, que já largou a Terra Firme, aparece para ajudar.
+turn: Joana recusa coordenar e passa a dizer a conta em voz alta
 threads:
 - a-cidade-nova
 - a-reuniao
@@ -18,7 +17,6 @@ cast:
 - ilda
 - nilo
 - raul
-- viegas
 - jairo
 - celia
 - edson
@@ -84,14 +82,23 @@ vinha na água achar onde grudar.
 
 Entre as gaiolas, entulho. Pedaços de concreto da fundação do dique que a Terra Firme tinha
 largado no canteiro alagado. Blocos de tijolo das casas da rua do Cais que tinham caído.
-Estacas de aço da ensecadeira, que o Edson e o filho tinham cortado com maçarico, em pedaços,
-e deitado no fundo. Tudo que era duro e pesado e não servia mais para nada, deitado na frente
-da muralha, no raso, esperando.
+Estacas de aço da ensecadeira, que o Edson e o filho tinham cortado em pedaços com o maçarico,
+num botijão de propano que o filho descia a ladeira nas costas, e deitado no fundo. Tudo que
+era duro e pesado e não servia mais para nada, deitado na frente da muralha, no raso.
 
-O recife não ia crescer em dez semanas. Ela sabia. A Taís sabia. Ninguém tinha prometido.
+O recife não ia crescer até o equinócio. Ninguém tinha prometido.
 
 Mas as gaiolas mais antigas, as da primeira semana, já tinham, na parte de baixo, uma
-camada fina, áspera, cinzenta. Ostra do tamanho de uma unha.
+camada fina, áspera, cinzenta. Ostra do tamanho de uma unha. A Taís tinha virado uma delas na
+lama com o pé, na véspera, para Joana ver.
+
+— Embaixo pega primeiro — disse a menina, passando o polegar na crosta. — Em cima, na maré
+seca, o sol cozinha a larva. Por isso a casca vai solta, sem socar. Ela quer fresta.
+
+— E quando a gaiola enche?
+
+— Põe outra em cima. — A Taís desvirou a gaiola com o calcanhar, de volta no lugar. — E não
+tira mais, que quebra a de baixo.
 
 ---
 
@@ -119,12 +126,12 @@ uma vareta na mão, olhando também, de chapéu furado.
 
 — Pergunta pra ele — disse ela.
 
-Raul olhou o Benedito. O Benedito olhou o Raul. Um tempo comprido.
+Raul olhou o Benedito. O Benedito olhou Raul. Um tempo comprido.
 
 — Leva pro Edson — disse o Benedito, por fim. — No barracão. Ele solda. — E voltou a plantar.
 
-Raul ficou parado mais um segundo. Depois fez que sim e foi andando pela areia na direção do
-barracão, curvado debaixo do feixe de ferro, as botas afundando.
+Raul ficou parado mais um segundo. Depois ajeitou o feixe no ombro e foi andando pela areia na
+direção do barracão, curvado debaixo do ferro, as botas afundando.
 
 ---
 
@@ -132,8 +139,34 @@ Ele trabalhou a tarde inteira. Joana olhava de vez em quando, da margem. Ele car
 oitocentos quilos de vergalhão do caminhão até o barracão, pela ladeira, numa carriola de
 roda furada, em onze viagens. Depois segurou as barras para o Edson soldar. Depois carregou
 gaiola pronta até o barco. Fazia o que mandavam. O Edson mandava. O filho do Edson mandava. O
-Davi mandava, uma vez, e Joana viu Raul parar, olhar para o menino de quinze anos de calção e
-pulseira de contas, e fazer exatamente o que ele disse.
+Davi mandava, uma vez, e Joana viu Raul parar, olhar para o menino de dezesseis anos de calção
+e pulseira de contas, e fazer exatamente o que ele disse.
+
+No meio da tarde, o Jairo encostou um bote na praia, para levar ferro para as gaiolas da rua
+do Cais. Desceu, e viu Raul na porta do barracão.
+
+Joana largou o saco de varetas na lama.
+
+Raul limpou a mão direita na calça, deu dois passos na areia e estendeu a mão.
+
+O Jairo olhou a mão. Depois olhou o feixe de vergalhão encostado na parede de palha do
+barracão, inteiro, amarrado com arame, seis metros de ferro.
+
+— Aquilo vai pro barco — disse.
+
+Raul baixou a mão. Foi até o feixe, se abaixou, pôs o ombro embaixo e levantou. Os ferros
+bateram uns nos outros. Ele cambaleou, firmou as pernas e foi andando para a água, sozinho,
+com as pontas do feixe dobrando, e entrou no mar até o joelho, até a coxa, e deitou o ferro no
+fundo do bote. O bote afundou um palmo.
+
+Ninguém ajudou. O Edson não levantou os olhos da solda. Os meninos da vila pararam de encher os
+sacos de casca.
+
+O Jairo esperou Raul sair da água. Depois empurrou o bote, pulou para dentro e remou pela
+costa, de volta para o canal, sem olhar para trás.
+
+Raul ficou na beira, com a água escorrendo da calça e as mãos abertas do lado do corpo.
+Depois voltou para o barracão e pegou a gaiola seguinte.
 
 No fim da tarde, com a maré subindo e a margem do riacho ficando mole demais para plantar, ela
 saiu da lama e foi até a praia. Raul estava sentado na areia, encostado num casco de canoa
@@ -147,7 +180,7 @@ Ela sentou do lado dele. Não muito perto.
 — Precisava. — Ele olhou as mãos. — Eu passei vinte e seis anos sendo o que faz a conta. Achei
 que tinha de fazer alguma coisa onde eu não fosse.
 
-Ficaram calados. O mar subia na praia, devagar, espumando nas pedras.
+Ficaram calados. O mar subia na praia, espumando nas pedras.
 
 — Você me odeia? — perguntou ele.
 
@@ -172,77 +205,88 @@ decidir coisa da vila. Os barcos do Baixo foram pela costa, contornando a ponta 
 no fim da tarde, em fila, com lanterna. Vinte, trinta barcos. O barco do Amaro na frente, com
 o Davi nos remos e a Dona Ilda sentada no meio, com o Nilo.
 
-O barracão tinha telhado de palha e não tinha paredes. Os pescadores da vila sentaram nos
-bancos de consertar rede. O Baixo sentou no chão de areia. As lanternas, penduradas nas
-vigas, balançavam com o vento do mar.
+O barracão tinha telhado de palha e paredes de palha trançada em três lados; o quarto, o do
+mar, era aberto. Os pescadores da vila sentaram nos bancos de consertar rede. O Baixo sentou no
+chão de areia. As lanternas, penduradas nas vigas, balançavam com o vento que entrava pelo lado
+aberto.
 
-A Dona Ilda abriu a roda.
+A Dona Ilda abriu a roda sentada num banco de rede, entre o Benedito e a Taís. A velha do Baixo
+e a menina da vila tinham se achado na primeira semana das gaiolas e se tratavam desde então
+como se se conhecessem a vida inteira.
 
-— Tem uma coisa que eu quero propor — disse ela. — E quero que ninguém vote agora, que é pra
-pensar.
+— O Conselho deu o papel do uso comum — disse ela. — A Viegas mandou pelo rapaz da Defesa.
+Então agora a gente tem uma costa. — Ela olhou para Joana. — E eu proponho que quem coordene a
+costa seja a Joana. Ninguém aqui sabe mais. Não é pra votar agora. É pra pensar.
 
-Ela estava sentada num banco de rede, entre o Benedito e a Taís. As duas tinham se conhecido
-na primeira semana do mangue e se tratavam desde então como se se conhecessem a vida inteira,
-a velha do Baixo e a menina da vila, cada uma ensinando à outra o que sabia de maré.
+O Jairo, sentado na areia perto da entrada, fez que sim. Outros também. O Edson, não.
 
-— O Conselho deu o papel — disse a Dona Ilda. — Do uso comum. A terra abaixo da linha é de
-quem usa, e quem usa somos nós, e a vila, junto. Tá assinado. A Viegas mandou o papel pelo
-rapaz da Defesa na semana passada. — Ela fez uma pausa. — Então agora a gente tem uma costa. E
-uma costa precisa de alguém que saiba de costa.
+— Ela já fez a conta da linha — disse o Edson, sem tirar os olhos das mãos. — A minha
+serralheria ficou embaixo dela.
 
-Ela olhou para Joana.
+Raul, no fundo, encostado numa coluna do barracão, com as mãos enroladas em pano, olhou para o
+chão.
 
-— Eu proponho que a Joana coordene. O recife, o mangue, as plataformas, os postes. Tudo. Ela é
-engenheira de água. Ela fez a conta da linha. Ela abriu o aterro com a escavadeira. Ninguém
-aqui sabe mais.
+Joana ficou de pé. Não tinha decidido ficar.
 
-Algumas pessoas fizeram que sim. O Jairo, sentado na areia perto da entrada, fez que sim. O
-Edson. Raul, no fundo, encostado numa coluna do barracão, com as mãos enroladas em pano, não
-se mexeu.
-
-Joana olhou o barracão. As lanternas. Os rostos. Os do Baixo, que ela conhecia agora um por
-um, pelo nome, pela plataforma, pelo jeito de remar. Os da vila, que ela estava aprendendo.
-
-Ela pensou no campo de vidro no telhado do Mercado. Cento e sessenta tanques num lugar só,
-com uma lista. Pensou nos tanques de janela, cem telhados, cada um com a sua panela. Pensou na
-Barreira, que era uma coisa só. Pensou na casa da Dona Célia deitada no canal, porque ela
-tinha posto o peso em cima. Pensou no Benedito, que plantava duas vezes porque metade morria,
-e não fazia conta nenhuma, e sabia.
-
-*Eficiente pra quem?*
-
-— Não — disse ela.
+— Antes de alguém pensar — disse ela —, tem conta que eu ainda não disse.
 
 O barracão ficou quieto.
 
-— Eu não sei de mangue — disse Joana. — O Benedito sabe. Eu não sei de ostra. A Taís sabe, e
-o Davi tá aprendendo com ela. Eu não sei soldar poste. O Edson sabe. Eu não sei onde a onda
-bate primeiro na rua do Cais, porque eu nunca morei lá. A dona Lúcia dos Cordoeiros sabe, e o
-Jairo, que tem plataforma lá agora. — Ela parou. — Eu sei fazer conta. Quando alguém precisar
-de uma conta, me pergunta. Eu faço. E digo o que deu. Mesmo quando der o que ninguém quer.
+— A Terra Firme saiu do Baixo, mas não saiu de mim. Tem uma ação de danos no meu nome, pelas
+seis semanas de obra que eu enterrei com a escavadeira. O que eu tinha guardado foi pros
+advogados antes do fim do ano. Se eu perder, eles levam a plataforma dezenove. — Ela respirou. — Essa é
+a primeira. A segunda: o recife não fica pronto até o equinócio. Se tirar um quinto da onda,
+tirou muito. A terceira são os postes da boca do canal. Ninguém tinha feito a conta deles. Eu
+fiz essa semana. Com a onda que entra pela boca, as argolas de lá não aguentam.
+
+Uma lanterna rangeu na viga. Ninguém mais fez barulho.
+
+— Então não — disse Joana. — Eu não coordeno. O mangue é de quem planta, e quem planta é o
+Benedito. A ostra é da Taís.
+
+— E do Davi — disse a Taís. — Ele mergulha mais fundo que eu. Só não sabe ler a casca ainda.
+
+— E do Davi. A rua do Cais é da Dona Lúcia dos Cordoeiros e do Jairo, que sabem onde a onda
+bate primeiro. O poste é do Edson. — Ela parou. — Eu sei fazer conta. Quando alguém precisar
+de uma, me pergunta. Eu faço. E digo o que deu. Mesmo quando der o que ninguém quer.
 Principalmente aí.
 
-Ela olhou a Dona Ilda.
+O Edson levantou a cabeça.
 
-— Mas quem decide onde vai o mangue é quem planta. Quem decide onde vai a gaiola é quem
-mergulha. Cada trecho tem quem sabe dele. Eu sou um trecho. Não sou a costa.
+— Quantos postes?
 
-A Dona Ilda olhou para ela muito tempo. A lanterna em cima dela balançava, e a luz ia e vinha
-no rosto pequeno e largo.
+— Doze. Dois velhos emendados pra cada um, metade cravada na lama. Não é pra ficar mais alto.
+É pra não dobrar.
 
-— A tua mãe ia ficar brava — disse a Dona Ilda. — Ela queria que você mandasse em alguma coisa.
+— É diesel pra uma semana de solda. A caixa da roda não tem.
 
 — Eu sei.
 
-— Eu não fico. — A Dona Ilda sorriu. Era a primeira vez, Joana percebeu, em dez meses, que a
-Dona Ilda sorria para ela. — Eu fico é aliviada. Gente que manda em costa, eu já conheci
-muita. Gente que escuta, eu conheci pouca.
+Ele olhou para ela mais um tempo, sem nada no rosto. Depois voltou a olhar as mãos.
+
+— Segunda eu começo.
+
+A Dona Ilda não tinha tirado os olhos de Joana. A lanterna em cima dela balançava, e a luz ia e
+vinha no rosto pequeno e largo.
+
+— Eu te ofereci a costa na frente de todo mundo, menina — disse ela —, e você me deixou com
+ela na mão. Isso doeu.
+
+Joana viu que tinha doído mesmo. Não desdisse.
 
 ---
 
 Votaram na semana seguinte, com pedras, no barracão. Cada trecho ganhou um mestre. O
-Benedito, o mangue. A Taís e o Davi, o recife. O Edson, os postes e as gaiolas. A dona Lúcia
-dos Cordoeiros e o Jairo, a rua do Cais. O Nilo, o caderno azul, as marés, e o rádio.
+Benedito, o mangue. A Taís e o Davi, o recife. O Edson, os postes e as gaiolas. A Dona Lúcia
+dos Cordoeiros e o Jairo, a rua do Cais, que ele via da varanda da sétima plataforma do canal.
+O Nilo, o caderno azul, as marés, e o rádio.
+
+O Edson já estava na boca do canal desde a segunda. Joana via da Barreira: dois postes velhos
+deitados na lama, ponta com ponta, o arco azul da solda chiando no gerador da roda; depois o
+poste emendado de pé, e quatro homens puxando a corda do bate-estaca, um peso de ferro numa
+roldana que caía, batia e subia de novo, até metade do ferro sumir na lama. Doze. O diesel
+acabou no oitavo, e o filho do Edson desceu a ladeira com dois galões nas costas, pagos pela
+caixa da vila. O Edson não falou com ela a semana inteira, a não ser para pedir um número.
 
 Joana não ganhou nada. Ganhou uma linha na parede do barracão, escrita a carvão pela Taís,
 embaixo das outras, depois de todos os trechos e todos os nomes:
