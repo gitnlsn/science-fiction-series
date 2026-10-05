@@ -20,10 +20,9 @@ cast:
 - alvaro
 - ines
 source: a-volta-a-mais/chapters/03-o-posto.md
-source_sha: 59f75465318f
+source_sha: 311f85eb5273
 status: draft
 ---
-
 I spend three days alone with him at the Post, and I don't sleep in his bunk once.
 
 The Post has four bunks, two on each side of the corridor in the sleeping module,
@@ -58,11 +57,17 @@ panel check, which didn't need doing. I do the air reserve check, which didn't
 need doing. I change a filter in the workshop that still had three months of life.
 I put the tools on the straps in the equipment bay in order by
 size, and then I undo it and put them in order by use, which is how he left them, and which is more
-right.
+right. At the back of the bay, a tarp covers something the size of a suitcase. I go
+to straighten the tarp and it won't lift: whatever is under it weighs more than
+anything in there has a right to weigh. Otávio showed me once what it was, in my
+second year. I smooth the tarp over it and leave it.
 
 Twice a day, I open the cold room. The white air comes out, hangs, sinks. He's
 there, on his back, his arms arranged. I don't go in. I stay at the door. I say
-good morning, in the morning, and good night, at night, and close it.
+good morning, in the morning, and good night, at night, and close it. Near midnight
+the Post goes into the Earth's shadow, and for an hour and fifty minutes the light
+inside switches to battery, a shade more yellow. Near the equinoxes it's every night.
+The rest of the year, never.
 
 Control speaks to me every six hours, in the careful hospital voice. I
 answer that I'm fine. Once, on the second day, it's Bia who speaks, on the service
@@ -132,7 +137,7 @@ Behind him, through the hatch, comes a woman I don't know.
 
 I show him. He goes alone. He doesn't ask me to go with him, and I don't go. I stay in the
 corridor, and through the small window in the cold room door I watch him go into the
-white air, and kneel on the floor, beside Otávio, slowly, with his hand on the
+white air, and kneel on the floor, beside Otávio, with his hand on the
 wall. And stay there.
 
 I don't hear anything. The door is thick. I watch Álvaro put his open hand over the
@@ -171,8 +176,8 @@ distrust. It's method."
 "All right."
 
 She asks everything. The time I saw the object on the ribbon. The distance. Whether I touched
-the body before reporting. Whether I touched the knot. I tell her I cut the rope away
-from the knot, and why, and she notes something on the device without changing her face. Whether I
+the body before reporting. Whether I touched the knot. I tell her I cut the rope on both
+sides, close to the ribbon, away from the knot, and why, and she notes something on the device without changing her face. Whether I
 took the dosimeter off his chest. I tell her yes, and that I read the curve, and I show her on
 the workshop screen.
 
@@ -216,8 +221,6 @@ years."
 
 "And the knot?" I ask.
 
-Inês looks at me.
-
 "He tied himself on with the emergency rope so he wouldn't fall. Isn't that what you're taught?"
 
 "It is. But he used a knot only he tied. With an extra turn."
@@ -242,7 +245,7 @@ to Álvaro. "Who came up with him?"
 
 "No one goes up alone, I was told. It's a rule."
 
-"It's a rule." Álvaro almost smiles, and the smile comes out crooked. "*Up there,
+"It's a rule." Álvaro tries to smile, and the smile comes out crooked. "*Up there,
 nobody falls alone.* He was the one who said it. Every rookie heard it from Otávio on the
 first day. He said it just like that, *nobody falls alone*, and everyone
 thought it was about company." He stops. "And he went up alone."
@@ -253,9 +256,11 @@ Inês wants to know who else was on the cable that week. Álvaro explains, with
 the patience of someone who has explained this to a lot of people who weren't from the cable.
 
 "It's a single ribbon, ma'am. One meter wide. The climbers travel clamped to it.
-Two climbers can't cross: there's no way for one to get past the other. They can go
-in the same direction, one behind the other, with distance. In opposite directions, no.
-Whoever's going up waits for whoever's coming down. That's why there's the schedule. It's the most important thing
+In the same direction, they go one behind the other, with distance. In opposite
+directions, there's no way for one to get past the other. They don't cross on the
+ribbon. Only at the sidings: a collar every five thousand kilometers, the Post's two
+collars, the Station. Whoever's coming down waits at the collar until the convoy going
+up has passed. That's why there's the schedule. It's the most important thing
 we do, the schedule. Everything that goes up and down is on it."
 
 "And who was on the schedule?"
@@ -325,9 +330,3 @@ made up himself, in a week when he was supposed to be on a ship." He rubs his ey
 with the back of his hand, that mechanic's hand. "I believe he did something very
 stupid, kid. And I don't know why. And that I'm never going to forgive you
 for, Otávio."
-
-He says the last part to the window. To the ribbon. To the open blue hand down there.
-
-I stay beside him, saying nothing, and I don't believe it was an accident, and I don't know
-what it was, and I know there's a knot at the waist of a man in a cold room four
-meters from here that hasn't yet told me what it had to say.

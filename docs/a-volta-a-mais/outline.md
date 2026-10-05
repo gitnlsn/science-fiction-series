@@ -19,13 +19,10 @@ para ela quase um segundo pai.
 
 **Decidido (2026-09-28):**
 
-- **O lugar não tem nome**, e nem o país. Vale a mesma regra de *Depois de mim*:
-  sem nome não quer dizer vago. A física não muda: o elevador só precisa estar
+- **O lugar não tem nome**, e nem o país. Sem nome não quer dizer vago. A física não muda: o elevador só precisa estar
   perto do Equador. (Antes era Alcântara, no Brasil.)
 - **O tom é de mistério com coração.** É um mistério de verdade, com pistas,
-  suspeitos e tensão, mas o que está em jogo é pessoal para a protagonista. O
-  leitor que chega de *Depois de mim* reencontra a emoção, agora dentro de um
-  thriller.
+  suspeitos e tensão, mas o que está em jogo é pessoal para a protagonista.
 - **A vítima é o mentor dela.** O caso é pessoal desde a primeira página, e ela
   sabe coisas dele que ninguém mais sabe.
 - **Por que o corpo ficou no cabo:** a 20.000 km, soltar um corpo o faria cair e
@@ -81,8 +78,13 @@ que um leitor atento resolva antes dela. Nenhuma solução depende de física qu
 leitor não viu. Exemplos:
 
 - solto a 20.000 km, um corpo cai e queima: *Três quilos*, pago em *Ele se
-  prendeu* e *O confronto*;
-- dois escaladores não se cruzam na mesma fita: *O Posto*, pago em *A dose*;
+  prendeu* e *O que não cai*;
+- dois escaladores não se cruzam na mesma fita, só nos desvios: *O Posto*, pago em
+  *A descida* e *O que não cai*;
+- a trava existe, sob uma lona no Posto: *O Posto*, paga em *O que não cai*;
+- a parada de emergência é uma caixa vermelha que qualquer um pode puxar: *A última
+  mensagem*, paga em *O que não cai*;
+- os robôs de rotina fazem a média de 2 m: *O nó*, pago em *O relatório*;
 - um escalador em movimento faz o cabo vibrar: *O que ele deixou*, pago em *A
   dose*.
 
@@ -104,19 +106,22 @@ O mundo depende do elevador: ele lança o **para-sol em L1**, que segura o calor
 global (ver `references.md`). **Parar o elevador é parar o para-sol**, e o calor
 mata no Equador. **Não parar é arriscar que o cabo caia sobre o Equador.** As duas
 escolhas cobram da mesma gente, a da Âncora. Por isso Álvaro e Hugo, do outro lado, não
-são vilões, e a escolha de Iara na Parte IV é um dilema de verdade.
+são vilões, e a escolha de Iara na Parte IV é um dilema de verdade: em *O dilema* ela
+defende parar tudo e **perde** para Álvaro e Hugo juntos (dois por dia); em *O que não
+cai* as leituras lhe dão razão tarde demais.
 
 **O fim — decidido:** Iara para o elevador. Álvaro, que era contra parar, sai
 até o trecho danificado e **instala a trava de emergência à mão**, do jeito antigo
 que Otávio ensinou aos dois, para que a cabine de passageiros desça passando pela
-falha. É coragem, não redenção: ele não tem nada a redimir. O para-sol para por
-um ano para o conserto, e o livro diz o preço (ver `bible.md`, *O para-sol*).
+falha, com Iara ditando a ordem dos tensores que ele esqueceu. É coragem depois de ter
+errado na véspera, não redenção. O para-sol para por
+cinco meses para o conserto, e o livro diz o preço (ver `bible.md`, *O para-sol*).
 Otávio é enterrado sem que ninguém saiba como morreu.
 
 ## Como Otávio morreu — ninguém sabe (decidido)
 
 **Não há vilão neste livro, e ninguém descobre como Otávio morreu.** O livro não
-escolhe, e não pode escolher. Como em *Depois de mim*, ninguém é punido.
+escolhe, e não pode escolher. Ninguém é punido.
 
 **Resolvido: o que Otávio quis que ela achasse.** O nó, o lugar, o caderno e a
 falha no cabo formam o mistério de verdade do livro. Tem resposta completa, e a
@@ -167,7 +172,7 @@ no filtro.
 | `o-traje` | rasgado por fora: compatível com mais de uma explicação | *Três quilos* | *Ele se prendeu* |
 | `a-promocao` | Álvaro oferece o posto de Otávio, de boa-fé | *O Posto* | *Terra* |
 | `ninguem-cai-sozinho` | frase do Otávio: ele estava sozinho? Ninguém sabe | *O Posto* | *Ele se prendeu* |
-| `quem-sobe-devagar` | frase do Otávio: os horários dos escaladores | *O Posto* | *A dose* |
+| `quem-sobe-devagar` | frase do Otávio: cada escalador que sobe puxa a fita de lado | *O Posto* | *Megapascal* |
 | `o-trecho` | a anomalia pequena no trecho | *O nó* | *Megapascal* |
 | `o-caderno` | o caderno de papel das medições | *Cem por cento* | *Bia* |
 | `o-para-sol` | por que o elevador não pode parar | *Cem por cento* | *O dilema* |
@@ -226,7 +231,7 @@ Copiar o bloco abaixo por capítulo. `make outline` lê os campos em negrito;
 
 ### 1. Vinte mil
 - **POV** — Iara
-- **Quando** — 2110-03-12 — tarde
+- **Quando** — 2110-03-12 — noite (chegada às ~20h40)
 - **Onde** — o cabo, a 20.000 km
 - **A ideia** — Numa subida de manutenção, Iara encontra um corpo amarrado ao cabo, e é Otávio; ela vê o nó e ainda não o lê; lembra que não atendeu a ligação dele.
 - **A virada** — é o Otávio, e ele está amarrado
@@ -236,7 +241,7 @@ Copiar o bloco abaixo por capítulo. `make outline` lê os campos em negrito;
 
 ### 2. Três quilos
 - **POV** — Iara
-- **Quando** — 2110-03-12 — noite
+- **Quando** — 2110-03-12 — noite, até a madrugada de 03-13
 - **Onde** — o Posto, a 20.000 km
 - **A ideia** — No Posto, Iara leva o corpo para dentro: ele pesa três quilos; ela faz a conta em voz alta, e solto ali ele teria caído e queimado; o traje foi rasgado por fora; o dosímetro.
 - **A virada** — alguém, ou ele, quis que o corpo ficasse
@@ -330,7 +335,7 @@ Copiar o bloco abaixo por capítulo. `make outline` lê os campos em negrito;
 - **A ideia** — Com o caderno no colo, Iara refaz as medições de Otávio; o trecho perde resistência, e a falha é real.
 - **A virada** — a falha é real
 - **Fios** — o-caso, a-operadora
-- **Paga** — o-trecho
+- **Paga** — o-trecho, quem-sobe-devagar
 - **Elenco** — iara, bia
 
 ### 11. O relatório
@@ -350,7 +355,7 @@ Copiar o bloco abaixo por capítulo. `make outline` lê os campos em negrito;
 - **A ideia** — Passando pelo lugar onde ele morreu, Iara cruza o dosímetro, os registros e a vibração do cabo: o escalador no código dela era o do Otávio; e havia outro, de carga, fora da escala, do programa de Hugo, passando pelo trecho naquela noite, sem hora exata.
 - **A virada** — havia mais alguém no cabo, e não se sabe quando
 - **Fios** — o-caso, o-luto
-- **Paga** — o-dosimetro, a-escala, quem-sobe-devagar, o-cabo-canta, hugo-suspeita
+- **Paga** — o-dosimetro, a-escala, o-cabo-canta, hugo-suspeita
 - **Elenco** — iara, bia, hugo
 
 ### 13. Ele se prendeu
@@ -399,7 +404,7 @@ Copiar o bloco abaixo por capítulo. `make outline` lê os campos em negrito;
 
 ### 17. A trava
 - **POV** — Iara
-- **Quando** — 2110-05-18 — tarde (saída da Estação às ~10h de 05-16; chegada ao Posto às ~14h37 de domingo)
+- **Quando** — 2110-05-18 — tarde (saída da Estação às ~10h de 05-16; chegada ao Posto às 14h39 de domingo)
 - **Onde** — o cabo e o Posto, a 20.000 km (4% de g)
 - **A ideia** — Álvaro e Iara descem juntos da Estação até o trecho; no lugar exato onde Otávio morreu, Iara desfaz as duas voltas de corda que ficaram na fita; Álvaro instala a trava de emergência à mão, do jeito que Otávio ensinou; a cabine desce em segurança.
 - **A virada** — o elevador para, e a cabine desce

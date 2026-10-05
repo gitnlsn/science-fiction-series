@@ -18,7 +18,7 @@ cast:
 - alvaro
 - hugo
 source: a-volta-a-mais/chapters/15-o-dilema.md
-source_sha: 4d247ec6eb42
+source_sha: 78161d101829
 status: draft
 ---
 Álvaro listens to the file eleven times.
@@ -41,14 +41,14 @@ everybody a little bit. Me included. Three thousand nights.*
 "He always did that," Álvaro says. "Put himself on the bill. First. Before
 everyone else. So nobody would feel alone with the blame." He rubs his eyes with the back of his
 hand, and the bubbles of water break apart and float, small, in front of the screen. "I
-never saw the report, kid. I swear."
+never saw the report. I swear."
 
 "I know."
 
 "How do you know?"
 
 "Nobody saw it." I unclip the notebook from the strap on my wrist and open it to page twenty-four,
- to the ruled box. "Sit down. I mean. Hook in. I'm going to show you
+ to the ruled box. "Hook into something. I'm going to show you
 everything. And then I need to show Hugo."
 
 ---
@@ -57,7 +57,7 @@ The Station's meeting module is round, with a round table in the middle that's n
 for resting anything on, because nothing rests here, and that exists only because people don't
 know how to talk without a table in the middle. The chairs are straps fixed to the floor, to
 hook your feet into. There's a big window, the same one from my first time, that looks
-down, at the Earth the size of a closed fist.
+down, at the Earth the size of two closed fists.
 
 Hugo is hooked in on the other side of the table, in a light long-sleeved shirt, his
 black hair combed back, which up here won't stay combed: it floats a little, like
@@ -86,14 +86,14 @@ page twenty-three, and I hold it down with my hand.
 It takes me an hour and a half. I show everything, in order, the way Otávio did with old ribbon
 on the bench. On one side what I know, on the other what I think. Never mix them.
 
-The ruled table. One tenth, two, four, six, seven. And my eight, with the handheld
+The table. One tenth, two, four, six, seven. And my eight, with the handheld
 reader, at four in the morning on the sixteenth.
 
 The sum in pencil with crossings-out. Forty-eight thousand megapascals in a place that could take
-a hundred thousand. Factor two. The fibers that break and pass the load to their neighbors. The curve
-that isn't straight.
+a hundred thousand. Factor two. The fibers that break and pass the load to their neighbors: *it's not the
+average, it's the neighbor of the broken fiber*. The curve that isn't straight.
 
-The ruled box. *Three a day: ~2113. Four a day: ~4 months. Two a day:
+The box. *Three a day: ~2113. Four a day: ~4 months. Two a day:
 holds until the stretch is replaced, with room to spare.*
 
 The report from the seventeenth of the second month. The four lines of routing. One minute.
@@ -102,8 +102,8 @@ tenths into a sixth of a percent.
 
 And then the extras.
 
-Hugo doesn't move when I say *extras*. Álvaro moves: he turns his head toward Hugo,
-slowly, and keeps looking.
+Hugo doesn't move when I say *extras*. Álvaro moves: he turns his head toward Hugo
+and keeps looking.
 
 I show the billing log. *Tuesday, 4th. Supplementary C-X9. Left Well 06:40.*
 I show the cable's song for that night, the thin line rising and falling on the screen, Otávio's high
@@ -129,7 +129,7 @@ on the ribbon.
 "Nobody knew," I say.
 
 "I didn't know." He repeats it, as if repeating could undo it. "The supplementaries
-go up behind the convoy, with distance, and nobody ever... there's nobody outside
+go up behind the convoy, with distance, and nobody ever... there is nobody outside
 in the small hours, off-schedule, nobody ever..." He stops. He looks at the cable's song on the
 screen, the two-hour hole. "Was it C-X9?"
 
@@ -163,8 +163,8 @@ someone who knows what's coming and has already lost the argument before it star
 held by his feet. "Do you know what happens if the cable stops, Iara? Not just the sunshade. The
 sunshade, yes: the disks wear out, five percent of the cloud a year, and nobody replaces them. One
 year of the cable stopped, and the shade shrinks five percent, and the planet warms a tenth of a
-degree in one year. A tenth of a degree in one year, Iara. That used to take ten." He points out the
-window, at the Earth the size of a fist. "And it isn't on the planet. It's on the Equator. It's on the
+degree, once the sea catches up. A tenth of a degree, Iara. That used to take four or five
+years." He points out the window, at the Earth the size of two fists. "And it isn't on the planet. It's on the Equator. It's on the
 Anchor. You had the still week. Five old people. Your neighbor."
 
 "Mrs. Celeste."
@@ -173,7 +173,7 @@ Anchor. You had the still week. Five old people. Your neighbor."
 the numbers. It's my job to know the numbers. And the numbers say that a year of the cable stopped
 means still weeks that don't end. Not five. Hundreds. On the Anchor and along the whole coast of the
 Equator, in places you've never seen." He breathes. "I sent the extras because the
-program is behind and the heat doesn't wait. Not because I didn't like Otávio."
+program is behind and the heat doesn't wait. Not out of any dislike for Otávio."
 
 "I know."
 
@@ -188,13 +188,13 @@ laughs. "We were both right."
 
 We both look at him.
 
-He reaches out his big hand and puts his finger on the ruled box, under mine, on the last
+He reaches out his big hand and puts his finger on the box, under mine, on the last
 line, the smallest, written with the crooked dot on the i. *Two a day: holds until the stretch is replaced, with
 room to spare.*
 
 "He left the answer," Álvaro says. "He didn't ask to stop the cable. He asked for two
 a day. That's what he asked you for, Hugo, in your office, in front of everyone. Two a
-day until they replace the stretch." He looks at me. "He didn't want to stop the cable, kid.
+day until they replace the stretch." He turns to me. "He didn't want to stop the cable, kid.
 He built the cable. He wanted the cable to keep going."
 
 I look at the number. *Two a day. With room to spare.*
@@ -206,8 +206,8 @@ Hugo looks too. For a long time.
 "Two years behind is better than a year stopped," Álvaro says. "And much better than the
 ribbon on the ground along the Equator."
 
-Hugo is silent. Outside, through the window, the Earth turns slowly, so slowly that you can only
-tell it has turned if you stop looking for an hour.
+Hugo is silent. Outside, through the window, the shadow of night moves slowly across the
+Earth, so slowly that you can only tell it has moved if you stop looking for an hour.
 
 "No extras," Hugo says, finally. "None. I'll cut them today." He takes one foot out of the strap and
 hooks it in again, the nervous gesture of someone who doesn't know what to do with a weightless body.
@@ -221,42 +221,48 @@ They look at me. Both of them.
 
 ---
 
-I should say yes.
-
-It's his answer. It's written in pencil, with the crooked dot on the i, in a ruled box. It's
-what he asked for, in Hugo's office, and nobody heard, and he died trying to show it. It's the middle
-of the road between the sunshade and the ribbon, between the heat and the fall, between Hugo and Otávio.
-Nobody loses everything. The program falls behind. The cable doesn't stop. Mrs. Celeste wouldn't have died
-because of it, and neither would the ones who come after her.
-
-*The cable doesn't hold weight. It holds tension.*
-
-I'm hooked by my feet to a strap on the floor, weighing nothing at all, and I feel the tension the way
-I felt it in the cold room, with him at three kilos beside me. Not the weight. The two things
-pulling. On one side Hugo, with the right numbers about the heat. On the other, Otávio, with the
-right numbers about the ribbon. And Álvaro in the middle, stretched, with his big hand on the
-box, holding the two things, the way the cable holds the Earth and the counterweight.
-
-"Two a day works," I say. "If it's still on his curve."
+"No," I say.
 
 Álvaro frowns.
 
-"Meaning what?"
-
 "His math is from three months ago. With five points." I hold the notebook tighter. "Since
-then there have been three months of extras. Four a day. Plus C-X9, which went through there on the
-night he died, and may have pulled the ribbon sideways with a man tied to it. Plus
-all the others. The curve isn't straight, Álvaro. Each year takes more than the one before. If
-it's still where he said, two a day will hold. If it's already past that..."
+then there have been three months of extras. Four a day. Plus C-X9, which went through there on
+the night he died and may have pulled the ribbon sideways with a man tied to it. The curve
+isn't straight, Álvaro. Each year takes more than the one before. He wrote two three months ago.
+Nobody knows if it's still two."
 
-"Then the fine robots will tell us," Hugo says. "Every hour. That's what they're for."
+"The fine robots will tell us," Hugo says. "Every hour. That is what they are for."
 
-"That's what they're for," I say.
+"The robots will tell you when it's already past." I put my finger on my eight, the last line
+of the table. "Stop everything now. Today. Nothing goes through that stretch until the
+replacement. If I'm wrong, you lose a few months of sunshade. If you're wrong, you lose the
+ribbon."
 
-And I don't say yes. And I don't say no. I keep looking at the Earth through the big window, the size of a
-fist, with the line I can't see coming out of the middle of it, passing through forty
-tired centimeters at twenty thousand kilometers, and I think of the ruled table, one tenth, two, four, six,
-seven, eight, and of what the next number would be.
+"A few months of sunshade are the still weeks," Álvaro says. "With names. You know that
+better than I do." He taps the box with his finger. "He wrote two. With room to spare. I
+believe what he wrote."
+
+"He wrote it three months ago."
+
+"And I worked with him my whole life."
+
+Hugo smooths the sleeve of his shirt, which needs nothing.
+
+"The program review is the two of us, Iara," he says, with no triumph at all. "You are
+suspended. You have no vote." He looks at Álvaro, and Álvaro nods. "But if you had one, it
+would be two against one."
+
+"Then I'll say what I think, which is the only thing you still let me do." My voice comes out
+lower than I wanted. "You're betting the ribbon on a three-month-old sum, by a man you didn't
+listen to while he was alive. And whoever pays, if the curve is already past, isn't in this
+room."
+
+Nobody answers. Hugo writes the decision on his wrist. Álvaro doesn't look at me.
+
+I keep looking at the Earth through the big window, the size of two fists, with the line I
+can't see coming out of the middle of it, passing through forty tired centimeters at twenty
+thousand kilometers, and I think of the table, one tenth, two, four, six, seven, eight, and
+of what the next number would be.
 
 ---
 
@@ -277,9 +283,12 @@ notebook in my hand. "He just didn't leave you how he died."
 
 "Maybe." I look at the window. "He said *don't go looking*."
 
-Álvaro stays at the door a while. Then he nods, slowly, and floats out along the
+Álvaro stays at the door a while. Then he nods and floats out along the
 corridor, big, clumsy, like a bear someone let loose in water.
 
 I stay alone in the meeting module, held by my feet, with the notebook open at the ruled
-box. Outside, the Earth. Down there, at twenty thousand kilometers, the fine robots starting to
-climb up the stretch, to read, every hour, what nobody used to read.
+box. Outside, the Earth. Down there, at twenty thousand kilometers, the stretch they decided
+to keep using, two a day, and the fine robots starting to climb up it, to read, every hour,
+what nobody used to read.
+
+I said no. It didn't count.

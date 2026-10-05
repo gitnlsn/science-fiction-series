@@ -18,15 +18,15 @@ cast:
 - bia
 - rute
 source: a-volta-a-mais/chapters/09-bia.md
-source_sha: 4a831042935b
+source_sha: 3172731c99c6
 status: draft
 ---
-Bia lives in hull eleven, on the outer edge, with her mother.
+For eighteen days I've let Bia turn her back on me. Tonight, no.
 
-I know the way by heart and walk it at night, along deck two, with the afternoon rain
-still dripping from the gutters. It's Sunday. Bia doesn't work Sundays. For eighteen days
-she hasn't answered my messages, she's turned her back at belt three,
-she's vanished when I come into a corridor. For eighteen days I've let her. Tonight, no.
+She lives in hull eleven, on the outer edge, with her mother. I know the way by heart and
+walk it at night, along deck two, with the afternoon rain still dripping from the gutters. It's
+Sunday, and Bia doesn't work Sundays: there's no belt three for her to turn her back at, no
+corridor to vanish from when I come in.
 
 The door in hull eleven is metal painted blue, peeling at the edges. I knock.
 
@@ -79,19 +79,17 @@ books. To load the extras."
 
 "The climbers that aren't on the schedule." She finally raises her eyes. "The
 program is behind, Iara. Further behind than they say. Hugo has a target,
-two percent, and a date, and he's not going to make the date with three climbers a day.
+one point eight percent, and a date, and he's not going to make the date with three climbers a day.
 So they send a fourth. In the small hours, sometimes. Off-schedule. In the same
 direction as the others, behind, with distance, so there's no trouble. And they don't log it.
 And someone has to load it, off shift, without showing up in anybody's records." She
 points at her own chest. "Me."
 
-I just look at her.
-
 *Nothing that's on the schedule*, Álvaro said, in the Post's kitchen. And hesitated.
 
 "Does Álvaro know?" I ask.
 
-"I don't know. I think he suspects. Everybody on the deck suspects. Nobody asks."
+"He suspects, I think. Everybody on the deck suspects. Nobody asks."
 She squeezes her hands. "The week Otávio went up, I worked on the side
 three nights. Monday, Tuesday and Thursday. On Thursday, until four in the morning."
 
@@ -104,12 +102,12 @@ hair away from crying. "The agency was going to ask where everyone was. I had no
 to have been. I was loading a climber that doesn't exist, for a man who doesn't
 exist, for money that doesn't exist. If I told, I'd lose my job. And my
 mother would lose her cooler, because I'm still paying for it." She stops.
-"And if I didn't tell, I was the person who was awake and at the Well the night
-he died, without explaining why."
+"And if I didn't tell, I was the person who was on the deck, right up against the Well, at
+twelve past one on Tuesday, when the car left with your code. Without explaining why."
 
 "You thought I'd suspect you?"
 
-"I thought you'd ask me." She looks at me. "And that I'd have to lie to
+"I thought you'd ask me. And that I'd have to lie to
 you. And I didn't want to lie to you, Iara. So I turned my back."
 
 ---
@@ -143,6 +141,8 @@ Eleven forty. Twenty-six minutes after calling me.
 he was when he was too calm."
 
 I know. When he was too calm it was because he had already decided something.
+The desk too tidy, without the notebook: it wasn't anybody. It was him, calm, before
+he came here.
 
 "He gave me this and said: *if I'm not back by Monday, give it to Iara. Only to
 Iara. Nobody else.* I asked back from where. He said he was going to check something
@@ -181,9 +181,8 @@ seconds of wind and my name, and went to Bia, and gave her the notebook, and sai
 
 He didn't wake me because I was tired.
 
-He went up with my code, without asking, on the climber of a man who isn't from the Operator,
-who was paying my friend on the side, in a week when nobody knows who else was on the cable, and
-he died up there, and before he died he tied himself on with an extra turn for me to find.
+He went up with my code in a week when the climber of a man who isn't from the
+Operator, who was paying my friend on the side, was going up behind him, and he died up there, and before he died he tied himself on with an extra turn for me to find.
 And, on the last night when I could have talked to him, he chose to let me
 sleep.
 
@@ -206,7 +205,7 @@ found him."
 "And then I got scared. Because if I gave it to you, I'd have to say I was
 awake on Monday at eleven forty, leaving for a shift that doesn't exist. And
 on Thursday, until four." She pushes the package a little closer to me.
-"I'm a coward, Iara. I know I am. But I kept it. I didn't open it. I didn't read it. It's the
+"I'm a coward, Iara. I always was. But I kept it. I didn't open it. I didn't read it. It's the
 way he gave it to me."
 
 I look at the gray tape. It's intact. Stuck on crooked, the way he stuck things.
@@ -238,7 +237,7 @@ Well at night. If you want to go and see what he saw..."
 
 "I didn't say I want to."
 
-"You don't need to say it." Bia almost smiles, for the first time in eighteen days.
+"You don't need to say it." Bia smiles, crooked, for the first time in eighteen days.
 "I load climbers that don't exist. I know how to put something inside one
 without anyone seeing."
 
@@ -266,3 +265,21 @@ see.*
 
 Underneath, the extra turn. Not the knot: a drawing of the knot, in pencil, small, with the turn
 on the inside of the loop. Like a signature.
+
+---
+
+I close the notebook. I open it again to the first page, to read the measurements, and the date
+is there, and the stretch, and the time, in his handwriting, and I don't get past the third line.
+
+I try on Monday night, and on Tuesday. I don't get past the first page. It isn't the
+numbers. It's the handwriting.
+
+I think of taking the notebook to Inês. A technician legal has suspended, with a
+notebook she hasn't read: to Inês, that's what I think. It isn't what I know.
+
+And his voice is on my wrist. Forty-one seconds that won't open, and the only
+place that fixes what arrives broken is the communications lab at the Station.
+Reading, I can't. Listening, maybe.
+
+On Wednesday, I write to Bia. *That thing about putting something inside a climber. I
+want to.*

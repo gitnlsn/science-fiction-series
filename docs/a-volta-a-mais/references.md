@@ -156,12 +156,57 @@ https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000735 ·
 https://www.carbonbrief.org/explainer-six-ideas-to-limit-global-warming-with-solar-geoengineering
 
 A decisão do livro está em `bible.md`, *O para-sol*: dois terços pronto em
-2110, reposição de 5% ao ano (invenção) e um ano parado custando ~0,1 °C.
+2110, reposição de 5% ao ano (invenção), discos leves (invenção) e cinco meses parados
+custando ~0,04 °C num ano.
 
 Fontes: https://en.wikipedia.org/wiki/Space_sunshade ·
 https://www.researchgate.net/publication/6710728_Feasibility_of_cooling_the_Earth_with_a_cloud_of_small_spcecraft_near_the_inner_Lagrange_point_L1 ·
 https://en.wikipedia.org/wiki/Roger_Angel ·
 https://arxiv.org/pdf/2008.05244 (Peet, *The Orbital Mechanics of Space Elevator Launch Systems*)
+
+### Conferido na revisão de 2026-10-05 [core] *(calculado, salvo quando há fonte)*
+
+- **A massa do para-sol:** o Angel (2006) pede ~16 trilhões de discos de 0,6 m e ~1 g,
+  ~20 milhões de toneladas, levados a L1 por **propulsão iônica**. Pelo elevador, dois
+  terços em vinte anos seriam ~1.800 t por dia: impossível. **O livro inventa discos
+  muito mais leves** (~270 mil t no total; ver `bible.md`) e fala em toneladas.
+- **A carga de um escalador:** o projeto de referência de Edwards (NIAC, 2003) usa uma
+  fita de ~1 m, "mais fina que papel" em média, com escaladores de ~20 t e **~13 t de
+  carga**. [care] Três por dia são ~40 t/dia.
+- **L1** é o ponto entre a Terra e o Sol onde um corpo dá a volta no Sol **no mesmo
+  período da Terra**, a ~1,5 milhão de km. **Não é** onde as duas atrações se igualam
+  (isso fica a ~260 mil km da Terra).
+- **Velocidade na fita:** v = ωr. A ~46.700 km de altitude, a fita já anda à velocidade
+  de escape local; acima disso, o que se solta escapa. Na ponta, a 100.000 km, a fita
+  anda a **7,76 km/s** e o escape ali é **2,74 km/s**: a pilha sai para uma órbita em
+  volta do Sol e **não para em L1** sem propulsão. Daí o rebocador iônico.
+- **A fase da Terra vista do cabo:** o cabo fica sobre a Âncora, então a parte acesa
+  da Terra segue a hora local da Âncora: quase cheia ao meio-dia, quase escura à
+  meia-noite. **Da órbita geoestacionária a Terra não gira**; só a linha da noite anda.
+  Da Estação a Terra tem ~17,4° (dois punhos com o braço esticado); do Posto, ~28°.
+- **A sombra da Terra a 20.000 km:** no equinócio, o Posto passa até **~1h50** na
+  sombra, perto da meia-noite local, e só na metade do ano em volta dos equinócios.
+- **Algo solto a 20.000 km** sai a 1,92 km/s e cai; **entra no ar a ~9,8 km/s, umas 2,4 h
+  depois de solto**.
+- **O céu ganha cor** abaixo de ~100 km; a 1.000 km não há ar para espalhar a luz. Na
+  descida a 300 km/h, são os últimos 15–20 minutos.
+- **Rigidez como indicador de dano:** em compósitos unidirecionais, a perda de rigidez
+  acompanha a fração de fibras partidas; nos **modelos de feixe de fibras** a carga de
+  uma fibra partida passa às vizinhas, e o dano se concentra antes de se espalhar. Por
+  isso uma média de 0,8% não leva o fator de segurança de 2,08 a 1 (levaria a ~2,06);
+  o dano concentrado na borda, sim. [care]
+- **A reserva de oxigênio** do traje de EVA da NASA dá **~30 min**. A reserva do livro é
+  de outro desenho e dá 10–15 min num rasgo como o de Otávio (invenção).
+- **Forçante:** cada 1% de luz bloqueada vale ~2,4 W/m² (1.367 × 0,7 / 4 × 1%). O
+  aquecimento em um ano é um terço a metade do de equilíbrio; o resto vem "quando o mar
+  alcançar".
+- **Coriolis num escalador:** 2ωv ≈ 2 × 7,29e-5 × 83 ≈ **0,012 m/s²**, de lado; o cabo
+  tem de empurrar o escalador para leste, e o escalador puxa a fita de lado. Perto da
+  GEO, onde a gravidade líquida some, esse empurrão lateral é maior que o "embaixo".
+- **O cinturão de fora** varia muito com a atividade solar: tempestades solares o
+  enchem em horas (a que prende Iara e Bia no Posto, em *Bia*).
+- **Peso e massa:** a 4% a trava de ~200 kg "pesa" uns 9 kg, mas a inércia é a de 200
+  kg: pesa como uma mochila, mas não para como uma.
 
 ### A âncora no mar [core]
 
@@ -224,6 +269,20 @@ https://sci.esa.int/web/cluster/-/52831-earth-plasmasphere-and-the-van-allen-bel
 Fontes: https://spacemath.gsfc.nasa.gov/earth/10Page119.pdf ·
 https://www.nationalacademies.org/read/26155/chapter/5 ·
 https://www.nasa.gov/wp-content/uploads/2023/03/radiation-protection-technical-brief-ochmo.pdf
+
+**Conferido (2026-10-05), a subida pelos cinturões:** Jorgensen, Patamia e Gassend,
+*Passive radiation shielding considerations for the proposed space elevator*, *Acta
+Astronautica* 60 (2007) 198–209. O elevador passa pelo **miolo do cinturão de prótons**;
+um escalador ~200 vezes mais lento que a Apollo daria **até ~200 rem (~2 Sv)** sem
+blindagem, em poucos dias. Para baixar uma viagem de ~10 dias a ~1 rad seria preciso
+~60 g/cm² de alumínio (~220 mm): uma caixa de 2 × 2 × 2 m pesaria 18 t.
+**O que isso dá ao livro:** o nicho é **blindado por lei**, mas pouco (é um espaço de
+1,10 × 0,80 × 1,60 m num escalador de carga): 190 mSv em cinco dias é invenção dentro
+dessa faixa, entre o sem blindagem (~2 Sv) e o blindado de verdade (~10 mSv). O limite do
+ano de 0,4 Sv da Operadora é invenção, abaixo do de carreira real da NASA (600 mSv).
+Isto revoga, para o nicho e para Iara, a regra "a prosa não crava número de dose".
+Fontes: https://www.sciencedirect.com/science/article/abs/pii/S0094576506002840 ·
+https://ui.adsabs.harvard.edu/abs/2007AcAau..60..198J/abstract
 
 ### Um corpo no vácuo [core] [care]
 

@@ -21,10 +21,9 @@ cast:
 - moises
 - tome
 source: a-volta-a-mais/chapters/14-a-ultima-mensagem.md
-source_sha: c3aba343ae29
+source_sha: 6ee441947b40
 status: draft
 ---
-
 At the Station, nothing falls.
 
 I've known that since I was twenty-four and I forget it every time, and I remember it the instant
@@ -32,7 +31,9 @@ the transfer yard's arm opens the lid of the niche and I try to get out
 the way you get out of a place, pushing down with my hands, and there is no down. The
 push carries me upward, on my back, slowly, out of the niche, and I hang
 still in the air of the yard, turning a little, with the notebook pressed to my chest, and the
-niche's screen, down below, which isn't below, says *0.0 kg*.
+niche's screen, down below, which isn't below, says *0.0 kg*. The dosimeter on my chest
+says *190 mSv*: a hundred and ninety millisieverts in five days, shielded niche and all.
+Almost half of what the medical service allows me in a year.
 
 The transfer yard is the largest enclosed space there is above the ground. A
 cylinder a hundred meters long, with the ribbon running through the middle from end to
@@ -47,7 +48,7 @@ checking a column with a reader. He stops. He stares at me with his mouth open, 
 woman in a technician's suit coming out spinning from inside a niche nobody has opened
 in twenty years. Then he says something into his wrist, quickly.
 
-I don't move. I have nothing to push off from. I keep turning, slowly, with the notebook on my
+I don't move. I have nothing to push off from. I keep turning, with the notebook on my
 chest, until someone comes.
 
 ---
@@ -55,7 +56,7 @@ chest, until someone comes.
 The one who comes is the yard chief, whose name is Moisés and who has white eyebrows and
 doesn't know what to do with me. He holds me by the sleeve with one hand, without force, the way you
 hold a balloon, and with the other he talks into his wrist with someone I can't hear. He says *yes*
-three times and *I don't know* twice. Then he looks at me.
+three times and *I don't know* twice. Then he turns to me.
 
 "You're Iara. Otávio's."
 
@@ -75,6 +76,10 @@ review, with Hugo. They're in the meeting module. Want me to call them?"
 
 ---
 
+Moisés pulls me along the main corridor, handhold after handhold, and I float past
+a red box on the wall, with a glass lid and a lever inside, some ten meters from the
+door of the meeting module. Nobody looks at it.
+
 The comms lab is on the Station's outer ring, in a small room
 full of screens and black boxes held to the walls with elastic straps, and it smells of hot
 dust, which is the smell of every place with too many machines and too little air. It's the place
@@ -91,7 +96,7 @@ glasses, with a coffee cup held by an elastic strap to his wrist.
 
 "Suit. Otávio Reis. Four four seven one. Delivered late. Damaged."
 
-He looks at me over his glasses. Then he holds out his hand. I touch my wrist
+He sizes me up over his glasses. Then he holds out his hand. I touch my wrist
 to his.
 
 "Forty-one seconds," he says. "Suit buffer. Spent six days in the belt,
@@ -210,13 +215,13 @@ The holes in the file stay as silence. There's nothing to be done with them.
 
 I play the last part again. *Look, Iara.*
 
-And I look. I let go of the bar with my foot and push myself slowly to the lab's window, which
+And I look. I let go of the bar with my foot and push myself to the lab's window, which
 is small and round and faces down, and I stay with my forehead almost touching the glass.
 
 The Earth is there. Whole. Round. Smaller than from the Post: from here, from
-geostationary, it isn't an open hand anymore, it's a closed fist at arm's length,
-a little more, blue and white, with its edge lit on one side and the rest in darkness, hanging in the black with
-nothing holding it up. And, coming out of the middle of it, where there's a sea I can't see, a
+geostationary, it isn't an open hand anymore, it's two closed fists at arm's
+length, blue and white, almost all lit, with a sliver of night at the edge, hanging in the
+black with nothing holding it up. And, coming out of the middle of it, where there's a sea I can't see, a
 line you can't see from here either, but that I know is there, rising straight to
 this window, passing through a stretch just below an empty Post, with forty
 tired centimeters and two flattened turns of rope.

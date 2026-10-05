@@ -22,7 +22,7 @@ cast:
 - hugo
 - bia
 source: a-volta-a-mais/chapters/06-cem-por-cento.md
-source_sha: 6b280f780613
+source_sha: cfb6e64b523e
 status: draft
 ---
 I sleep fourteen hours and wake up weighing sixty-six kilos.
@@ -45,24 +45,6 @@ Outside, at seven in the morning, it's thirty-six.
 
 ---
 
-The Anchor isn't a city. It's a thing that floats.
-
-Everyone who comes from the mainland says that on the first day, and everyone who
-was born here thinks it's an idiotic thing to say, and I was born here. There are forty-two hulls,
-big as buildings lying on their sides, joined to each other by seams that creak when the
-sea changes, forming a circle two kilometers across around the Well. On
-top of the hulls, the decks: three levels of covered streets, with roofs of
-slanted panels that catch the rain and send it to the cisterns. There's no
-ground. There's deck. There's no street. There's corridor. We say *going down to the sea* when
-we go to the outer edge, and *going up to the cable* when we go to the Well, even when the two
-are on the same level.
-
-And we move. Slowly, a few kilometers a day, when the radars
-up above warn that something is coming along the orbit that might hit the ribbon. The
-whole Anchor shifts on the sea, pushed by the thrusters on the outer
-hulls, and pulls the ribbon along with it, out of the way. Nobody feels it. The glasses don't
-tremble. Only the old people, who say they feel it in their stomachs, and nobody believes them.
-
 I go out at eight. Along the corridor of hull seven, I climb the stairs to deck two,
 counting the steps, because every step is work now. Twenty-two. On the
 deck, the heat hits all at once, humid, smelling of salt and hot metal, and
@@ -84,16 +66,14 @@ seeing, the disks are stacked.
 
 I saw the disks once, up close, when I helped unload a climber
 that had come back with a fault. They're the size of a dinner plate and thinner
-than a fingernail, transparent, with a pattern of very fine lines engraved
-inside that changes color when the light hits it. They weigh almost nothing. They come stacked by the
-thousand, in columns held by rings, like glass coins. Each climber carries
-a few million.
+than a soap bubble, transparent, with a pattern of very fine lines engraved
+inside that changes color when the light hits it. They weigh almost nothing. They come stacked
+in columns held by rings, like glass coins, and each climber carries thirteen
+tons of them.
 
-They go up the ribbon to the Station. From the Station, they go up to the tip, to the counterweight, a
-hundred thousand kilometers out, where the ribbon moves so fast that whatever comes loose from it doesn't
-fall: it goes away. And the disks go away, released at the tip, toward the Sun, to
-a place a million and a half kilometers from here where the Earth and the Sun pull in
-equal measure, and they stay there. Trillions of them, by now. A cloud nobody sees
+They go up the ribbon to the tip, a hundred thousand kilometers out, where whatever comes
+loose from the ribbon goes away, and each stack goes with an ion tug that spends months
+pushing it into place. A cloud nobody sees
 from down here, between us and the Sun, bending a tiny bit of the light aside.
 
 A tiny bit. One point two percent. That's what the sunshade takes off the Sun, today.
@@ -110,13 +90,13 @@ dried fish on deck three, is watching too, with a wet cloth on the back of his n
 
 "Another one."
 
-"My mother used to say that before the sunshade you couldn't go out in the daytime." He wrings
-the cloth, and it drips on the deck. "That we lived at night, like bats. I don't
-remember. I was little."
+"They say they go to where a thing goes around the Sun at the same pace as the Earth." He wrings
+the cloth, and it drips on the deck. "Before them you couldn't go out in the daytime. We lived at night, like bats. I
+remember. I already had a little grandson."
 
-I don't say anything. I don't remember either. I was born after.
+"I remember a little. I was fourteen."
 
-"They say now it's going to get to two percent," the old man says. "They say then you'll
+"They say now it's going to get to one point eight percent," the old man says. "They say then you'll
 have summer again. I won't see it. But my grandson will."
 
 He says it looking at the ribbon, with something on his face that's almost devotion. It isn't
@@ -124,9 +104,9 @@ wonder. Nobody here wonders at the ribbon. It's something else. It's the way
 the old people of the mainland, in the old images, looked at a dam, or at a
 field that was going to get rain. The ribbon is what lets his grandson have summer.
 
-Three climbers a day. Every day. For twenty years. If the ribbon stops, the
-sunshade stops growing. And, worse, it stops being replenished: the disks wear out, the
-cloud loses a few percent a year, and without the ribbon nobody replaces them.
+Three climbers a day, some forty tons. Every day. For twenty years.
+And the cloud loses about five percent a year: the ribbon barely keeps ahead of the wear. If the
+ribbon stops, the sunshade doesn't just stop growing: it starts to shrink.
 
 I've known that since I was a child, and I had never thought of it as something that could
 end.
@@ -150,26 +130,26 @@ lost the manner of someone who came from elsewhere: he stands a little too strai
 too correctly. But when he starts to speak, at the edge of the Well, with the ribbon rising
 behind him, the whole circle goes quiet.
 
-"I used to fight with Otávio," he says. "Everyone here knows it. I'm not going to pretend."
+"I used to quarrel with Otávio," he says. "Everyone here is aware of it. I do not intend to pretend."
 
 A low laugh goes around the circle. Sad. Everyone knows.
 
-"He thought we launched too much. That three climbers a day was
+"He believed that we launched too much. That three climbers a day were
 too much for the ribbon. That it was tired. He used to say it like that: *the ribbon is
 tired, Hugo*. As if it were a person." Hugo stops, looks at the ribbon behind
 him, and comes back. "I'd say the heat doesn't wait. That every climber we
 don't send is one more week of heat for these people here. For you. I'd
 say that to him in front of everyone, in the deck three canteen, and he'd
 say I wasn't from the cable, and I'd say he wasn't from the climate." The laugh
-again, lower. "The last time was a month ago. He asked for a reduction to
+again, lower. "The last time was one month ago. He asked for a reduction to
 two a day. I said no. He left my office without saying anything, which he never
 did. He always said something."
 
 Hugo goes silent. The ribbon rises behind him. The circle waits.
 
-"I don't know what he was doing up there," he says, finally. "Nobody knows.
-But I know he went up because he thought the ribbon needed him. And I wish I had
-asked why. I didn't ask. I was too busy being right."
+"What he was doing up there, we do not know," he says, finally. "But
+I am certain that he went up because he believed the ribbon needed him. I would have liked to
+ask him why. I did not ask. I was too occupied with being right."
 
 He steps away from the edge of the Well. Other people speak. A woman from the canteen. Two
 old technicians, whom I've known since I was a girl. An eighteen-year-old boy whom
@@ -275,7 +255,8 @@ of a hand, never again feel the ribbon through his glove.
 The leave. The week on the mainland, the first in two years, on the Thursday ship. It wasn't
 leave. It was what you say when you don't want to say the other thing.
 
-He went up on the fourth. Before the tenth. Within the deadline.
+By the dosimeter curve, two and a half days of climbing before Thursday: he went up
+on the fourth. Before the tenth. Within the deadline.
 
 I stay sitting in his chair with the letter in my hand until the round window goes
 dark, and the sea off the outer edge turns black, and the wind starts, and I don't know what

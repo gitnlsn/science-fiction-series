@@ -29,7 +29,9 @@ em que o braço do pátio de transferência abre a tampa do nicho e eu tento sai
 jeito que se sai de um lugar, empurrando com as mãos para baixo, e não tem baixo. O
 empurrão me leva para cima, de costas, devagar, para fora do nicho, e eu fico
 parada no ar do pátio, girando um pouco, com o caderno apertado contra o peito, e a
-tela do nicho, lá embaixo, que não é embaixo, diz *0,0 kg*.
+tela do nicho, lá embaixo, que não é embaixo, diz *0,0 kg*. O dosímetro no meu peito
+diz *190 mSv*: cento e noventa milissieverts em cinco dias, com nicho blindado e tudo.
+Quase metade do que o serviço médico me deixa num ano.
 
 O pátio de transferência é o maior espaço fechado que existe acima do chão. Um
 cilindro de cem metros de comprimento, com a fita atravessando pelo meio de ponta a
@@ -44,7 +46,7 @@ conferindo uma coluna com um leitor. Para. Fica me olhando com a boca aberta, a
 mulher de traje de técnica saindo girando de dentro de um nicho que ninguém abre
 há vinte anos. Depois fala alguma coisa no pulso, depressa.
 
-Eu não me mexo. Não tenho onde me apoiar. Fico girando, devagar, com o caderno no
+Eu não me mexo. Não tenho onde me apoiar. Fico girando, com o caderno no
 peito, até alguém vir.
 
 ---
@@ -52,7 +54,7 @@ peito, até alguém vir.
 Quem vem é o chefe do pátio, que se chama Moisés e tem as sobrancelhas brancas e
 não sabe o que fazer comigo. Me segura pela manga com uma mão, sem força, como se
 segura um balão, e com a outra fala no pulso com alguém que eu não ouço. Diz *sim*
-três vezes e *não sei* duas. Depois olha para mim.
+três vezes e *não sei* duas. Depois se vira para mim.
 
 — Você é a Iara. A do Otávio.
 
@@ -72,6 +74,10 @@ programa, com o Hugo. Estão no módulo de reunião. Querem que eu chame?
 
 ---
 
+O Moisés me puxa pelo corredor principal, alça depois de alça, e eu passo flutuando por
+uma caixa vermelha na parede, com tampa de vidro e uma alavanca dentro, a uns dez metros
+da porta do módulo de reunião. Ninguém olha para ela.
+
 O laboratório de comunicação fica no anel de fora da Estação, numa sala pequena
 cheia de telas e de caixas pretas presas nas paredes com elásticos, e cheira a poeira
 quente, que é o cheiro de todo lugar com máquina demais e ar de menos. É o lugar
@@ -88,7 +94,7 @@ na frente de três telas ao mesmo tempo, com os pés enganchados numa barra, de
 
 — Traje. Otávio Reis. Quatro quatro sete um. Entregue com atraso. Danificado.
 
-Ele olha para mim por cima dos óculos. Depois estende a mão. Eu encosto o meu pulso
+Ele me mede por cima dos óculos. Depois estende a mão. Eu encosto o meu pulso
 no dele.
 
 — Quarenta e um segundos — diz. — Buffer de traje. Ficou seis dias no cinturão,
@@ -207,13 +213,13 @@ Os buracos do arquivo ficam como silêncio. Não tem o que fazer com eles.
 
 Eu toco a última parte de novo. *Olha, Iara.*
 
-E eu olho. Solto o pé da barra e me empurro devagar até a janela do laboratório, que
+E eu olho. Solto o pé da barra e me empurro até a janela do laboratório, que
 é pequena e redonda e dá para baixo, e fico com a testa quase encostada no vidro.
 
 A Terra está lá. Inteira. Redonda. Menor do que no Posto: daqui, da
-geoestacionária, não é mais uma mão aberta, é um punho fechado com o braço esticado,
-um pouco mais, azul e branca, com a borda acesa de um lado e o resto no escuro, pendurada no preto sem
-nada que a segure. E, saindo do meio dela, onde fica um mar que eu não vejo, uma
+geoestacionária, não é mais uma mão aberta, são dois punhos fechados com o braço
+esticado, azul e branca, quase toda acesa, com uma lasca de noite na borda, pendurada no
+preto sem nada que a segure. E, saindo do meio dela, onde fica um mar que eu não vejo, uma
 linha que também não dá para ver daqui, mas que eu sei que está lá, subindo reta até
 esta janela, passando por um trecho logo abaixo de um Posto vazio, com quarenta
 centímetros cansados e duas voltas de corda achatadas.

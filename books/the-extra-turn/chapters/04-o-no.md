@@ -18,10 +18,9 @@ cast:
 - alvaro
 - ines
 source: a-volta-a-mais/chapters/04-o-no.md
-source_sha: 0fe00e441e2d
+source_sha: 252ea7c5f9d6
 status: draft
 ---
-
 At three in the morning, I read the knot.
 
 It isn't that I decide to read it. I'm lying in the top bunk, on the right, with the
@@ -29,7 +28,7 @@ curtain closed and the reading light turned to the wall, the way he turned it,
 looking at the plastic ceiling thirty centimeters from my face. The Post makes the
 noise it makes in the small hours, the low hum of the ventilation, the occasional
 tick of the structure cooling on the shadow side. Across the corridor,
-Inês is breathing slowly, sleeping like someone who sleeps anywhere. Álvaro isn't
+Inês is breathing deep and even, sleeping like someone who sleeps anywhere. Álvaro isn't
 sleeping; I hear him moving in the bottom bunk on the right, the only one he would take.
 
 And I'm thinking about my first year, without meaning to, about some exit or other, and
@@ -53,8 +52,8 @@ I looked. It was the ribbon. Dark, matte, the same.
 along the face, and then along the edge again. "But there's something. Feel it."
 
 I ran my glove over it. I didn't feel anything. I felt the ribbon, hard, stretched. I said I
-didn't feel anything, and he didn't insist. He took from the leg of his suit a short length of
-emergency rope, half a meter, and went twice around the ribbon, good and tight,
+didn't feel anything, and he didn't insist. He took from the leg of his suit a length of
+emergency rope, about six meters, and went twice around the ribbon, good and tight,
 and closed it with a bowline.
 
 With the extra turn.
@@ -85,7 +84,7 @@ centimeters from a plastic ceiling.
 
 He didn't tie himself on so he wouldn't fall.
 
-I mean, he did tie himself on. But that wasn't why. A man who's out of air and who
+A man who's out of air and who
 only wants not to fall clips the line, or what's left of it, or hugs the ribbon. He doesn't take
 the rope off his leg, doesn't go around twice, doesn't tie a bowline with an extra
 turn that holds nothing and that costs, in gloves, without air, some thirty seconds
@@ -123,7 +122,7 @@ I go out.
 A hundred and eighty meters down. Hand over hand, down the ribbon, weightless. It isn't
 dark. Down below, on the Anchor, it's four in the morning and deep night; up
 here, night almost never comes. The Post is too high for the Earth's
-shadow, which only reaches it near midnight, for an hour, at this time of year. The
+shadow, which only reaches it near midnight, for almost two hours, at this time of year. The
 rest of the time it's the Sun, always, hard, from the side, with no air to soften it. The ribbon
 shines dully on the side it comes from and is black on the other. The Post's position lights,
 red and green, keep getting smaller up above.
@@ -134,15 +133,15 @@ A hundred and eighty meters. I stop.
 
 They're there.
 
-The two turns of emergency rope, around the ribbon, tight, with the end
-I cut swinging loose. I cut on the ribbon side, away from the knot, to
+The two turns of emergency rope, around the ribbon, tight, with the two short
+ends I cut. I cut on both sides, close to the ribbon, to
 take the knot with him; and what was left were these two turns, here, hugging the
-cable, with no knot at all, with the cut end. I spent three days at the Post knowing
+cable, with no knot at all. I spent three days at the Post knowing
 they were here, and didn't think about them.
 
 He marked the place, and I took the mark and left the place.
 
-I put my glove over the two turns. They're firm. Six days outside and
+I put my glove over the two turns. They're firm. Ten days outside and
 they're firm. He knew how to pull tight.
 
 "Hi," I say, to the rope.
@@ -189,17 +188,17 @@ nothing.
 
 And it's exactly here. In the forty centimeters under the knot.
 
-I put my glove on it. I run it slowly over the face of the ribbon, and then over the edge, and
+I put my glove on it. I run it over the face of the ribbon, and then over the edge, and
 then the edge again, the way he did in my eighth month, and I close my eyes
 inside the helmet, and try to feel.
 
-On the edge, a hand-width below the turns, the glove catches. Faintly. As if the edge
+On the edge, a hand-width below the turns, on the side where he hung, the glove catches. Faintly. As if the edge
 of the ribbon, which should be smooth, were a little rough, with the finest fibers
 working loose from the weave, standing up, like the hair on an arm.
 
-I don't know if that's it. I don't know if it's the ribbon, or his lifeline, which ended up
-frayed a hand's width from the carabiner, rubbing here. I don't know if it's the cause or the
-consequence. I don't even know if it's anything.
+I don't know if that's it. It could be the ribbon, or his lifeline, which ended up
+frayed a hand's width from the carabiner, rubbing here. It could be the cause or the
+consequence. It could be nothing.
 
 I know it's here.
 
@@ -221,7 +220,7 @@ rookie let go of his lifeline on the deck of the Anchor on a windy day.
 
 "It's four in the morning." His voice shakes. Not with anger. "You saw where he
 is. You saw. And you go out alone, in the small hours, off-schedule, to the same place.
-*Nobody falls alone*, kid. Did you forget?"
+*Nobody falls alone.* Did you forget?"
 
 "There's something on the ribbon, Álvaro."
 
@@ -239,7 +238,8 @@ changed again. It's gone tired. "You know that."
 
 "I know."
 
-"The robots will reread the stretch. Today. All of it. I'll ask for it."
+"The robots will reread the stretch. Today. All of it, hand-width by hand-width, not every two
+meters like the routine. I'll ask for it."
 
 "The robots won't see it."
 
@@ -250,7 +250,7 @@ changed again. It's gone tired. "You know that."
 He doesn't answer. The other voice speaks again, and this time it's on the channel, direct, in
 my ear, calm as if speaking across a kitchen table.
 
-"Iara, this is Inês Garrido. You've left the station during an investigation, without
+"Iara, this is Inês Garrido. You've left the Post during an investigation, without
 authorization, and you've disturbed the site where the body was found. I need you to
 come back now, not to touch anything else, and to hand me the reader that's
 in your hand without erasing any readings. All right?"
@@ -280,7 +280,7 @@ you did it."
 I have nothing to say.
 
 "Tomorrow you go down," Inês says. "With him. The maintenance car takes both of you.
-I'll stay with Álvaro two more days, for the robots to reread the stretch. Down there,
+I'll stay with Álvaro another week, for the robots to reread the stretch. Down there,
 I'll talk to you again."
 
 I look at Álvaro. He looks at the floor.

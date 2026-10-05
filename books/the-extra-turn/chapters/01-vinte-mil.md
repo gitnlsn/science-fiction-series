@@ -2,7 +2,7 @@
 title: Twenty Thousand
 part: I — TWENTY THOUSAND
 pov: Iara
-when: 2110-03-12 — tarde
+when: 2110-03-12 — noite (chegada às ~20h40)
 where: o cabo, a 20.000 km
 premise: Numa subida de manutenção, Iara encontra um corpo amarrado ao cabo, e é
   Otávio; ela vê o nó e ainda não o lê; lembra que não atendeu a ligação dele.
@@ -21,10 +21,9 @@ cast:
 - controle
 - alvaro
 source: a-volta-a-mais/chapters/01-vinte-mil.md
-source_sha: b4f8c2a50441
+source_sha: df2cef12147d
 status: draft
 ---
-
 At twenty thousand kilometers, I weigh two point nine kilos.
 
 That isn't a figure of speech. The car shows it in the corner of the panel, in small type,
@@ -121,19 +120,20 @@ the ground and the Station where anyone can really sleep. I've slept there some
 two hundred nights in my life. Otávio, some three thousand.
 
 I slow down. The wheels of the ring change their sound against the ribbon, from a
-hum to a low rumble, and the car decelerates so slowly that I only know it has
+hum to a low rumble, and the car decelerates without my feeling it. I only know it has
 decelerated because the number on the panel goes down.
 
 And then the panel beeps.
 
-It isn't the alarm. It's the other sound, the short one, the one for *object on ribbon*. The forward
+It isn't the alarm. It's the other sound, the short one, the one for *object at edge*. The forward
 reader, which sweeps the cable above the car, has found something that shouldn't be
 there, fastened to the cable, a hundred and eighty meters below the Post, and has stopped
 counting to show me.
 
 I look at the image.
 
-It's a dark smudge, the size of a person, in the middle of the ribbon.
+It's a dark smudge, the size of a person, at the edge of the ribbon, outside the
+wheel track.
 
 ---
 
@@ -160,14 +160,14 @@ of a room, it's something else, it's the absence of anything that could carry a 
 The cable is in front of me. One meter wide, dark, matte, with no shine
 at all. Seen up close it doesn't look like a ribbon: it looks like a cut in the sky. I reach out my
 hand and touch it with the glove, the way I touch it every time, because Otávio touched it.
-It's hard. It isn't rigid, but it's hard, stretched between two forces I can't
+He read the ribbon with his palm, and that's why we call an exit a glove. It's hard. It isn't rigid, but it's hard, stretched between two forces I can't
 imagine, the Earth pulling down and the counterweight, a hundred thousand kilometers from here,
 pulling out.
 
 *The cable doesn't hold weight*, he used to say. *It holds tension.*
 
-I go down the ribbon, hand over hand, pulling the lifeline. I don't need
-strength. I weigh almost nothing. It's more swimming than climbing down.
+I go up the ribbon, hand over hand, pulling the lifeline. I don't need
+strength. I weigh almost nothing. It's more swimming than climbing.
 
 Twenty meters. Fifteen.
 
@@ -178,7 +178,7 @@ The dark smudge has arms.
 It's a work suit. Like mine, white and gray, only older, with the
 reflective strips peeling at the elbows, the way strips only get
 on someone who wears the same suit for years and refuses to change it. It has its back to
-me, against the ribbon, with its arms loose, open, swaying slowly in a
+me, against the ribbon, with its arms loose, open, swaying in a
 wind that doesn't exist. It's still. Everything up here is still, and even so
 that suit is stiller than everything.
 
@@ -194,7 +194,7 @@ supposed to be crooked*, he said, *that way I know it's mine*.
 
 It's crooked.
 
-I reach out and turn the suit toward me, slowly, because it weighs nothing, and the suit
+I reach out and turn the suit toward me, without effort, because it weighs nothing, and the suit
 turns on the ribbon with a horrible lightness, as if it were empty.
 
 It isn't empty.
@@ -241,7 +241,7 @@ had told them he'd be gone.
 
 I see it now. I hadn't seen it, because I was looking at his face. At the waist of the
 suit, on the waist ring where we clip the lifeline, there's no
-lifeline. There's no carabiner. There's a rope. A thin rope, a work rope, gray
+lifeline. I don't see a carabiner. There's a rope. A thin rope, a work rope, gray
 fiber, the kind we carry coiled on the leg of the suit for emergencies. It
 comes out of the ring at his waist, goes twice around the ribbon, over and under, and
 comes back to the ring. And closes in a knot.
@@ -263,7 +263,7 @@ learns in the first month, because it doesn't slip and doesn't jam and comes und
 But it has an extra turn. One turn on the inside of the loop, before it closes, that
 nobody on the cable puts in, because you don't need it, because it's good for nothing.
 
-Nobody, except one.
+Nobody. Only one.
 
 *Tie it like you're coming back*, he used to say, in my first year, watching me get
 the bowline wrong for the tenth time on the deck of the Anchor, with my hands burned by the
@@ -272,7 +272,7 @@ It's so whoever comes to undo it knows it was you.*
 
 I never really understood. I thought it was a quirk. Otávio had a lot of them.
 
-I keep looking at the knot. An hour and ten of dose, and I spend I don't know how many minutes
+I keep looking at the knot. A glove of an hour and ten, and I spend I don't know how many minutes
 looking at a knot.
 
 There's something else, and I only notice it because I'm a technician, and because the part of my head
@@ -280,7 +280,7 @@ that nobody switched off keeps doing math. A loose body doesn't stay up here. Th
 ribbon turns with the Earth, and at this height it turns too slowly to hold
 a loose thing in orbit. If he had come loose, if he had slipped, if
 someone had let him go, he would have gone. He would have fallen, slowly at first, then
-faster and faster, toward that open blue-and-white hand down there, and
+faster and faster, toward that blue-and-white thing down there, and
 at some point he would have entered the air and burned, and no one would ever have found anything.
 
 He didn't go. He's here. Tied with a rope that isn't the lifeline,
@@ -321,10 +321,10 @@ everyone said.
 
 I didn't call.
 
-I take my hand off his glove. I pull on the lifeline. I climb the ribbon, hand
-over hand, weighing nothing, with nothing holding me but a rope tied
+I take my hand off his glove. I pull on the lifeline. I go back down the ribbon to the
+car, weighing nothing, with nothing holding me but a rope tied
 to a box fastened to a ribbon fastened to a city that floats on a sea I can't
 see from here.
 
-Behind me, a hundred and eighty meters below the Post, Otávio stays where he is.
+Above me, a hundred and eighty meters below the Post, Otávio stays where he is.
 Tied. Waiting for someone to come undo the knot and know it was him.

@@ -50,7 +50,7 @@ pé. Não diz bom dia. Olha a tela.
 
 — Menina.
 
-— Eu sei.
+— Eu vi às cinco.
 
 — Quanto?
 
@@ -63,10 +63,10 @@ quatro escaladores por dia e quatro meses. A fita não esperou os quatro meses.
 
 O Álvaro fica olhando o número. Os ombros dele, aqueles ombros largos, não se mexem.
 
-— Dois por dia — diz ele, baixo.
+— Dois por dia — diz ele, baixo, como quem lê o próprio nome numa lista.
 
-— Dois por dia era a resposta de três meses atrás. — Eu fecho o caderno. — Hoje,
-qualquer coisa que passar por lá é o que arrebenta.
+— Dois por dia era a resposta de três meses atrás. Eu disse ontem. — Eu fecho o
+caderno. — Hoje, qualquer coisa que passar por lá é o que arrebenta.
 
 ---
 
@@ -99,10 +99,10 @@ caderno fechado contra o peito, ouvindo.
 
 A Laís diz que tem uma cabine de passageiros no Posto. A P-7, descendo da Estação para a
 Âncora, com doze pessoas: dez técnicos de fim de turno e a mulher e a filha de um deles,
-que tinham subido para ver a Terra de cima. Parou no Posto ontem à noite, na parada de
-sempre. Devia ter saído às seis da manhã. Não saiu, porque o controle segurou quando o
-número ficou amarelo. Está lá, encostada no colar do Posto, a cento e oitenta metros
-acima do trecho. Para chegar ao chão, tem de passar por ele.
+que tinham subido para ver a Terra de cima. Parou ontem à noite no colar de baixo do
+Posto, que é desvio, para deixar passar o de carga que subia. Devia ter saído às seis da
+manhã. Não saiu, porque o controle segurou quando o número ficou amarelo. Está lá,
+encostada no colar, cento e oitenta metros acima do trecho. Para chegar ao chão, tem de passar por ele.
 
 O Moisés diz que o Posto tem ar para doze pessoas por quatro dias.
 
@@ -130,7 +130,7 @@ fita. Tira o risco. Ela fica lá, boiando, esperando.
 
 É a primeira coisa que eu digo desde as oito e dez. Sai mais alto do que eu queria.
 
-O técnico olha para mim. A Laís olha para mim. Eu sou a mulher de traje de técnica que
+O técnico e a Laís se viram. Eu sou a mulher de traje de técnica que
 saiu de um nicho, suspensa, sem acesso a nada, e todo mundo ali sabe disso.
 
 — A vinte mil quilômetros, uma coisa solta não fica — digo. — A fita ali anda a um
@@ -157,9 +157,9 @@ A Laís não sabe o que é. O Hugo não sabe. O Moisés, que é velho, sabe: eu 
 dele.
 
 Eu sei. O Otávio me mostrou uma vez, no meu segundo ano, no fundo da câmara de
-equipamentos do Posto, embaixo de uma lona. Um colar de metal e fibra do tamanho de uma
-mala, em duas metades, com dobradiça de um lado e trinco do outro, que abraça a fita dos
-dois lados ao longo de dois metros e aperta, e passa a carga por dentro dele mesmo, por
+equipamentos do Posto, embaixo da lona que não levanta. Um colar de metal e fibra que,
+fechado, é do tamanho de uma mala, e abre em duas metades de dois metros, com dobradiça
+de um lado e trinco do outro, que abraçam a fita dos dois lados e apertam, e passa a carga por dentro dele mesmo, por
 cima do trecho fraco, como uma tala num braço quebrado. Foi desenhada quando o cabo foi
 construído, para um trecho que desse problema antes de alguém conseguir trocar. Tem uma
 em cada Posto. Nunca foi usada. Em vinte anos.
@@ -170,7 +170,7 @@ apertando os tensores um por um, na ordem certa, com a chave de torque de um qui
 mesma que caiu devagar no meu primeiro ano.
 
 — Com a trava no trecho, a fita aguenta — diz o Álvaro. — Semanas. Até a troca. A P-7
-passa por cima da trava e desce. — Ele olha para a Laís. — E o cabo para. Tudo. Nenhum
+passa pela rampa da trava e desce. — Ele olha para a Laís. — E o cabo para. Tudo. Nenhum
 escalador, nenhum de carga, nenhum extra, até a trava estar no lugar e a troca começar.
 
 — Quem instala? — pergunta a Laís.
@@ -190,14 +190,14 @@ Todo mundo olha para mim de novo.
 apertou os tensores na ordem, para eu ver. Disse que alguém além dele tinha de saber. —
 Eu olho para o Álvaro. — Eu vi uma vez.
 
-— Uma vez não é saber, menina.
+— Uma vez não é saber.
 
 — É mais que ninguém.
 
 ---
 
 A conta é esta, e eu faço em voz alta, para todo mundo, no módulo redondo, com a Terra do
-tamanho de um punho na janela grande.
+tamanho de dois punhos na janela grande.
 
 Da Estação até o Posto são quinze mil setecentos e oitenta e seis quilômetros. A
 trezentos por hora, cinquenta e duas horas e trinta e sete minutos. O trecho tem
@@ -206,9 +206,10 @@ de sobra, ou com nenhuma.
 
 E a cabine de manutenção que desce não passa pelo trecho. Para no Posto, acima dele, no
 colar de cima, do lado da P-7. A gente sai do Posto e desce os últimos cento e oitenta
-metros pela fita, mão depois de mão, como eu desci no dia doze e no dia dezesseis.
+metros pela fita, mão depois de mão, como eu subi até ele no dia doze, e como desci no
+dia dezesseis.
 
-— E enquanto isso — diz o Hugo —, o cabo parado. Cinquenta e duas horas. E depois, a troca.
+— E, enquanto isso — diz o Hugo —, o cabo fica parado. Cinquenta e duas horas. E depois, a troca.
 
 — E depois, a troca.
 
@@ -217,14 +218,14 @@ metros pela fita, mão depois de mão, como eu desci no dia doze e no dia dezess
 — Meses.
 
 O Hugo fecha os olhos. Quando abre, olha para a Terra, e eu sei o que ele está vendo: não
-a Terra, os números. Um décimo de grau num ano. As semanas paradas que não acabam. A
+a Terra, os números. Um décimo de grau, quando o mar alcançar. As semanas paradas que não acabam. A
 dona Celeste, que ele não conhecia, multiplicada por uma costa inteira.
 
-— Tem de ter outro jeito — diz ele.
+— Tem de haver outro jeito — diz ele.
 
 — Não tem — digo.
 
-— Você não sabe.
+— Você não tem como saber.
 
 — Não sei. — Eu olho para ele. — Mas sei que, se o trecho romper, não tem para-sol nenhum,
 Hugo. Nem dois por dia, nem um. A fita cai no Equador, e o para-sol para de vez, e ninguém
@@ -242,8 +243,8 @@ certeza de que está na página um.
 Nunca ninguém puxou.
 
 Eu solto os pés da alça e me empurro pelo corredor. Não tem chão. Não tem onde apoiar.
-Eu vou flutuando, devagar, com o caderno preso no pulso pelo elástico, sem nada que me
-segure e nada que me faça cair, e atrás de mim eu ouço o Hugo dizer *Iara, espera*, e a
+Eu vou flutuando, com o caderno preso no pulso pelo elástico, sem nada que me
+segure e nada que me faça cair, e atrás de mim eu ouço o Hugo dizer *Iara, espere*, e a
 Laís dizer alguma coisa sobre protocolo, e o Moisés não dizer nada.
 
 Chego na caixa vermelha e paro com a mão na parede, girando um pouco.
@@ -262,6 +263,9 @@ Eu levanto a tampa de vidro.
 levei o Otávio para a câmara fria contra o protocolo, e o controle hesitou, e ele disse
 *deixa ela*.
 
+— Ela pediu isso ontem à noite — diz ele, para a Laís, para o Hugo, para quem estiver
+ouvindo. — Eu votei contra. Eu errei.
+
 E, no meu pulso, com um décimo de segundo de atraso, a voz calma da Inês, lá de baixo:
 
 — Faça.
@@ -273,12 +277,12 @@ Eu puxo a alavanca.
 Não tem barulho. Não aqui. Mas eu sei o que está acontecendo, porque vi isso a vida
 inteira nos treinamentos, na tela, sem nunca acontecer de verdade.
 
-Em toda a fita, ao mesmo tempo, cem mil quilômetros, os anéis de rodas de todos os
-escaladores param. Os três de carga que estavam subindo o comboio da manhã, a cinco, doze
-e vinte e oito mil quilômetros. O C-114, no pátio de transferência, onde eu desci, que ia descer vazio. Os
+Em todo o cabo, ao mesmo tempo, cem mil quilômetros, os anéis de rodas param. Uns
+quinze escaladores parados ao longo da fita, onde estiverem, um ou outro num desvio, a
+maioria no meio do caminho. O C-114, no pátio de transferência, onde eu desci, que ia descer vazio. Os
 braços do pátio de transferência, que param no meio do movimento com uma coluna de discos
 pendurada. A esteira que leva à fita de cima. Na ponta, a cem mil quilômetros, o lançador
-do para-sol, que pela primeira vez em vinte anos não solta nada em direção ao Sol.
+do para-sol, que pela primeira vez em vinte anos não solta nenhuma pilha.
 
 E na Âncora, no convés dois, no anel de cima do Poço, os velhos que olham a fita subir,
 com o pano molhado na nuca, vão ver a rampa da baía de lançamento parar com três
@@ -289,8 +293,8 @@ O cabo para de cantar.
 O Hugo está no corredor, a três metros de mim, preso numa alça. Não diz nada. Olha para a
 alavanca puxada. Depois olha para mim, e na cara dele não tem raiva nenhuma. Tem outra
 coisa, que eu reconheço porque é a mesma que eu tive na câmara fria, sentada ao lado de um
-homem de três quilos: a tensão, sem o peso.
+homem de três quilos.
 
-— Vai — diz ele. — Antes que eu mude de ideia.
+— Vá — diz ele. — Antes que eu mude de ideia.
 
 O Álvaro já está com o traje na mão.

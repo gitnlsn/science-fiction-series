@@ -157,6 +157,16 @@ Completed by the translator, from the bible and the chapters, before use:
 | o lançador (da ponta) | the launcher (at the tip) | |
 | a ponta (do cabo) | the tip | |
 | o contrapeso | the counterweight | |
+| colar de desvio; o desvio | siding; the siding | where a car going down waits for the convoy |
+| rebocador iônico | ion tug | one per stack, tip to L1 |
+| "luva" (slang for work outside) | a glove | "uma luva de uma hora e dez" → "a glove of an hour and ten" |
+| a eme-três, a pê-sete, os cês | the M-three, the P-seven, the C's | cars by their letter, in speech |
+| *objeto na borda* | *object at edge* | cargo climbers' alert |
+| *detrito aderido, abaixo do limiar* | *adhered debris, below threshold* | triage |
+| a borda (da fita) | the edge (of the ribbon) | outside the wheel track |
+| o pulso (the band) | the band on my wrist / my wrist | soft glass, two fingers wide |
+| folhas (no ar) | sheets (in the air) | projected |
+| milissieverts | millisieverts | |
 | a parada de emergência | the emergency stop | red box, glass lid, lever |
 | tensores | tensioners | eight; "cruzado. Como roda de carro." → "crosswise. Like a car wheel." |
 | fator de segurança | safety factor | |
@@ -198,6 +208,7 @@ Same English every time, in every form it returns (short forms included).
 | *Lá em cima ninguém cai sozinho.* | *Up there, nobody falls alone.* (short: *nobody falls alone*) |
 | *é, mas olha* | *sure, but look* |
 | *Olha, Iara.* | *Look, Iara.* |
+| *não é a média, é o vizinho da fibra partida* | *it's not the average, it's the neighbor of the broken fiber* |
 | Estou dizendo para mim. (Álvaro, Otávio, Iara) | I'm saying it for me. |
 | *Deixa isso comigo.* | *Leave that with me.* |
 | *deixa ela* (Álvaro) | *let her* |

@@ -43,7 +43,7 @@ Eu também não.
 
 ---
 
-Doze dias depois da descida, a Inês me chama.
+Treze dias depois da descida, a Inês me chama.
 
 Chama como a agência chama: uma mensagem no pulso, às sete da manhã de uma
 quarta-feira, com um horário e um lugar e nenhuma pergunta. *Nove horas. Convés um,
@@ -58,7 +58,7 @@ parecendo desligado.
 
 — Senta, Iara.
 
-Sento. O resfriador da sala está em vinte e cinco graus, e depois de doze dias a
+Sento. O resfriador da sala está em vinte e cinco graus, e depois de treze dias a
 vinte e nove no casco sete, o frio me arrepia os braços.
 
 — Duas coisas — diz ela. — E depois uma pergunta.
@@ -73,7 +73,7 @@ Cento e doze passageiros. Os nomes em ordem. Eu leio sem querer, procurando.
 
 *Reis, Otávio — reservado — não embarcou.*
 
-— Ele reservou há três semanas — diz a Inês. — No mesmo dia em que recebeu a carta
+— Ele reservou três semanas antes de morrer — diz a Inês. — No mesmo dia em que recebeu a carta
 do serviço médico. Reservou, e não embarcou, e ninguém notou, porque um passageiro
 que não aparece no navio não é problema de ninguém. O navio sai assim mesmo.
 
@@ -85,7 +85,7 @@ todo mundo achar que ele estava no mar.
 
 — Achei no apartamento dele.
 
-— Eu sei que achou. — Ela não muda de cara. — Você rompeu o selo.
+— Achou depois de romper o selo. — Ela não muda de cara.
 
 — Rompi.
 
@@ -121,11 +121,18 @@ Não registrou quem estava dentro, porque o Posto não pergunta.
 
 — Não fui eu.
 
-— Eu sei que não foi você. — Ela diz isso depressa, e é a primeira vez que eu a
-vejo dizer alguma coisa depressa. — O seu crachá passou pela catraca do convés de
-carga às seis da manhã daquela terça, e às onze, e às duas, e às oito da noite.
-Você estava aqui. Você trabalhou catorze horas. Às uma e doze você estava
-dormindo, ou devia estar. Você não subiu.
+— O que eu sei é que não foi você que subiu. — Ela diz isso depressa, e é a
+primeira vez que eu vejo ela dizer alguma coisa depressa. A tela troca no ar: a
+catraca do convés de carga. — O seu crachá passou aqui às seis da manhã daquela
+terça, e às onze, e às duas, e às oito da noite. Você trabalhou catorze horas. À
+uma e doze você estava dormindo, ou devia estar.
+
+Ela olha a minha linha. Eu leio a de cima, sem querer, como li a do navio.
+
+*Segunda, 23h58 — entrada — técnica B.* E a saída só às cinco e meia.
+
+À uma e doze, quando a cabine saiu do Poço com o meu código, a Bia estava no
+convés de carga, colado no Poço. Eu não digo nada.
 
 — Então foi ele.
 
@@ -164,7 +171,7 @@ Uma respiração. De quem ia dizer mais alguma coisa, e escolhia como.
 — Ele me ligou — digo. A voz sai estranha. — Na véspera. Às onze da noite. Eu não
 atendi.
 
-A Inês fica calada. Longo. Eu vejo, pela primeira vez, alguma coisa passar pela
+A Inês fica calada. Longo. Eu vejo alguma coisa passar pela
 cara dela, rápida, que ela esconde logo, mas que eu vejo: não é desconfiança. É
 pena.
 
@@ -187,23 +194,23 @@ eu separo, e mesmo separadas as duas doem igual.
 Ela junta as mãos em cima da mesa, as mangas dobradas duas vezes.
 
 — Para a agência, o Otávio morreu de acidente. Até agora, é o que as provas dizem.
-Mas a Operadora não quer saber só de como ele morreu. Quer saber como um técnico
-proibido de subir pelo serviço médico conseguiu subir. E a resposta é: com o seu
-código. Numa partida de emergência que você nunca pediu, mas que está no seu
-nome. — Ela para. — O jurídico da Operadora acha que você facilitou. Que deu o
-código, ou que deixou ele saber o código sabendo que ele podia usar. Que ajudou
-um homem proibido de subir a subir. E que ele morreu lá em cima.
+Mas a Operadora não quer saber só de como ele morreu. Quer saber como uma cabine
+saiu do Poço fora da escala, de madrugada, sem emergência nenhuma. E a
+resposta é: com o seu código. Numa partida de emergência que você nunca pediu, mas
+que está no seu nome. — Ela para. — O jurídico da Operadora acha que você
+facilitou. Que deu o código, ou que deixou ele saber o código sabendo que ele podia
+usar. Que um homem a seis dias de nunca mais subir saiu sozinho, fora da escala,
+porque você deixou. E que ele morreu lá em cima.
 
-— Eu não sabia da carta.
+— Eu não sabia que ele ia subir.
 
-— Eu acredito. O jurídico, não sei. — Ela olha para a fita pela janela. — A sua
+— Eu acredito. O jurídico, ainda não. — Ela olha para a fita pela janela. — A sua
 suspensão vai continuar. Não por causa do selo, nem do corte da corda. Por isso.
 Até eles decidirem se você é responsável.
 
 — Responsável pela morte dele.
 
-— Pela subida dele. — Ela olha para mim de novo. — Não é a mesma coisa. Mas para
-quem está fora, parece.
+— Pela subida dele. Não é a mesma coisa. Mas para quem está fora, parece.
 
 Eu não digo nada. Não tem o que dizer. Lá fora, na janela, um escalador de carga
 sobe pela fita, o segundo da manhã, e eu ouço, mesmo através do vidro, o ronco das
@@ -226,7 +233,8 @@ Iara, é que não estava. O resto é o que você acha.
 
 Vou até o convés de carga procurar a Bia.
 
-Não sei por quê. Porque é o que eu faço quando não sei o que fazer: vou até a Bia.
+Digo a mim que é porque é o que eu faço quando não sei o que fazer: vou até a
+Bia. Não digo a mim a linha das onze e cinquenta e oito.
 Faz nove anos que é assim. A Bia chegou ao cabo três anos depois de mim, e o Otávio
 formou as duas, e a gente dividiu cabine em trinta subidas e beliche em cem noites
 no Posto, e ela é a única pessoa na Âncora que me viu vomitar e rir no mesmo dia.
@@ -269,11 +277,12 @@ da tarde começa quando eu estou na metade do caminho, e cai em peso sobre as pl
 inclinadas dos telhados, e desce pelas calhas para as cisternas, e o corredor
 coberto fica cheio de um barulho de água que não molha ninguém.
 
-Eu penso: o meu código. A minha ligação não atendida. A minha amiga de costas.
+Eu penso: o meu código. A minha ligação não atendida. A minha amiga de costas,
+que estava no convés à uma e doze.
 
 Eu penso: sou eu. Para a Operadora, para o jurídico, para quem está de fora, a
-pessoa que tornou possível a subida de um homem proibido de subir, que morreu lá
-em cima, sou eu.
+pessoa cujo código tirou do Poço, fora da escala, a cabine de um homem que morreu
+lá em cima, sou eu.
 
 E eu penso, com a parte da cabeça que ninguém desligou e que continua fazendo
 contas sozinha, uma coisa pior, que eu não consigo desligar:

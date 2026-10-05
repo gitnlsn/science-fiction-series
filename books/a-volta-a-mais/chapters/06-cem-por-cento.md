@@ -43,24 +43,6 @@ Lá fora, às sete da manhã, está trinta e seis.
 
 ---
 
-A Âncora não é uma cidade. É uma coisa que flutua.
-
-Todo mundo que vem do continente diz isso no primeiro dia, e todo mundo que
-nasceu aqui acha a frase idiota, e eu nasci aqui. São quarenta e dois cascos,
-grandes como prédios deitados, ligados entre si por juntas que rangem quando o
-mar muda, formando um círculo de dois quilômetros de largura em volta do Poço. Por
-cima dos cascos, os conveses: três andares de ruas cobertas, com telhados de
-placas inclinadas que recolhem a chuva e a mandam para as cisternas. Não tem
-chão. Tem convés. Não tem rua. Tem corredor. A gente diz *descer para o mar* quando
-vai à borda de fora, e *subir para o cabo* quando vai ao Poço, mesmo que as duas
-coisas fiquem no mesmo andar.
-
-E a gente se move. Devagar, uns poucos quilômetros por dia, quando os radares
-lá de cima avisam que vem alguma coisa pela órbita que pode bater na fita. A
-Âncora inteira se desloca no mar, empurrada pelos propulsores dos cascos de
-fora, e puxa a fita junto, para tirar do caminho. Ninguém sente. Os copos não
-tremem. Só os mais velhos, que dizem que sentem no estômago, e ninguém acredita.
-
 Saio às oito. Pelo corredor do casco sete, subo a escada para o convés dois,
 contando os degraus, porque cada degrau agora é um trabalho. Vinte e dois. No
 convés, o calor bate de uma vez, úmido, com cheiro de sal e de metal quente, e
@@ -82,17 +64,15 @@ ver, estão empilhados os discos.
 
 Eu vi os discos uma vez, de perto, quando ajudei a descarregar um escalador
 que tinha voltado com defeito. São do tamanho de um prato de jantar e mais finos
-que uma unha, transparentes, com um desenho de linhas finíssimas gravado por
-dentro que muda de cor quando a luz bate. Pesam quase nada. Vêm empilhados aos
-milhares, em colunas presas por anéis, como moedas de vidro. Cada escalador leva
-alguns milhões.
+que uma bolha de sabão, transparentes, com um desenho de linhas finíssimas
+gravado por dentro que muda de cor quando a luz bate. Pesam quase nada. Vêm
+empilhados em colunas presas por anéis, como moedas de vidro, e cada escalador
+leva treze toneladas deles.
 
-Sobem pela fita até a Estação. Da Estação, sobem até a ponta, até o contrapeso, a
-cem mil quilômetros, onde a fita anda tão depressa que o que se solta dela não
-cai: vai embora. E os discos vão embora, soltos na ponta, em direção ao Sol, até
-um lugar a um milhão e meio de quilômetros daqui onde a Terra e o Sol puxam na
-mesma medida, e ficam lá. Trilhões deles, a esta altura. Uma nuvem que ninguém vê
-daqui de baixo, entre nós e o Sol, desviando um pouquinho da luz para o lado.
+Sobem pela fita até a ponta, a cem mil quilômetros, onde o que se solta da fita vai embora,
+e cada pilha vai com um rebocador iônico que passa meses empurrando ela para o
+lugar. Uma nuvem que ninguém vê daqui de baixo, entre nós e o Sol, desviando um
+pouquinho da luz para o lado.
 
 Um pouquinho. Um vírgula dois por cento. É o que o para-sol tira do Sol, hoje.
 
@@ -108,23 +88,24 @@ peixe seco no convés três, está olhando também, com um pano molhado na nuca.
 
 — Mais um.
 
-— A minha mãe dizia que antes do para-sol não dava para sair de dia. — Ele torce
-o pano, que pinga no convés. — Que a gente vivia de noite, feito morcego. Eu não
-lembro. Eu era pequeno.
+— Dizem que eles vão para onde a coisa dá a volta no Sol no mesmo passo da
+Terra. — Ele torce o pano, que pinga no convés. — Antes deles não dava para
+sair de dia. A gente vivia de noite, feito morcego. Eu lembro. Eu já tinha neto
+pequeno.
 
-Eu não digo nada. Não lembro também. Nasci depois.
+— Eu lembro pouco. Tinha catorze anos.
 
-— Diz que agora vai chegar a dois por cento — diz o velho. — Diz que aí dá para
-ter verão de novo. Eu não vou ver. Mas o meu neto vai.
+— Diz que agora vai chegar a um vírgula oito por cento — diz o velho. — Diz que aí
+dá para ter verão de novo. Eu não vou ver. Mas o meu neto vai.
 
 Ele diz isso olhando para a fita, com uma coisa na cara que é quase devoção. Não
 é espanto. Ninguém aqui se espanta com a fita. É outra coisa. É o jeito como os
 velhos do continente, nas imagens antigas, olhavam para uma represa, ou para um
 campo que ia dar chuva. A fita é o que deixa o neto dele ter verão.
 
-Três escaladores por dia. Todos os dias. Há vinte anos. Se a fita parar, o
-para-sol para de crescer. E, pior, para de ser reposto: os discos se gastam, a
-nuvem perde alguns por cento por ano, e sem a fita ninguém repõe.
+Três escaladores por dia, umas quarenta toneladas. Todos os dias. Há vinte anos.
+E a nuvem perde uns cinco por cento por ano: a fita mal ganha do desgaste. Se a
+fita parar, o para-sol não só para de crescer: começa a encolher.
 
 Eu sei disso desde criança, e nunca tinha pensado nisso como uma coisa que podia
 acabar.
@@ -148,26 +129,26 @@ perdeu o jeito de quem veio: fica em pé um pouco reto demais, fala um pouco
 correto demais. Mas quando ele começa a falar, na borda do Poço, com a fita subindo
 atrás dele, a roda inteira fica quieta.
 
-— Eu brigava com o Otávio — diz ele. — Todo mundo aqui sabe. Não vou fingir.
+— Eu brigava com o Otávio — diz ele. — Todos aqui sabem. Não pretendo fingir.
 
 Um riso baixo passa pela roda. Triste. Todo mundo sabe.
 
-— Ele achava que a gente lançava demais. Que três escaladores por dia era
+— Ele achava que nós lançávamos demais. Que três escaladores por dia eram
 demais para a fita. Que ela estava cansada. Ele dizia assim: *a fita está
 cansada, Hugo*. Como se ela fosse uma pessoa. — Hugo para, olha para a fita atrás
-dele, e volta. — Eu dizia que o calor não espera. Que cada escalador que a gente
-não manda é uma semana a mais de calor para essas pessoas aqui. Para vocês. Eu
+dele, e volta. — Eu dizia que o calor não espera. Que cada escalador que nós
+não mandamos é uma semana a mais de calor para essas pessoas aqui. Para vocês. Eu
 dizia isso para ele na frente de todo mundo, no refeitório do convés três, e ele
 dizia que eu não era do cabo, e eu dizia que ele não era do clima. — O riso de
-novo, mais baixo. — A última vez foi faz um mês. Ele pediu uma redução para
+novo, mais baixo. — A última vez foi há um mês. Ele pediu uma redução para
 dois por dia. Eu neguei. Ele saiu da minha sala sem dizer nada, o que ele nunca
 fazia. Ele sempre dizia alguma coisa.
 
 Hugo fica em silêncio. A fita sobe atrás dele. A roda espera.
 
-— Eu não sei o que ele estava fazendo lá em cima — diz, por fim. — Ninguém sabe.
-Mas eu sei que ele subiu porque achava que a fita precisava dele. E eu queria ter
-perguntado por quê. Não perguntei. Eu estava ocupado demais tendo razão.
+— O que ele estava fazendo lá em cima, nós não sabemos — diz, por fim. — Mas
+tenho certeza de que subiu porque achava que a fita precisava dele. Eu gostaria de
+ter perguntado por quê. Não perguntei. Estava ocupado demais em ter razão.
 
 Ele sai da borda do Poço. Outras pessoas falam. Uma mulher do refeitório. Dois
 técnicos velhos, que eu conheço desde menina. Um menino de dezoito anos que o
@@ -180,7 +161,7 @@ por dia. Faz um mês. Negada.*
 
 E penso: *a fita está cansada, Hugo.*
 
-A Bia está do outro lado da roda também. Eu a vejo entre as pessoas. Ela me vê.
+A Bia está do outro lado da roda também. Eu vejo ela entre as pessoas. Ela me vê.
 Olha para o Hugo, e depois para mim, e depois para o chão, e quando a roda
 termina ela vai embora antes que eu consiga chegar perto.
 
@@ -230,8 +211,8 @@ debaixo da poltrona, nem no banheiro, nem na cozinha, nem no fundo do armário,
 onde eu olho sabendo que não vai estar. O caderno em que ele anotava as medições
 deste ano sumiu.
 
-Ou foi levado. Pela agência, que esteve aqui e selou a porta. Ou por ele, que o
-levou para cima. Ou por outra pessoa, que esteve aqui antes da agência, ou depois.
+Ou foi levado. Pela agência, que esteve aqui e selou a porta. Ou por ele mesmo, que
+levou junto para cima. Ou por outra pessoa, que esteve aqui antes da agência, ou depois.
 
 A mesa está arrumada demais.
 
@@ -273,7 +254,8 @@ de uma mão, nunca mais ia sentir a fita com a luva.
 A folga. A semana no continente, a primeira em dois anos, no navio de quinta. Não
 era folga. Era o que se diz quando não se quer dizer a outra coisa.
 
-Ele subiu dia quatro. Antes do dia dez. Dentro do prazo.
+Pela curva do dosímetro, dois dias e meio de subida antes de quinta: ele subiu
+dia quatro. Antes do dia dez. Dentro do prazo.
 
 Eu fico sentada na cadeira dele com a carta na mão até a janela redonda ficar
 escura, e o mar da borda de fora ficar preto, e o vento começar, e não sei o que

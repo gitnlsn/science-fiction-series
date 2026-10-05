@@ -18,10 +18,9 @@ cast:
 - alvaro
 - otavio
 source: a-volta-a-mais/chapters/08-o-que-ele-deixou.md
-source_sha: ef3db8f722ea
+source_sha: ab9f9080acad
 status: draft
 ---
-
 The hearing is on a Tuesday, and Álvaro speaks for me without my asking.
 
 It's in the big room in hull two, the one for the Operator's meetings, with a long table
@@ -34,13 +33,13 @@ Legal reads the charge. They don't call it a charge: they call it a *liability
 inquiry*. They read the departure log, the line at twelve past one, my
 code. They read the letter from the medical service. They read the ship's list. They read, in a voice that
 neither rises nor falls, the sentence I've known by heart since room 14: that a technician
-with emergency access allowed, by action or omission, a technician barred from
-going up to go up.
+with emergency access allowed, by action or omission, her code to take out of the Well,
+off-schedule, a car she never asked for.
 
 And then the door opens, and Álvaro comes in.
 
 He wasn't invited. I can see on the faces from legal that he wasn't. He comes in
-slowly, the way he walks on the ground, as if the deck were asking permission, and pulls a
+the way he walks on the ground, as if the deck were asking permission, and pulls a
 chair from the wall, and sits down on my side of the table. On my side. Not at the head, where
 the bosses sit. On my side.
 
@@ -53,7 +52,7 @@ When the cable opened. I wrote the rule: every trainer knows the code of their t
 in case someone passes out outside. It's in the manual. Page forty-something.
 I wrote it." He puts his two mechanic's hands on the table, one on top of the
 other. "If anyone is responsible for Otávio having Iara's code, it's me. If
-you want to inquire into something, inquire into the rule. Not the kid."
+you want to inquire into something, inquire into the rule. Not Iara."
 
 Legal takes notes. Someone says the rule will be reviewed. Someone says the
 inquiry continues. Nobody looks at me.
@@ -74,15 +73,17 @@ sweat has nowhere left to go. The old people know it by the smell, they say. I
 know it by the cooler in hull seven, which at four in the afternoon starts making a
 different noise, higher, like something working harder than it should.
 
-My wrist shows, in red, a number I learned in school to respect: the
-wet-bulb. Not the temperature. The temperature and the humidity together, the number that says
-whether the body can still cool itself by sweating. On Friday afternoon it's at thirty-one.
+My wrist shows the wet-bulb in red. On Friday afternoon it's at thirty-one.
 On Friday night, thirty-two. The Operator sends the usual message to every
 wrist: *stay inside, drink water, don't switch off your cooler*.
 
-On Saturday morning, thirty-two and a half.
+On Saturday morning, thirty-two and a half, and my cooler stops. The little light
+goes dark. On the screen: *monthly quota used up*. With no salary, there's no difference to pay.
 
-I spend the morning lying on the floor of my room, because the floor is cooler than the bed,
+I climb the twenty-two steps to deck two, looking for wind. There isn't any. I go back down
+counting, and at the fifteenth I have to stop, with my hand on the hot rail.
+
+I spend the rest of the morning lying on the floor of my room, because the floor is cooler than the bed,
 with a wet cloth on my forehead, doing nothing, because I have nothing to do.
 I have no cable. I have no shift. I have no Bia, who doesn't answer. I have sixty-six
 kilos stuck to the floor and a forty-one-second file that won't open.
@@ -108,7 +109,7 @@ locked; nobody locks their door in hull seven.
 
 It's hot inside. Hotter than in the corridor. The cooler on the wall is
 off, its little light dark, and on its small screen, when I touch it, the message
-appears: *monthly quota used up*.
+I read on mine this morning appears: *monthly quota used up*.
 
 She's sitting in her armchair, near the round window, with a paper fan
 fallen in her lap. Her eyes closed. She looks like she's sleeping.
@@ -128,9 +129,8 @@ One of the medics comes out and crouches beside me. He's young. He's sweaty down
 
 "She was my neighbor."
 
-"She switched off her cooler on Wednesday," he says. "To save. Her quota
-had run out, and she didn't want to pay the difference." He wipes his forehead with his
-arm. "That's the fifth this week, on the Anchor. All over seventy."
+"Her quota ran out on Wednesday, the ninth," he says. "The cooler switches off
+by itself." He wipes his forehead with his arm. "That's the fifth this week, on the Anchor. All over seventy."
 
 Five.
 
@@ -157,7 +157,7 @@ armchair, with a paper fan in her lap and the monthly quota used up.
 
 ---
 
-At night, I don't sleep. The cooler in hull seven screams on the wall. On the other side,
+At night, I don't sleep. The neighbors' coolers scream in the walls; mine doesn't. On the other side,
 Mrs. Celeste's place is empty and dark, and nobody knocks.
 
 I lie on the floor and think about Otávio.
@@ -191,7 +191,7 @@ I thought he was joking. He wasn't.
 "Everything that's on the ribbon makes the ribbon vibrate," he said. "Every climber going up,
 every one coming down, every car parked at the Post, every time the wind hits down
 here, every pebble that hits up there. The whole ribbon is a string stretched a
-hundred thousand kilometers, kid. Everything that touches it, it sings." He closed his
+hundred thousand kilometers. Everything that touches it, it sings." He closed his
 eyes. "Feel it now. There's a cargo one going up. Three, four thousand kilometers, more
 or less. It's the low note, the one that seems to come and go. Feel it?"
 
@@ -213,9 +213,9 @@ smiled. "*Whoever climbs slowly*, remember?"
 
 "Do the robots hear that?"
 
-"The robots hear everything. They record everything. On every stretch." He took his hand off the ring.
-"But they only warn about what someone told them to warn about. The rest, they keep. There are a hundred
-years of the cable's song stored somewhere, and nobody listens."
+"The robots listen. They record almost everything. An hour here, another there." He took his hand off the ring.
+"But they only warn about what someone told them to warn about. The rest, they keep. There's the cable's
+song since it opened, stored somewhere, and nobody listens."
 
 "Why?"
 
@@ -227,7 +227,7 @@ keep the song. Nobody listens.* And I didn't think about it again for twelve yea
 
 ---
 
-Now, lying on the floor of hull seven at one hundred percent, with the cooler screaming and
+Now, lying on the floor of hull seven at one hundred percent, with the cooler dark and
 the place next door empty, I think about it. And I think about the other thing he said, at the
 Station, at the big window, with the apple.
 
@@ -247,7 +247,7 @@ ground I thought would come, and would hurt, and would end this.
 And the ground doesn't come. I keep falling.
 
 And maybe that's it. Maybe it never comes. Maybe what he was trying to
-tell me, at twenty-four, at the big window, is that you can fall forever and
+tell me, when I was twenty-four, at the big window, is that you can fall forever and
 go on. That the fall doesn't have to end for you to survive it. That the
 Station has been falling for twenty years and it's there, whole, with people inside, because
 it's moving sideways fast enough to miss the ground on every turn.

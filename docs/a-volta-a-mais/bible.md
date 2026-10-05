@@ -17,8 +17,8 @@ Cada entrada leva o capítulo (por título) em que aparece pela primeira vez.
 ## O ano e o lugar
 
 **~2110.** O elevador está em serviço há uns vinte anos (inaugurado ~2090). O país
-não tem nome, e o lugar só precisa estar perto da **linha do Equador**. Vale a
-regra de *Depois de mim*: sem nome não quer dizer vago; nada de país, moeda,
+não tem nome, e o lugar só precisa estar perto da **linha do Equador**. Sem nome
+não quer dizer vago: o lugar é concreto, só não se chama. Nada de país, moeda,
 instituição real ou mês que entregue hemisfério. No Equador quase não há
 estações, e basta "a chuva" e "a seca".
 
@@ -55,8 +55,9 @@ estações, e basta "a chuva" e "a seca".
   cozinha tem mesa e quatro cadeiras presas ao chão. A **câmara de saída** tem porta
   de dentro com trava que estala. O **colar de encosto** é onde as cabines se prendem
   ao Posto, com um baque sentido nos pés.
-- **A sombra da Terra no Posto (*O nó*):** a 26.400 km do centro, a sombra só alcança
-  o Posto perto da meia-noite, por cerca de uma hora, e só perto dos equinócios. O
+- **A sombra da Terra no Posto (*O Posto*, *O nó*):** a 26.400 km do centro, a sombra só
+  alcança o Posto perto da meia-noite, por até **uma hora e cinquenta** perto dos
+  equinócios, e só na metade do ano em volta deles. O
   resto do tempo é Sol duro, de lado. A fita brilha fosca do lado do Sol e é preta
   do outro.
 - **A Estação** fica na órbita geoestacionária, a 35.786 km. A gravidade é zero.
@@ -75,15 +76,42 @@ Para cada peça: o que é, como é por fora (forma, som, peso), o que faz, o que
   dois metros, presa à fita por um **anel de rodas** que aperta o cabo dos dois
   lados; o som vai de zumbido a ronco baixo quando desacelera. O painel mostra a
   **massa aparente**: 66 kg no chão viram **2,9 kg** a 20.000 km. Tem um **leitor da
-  frente**, que varre a fita acima, e um apito curto de "objeto na fita".
+  frente**, que varre a fita acima, e um apito curto de "objeto na fita". **O alerta
+  de uma cabine de manutenção vai para quem está dentro; o de um escalador de carga
+  vai para a triagem.**
 - **A fita** tem um metro de largura, é escura, fosca, sem brilho e mais fina que
   papel. De perto parece "um corte no céu". É dura: não rígida, mas esticada.
+  **O anel de rodas aperta só o meio da fita: uns vinte centímetros de cada borda
+  ficam fora do trilho das rodas.** É na borda que andam os robôs, e foi na borda que
+  o Otávio ficou pendurado (*Vinte mil*).
+- **Os colares de desvio (*O Posto*, *A descida*):** dois escaladores nunca se cruzam
+  na fita; cruzam-se nos desvios, um a cada ~5.000 km (5, 10 e 15 mil), nos colares de
+  cima e de baixo do Posto e na Estação. Um braço sai do colar e pega a cabine; o anel
+  de rodas abre, e a cabine fica pendurada no braço, que estala quando toma a carga,
+  com a fita passando a um metro da janela enquanto o comboio sobe. **Quem desce
+  espera no desvio.** A escala alterna janelas em volta disso; o custo são horas de
+  espera. Há sempre uns quinze escaladores espalhados pela fita abaixo da Estação.
+- **Os cargueiros acusaram o corpo:** entre 03-06 e 03-12, os leitores da frente dos
+  escaladores de carga acusaram **"objeto na borda" dezenove vezes**, e a triagem
+  automática arquivou todas como **"detrito aderido, abaixo do limiar"** — o mesmo
+  filtro que arquivou o relatório (*O relatório* / *A dose*).
 - **O canal** é o rádio com o controle, na Âncora. A 20.000 km o atraso é de ~0,13 s
   ida e volta, e não se nota.
 - **A Terra vista dos 20.000 km** tem **28 graus** de céu, "uma mão aberta com o
   braço esticado, um pouco maior".
-- **Os robôs de leitura** rastejam pelo cabo medindo o material. A Operadora
-  **filtra os dados brutos** antes de qualquer relatório.
+- **Os robôs de leitura** (*A trava*): do tamanho de um gato, correm pela **borda** da
+  fita, fora do trilho das rodas — é assim que sobem e descem sem quebrar a regra de
+  um sentido: os escaladores passam por eles. Estalam enquanto andam e são mornos
+  através da luva. **Os de rotina fazem a média de cada trecho de 2 m** (*O nó*, *O
+  relatório*); **os finos** leem ponto a ponto, mas são poucos. Gravam o canto do cabo
+  **"quase tudo. Uma hora aqui, outra ali."**: o limite é energia e banda, e o cinturão
+  come os buffers. A Operadora **filtra os dados brutos** antes de qualquer relatório.
+- **O pulso (*Três quilos*):** uma faixa de vidro mole da largura de dois dedos, morna
+  enquanto trabalha; na câmara fria, gela contra a pele. Vibra, mostra texto, liga,
+  toca recado e novela. Projeta **folhas no ar**, a um palmo, que esquentam a faixa:
+  ninguém deixa aberta mais que uns minutos. **Sem rede é um relógio:** no cabo, só pega
+  no Posto, na Estação e dentro de uma cabine. Os modelos velhos (o de dona Celeste, o
+  de dona Rute) só fazem som e texto. Os alertas de bulbo úmido chegam a todos.
 - **O traje** de trabalho é branco e cinza, com faixas refletivas. O **dosímetro**
   no peito é uma janela de números verdes que conta a dose desde a saída da
   Âncora e registra a dose ao longo do tempo. A 20.000 km, o cabo passa pela
@@ -99,24 +127,34 @@ Para cada peça: o que é, como é por fora (forma, som, peso), o que faz, o que
   tolerância, "senão a gente estaria parando o elevador toda semana".
 - **A anomalia (*O nó*):** logo abaixo das duas voltas de corda que ficaram na fita,
   **40 cm onde o módulo está 0,8% abaixo** do valor da fita, dentro da tolerância.
+  **0,8% é a média na face do leitor; na faixa da borda, a fibra já não puxa**, e cada
+  fibra partida carrega a vizinha. É assim que uma média pequena leva o fator de
+  segurança a 1 no lugar (*Megapascal*: "não é a média, é o vizinho da fibra partida").
   Na borda, a luva agarra de leve, com fibras finíssimas "arrepiadas, feito pelo de
   braço". Iara não sabe se é causa, se é consequência (a linha de vida esfregando),
   ou se é alguma coisa.
 - **A marca de Otávio (*O nó*):** quando achava na fita algo que o leitor não via,
-  amarrava **meio metro de corda de emergência, com duas voltas na fita e o lais de
-  guia com a volta a mais**. A corda dizia "foi o Otávio" e "é aqui: olha aqui, volta
+  amarrava **um lance da corda de emergência da perna (uns seis metros), com duas
+  voltas na fita e o lais de guia com a volta a mais**. A corda dizia "foi o Otávio" e "é aqui: olha aqui, volta
   aqui". No oitavo mês de Iara, a 12.000 km, ele "sentiu" uma falha que o leitor da
   cabine não via, e o leitor de mão confirmou: trocou-se 1,5 m de fita. **É o
   sentido de "Amarra como se fosse voltar": não é para você, é para quem vem.**
 - **O cadastro das mortes:** três mortes no cabo em vinte anos, antes de Otávio,
   pela mesma sequência (linha gasta, furo, falta de ar), segundo Álvaro.
 - **A escala:** "a coisa mais importante que a gente faz". Tudo o que sobe e desce
-  está nela. **Dois escaladores não se cruzam em sentido contrário; podem seguir um
-  atrás do outro, com distância.** Os escaladores de carga do para-sol sobem dois
-  ou três por dia, em comboio. Álvaro hesita: "Nada que esteja na escala" (*O Posto*).
+  está nela. **Dois escaladores não se cruzam em sentido contrário na fita, só nos
+  desvios; podem seguir um atrás do outro, com distância.** Os escaladores de carga
+  do para-sol sobem três por dia, em comboio. Álvaro hesita: "Nada que esteja na
+  escala" (*O Posto*), e em *A trava* confessa que sabia que alguma coisa corria de
+  noite fora da escala, e não perguntou.
+- **Os códigos de acesso** têm nove caracteres. **O crachá** passa na **catraca do
+  convés de carga**, e a catraca registra a hora (*A suspeita*).
 - **O Poço (*A descida*):** a cavidade funda e redonda no centro da Âncora, de onde a
   fita sobe, cercada por conveses em anéis, onde as cabines chegam e saem. Cheira a
   mar, a óleo e a metal quente. O calor da Âncora é úmido e gruda na pele.
+- **O banco de trás** da cabine de manutenção leva um corpo (*Três quilos*). Quando a sombra
+  da Terra pega o Posto, a luz de dentro passa para a bateria, "um tom mais amarela".
+- **As luvas do traje** cobrem o pulso: para ler, tira-se uma luva.
 - **Os sacos térmicos** cinza da agência servem para transportar corpos.
 - **O dosímetro antigo, de fita cristalina (*Três quilos*):** não transmite nada,
   guarda a dose "como um tronco guarda os anos", e só se lê no leitor da oficina,
@@ -126,8 +164,12 @@ Para cada peça: o que é, como é por fora (forma, som, peso), o que faz, o que
   está do lado de fora.**
 - **A faca de gancho**, na coxa do traje, serve para cortar linha embolada.
 - **A reserva do traje:** quando a pressão cai, ela abre e empurra ar para dentro,
-  e sustenta um vazamento pequeno por **minutos**. Tem um painel com ponteiro na
-  lateral do capacete.
+  e sustenta um vazamento pequeno por **minutos: dez a quinze, num rasgo como o do
+  Otávio**. Tem um painel com ponteiro na lateral do capacete. **Por que ele não voltou
+  os 180 m:** a linha tinha acabado, e sem linha um escorregão na borda é uma queda que
+  queima — ele levaria a mensagem junto.
+- **A rede do Posto** só alcança o casco e os colares. O traje de Otávio achou a rede
+  quando Iara o levou para dentro.
 - **"Poeira"** é como os técnicos chamam os detritos: grãos, lascas, restos de
   satélites que se partiram há cem anos, "que às vezes não é poeira".
 - **A borda do rasgo** (lição de Otávio): se a borda abre para fora, como uma flor,
@@ -142,33 +184,66 @@ Para cada peça: o que é, como é por fora (forma, som, peso), o que faz, o que
   - no vácuo, um corpo exposto seca e se preserva; num traje íntegro, apodrece;
   - se o cabo romper abaixo de ~25.000 km, a parte de baixo cai ao longo do
     Equador.
-- **O para-sol**, em L1, é feito de trilhões de discos transparentes que desviam
-  1,8% da luz do Sol (proposta real de Roger Angel, 2006). As peças sobem pelo
-  elevador todos os dias e são lançadas da ponta do cabo. **Parar o elevador é
-  parar o para-sol.**
+- **O para-sol**, em L1, é feito de discos transparentes que desviam a luz do Sol
+  (a ideia real de Roger Angel, 2006). As peças sobem pelo elevador todos os dias e
+  são lançadas da ponta do cabo. **Parar o elevador é parar o para-sol.**
+  - **Os discos (invenção):** do tamanho de um prato, **mais finos que uma bolha de
+    sabão**, muito mais leves que os da proposta real: o para-sol inteiro pesa umas
+    **270 mil toneladas**, não 20 milhões. O livro fala em toneladas, nunca em número
+    de discos.
+  - **Cada escalador de carga leva ~13 toneladas** de discos; três por dia são ~40 t
+    por dia, ~14 mil t por ano.
+  - **Da ponta a L1:** solta na ponta, a pilha sai muito mais depressa que o escape e
+    iria dar a volta no Sol sozinha; **cada pilha leva um rebocador iônico** que passa
+    meses levando-a até L1, "onde a coisa dá a volta no Sol no mesmo passo da Terra".
   - **Em 2110 (decidido):** está **dois terços pronto** e bloqueia cerca de 1,2% da
-    luz. O alvo, de 1,7 a 1,8%, compensa uma duplicação do CO₂.
+    luz. **O alvo é 1,8%** (compensa uma duplicação do CO₂).
   - **Os discos se desgastam** (invenção): cerca de **5% da nuvem precisa ser
-    reposta por ano**, e é isso que o elevador carrega todo dia.
-  - **Um ano parado** não destrói o para-sol, porque o que está em L1 fica lá. Mas
-    a sombra encolhe uns 5%, e o planeta esquenta **cerca de 0,1 °C num ano só**
-    (invenção, na escala da "termination shock" real). É rápido demais para o
-    clima, e pior no Equador. É o custo real da escolha de Iara, sem apocalipse.
-- **Uma fita, um sentido:** dois escaladores não se cruzam na mesma fita, então
-  quem sobe espera quem desce. É por isso que Álvaro desceu antes de Iara subir.
+    reposta por ano**. Com três por dia, **o elevador mal corre na frente do
+    desgaste** — é por isso que o programa está atrasado e que o Hugo põe os extras.
+  - **Cinco meses parados** (a troca, *Terra*): cerca de 2% a menos de nuvem e ~0,04 °C
+    a mais num ano. O aquecimento de equilíbrio por esse tanto é maior, "quando o mar
+    alcançar". É rápido demais para o clima, e pior no Equador. É o custo real da
+    escolha de Iara, sem apocalipse.
+- **Uma fita, um sentido:** dois escaladores não se cruzam na mesma fita; quem desce
+  espera no desvio enquanto o comboio sobe (ver *Os colares de desvio*).
+- **"Quem sobe devagar" (*Megapascal*):** o trecho de cima anda mais depressa que o de
+  baixo, então todo escalador que sobe tem de ser empurrado de lado para acompanhar o
+  cabo, e puxa a fita de lado. Cada escalador cansa a fibra um pouco; os extras deixam
+  a curva mais íngreme.
 - **"O cabo canta":** todo escalador em movimento faz o cabo vibrar, e os robôs
   registram a vibração. **Um escalador que não está nos registros ainda assim
   deixa rastro na vibração.** Otávio ensinou Iara a ler isso (*O que ele deixou*).
-- [[?mundo: o nome que os técnicos dão às cabines, ao trabalho fora, aos turnos]]
 
 ## As instituições
 
 - **A Operadora**, dona do cabo. A chefia de operações é de Álvaro.
+  - **A escola da Operadora**, com bancada de tração; os aprendizes passam o primeiro
+    mês no chão.
+  - **O manual:** a página um diz que ninguém fica de fora e onde está a parada de
+    emergência; a "página quarenta e tantos" tem a regra dos códigos.
+  - **O serviço médico** controla a dose: limite por saída (verde → amarelo), **limite
+    do ano de 0,4 Sv** e limite de carreira.
 - **A agência de segurança**, de onde vem a investigadora Inês Garrido.
 
 ## O vocabulário do mundo
 
+- **"Cabine"** é a palavra oficial para o que anda na fita (de manutenção, de
+  passageiros). Na fala, os técnicos chamam as cabines **pela letra**: "a eme-três",
+  "a pê-sete", "os cês" para os escaladores de carga. **As casas da Âncora nunca são
+  "cabine"**: apartamento, casa, a porta ao lado.
+- **"Saída"** é o trabalho do lado de fora, no papel; na gíria, **"luva"** ("uma luva de
+  uma hora e dez", "fazer luva no trecho"), do jeito do Otávio de ler a fita com a mão.
+- **"Uma subida"** é uma viagem; a antiguidade conta-se em **noites** ("três mil
+  noites"). Nunca "volta" para turno.
+- **"Os extras"** no convés; **"complementar"** no papel da cobrança (C-X9).
+- **"Poeira"**: detritos.
+
 ## Os lugares
+
+- **O módulo central** da Estação, onde fica o corredor principal com a caixa
+  vermelha; o **módulo de reunião** é outro, redondo, com a janela grande.
+- Ver *O ano e o lugar*, *A Âncora por dentro* e *A Estação*.
 
 ## O elenco
 
@@ -186,7 +261,7 @@ nada mais. Ele estava na borda de fora do convés, onde venta. Ele nunca tinha
 deixado um recado curto. **A mensagem do traje (*Três quilos*):** "Otávio Reis —
 traje 4471. Entregue com atraso. Arquivo danificado." Tem 41 segundos e não abre.
 Os trajes guardam o que não conseguem mandar e mandam na primeira rede, e o dele
-achou a rede do Posto seis dias depois. Só o laboratório de comunicação da Estação
+achou a rede do Posto seis dias depois, quando Iara o levou para dentro. Só o laboratório de comunicação da Estação
 consegue recuperá-la. **Na Estação, aos 24 anos**, Iara flutuou o dia inteiro rindo,
 e Otávio lhe disse, na janela grande: "Uma órbita é uma queda que nunca termina...
 Quando tudo cai junto com você, cair parece boiar." Ela anotava tudo num caderno,
@@ -228,10 +303,10 @@ não diz como aconteceu.
   para mais de uma explicação (detrito, o escalador de carga, a fita).
 - **O dosímetro:** a curva é baixa por dias (a Âncora), sobe devagar por ~2,5 dias
   (a subida), fica plana e mais alta por umas horas (o Posto), e **empina às 22h04
-  de quinta-feira, 03-06**, quando ele sai da blindagem, e segue reta por seis dias.
+  de quinta-feira, 03-06**, quando ele sai da blindagem, e segue quase reta por seis dias.
   Às 7h do mesmo dia, o navio tinha saído sem ele.
-- **Iara cortou a corda do lado da fita, longe do nó.** O nó ficou inteiro no anel
-  da cintura, com o pedaço de corda enrolado: "Quem quiser desfazer, vai ter de vir
+- **Iara cortou os dois lados da corda, rente à fita.** As duas voltas ficaram na fita;
+  o nó ficou inteiro no anel da cintura, com o pedaço de corda enrolado: "Quem quiser desfazer, vai ter de vir
   até aqui e desfazer."
 - Ela o deita de costas na câmara fria, arruma os braços, não abre a viseira, que
   está branca de gelo por dentro, e fica sentada ao lado dele.
@@ -243,7 +318,7 @@ grande, o mais largo de todos, com costas de quem carregou peça pesada e mãos 
 mecânico de unhas rentes, cabelo grisalho curto. No chão anda devagar, "como se o
 convés pedisse licença"; a 4% entra flutuando "como um urso solto na água".
 Cheira a óleo de rolamento e sabão barato, o cheiro da oficina da Âncora. Chama
-Iara de **"menina"**. Em *O Posto* chora o amigo em silêncio, com a palma sobre a
+Iara de **"menina"**. "Estou dizendo para mim" é frase do Otávio, que Iara lembra em *Três quilos*. Em *O Posto* chora o amigo em silêncio, com a palma sobre a
 viseira. Os dois construíram o cabo de macacão laranja, num Posto provisório que
 não existe mais; Otávio contava, Álvaro corrigia as datas. **"Eu acredito que ele
 fez uma coisa muito burra, menina."** Otávio tinha dito a ele, no ano anterior:
@@ -291,7 +366,8 @@ maço de cartas que aponta para as coisas sem fazer barulho. "Não é desconfian
 método." **Separa o que Iara sabe do que Iara acha.** A preliminar dela é acidente:
 linha gasta na borda, impacto de poeira, furo, falta de ar. Em *O nó* suspende o
 acesso de Iara ao cabo e às estações por ela ter alterado o local (cortou a
-corda) e manda Iara descer com o corpo. Dorme em qualquer lugar.
+corda) e manda Iara descer com o corpo. Dorme em qualquer lugar. Em *A dose*, pelo canal de telemetria,
+deixa Iara seguir no C-114.
 
 ### As frases do Otávio
 
@@ -302,7 +378,7 @@ e pensa, e **toda volta entrega uma pista ou uma virada**.
 |---|---|---|---|
 | *"O cabo não aguenta peso. Aguenta tensão."* | *Vinte mil*, ao tocar a fita (e em *Três quilos*) (física: o cabo não é uma coluna, é uma corda puxada dos dois lados) | *Álvaro*, *Terra* | o que segura alguém de pé não é o que ele carrega, é o que o puxa para dois lados; Álvaro está entre o para-sol e o cabo, e Iara entre ele e a verdade |
 | *"Uma órbita é uma queda que nunca termina."* | *A descida* (física: estar em órbita é cair o tempo todo e errar a Terra) | *O que ele deixou* | no fundo do poço, cair não é o fim: dá para cair para sempre e continuar; é a sobrevivência dela |
-| *"Quem sobe devagar chega mais depressa que o cabo."* | *O Posto* (parece charada; é física: o escalador vai mais devagar que o trecho acima dele) | *A dose* | é a chave dos horários: quem sobe espera quem desce, então Álvaro tinha de ter descido antes |
+| *"Quem sobe devagar chega mais depressa que o cabo."* | *O Posto* (parece charada; é física: o escalador vai mais devagar que o trecho acima dele) | *Megapascal* | todo escalador que sobe é empurrado de lado pelo cabo e puxa a fita de lado: cada um cansa a fibra, e os extras deixam a curva mais íngreme |
 | *"Lá em cima ninguém cai sozinho."* | *O Posto* (regra do ofício: nunca subir só) | *Ele se prendeu* | vira pergunta sem resposta: ele estava sozinho? Havia um escalador de carga no cabo, e ninguém sabe quando |
 | *"Amarra como se fosse voltar."* | *Vinte mil* (o jeito de dar o nó) | *O nó*, *Terra* | ele amarrou para que alguém voltasse por ele; no fim é Iara quem amarra |
 
@@ -313,9 +389,9 @@ e pensa, e **toda volta entrega uma pista ou uma virada**.
 | Arco | Entra | Sai |
 |---|---|---|
 | I — Vinte mil (4%) | técnica respeitada, que acha o corpo | de luto, sem acesso ao cabo, sabendo que o corpo é uma mensagem |
-| II — A Âncora (100%) | pesada de luto | suspensa, suspeita, com o caderno na mão |
-| III — A subida (100% a 0) | escondida num escalador de carga | sabendo o que ele quis dizer, e que nunca vai saber como ele morreu |
-| IV — A Estação (0) | contra quem a protegia, sem que ninguém seja vilão | com o elevador parado, o custo dito, o posto de Otávio e a dúvida aceita |
+| II — A Âncora (100%) | pesada de luto, ainda certa de que o cabo e a Operadora a protegem | sabendo que o lugar dela pode ser tirado, que o calor mata gente que ela conhece, e que só confia em quem guardou o caderno |
+| III — A subida (100% a 0) | subindo por luto, atrás de uma voz de 41 segundos | trocando a pergunta "como ele morreu" por "o que ele quis dizer", e aceitando que a primeira não tem resposta |
+| IV — A Estação (0) | contra quem a protegia, perdendo a discussão que tinha razão | decidindo sozinha, pagando com o próprio corpo (a dose) e com a dúvida aceita, no posto de Otávio |
 
 ## Parte II — o que já está na prosa
 
@@ -359,8 +435,8 @@ e pensa, e **toda volta entrega uma pista ou uma virada**.
   convés: um quarto, cozinha e banheiro, com janela redonda embaçada por fora.
 - **Dona Celeste**, 84 anos, vizinha de Iara, vendeu peixe seco no convés três. É viúva e
   tem um filho no continente. Batia três vezes na parede às 17h, e Iara respondia três
-  vezes, havia oito anos. **Morre na semana parada** porque desligou o resfriador para
-  economizar a cota. É uma pessoa, não uma estatística.
+  vezes, havia oito anos. **Morre na semana parada** porque **a cota acabou na quarta, dia 9, e o resfriador desligou
+  sozinho** (corte automático). É uma pessoa, não uma estatística.
 - **O velho do peixe seco**, no anel do Poço, com pano molhado na nuca: "A minha mãe
   dizia que antes do para-sol não dava para sair de dia... o meu neto vai ter verão."
   Depois fica com a barraca de dona Celeste.
@@ -381,6 +457,10 @@ e pensa, e **toda volta entrega uma pista ou uma virada**.
   atingiu o limite; a última subida autorizada é até **o dia 10**; depois, só solo;
   "trinta e um anos de serviço no cabo". Na margem, a lápis: **"Ainda."**
 - **A reserva no navio** foi feita no mesmo dia da carta: "reservado — não embarcou".
+- **A catraca do convés de carga** registra entrada e saída por crachá, na mesma forma do
+  código: "*Segunda, 23h58 — entrada — técnica B.*", sem saída até ~05h30 de terça. À 01h12, quando
+  a M-3 saiu com o código de Iara, **Bia estava no convés, colada no Poço** (*A suspeita*). Iara
+  guarda isso da Inês e vai atrás da Bia.
 - **A partida:** "Dia 04, 01h12 — cabine de manutenção M-3 — destino: Posto 20 —
   partida de emergência, fora da escala — autorização: técnica I." É a única maneira
   de sair fora da escala, e exige o nível de Iara. **O Posto registra chegadas, não quem
@@ -403,7 +483,7 @@ e pensa, e **toda volta entrega uma pista ou uma virada**.
   dinheiro por **um contratado que não é da Operadora**, carregando **os extras**: um
   quarto escalador por dia, às vezes de madrugada, **fora da escala, na mesma direção dos
   outros, atrás, com distância**, e sem registro. O programa está mais atrasado do que se
-  diz, e o Hugo tem a meta de 2% e uma data.
+  diz, e o Hugo tem a meta de 1,8% e uma data.
 - Na semana da morte trabalhou por fora **segunda, terça e quinta**; na quinta, até as 4h.
 - Com o dinheiro comprou **o resfriador novo da mãe**, que marca 26 °C (sem ele, dona Rute
   teria morrido na semana parada).
@@ -413,16 +493,19 @@ e pensa, e **toda volta entrega uma pista ou uma virada**.
 ### O jurídico e a audiência
 
 - **Apuração de responsabilidade:** a Operadora acha que Iara, "por ação ou omissão",
-  permitiu que um técnico proibido de subir subisse. A suspensão continua até decidirem.
+  permitiu que um técnico subisse fora da escala, numa partida de emergência com o código dela. (Ele subiu no dia 04, antes do limite do dia 10: a subida em si era permitida.) A suspensão continua até decidirem.
   Inês: "Pela subida dele. Não é a mesma coisa. Mas para quem está fora, parece."
 - **Os robôs releram o trecho** três vezes com o leitor fino: 0,8% em 40 cm, igual,
   dentro da tolerância, sem crescer. A borda "tem fibra solta em trezentos lugares".
+- **A suspensão corta o salário**, e com ele a cota do resfriador de Iara: a semana
+  parada acontece também com ela.
 
 ### Hugo (*Cem por cento*)
 
 ~50 anos, magro, alto, de camisa clara de manga comprida mesmo no calor, com o cabelo preto
 penteado para trás. Veio do continente há oito anos e fica em pé "um pouco reto demais,
-fala um pouco correto demais". Na roda: "Eu brigava com o Otávio." Otávio dizia "a fita
+fala um pouco correto demais". **Fala formal**: sintaxe inteira, "nós" e não "a gente", sem gíria ("Não pretendo
+fingir", "Ele achava que nós lançávamos demais"). Na roda: "Eu brigava com o Otávio." Otávio dizia "a fita
 está cansada, Hugo", e Hugo respondia que "o calor não espera". **Um mês antes, negou o
 pedido de Otávio de reduzir os lançamentos para dois por dia.** "Eu estava ocupado demais
 tendo razão."
@@ -433,12 +516,18 @@ tendo razão."
 
 - **O nicho:** todo escalador de carga tem, por lei desde o segundo acidente do cabo,
   um espaço **pressurizado** de 1,10 × 0,80 × 1,60 m, preso por baixo do anel de rodas,
-  com ar, água, comida seca e aquecimento **para uma pessoa por sete dias**. Tem tela,
+  com ar, água, comida seca e aquecimento **para uma pessoa por sete dias**, e **blindado**,
+  porque é refúgio. Mesmo assim, atravessar os dois cinturões dá a Iara **190 mSv** em
+  cinco dias (lidos na chegada, em *A última mensagem*): quase metade do limite do ano. Tem tela,
   teclado de emergência duro, feito para luva, e caneta de kit. Ninguém o usa há vinte
   anos: a tampa do **C-114** ainda tinha a cinta de fábrica. Iara passa cinco dias nele.
   O aquecimento economiza a partir do quinto dia.
 - **O C-114** é regular, está na escala, sobe às 10h de 2110-05-10 no comboio, leva
-  ~3 milhões de discos, descarrega no **pátio de transferência** da Estação e desce vazio.
+  ~13 t de discos, descarrega no **pátio de transferência** da Estação e desce vazio.
+- **O painel do nicho** mostra a massa aparente em porcentagem ("*massa aparente: 100%*").
+- **Inês no canal (*A dose*):** depois da confissão de Bia, entra no canal de telemetria pela
+  Bia: sabe que Iara está no nicho do C-114 e não manda parar o escalador. "Me diga o que você
+  sabe. O que você acha, guarde para depois."
 - **O canal de telemetria:** cada escalador manda à Âncora uma linha de números por
   segundo, com um campo de observação sobrando no fim de cada linha onde cabe texto.
   Ninguém olha o fim das linhas. **Os extras usam isso para combinar horário**, e Bia e
@@ -457,11 +546,13 @@ tendo razão."
 - **A conta (p. 24), a lápis, com rasuras.** A fita ali trabalha a **48.000 MPa**; nova,
   aguentava **100.000 MPa**, com **fator de segurança 2**. Cada fibra partida passa a carga
   às vizinhas ("uma fila de falhas pequenas"), e a curva acelera. Na margem, sublinhado
-  duas vezes: **"os extras"**. No quadrado à régua: **"3 por dia: o fator chega a 1 em ~
+  duas vezes: **"os extras"**; e, ao lado da conta, ***"não é a média, é o vizinho da fibra
+  partida"***. No quadrado à régua: **"3 por dia: o fator chega a 1 em ~
   2113" · "4 por dia: o fator chega a 1 em ~4 meses" · "2 por dia: aguenta até a troca do
   trecho, com folga."** Escrito no meio do segundo mês, então **sobra "um mês e pouco"** em
-  2110-05-10. É por isso que ele pediu a redução para dois por dia.
-- **O verso da última página** (*Ele se prendeu*): Iara escreve duas colunas, "o que eu
+  2110-05-10. É por isso que ele pediu a redução para dois por dia. **A ordem:** a conta → o
+  pedido a Hugo → a recusa → o relatório de 02-17, que a triagem arquivou.
+- **O verso da última página** (*Ele se prendeu*), atrás do desenho do nó: Iara escreve duas colunas, "o que eu
   sei" e "o que eu acho", com as quatro explicações.
 
 ### O relatório (*O relatório*)
@@ -482,7 +573,7 @@ tendo razão."
 
 ### O canto do cabo na noite de 03-06 para 03-07 (*A dose*)
 
-Os robôs gravam **em rodadas**, uma hora aqui, outra ali, para economizar. Trecho de
+Os robôs gravam **quase tudo, uma hora aqui, outra ali**: o limite é energia e banda. Trecho de
 19.900 a 20.100 km:
 - **22h04:** começa o tremido fino e agudo, o canto de uma pessoa na fita (Otávio).
 - **23h37:** **um pico**, risco reto que morre em ondas, "como um sino tocado uma vez". É o
@@ -495,7 +586,7 @@ Os robôs gravam **em rodadas**, uma hora aqui, outra ali, para economizar. Trec
   carga, já passado, subindo.
 - **O C-X9, a 300 km/h, chegaria aos 20.000 km à 01h20** (66 h 40 min depois das 06h40 de
   terça), dentro do silêncio. Um extra fora da escala não diz se parou ou se desacelerou.
-- **A M-3 era de Otávio:** a pegada dele está no registro de toque do painel.
+- **A M-3 era de Otávio:** a digital dele está no registro de toque do painel.
 - **Bia contou tudo à Inês** (os extras, o homem que paga, as três noites), e vai perder o
   emprego. "Ele se amarrou para você achar. Você achou. Eu não ia ser a pessoa que escondeu
   o resto."
@@ -513,9 +604,13 @@ Os robôs gravam **em rodadas**, uma hora aqui, outra ali, para economizar. Trec
    "porque o que a gente risca continua sendo uma coisa que a gente pensou".
 4. **O que a linha não gravou.**
 
-**"Eu nunca vou saber como ele morreu."** "O que eu sei é o que ele quis que eu soubesse."
-**"Ninguém cai sozinho", relido:** ninguém estava lá, e todo mundo estava um pouco, cada um
-dentro da tolerância, como a fita.
+**"Eu nunca vou saber como ele morreu."** O capítulo termina na caneta: "A caneta chega ao
+chão do nicho sem barulho."
+**"Ninguém cai sozinho", relido:** a frase do primeiro dia vira pergunta, e a pergunta não
+cabe em nenhuma das duas colunas. A ideia de que todo mundo cansou a fita um pouco fica para
+a voz de Otávio, em *A última mensagem*, e Álvaro a torna pessoal em *A trava*.
+- **Por que o corpo:** ele não sabia se a Bia daria o caderno, nem se o traje guardaria alguma
+  coisa no cinturão. O corpo era a única mensagem que não se perdia.
 
 ## Parte IV — o que já está na prosa
 
@@ -537,9 +632,11 @@ dentro da tolerância, como a fita.
   uma por uma, à mão.
 - **A parada de emergência:** uma caixa vermelha no corredor principal, com tampa de vidro e
   alavanca. É **a única coisa no cabo que qualquer pessoa pode acionar**, com ou sem acesso,
-  e existe desde a construção. **Nunca ninguém tinha puxado.** Iara puxa em 2110-05-16.
-- **Da Estação, a Terra tem 17°**, "um punho fechado com o braço esticado, um pouco mais":
-  **menor** que do Posto. Na Estação, as lágrimas não caem: ficam como uma bolha sobre o olho.
+  e existe desde a construção. **Nunca ninguém tinha puxado.** Iara passa por ela em *A
+  última mensagem*, e puxa em 2110-05-16.
+- **Da Estação, a Terra tem 17°**, "dois punhos" com o braço esticado: **menor** que do
+  Posto. **Dali a Terra não gira**: a linha da noite anda por cima dela. A parte acesa
+  segue o relógio da Âncora. Na Estação, as lágrimas não caem: ficam como uma bolha sobre o olho.
 - **Álvaro e Hugo** estavam lá para **a revisão trimestral do programa**, subidos na semana
   anterior.
 
@@ -558,45 +655,58 @@ isso comigo." "...daqui a Terra está... a mão aberta... é, mas olha." **"Olha
 
 ### O dilema e a parada
 
-- Hugo cortou **os extras** às 23h de 05-15. A proposta de Álvaro, tirada do quadrado de Otávio:
-  **dois por dia**, robôs finos de hora em hora e a troca do trecho na semana seguinte. Iara:
-  "Dois por dia funciona. Se ainda estiver na curva dele."
+- **A votação (*O dilema*, noite de 05-15):** Iara pede **parar tudo, hoje**: a conta de dois
+  por dia tem três meses, e a curva não é reta. Álvaro e Hugo, que são **a revisão do
+  programa**, votam o meio-termo tirado do quadrado de Otávio: **dois por dia**, robôs finos de
+  hora em hora e a troca do trecho na semana seguinte. Uma técnica suspensa não tem voto:
+  **dois contra um.** "Eu disse não. Não contou." Hugo cortou **os extras** às 23h de 05-15.
 - **As leituras de 05-16:** −0,9% (2h), −0,9% (3h), −1,0% (4h), **−1,1% às 5h, amarelo, fora da
   tolerância** pela primeira vez em vinte anos, −1,4% (8h), −1,6% (9h). "A curva não é mais
   uma curva. É uma parede." **~60 horas** até romper (50 a 70).
 - **A P-7:** cabine de passageiros descendo da Estação, com dez técnicos de fim de turno e a
   mulher e a filha de um deles (a menina tem ~8 anos). Estava parada no colar de baixo do Posto,
-  **acima do trecho**. O Posto tem ar para doze por quatro dias.
+  **que é desvio**, esperando passar um de carga que subia, **acima do trecho**. Com a parada,
+  uns quinze escaladores ficam parados ao longo da fita. O Posto tem ar para doze por quatro dias.
 - **"Solta a P-7"**, propõe um técnico da Estação. Iara: solta a 20.000 km, ela cai e queima
   (é o fair play da Parte I). "Tudo cai lá. Só que devagar."
-- **Álvaro: "Deixa ela."** Inês, lá de baixo: **"Faça."** Com a parada, o cabo para inteiro,
+- **Álvaro: "Deixa ela."**, e logo: "Ela pediu isso ontem à noite… Eu votei contra. Eu errei."
+  Inês, lá de baixo: **"Faça."** Com a parada, o cabo para inteiro,
   pela primeira vez em vinte anos: os escaladores, os braços do pátio, a esteira e o lançador
   da ponta. "O cabo para de cantar." Hugo: "Vai. Antes que eu mude de ideia."
 
 ### A trava (*A trava*)
 
-- Um colar de metal e fibra do tamanho de uma mala, **em duas metades com dobradiça e
-  trinco**, que abraça 2 m de fita e **desvia a carga por dentro dele**, "como uma tala".
+- Um colar de metal e fibra que, dobrado, tem **o tamanho de uma mala** e abre **em duas metades
+  com dobradiça e trinco**, que abraça 2 m de fita, com **uma rampa em cada ponta, feita para
+  rodas**. Tem ~200 kg: a 4% pesa uns oito, "pesa como uma mochila, mas não para como uma" e **desvia a carga por dentro dele**, "como uma tala".
   Foi desenhada na construção, **há uma em cada Posto** (no fundo da câmara de equipamentos,
   sob uma lona), e **nunca tinha sido usada**. Instala-se à mão, porque os robôs leem mas não
   apertam.
 - **Os oito tensores**, quatro em cada metade: "nunca aperta um lado todo e depois o outro.
   Aperta **cruzado. Como roda de carro.** Um quarto de volta cada, e volta, até a chave
   estalar em todos. Se apertar um lado todo, a fita torce, e fita torcida não perdoa." Otávio
-  mostrou a Iara no segundo ano dela. Álvaro treinou em 2089, com uma de mentira, e esqueceu a
-  ordem.
+  mostrou a Iara no segundo ano dela (e ela a vê sob a lona em *O Posto*). Álvaro treinou em
+  2089, com uma de mentira, e esqueceu a ordem. **Álvaro instala**, segurando com o joelho para
+  a chave não girá-lo; **Iara dita a ordem** ("Lá fora, você chama e eu aperto.").
 - **A descida:** a M-1, liberada por Laís às 10h02 de 05-16, chega ao Posto às **14h39 de
   domingo 05-18**, com 52 h 37 min de viagem. A leitura da chegada é −2,9%.
-- **Iara desfaz as duas voltas de corda** (pago de `o-no`) e guarda o meio metro enrolado no
-  pulso, **sem nó: "Ainda não."** As voltas deixam **duas marcas claras** na face da fita.
+- **Iara desfaz as duas voltas de corda** (pago de `o-no`): **uns quatro metros** de corda
+  achatada, com as duas pontas cortadas por ela; guarda enrolada no cinto do traje, **sem nó:
+  "Ainda não."** As voltas deixam **duas marcas claras** na face da fita.
 - Durante a instalação a leitura chega a −3,1%. No fim, **"Carga desviada pela trava: 71%...
   Tensão estimada nas fibras remanescentes: dentro do limite."** Álvaro confere os oito
-  tensores no amarelo. A P-7 desce às 19h40, a 20 km/h até passar pela trava, com um tranco.
+  tensores no amarelo. A P-7 desce às 19h40, a 20 km/h, pela rampa da trava, com um solavanco
+  de meio segundo.
+- **Um robô fino** já está no trecho quando eles chegam: do tamanho de um gato, na faixa de
+  20 cm da borda, estalando, morno através da luva; a leitura chega no visor do capacete,
+  porque o pulso não tem rede a 180 m do Posto.
+- **A dose da trava** deixa o dosímetro de Iara no amarelo e passa o limite do ano.
 - **Álvaro escreveu a norma "robótica prevalece"** há vinte anos, depois da morte do primeiro
   técnico, **Ivo**, quando o cabo parou vinte vezes no primeiro mês por medições manuais
   erradas. **Otávio votou contra, sozinho:** "um dia um técnico ia ver uma coisa que o robô não
   via". Álvaro escreveu também a regra dos códigos. "As duas coisas que o levaram para lá sem
-  ninguém ver. Com boa intenção."
+  ninguém ver. Com boa intenção." E o "nada que esteja na escala" de *O Posto*: **ele sabia que
+  alguma coisa subia de noite fora da escala, e não perguntou** ("eu inclusive").
 - **Memórias de 2089 no Posto provisório:** beliches de lona e enlatado frio; Otávio tocava
   gaita de boca muito mal; Álvaro quebrou dois dedos numa trava de treino. Quando a ponta da
   fita encostou no anel da âncora, os dois se abraçaram e choraram, e ninguém soube. A mulher
@@ -606,7 +716,9 @@ isso comigo." "...daqui a Terra está... a mão aberta... é, mas olha." **"Olha
 ### Terra (*Terra*)
 
 - **A troca do trecho:** 40 m de fita nova, em quatro a cinco meses, com uma equipe de oito,
-  Álvaro no Posto e Iara no controle. As cabines de manutenção sobem uma por vez. Depois, dois
+  Álvaro no Posto e Iara no controle, no chão: **a carta do serviço médico** (no segundo dia,
+  com o mesmo timbre da de Otávio) diz que o limite do ano dela está batido e que ela não sobe
+  antes de fazer um ano da trava. É o custo que fica com ela. As cabines de manutenção sobem uma por vez. Depois, dois
   escaladores por dia, na escala e sem extras.
 - **O custo, dito por Hugo na roda:** cinco meses parados, cerca de **2% a menos de nuvem** e
   **~0,04 °C** a mais num ano, e mais semanas paradas no Equador. "Vai morrer gente... E eu sei o
@@ -621,10 +733,13 @@ isso comigo." "...daqui a Terra está... a mão aberta... é, mas olha." **"Olha
   "robótica prevalece" foi revogada**, e agora toda medição manual divergente vai para uma pessoa.
 - **Iara aceita o posto de chefe de técnica** com duas condições: toda medição manual
   divergente chega a ela, "principalmente as erradas"; e **Bia volta, para a técnica**. Bia tinha
-  sido demitida no dia em que contou à Inês. O homem que pagava por fora sumiu no continente.
+  sido demitida no dia em que contou à Inês. O homem que pagava por fora sumiu no continente
+  (já dito em *A dose*: a conta fechou em 05-12, ninguém no endereço). O resfriador de dona
+  Rute foi pago até o fim com o dinheiro dos extras, que ninguém veio pedir de volta.
 - **O enterro na Âncora é no mar:** da borda do casco mais de fora, envolto em pano branco,
   preso a uma corda que desce até a água, e alguém solta a corda quando o pano encosta no mar.
-  **Iara amarra a corda cinza na cintura dele com o lais de guia e a volta a mais**: "foi a
+  **Iara amarra a corda cinza (os quatro metros das duas voltas) na cintura dele com o lais de guia e a volta a mais**: "foi a
   Iara, e é aqui". Álvaro e Iara descem a corda juntos, com setenta quilos a cem por cento.
 - **O fim:** no anel da âncora, Iara sente uma cabine de manutenção subindo para a troca. **"O
-  cabo canta de novo."** "O que eu sei é o que ele quis que eu soubesse."
+  cabo canta de novo."** "O que eu sei é o que ele quis que eu soubesse." (A frase é só de
+  *Terra*; *Ele se prendeu* termina na caneta.)

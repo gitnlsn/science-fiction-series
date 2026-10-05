@@ -17,12 +17,10 @@ cast:
 - iara
 - bia
 source: a-volta-a-mais/chapters/11-o-relatorio.md
-source_sha: bc2459dd878b
+source_sha: d4c32f198742
 status: draft
 ---
-
-At ten thousand kilometers, I weigh nine point three kilos and Bia talks to me over the
-telemetry channel.
+Past ten thousand kilometers, Bia talks to me over the telemetry channel.
 
 It isn't a channel for talking. It's the data line the climber uses to tell the Anchor
 what's happening to it: ring temperature, bearing pressure, load,
@@ -65,15 +63,15 @@ Another wait. Longer.
 
 ---
 
-I keep looking at the word at the end of the line of numbers, until the line moves
-up and disappears.
+The word stays at the end of the line of numbers until the line moves up and
+disappears.
 
 *Nobody* isn't an answer. Every report goes to someone. It goes to the chief
 technician, which was Otávio, and he wasn't going to send it to himself; so it goes up, to the
 head of operations. To Álvaro. A condition report on a stretch of the cable
 goes to Álvaro, and Álvaro reads it, and decides.
 
-And Álvaro said, at the Post, at the kitchen window: *I don't know what he saw*.
+And Álvaro wrote, from up there: *I don't know what he saw*.
 
 I feel something cold rise through my belly, under the notebook. Something I don't
 want to feel and feel. The big hand over the visor white with ice. The shoulders
@@ -106,14 +104,18 @@ as instrument error or noise.*
 
 *17 — 23:03 — archived without forwarding. Reason: no confirmed anomaly.*
 
-One minute. Otávio's report, with six measurements in four years and a sum in
-pencil redone in the small hours and two numbers in a ruled box, lived for one
+One minute. Otávio's report, with five measurements in four years and a sum in
+pencil redone in the small hours and two numbers in a box, lived for one
 minute inside the Operator. It went in at eleven oh-two. It went out at eleven oh-three. Nobody
 opened it.
 
 *It never got to Álvaro*, Bia writes. *It never got to anybody. Triage compared it
 with the robot, the robot said it was fine, and triage archived it. It's like that with everything.
-There must be a thousand reports in there archived the same way. Álvaro never saw it.*
+The C's flagged "object at edge" on that stretch nineteen times, from the sixth to the
+twelfth of the third month. Archived too: adhered debris, below threshold. Álvaro
+never saw it.*
+
+Nineteen times a wheel ring went past him, and a filter called him debris.
 
 ---
 
@@ -126,14 +128,14 @@ fine robots, the ones Álvaro sent, measured eight tenths, same as me.
 
 The routine robot measured five times less.
 
-And I understand, in the niche, at nine kilos, with my hand cold on the notebook, before
+And I understand, in the niche, at nine point four kilos, with my hand cold on the notebook, before
 Bia explains it to me, because it's the kind of thing you learn in your first year and
 forget in your second.
 
 The routine robots don't read point by point. They read two meters at a time. They go along the
-ribbon and average each two-meter stretch, because if they kept every point
-the whole ribbon wouldn't fit anywhere, a hundred thousand kilometers of points. Two
-meters of ribbon, one number. The average.
+ribbon and average each two-meter stretch, because every point of a hundred
+thousand kilometers of ribbon, sent down through the belt, won't fit in anyone's
+bandwidth. Two meters of ribbon, one number. The average.
 
 And in a two-meter average, forty centimeters at eight tenths turn into nothing. They turn into
 a sixth of a percent. Noise. They vanish into the rest of the stretch, which is fine.
@@ -192,10 +194,6 @@ wait and five old people died in the still week. A man who pays on the side. My
 friend, who loads on the side so her mother won't die like Mrs. Celeste. A boss who
 never saw the report. A director who denied a reduction in front of everyone,
 because he was right about the heat.
-
-Nobody did anything wrong. Or everybody did a little, within tolerance.
-
-Like the ribbon.
 
 *We write things down*, Otávio used to say, *so that, when it goes wrong, nobody can
 say they didn't know.*

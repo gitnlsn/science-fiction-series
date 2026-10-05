@@ -3,7 +3,7 @@ title: A trava
 part: IV — A ESTAÇÃO
 pov: Iara
 when: 2110-05-18 — tarde (saída da Estação às ~10h de 05-16; chegada ao Posto às
-  ~14h37 de domingo)
+  14h39 de domingo)
 where: o cabo e o Posto, a 20.000 km (4% de g)
 premise: Álvaro e Iara descem juntos da Estação até o trecho; no lugar exato onde
   Otávio morreu, Iara desfaz as duas voltas de corda que ficaram na fita; Álvaro
@@ -22,11 +22,12 @@ cast:
 - lais
 status: draft
 ---
-A Laís libera uma cabine só, a nossa, com a mão, na parada.
+No cabo inteiro, só uma cabine se mexe: a nossa.
 
-É o que a parada de emergência deixa fazer: para tudo, e depois a comandante da Estação solta, um por um, o que precisa andar. Ela solta a cabine de manutenção M-1
+É o que a parada de emergência deixa fazer: para tudo, e depois a comandante da Estação
+solta, à mão, um por um, o que precisa andar. A Laís solta a cabine de manutenção M-1
 às dez e dois da manhã de sexta, e a cabine desce, sozinha, pela fita parada, com o
-Álvaro e eu dentro, e em todo o resto do cabo, cem mil quilômetros, nada se mexe.
+Álvaro e eu dentro.
 
 Cinquenta e duas horas e trinta e sete minutos.
 
@@ -37,13 +38,12 @@ O painel diz *0,0 kg*. Depois, muito devagar, *0,1*.
 No primeiro dia, a gente não fala.
 
 O Álvaro fica no banco da frente, com as mãos grandes no colo, olhando a fita sair de
-cima da cabine e subir, e a Terra crescer na janela de baixo, tão devagar que só dá para
-ver se a gente parar de olhar. Eu fico no banco de trás com o caderno aberto e a tela
+cima da cabine e subir, e a Terra crescer na janela de baixo, um pouco a cada hora. Eu fico no banco de trás com o caderno aberto e a tela
 das leituras dos robôs finos presa na parede com um elástico.
 
 A cada hora, um número. *−1,7%. −1,8%. −2,0%.* Eu anoto na margem da página vinte e
 quatro, embaixo da minha conta, embaixo da dele. A curva continua a parede. Mas a
-parede sobe um pouco mais devagar do que subia na Estação. Com o cabo parado, nada passa
+parede sobe menos depressa do que subia na Estação. Com o cabo parado, nada passa
 pelo trecho, nada puxa de lado, nada canta o atraso. A fita está esticada entre a Terra e
 o contrapeso, e só isso, e só isso já é o que ela mal aguenta.
 
@@ -68,21 +68,23 @@ Eu não digo nada.
 
 — O Otávio votou contra — diz o Álvaro. — Foi o único. Disse que um dia um técnico ia
 ver uma coisa que o robô não via, e que a norma ia calar o técnico. Eu disse que ele
-estava sendo romântico. — Ele quase ri. — Ele disse: *é, mas olha*.
+estava sendo romântico. — Ele balança a cabeça, para a janela. — Ele disse: *é, mas olha*.
 
 — Álvaro.
 
-— Eu sei. Eu sei que não é culpa minha. Ele disse no arquivo. *Não é culpa de ninguém.* —
+— Já sei o que você vai dizer. Ele disse no arquivo. *Não é culpa de ninguém.* —
 O Álvaro vira o rosto para mim, finalmente. — Mas eu escrevi, menina. A norma. E a regra
 dos códigos. As duas coisas que o levaram para lá sem ninguém ver. Com boa intenção. As
-duas.
+duas. — Ele para. — E na cozinha do Posto eu disse à Inês *nada que esteja na escala*.
+Eu sabia que alguma coisa subia de noite fora da escala. Ouvia no canto. Não perguntei o
+quê. Não perguntei de quem.
 
 *Todo mundo um pouquinho. Eu inclusive.*
 
 — Ele sabia que você tinha escrito — digo. — E subiu mesmo assim. E disse que não era de
 ninguém.
 
-O Álvaro olha para mim muito tempo. Depois vira de novo para a janela.
+O Álvaro não responde por muito tempo. Depois vira de novo para a janela.
 
 — Ele sempre se botava na conta primeiro — diz. — Para ninguém ficar sozinho.
 
@@ -100,7 +102,7 @@ mulher do Álvaro, que foi embora para o continente porque não aguentava o calo
 Otávio, que nunca casou, *porque já era casado com a fita, dizia ele, e a fita não
 reclama*.
 
-A Terra cresce na janela. A mão aberta com o braço esticado. O painel diz *1,2 kg*.
+A Terra cresce na janela. O painel diz *1,2 kg*.
 
 Às quatro da tarde, uma leitura: *−2,4%*.
 
@@ -123,11 +125,12 @@ Até a chave estalar em todos.
 
 O Álvaro abre a boca. Fecha.
 
-— É isso — diz. — Era isso. — E depois, mais baixo: — Ele te ensinou para isso.
+— É isso — diz. — Era isso. Lá fora, você chama e eu aperto. — E depois, mais baixo: —
+Ele te ensinou para isso.
 
 — Ele me ensinou porque alguém além dele tinha de saber.
 
-— É a mesma coisa, menina.
+— É a mesma coisa.
 
 ---
 
@@ -152,11 +155,13 @@ pela câmara fria, que está fechada e vazia, e pelo beliche de baixo, à esquer
 cortina fechada, e não paro também.
 
 A trava está no fundo da câmara de equipamentos, embaixo da lona. Do jeito que estava
-no meu segundo ano. Com poeira em cima, que aqui não cai: fica, uma camada fina, e quando
+no meu segundo ano, e na semana do corpo, quando eu estiquei a lona por cima sem levantar. Com poeira em cima, que aqui não cai: fica, uma camada fina, e quando
 o Álvaro puxa a lona ela sai flutuando em nuvem.
 
-É pesada. No chão, seria impossível de carregar. Aqui, a quatro por cento, pesa o que pesa
-uma mochila. O Álvaro põe nas costas.
+Fechada, é do tamanho de uma mala. No chão, seria impossível de carregar. Aqui, a quatro
+por cento, pesa como uma mochila, mas não para como uma. O Álvaro põe nas costas e se vira
+para a porta, e a trava continua virando depois que ele parou e leva ele de ombro contra a
+parede. Ele firma as botas e espera ela assentar.
 
 ---
 
@@ -167,8 +172,8 @@ cabine e uma na outra.
 
 Cento e oitenta metros para baixo. Mão depois de mão, pela fita, sem peso. O Sol duro, de
 lado. A fita brilhando fosca de um lado e preta do outro. O dosímetro no meu peito
-contando mais depressa, verde. O do Álvaro também, e o dele já tem mais anos de camadas
-que o meu, e nós dois sabemos, e nenhum dos dois diz.
+contando mais depressa, verde. O do Álvaro também, e ele já carrega mais anos de dose
+que eu, e nós dois sabemos, e nenhum dos dois diz.
 
 A cento e setenta metros eu sinto na luva. A fita não está mais só áspera na borda. Está
 diferente. Uma coisa que eu não sei dizer, como o Otávio não sabia dizer no meu oitavo mês.
@@ -183,7 +188,12 @@ porque não tem escalador nenhum. É ela. Cantando sozinha.
 
 Cento e oitenta metros. Paro.
 
-As duas voltas estão ali. Achatadas por dois meses de rodas, cinzas, com a ponta que eu
+Na borda, fora do trilho das rodas, já tem um robô fino, do tamanho de um gato, agarrado
+à faixa de vinte centímetros que as rodas não pegam. Estala quando a gente chega, um
+tique-tique de relógio, e anda meio palmo. Eu ponho a luva em cima dele ao passar. Está
+morno.
+
+As duas voltas estão ali. Achatadas por dois meses de rodas, cinza, com as pontas que eu
 cortei no dia doze. Abraçando a fita, logo acima dos quarenta centímetros cansados.
 
 A trava precisa de dois metros de fita limpa. As voltas estão no meio.
@@ -194,24 +204,26 @@ Eu sei.
 
 ---
 
-*Quem quiser desfazer*, eu pensei, no dia doze, cortando a corda longe do nó, *vai ter de vir
+*Quem quiser desfazer*, eu pensei, no dia doze, cortando a corda dos dois lados, rente à fita, *vai ter de vir
 até aqui e desfazer.*
 
 Eu vim.
 
 Não tem nó nas voltas: o nó foi com ele, no anel da cintura, para a câmara fria, para o
 saco cinza, para o Poço, para a agência. Aqui ficaram só as duas voltas, apertadas,
-achatadas, sem começo nem fim a não ser a ponta cortada. Eu pego a ponta com a luva. Puxo.
+achatadas, sem começo nem fim a não ser as pontas cortadas. Eu pego uma ponta com a luva.
+Puxo.
 Não sai. Ele sabia apertar.
 
-Eu desenrolo. Devagar. Por baixo da fita, por cima, por baixo, por cima. A corda sai da fita
+Eu desenrolo. Por baixo da fita, por cima, por baixo, por cima. A corda sai da fita
 com um arrastado que eu sinto e não ouço, deixando na face escura duas marcas claras, mais
 lisas, onde ela esteve dois meses. A primeira volta. A segunda.
 
-Fica na minha mão. Meio metro de corda cinza, achatada, com as duas pontas cortadas por mim no dia doze, e
-ainda com a forma das duas voltas que ele deu, apertadas, como quem sabia apertar.
+Fica na minha mão. Uns quatro metros de corda cinza, achatada, com as duas pontas
+cortadas por mim no dia doze, e ainda com a forma das duas voltas que ele deu, apertadas,
+como quem sabia apertar.
 
-Enrolo no pulso, por cima do traje, duas voltas. Não fecho. Não dou nó.
+Enrolo em laçadas, como ele enrolava, e prendo no cinto do traje. Não fecho. Não dou nó.
 
 — Pronto — digo.
 
@@ -221,21 +233,27 @@ Enrolo no pulso, por cima do traje, duas voltas. Não fecho. Não dou nó.
 
 A trava abre como um livro de metal.
 
-O Álvaro segura as duas metades em volta da fita, uma de cada lado, e eu fecho o trinco. O
-trinco estala. Eu sinto o estalo na luva. Os dois metros de colar abraçam a fita por cima e
-por baixo dos quarenta centímetros cansados, e das duas marcas claras onde estava a corda.
+O Álvaro traz as duas metades para a fita, e elas vêm, e não param onde ele quer:
+duzentos quilos que aqui pesam oito e chegam com a força de duzentos. Ele prende a fita
+entre os joelhos, segura, e deixa a trava encostar sem bater. Fecha o trinco com o
+polegar. O trinco estala. Eu sinto o estalo na luva. Os dois metros de colar abraçam a
+fita por cima e por baixo dos quarenta centímetros cansados, e das duas marcas claras onde estava a corda.
 
-— Tensores — diz o Álvaro.
+— Chama — diz o Álvaro.
 
-Eu tiro a chave de torque da coxa. A de um quilo. Aqui, pesa quarenta gramas.
+Eu tiro a chave de torque da coxa. A de um quilo. Aqui, pesa quarenta gramas. Passo para
+ele.
 
-Cruzado. Como roda de carro. O de cima da esquerda, um quarto de volta. O de baixo da
-direita, um quarto. O de cima da direita. O de baixo da esquerda. E os quatro do meio, na
-mesma ordem. E de novo. E de novo. O Álvaro segura a trava firme contra a fita com as duas
-mãos grandes, sem tremer, e eu aperto, e a fita, lá dentro, embaixo do colar, canta mais
-alto, e eu não sei se é bom ou ruim.
+— Cima, esquerda. Um quarto. — Ele dá. — Baixo, direita. Um quarto. Cima, direita. Baixo,
+esquerda.
 
-A leitura chega no meu pulso no meio da terceira rodada. *−3,1%.*
+Cruzado. Como roda de carro. E os quatro do meio, na mesma ordem. E de novo. E de novo. Eu
+chamo e ele aperta, com o joelho travado na borda do colar para a chave não girar ele em
+vez do tensor, e a fita, lá dentro, embaixo do colar, canta mais alto, e eu não sei se é
+bom ou ruim.
+
+A leitura chega do robô, ali do lado, no visor do capacete, no meio da terceira rodada.
+*−3,1%.*
 
 — Continua — diz o Álvaro.
 
@@ -243,7 +261,7 @@ Quarta rodada. Quinta. O meu dosímetro fica amarelo. Eu não digo. O do Álvaro
 amarelo há vinte minutos, e ele não diz.
 
 Sexta rodada. A chave estala no primeiro tensor. No segundo. No terceiro. No quarto,
-não: falta um quarto de volta. Eu dou. Estala.
+não: falta um quarto de volta. Ele dá. Estala.
 
 Sétima. Oitava. Estala. Estala. Estala. Estala.
 
@@ -267,7 +285,7 @@ O Álvaro solta o ar num som que eu ouço no canal e que não é bem uma palavra
 — Segura — diz ele. — Ela segura.
 
 Eu não digo nada. Fico com a mão aberta em cima da trava, sentindo a fita respirar mais
-devagar por baixo, e a corda cinza enrolada no pulso, e o dosímetro amarelo no peito, e o
+devagar por baixo, e a corda cinza no cinto, e o dosímetro amarelo no peito, e o
 Sol duro de lado, e a Terra lá embaixo do tamanho de uma mão aberta com o braço esticado.
 
 *Tensão, não peso.*
@@ -276,11 +294,11 @@ Sol duro de lado, e a Terra lá embaixo do tamanho de uma mão aberta com o bra�
 
 — Você está no amarelo há meia hora.
 
-— Eu sei. — Ele já está com a chave na mão, a minha, que eu nem vi ele pegar. — Trinta e um
-anos de camada no dele. Vinte e nove no meu. Um minuto não muda nada. — Ele confere o
+— Estou. — Ele ainda está com a chave na mão, a minha. — O dele tinha trinta e um anos
+de camada. O meu tem vinte e nove de dose. Um minuto não muda nada. — Ele confere o
 primeiro. Estala. — Volta para dentro, menina. Eu subo atrás de você.
 
-Eu fico. Ele confere os oito, um por um, com a chave de quarenta gramas, devagar, e todos
+Eu fico. Ele confere os oito, um por um, com a chave de quarenta gramas, e todos
 estalam, e só então a gente sobe, mão depois de mão, as duas linhas de vida presas uma na
 outra, cento e oitenta metros, sem peso.
 
@@ -294,16 +312,16 @@ olhando para baixo, onde não dá para ver nada além da fita escura sumindo.
 
 Cento e oitenta metros abaixo, ela passa pela trava.
 
-Eu sinto no chão do Posto. Todo mundo sente, os que ficaram: um tranco. Pequeno. Meio
-segundo. O anel de rodas da P-7 encontrando, no meio da fita lisa, os dois metros de colar
-de metal, e subindo por cima dele, e descendo do outro lado.
+Eu sinto no chão do Posto. Todo mundo sente, os que ficaram: um solavanco. Pequeno. Meio
+segundo. O anel de rodas da P-7 subindo a rampa da trava, que foi feita para rodas,
+rodando por cima dos dois metros de colar, e descendo pela rampa do outro lado.
 
 E continuando. Para baixo. Para o mar.
 
-O Álvaro põe a mão grande no meu ombro. Não diz nada. Eu desenrolo a corda cinza do pulso e
-fico olhando para ela na palma da luva, meio metro, achatada, com as duas pontas cortadas por mim e
-a forma das voltas dele.
+O Álvaro põe a mão grande no meu ombro. Não diz nada. Eu solto a corda cinza do cinto e
+fico olhando para ela na palma da luva, enrolada, achatada, com as duas pontas cortadas
+por mim e a forma das voltas dele.
 
-Depois enrolo de novo. Duas voltas. Sem nó.
+Depois prendo de novo. Sem nó.
 
 Ainda não.

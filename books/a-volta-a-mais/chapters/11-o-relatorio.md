@@ -18,8 +18,7 @@ cast:
 - bia
 status: draft
 ---
-A dez mil quilômetros, eu peso nove quilos e trezentos e a Bia fala comigo pelo
-canal de telemetria.
+Passando os dez mil quilômetros, a Bia fala comigo pelo canal de telemetria.
 
 Não é um canal de falar. É o fio de dados por onde o escalador conta à Âncora o
 que está acontecendo com ele: temperatura do anel, pressão dos rolamentos, carga,
@@ -62,15 +61,14 @@ Outra demora. Mais longa.
 
 ---
 
-Eu fico olhando a palavra no fim da linha de números, até a linha passar para
-cima e sumir.
+A palavra fica no fim da linha de números até a linha passar para cima e sumir.
 
 *Ninguém* não é resposta. Todo relatório vai para alguém. Vai para a chefia de
 técnica, que era do Otávio, e ele não ia mandar para si mesmo; então sobe, para a
 chefia de operações. Para o Álvaro. O relatório de condição de um trecho do cabo
 vai para o Álvaro, e o Álvaro lê, e decide.
 
-E o Álvaro disse, no Posto, na janela da cozinha: *eu não sei o que ele viu*.
+E o Álvaro escreveu, lá de cima: *eu não sei o que ele viu*.
 
 Sinto uma coisa fria subir pela barriga, embaixo do caderno. Uma coisa que eu não
 quero sentir e sinto. A mão grande em cima da viseira branca de gelo. Os ombros
@@ -103,14 +101,19 @@ como erro de instrumento ou ruído.*
 
 *17 — 23h03 — arquivado sem encaminhamento. Motivo: sem anomalia confirmada.*
 
-Um minuto. O relatório do Otávio, com seis medições em quatro anos e uma conta a
-lápis refeita de madrugada e dois números num quadrado feito à régua, viveu um
+Um minuto. O relatório do Otávio, com cinco medições em quatro anos e uma conta a
+lápis refeita de madrugada e dois números num quadrado, viveu um
 minuto dentro da Operadora. Entrou às onze e dois. Saiu às onze e três. Ninguém
 abriu.
 
 *Não chegou no Álvaro*, escreve a Bia. *Não chegou em ninguém. A triagem comparou
 com o robô, o robô disse que estava bom, e a triagem arquivou. É assim com tudo.
-Deve ter mil relatórios lá dentro arquivados do mesmo jeito. O Álvaro nunca viu.*
+Os cês acusaram "objeto na borda" naquele trecho dezenove vezes, do dia seis ao dia
+doze do mês três. Arquivado também: detrito aderido, abaixo do limiar. O Álvaro nunca
+viu.*
+
+Dezenove vezes um anel de rodas passou do lado dele, e um filtro chamou ele de
+detrito.
 
 ---
 
@@ -123,14 +126,14 @@ robôs finos, que o Álvaro mandou, mediram oito décimos, igual a mim.
 
 O robô de rotina mediu cinco vezes menos.
 
-E eu entendo, no nicho, a nove quilos, com a mão fria em cima do caderno, antes de a
+E eu entendo, no nicho, a nove quilos e quatrocentos, com a mão fria em cima do caderno, antes de a
 Bia me explicar, porque é o tipo de coisa que a gente aprende no primeiro ano e
 esquece no segundo.
 
 Os robôs de rotina não leem ponto a ponto. Leem de dois em dois metros. Passam pela
-fita e fazem a média de cada trecho de dois metros, porque se guardassem cada ponto
-a fita inteira não caberia em lugar nenhum, cem mil quilômetros de pontos. Dois
-metros de fita, um número. A média.
+fita e fazem a média de cada trecho de dois metros, porque cada ponto de cem mil
+quilômetros de fita, mandado para baixo pelo cinturão, não cabe na banda de
+ninguém. Dois metros de fita, um número. A média.
 
 E numa média de dois metros, quarenta centímetros a oito décimos viram nada. Viram
 um sexto de por cento. Ruído. Somem dentro do resto do trecho, que está bom.
@@ -165,7 +168,7 @@ ponta.*
 
 *Terça.* Dia quatro. Seis e quarenta da manhã.
 
-Cinco horas e meia depois da cabine M-3, com o meu código, às uma e doze.
+Cinco horas e meia depois da cabine M-3, com o meu código, à uma e doze.
 
 Na mesma fita. Na mesma direção. Atrás. Com distância, para não dar problema.
 
@@ -189,10 +192,6 @@ espera e cinco velhos morreram na semana parada. Um homem que paga por fora. A m
 amiga, que carrega por fora para a mãe não morrer como a dona Celeste. Um chefe que
 nunca viu o relatório. Um diretor que negou uma redução na frente de todo mundo,
 porque tinha razão sobre o calor.
-
-Ninguém fez nada de errado. Ou todo mundo fez um pouquinho, dentro da tolerância.
-
-Como a fita.
 
 *A gente escreve*, o Otávio dizia, *para que, quando der errado, ninguém possa
 dizer que não sabia.*

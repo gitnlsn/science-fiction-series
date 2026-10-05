@@ -19,12 +19,12 @@ cast:
 - rute
 status: draft
 ---
-A Bia mora no casco onze, na borda de fora, com a mãe.
+Faz dezoito dias que eu deixo a Bia virar de costas. Hoje, não.
 
-Eu sei o caminho de cor e faço de noite, pelo convés dois, com a chuva da tarde
-ainda pingando das calhas. É domingo. A Bia não trabalha domingo. Faz dezoito dias
-que ela não responde às minhas mensagens, que ela vira de costas na esteira três,
-que ela some quando eu entro num corredor. Faz dezoito dias que eu deixo. Hoje, não.
+Ela mora no casco onze, na borda de fora, com a mãe. Eu sei o caminho de cor e faço
+de noite, pelo convés dois, com a chuva da tarde ainda pingando das calhas. É
+domingo, e a Bia não trabalha domingo: não tem esteira três para ela me dar as
+costas, nem corredor para sumir quando eu entro.
 
 A porta do casco onze é de metal pintado de azul, descascado nas bordas. Eu bato.
 
@@ -77,19 +77,17 @@ folha. Para carregar os extras.
 
 — Os escaladores que não estão na escala. — Ela ergue os olhos, finalmente. — O
 programa está atrasado, Iara. Mais atrasado do que eles dizem. O Hugo tem uma meta,
-dois por cento, e uma data, e não vai chegar na data com três escaladores por dia.
+um vírgula oito por cento, e uma data, e não vai chegar na data com três escaladores por dia.
 Então eles mandam um quarto. De madrugada, às vezes. Fora da escala. Na mesma
 direção dos outros, atrás, com distância, para não dar problema. E não registram.
 E alguém tem de carregar, fora do turno, sem aparecer no registro de ninguém. — Ela
 aponta para o próprio peito. — Eu.
 
-Eu fico olhando para ela.
-
 *Nada que esteja na escala*, disse o Álvaro, na cozinha do Posto. E hesitou.
 
 — O Álvaro sabe? — pergunto.
 
-— Não sei. Acho que desconfia. Todo mundo do convés desconfia. Ninguém pergunta.
+— Desconfia, acho. Todo mundo do convés desconfia. Ninguém pergunta.
 — Ela aperta as mãos. — Na semana em que o Otávio subiu, eu trabalhei por fora
 três noites. Segunda, terça e quinta. Na quinta, até as quatro da manhã.
 
@@ -102,12 +100,12 @@ um fio de chorar. — A agência ia perguntar onde todo mundo estava. Eu não ti
 onde estar. Eu estava carregando um escalador que não existe, para um homem que não
 existe, por dinheiro que não existe. Se eu contasse, eu perdia o emprego. E a
 minha mãe perdia o resfriador, porque eu ainda estou pagando. — Ela para. —
-E se eu não contasse, eu era a pessoa que estava acordada e no Poço na noite em que
-ele morreu, sem explicar por quê.
+E se eu não contasse, eu era a pessoa que estava no convés, colada no Poço, à uma e
+doze de terça, quando a cabine saiu com o seu código. Sem explicar por quê.
 
 — Você achou que eu ia desconfiar de você?
 
-— Achei que você ia me perguntar. — Ela me olha. — E que eu ia ter de mentir para
+— Achei que você ia me perguntar. E que eu ia ter de mentir para
 você. E eu não queria mentir para você, Iara. Então eu virei de costas.
 
 ---
@@ -141,6 +139,8 @@ Onze e quarenta. Vinte e seis minutos depois de ligar para mim.
 ele era quando estava calmo demais.
 
 Eu sei. Quando ele estava calmo demais era porque já tinha decidido alguma coisa.
+A mesa arrumada demais, sem o caderno: não foi ninguém. Foi ele, calmo, antes de
+vir até aqui.
 
 — Ele me deu isso e disse: *se eu não voltar até segunda, dá para a Iara. Só para a
 Iara. Mais ninguém.* Eu perguntei voltar de onde. Ele disse que ia ver uma coisa
@@ -179,9 +179,8 @@ segundos de vento e o meu nome, e foi até a Bia, e deu a ela o caderno, e disse
 
 Ele não me acordou porque eu estava cansada.
 
-Ele subiu com o meu código, sem pedir, no escalador de um homem que não é da Operadora,
-que pagava a minha amiga por fora, numa semana em que ninguém sabe quem mais estava no cabo, e
-morreu lá em cima, e antes de morrer se amarrou com uma volta a mais para eu achar.
+Ele subiu com o meu código numa semana em que o escalador de um homem que não é da
+Operadora, que pagava a minha amiga por fora, subia atrás dele, e morreu lá em cima, e antes de morrer se amarrou com uma volta a mais para eu achar.
 E, na última noite em que eu podia ter falado com ele, ele escolheu me deixar
 dormir.
 
@@ -204,7 +203,7 @@ achou ele.
 — E aí eu tive medo. Porque se eu te desse, eu tinha de dizer que eu estava
 acordada na segunda às onze e quarenta, saindo para um turno que não existe. E
 na quinta, até as quatro. — Ela empurra o pacote um pouco mais para perto de mim.
-— Eu sou covarde, Iara. Eu sei que sou. Mas eu guardei. Não abri. Não li. Está do
+— Eu sou covarde, Iara. Sempre fui. Mas eu guardei. Não abri. Não li. Está do
 jeito que ele me deu.
 
 Olho a fita cinza. Está intacta. Colada torta, do jeito que ele colava.
@@ -236,7 +235,7 @@ Poço de noite. Se você quiser ir ver o que ele viu...
 
 — Eu não disse que quero.
 
-— Você não precisa dizer. — A Bia quase sorri, pela primeira vez em dezoito dias.
+— Você não precisa dizer. — A Bia sorri, torto, pela primeira vez em dezoito dias.
 — Eu carrego escaladores que não existem. Eu sei como pôr uma coisa dentro de um
 sem ninguém ver.
 
@@ -264,3 +263,22 @@ ver.*
 
 Embaixo, a volta a mais. Não o nó: o desenho do nó, a lápis, pequeno, com a volta
 por dentro da alça. Como uma assinatura.
+
+---
+
+Fecho o caderno. Abro de novo na primeira página, para ler as medições, e a data
+está ali, e o trecho, e a hora, na letra dele, e eu não passo da terceira linha.
+
+Tento na segunda à noite, e na terça. Não passo da primeira página. Não são os
+números. É a letra.
+
+Penso em levar o caderno à Inês. Uma técnica que o jurídico suspendeu, com um
+caderno que ela não leu: para a Inês, isso é o que eu acho. Não é o que eu
+sei.
+
+E a voz dele está no meu pulso. Quarenta e um segundos que não abrem, e o único
+lugar que conserta o que chega quebrado é o laboratório de comunicação da Estação.
+Ler, eu não consigo. Ouvir, talvez.
+
+Na quarta, escrevo para a Bia. *Aquilo de pôr uma coisa dentro de um escalador. Eu
+quero.*

@@ -55,11 +55,17 @@ checagem dos painéis, que não precisava. Faço a da reserva de ar, que não
 precisava. Troco um filtro da oficina que ainda tinha três meses de vida.
 Ponho em ordem as ferramentas nos elásticos da câmara de equipamentos por
 tamanho, e depois desfaço e ponho por uso, que é como ele deixava, e que é mais
-certo.
+certo. No fundo da câmara, uma lona cobre uma coisa do tamanho de uma mala. Vou
+endireitar a lona e ela não levanta: o que está embaixo pesa mais do que qualquer
+coisa ali tem o direito de pesar. O Otávio me mostrou uma vez o que era, no meu
+segundo ano. Estico a lona por cima e deixo.
 
 Duas vezes por dia, abro a câmara fria. O ar branco sai, fica parado, desce. Ele
 está lá, de costas, com os braços arrumados. Eu não entro. Fico na porta. Digo
-bom dia, de manhã, e boa noite, à noite, e fecho.
+bom dia, de manhã, e boa noite, à noite, e fecho. Perto da meia-noite o Posto
+entra na sombra da Terra, e por uma hora e cinquenta a luz de dentro passa para a
+bateria, um tom mais amarela. Perto dos equinócios é toda noite. No resto do
+ano, nunca.
 
 O controle fala comigo de seis em seis horas, na voz cuidadosa de hospital. Eu
 respondo que estou bem. Uma vez, no segundo dia, é a Bia que fala, no canal de
@@ -129,7 +135,7 @@ Atrás dele, pela escotilha, sobe uma mulher que eu não conheço.
 
 Eu mostro. Ele vai sozinho. Não pede que eu vá junto, e eu não vou. Fico no
 corredor, e pela janela pequena da porta da câmara fria eu vejo ele entrar no
-ar branco, e se ajoelhar no chão, do lado do Otávio, devagar, com a mão na
+ar branco, e se ajoelhar no chão, do lado do Otávio, com a mão na
 parede. E ficar ali.
 
 Não ouço nada. A porta é grossa. Vejo o Álvaro pôr a mão aberta em cima da
@@ -167,11 +173,11 @@ desconfiança. É método.
 
 — Tudo bem.
 
-Ela pergunta tudo. A hora em que eu vi o objeto na fita. A distância. Se eu toquei
-no corpo antes de reportar. Se eu toquei no nó. Eu digo que cortei a corda longe
-do nó, e por quê, e ela anota alguma coisa no aparelho sem mudar de cara. Se eu
-tirei o dosímetro do peito dele. Eu digo que sim, e que li a curva, e mostro na
-tela da oficina.
+Ela pergunta tudo. A hora em que eu vi o objeto na fita. A distância. Se eu
+toquei no corpo antes de reportar. Se eu toquei no nó. Eu digo que cortei a
+corda dos dois lados, rente à fita, longe do nó, e por quê, e ela anota alguma
+coisa no aparelho sem mudar de cara. Se eu tirei o dosímetro do peito dele. Eu
+digo que sim, e que li a curva, e mostro na tela da oficina.
 
 Ela olha a curva por muito tempo.
 
@@ -213,8 +219,6 @@ anos.
 
 — E o nó? — pergunto.
 
-A Inês me olha.
-
 — Ele se prendeu com a corda de emergência para não cair. Não é o que se ensina?
 
 — É. Mas ele usou um nó que só ele dava. Com uma volta a mais.
@@ -239,7 +243,7 @@ O Álvaro levanta a cabeça.
 
 — Ninguém sobe sozinho, me disseram. É uma regra.
 
-— É uma regra. — O Álvaro quase sorri, e o sorriso sai torto. — *Lá em cima
+— É uma regra. — O Álvaro tenta sorrir, e o sorriso sai torto. — *Lá em cima
 ninguém cai sozinho.* Era ele que dizia. Todo novato ouviu isso do Otávio no
 primeiro dia. Ele dizia assim, desse jeito, *ninguém cai sozinho*, e todo mundo
 achava que era sobre companhia. — Ele para. — E ele subiu sozinho.
@@ -250,10 +254,12 @@ A Inês quer saber quem mais estava no cabo naquela semana. O Álvaro explica, c
 a paciência de quem explicou isso a muita gente que não era do cabo.
 
 — É uma fita só, doutora. Um metro de largura. Os escaladores andam presos nela.
-Dois escaladores não se cruzam: não tem por onde passar um pelo outro. Podem ir
-na mesma direção, um atrás do outro, com distância. Em sentido contrário, não.
-Quem sobe espera quem desce. Por isso existe a escala. É a coisa mais importante
-que a gente faz, a escala. Tudo o que sobe e desce está nela.
+Na mesma direção, vão um atrás do outro, com distância. Em sentido contrário,
+não tem por onde passar um pelo outro. Não se cruzam na fita. Só nos desvios: um
+colar a cada cinco mil quilômetros, os dois colares do Posto, a Estação. Quem
+desce espera no colar até o comboio que sobe passar. Por isso existe a escala. É
+a coisa mais importante que a gente faz, a escala. Tudo o que sobe e desce está
+nela.
 
 — E quem estava na escala?
 
@@ -322,9 +328,3 @@ mesmo inventou, numa semana em que devia estar num navio. — Ele esfrega os olh
 com as costas da mão, aquela mão de mecânico. — Eu acredito que ele fez uma
 coisa muito burra, menina. E eu não sei por quê. E isso eu não vou te perdoar
 nunca, Otávio.
-
-Diz o último pedaço para a janela. Para a fita. Para a mão aberta azul lá embaixo.
-
-Eu fico do lado dele, sem dizer nada, e não acredito que foi acidente, e não sei
-o que foi, e sei que tem um nó na cintura de um homem numa câmara fria a quatro
-metros daqui que ainda não me disse o que tinha para dizer.

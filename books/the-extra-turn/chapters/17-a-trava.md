@@ -3,7 +3,7 @@ title: The Clamp
 part: IV — THE STATION
 pov: Iara
 when: 2110-05-18 — tarde (saída da Estação às ~10h de 05-16; chegada ao Posto às
-  ~14h37 de domingo)
+  14h39 de domingo)
 where: o cabo e o Posto, a 20.000 km (4% de g)
 premise: Álvaro e Iara descem juntos da Estação até o trecho; no lugar exato onde
   Otávio morreu, Iara desfaz as duas voltas de corda que ficaram na fita; Álvaro
@@ -21,15 +21,15 @@ cast:
 - alvaro
 - lais
 source: a-volta-a-mais/chapters/17-a-trava.md
-source_sha: d3d2af1cce52
+source_sha: 4c4922e0938c
 status: draft
 ---
-Laís releases a single car, ours, by hand, from the stop.
+On the whole cable, only one car moves: ours.
 
 That's what the emergency stop allows: it stops everything, and then the Station
-commander releases, one by one, whatever needs to move. She releases maintenance car M-1
+commander releases, by hand, one by one, whatever needs to move. Laís releases maintenance car M-1
 at two minutes past ten on Friday morning, and the car goes down, alone, along the stopped ribbon, with
-Álvaro and me inside, and on all the rest of the cable, a hundred thousand kilometers, nothing moves.
+Álvaro and me inside.
 
 Fifty-two hours and thirty-seven minutes.
 
@@ -40,13 +40,12 @@ The panel says *0.0 kg*. Then, very slowly, *0.1*.
 On the first day, we don't talk.
 
 Álvaro stays in the front seat, his big hands in his lap, watching the ribbon come out from
-above the car and rise, and the Earth grow in the lower window, so slowly that you can only
-see it if you stop looking. I stay in the back seat with the notebook open and the screen
+above the car and rise, and the Earth grow in the lower window, a little every hour. I stay in the back seat with the notebook open and the screen
 with the fine robots' readings held to the wall with an elastic strap.
 
 Every hour, a number. *−1.7%. −1.8%. −2.0%.* I write them in the margin of page twenty-four,
 under my math, under his. The curve is still the wall. But the
-wall rises a little more slowly than it was rising at the Station. With the cable stopped, nothing goes
+wall rises less steeply than it was rising at the Station. With the cable stopped, nothing goes
 through the stretch, nothing pulls sideways, nothing sings the lag. The ribbon is stretched between the Earth and
 the counterweight, and that's all, and that alone is what it can barely take.
 
@@ -71,21 +70,23 @@ I don't say anything.
 
 "Otávio voted against it," Álvaro says. "He was the only one. He said one day a technician would
 see something the robot didn't see, and the rule would shut the technician up. I said he
-was being romantic." He almost laughs. "He said: *sure, but look*."
+was being romantic." He shakes his head, at the window. "He said: *sure, but look*."
 
 "Álvaro."
 
-"I know. I know it isn't my fault. He said so in the file. *Nobody's fault.*"
+"I know what you're going to say. He said so in the file. *Nobody's fault.*"
 Álvaro finally turns his face to me. "But I wrote it, kid. The rule. And the code
 rule. The two things that took him up there without anyone seeing. With good intentions. Both
-of them."
+of them." He stops. "And in the Post's kitchen I told Inês *nothing that's on the schedule*.
+I knew something went up at night off the schedule. I heard it in the singing. I didn't ask what.
+I didn't ask whose."
 
 *Everybody a little bit. Me included.*
 
 "He knew you'd written them," I say. "And he went up anyway. And he said it wasn't
 anybody's."
 
-Álvaro looks at me for a long time. Then he turns back to the window.
+Álvaro doesn't answer for a long time. Then he turns back to the window.
 
 "He always put himself on the bill first," he says. "So nobody would be alone."
 
@@ -103,7 +104,7 @@ below, hugged and cried and nobody ever knew, *don't you tell anyone that*. Abou
 Otávio, who never married, *because he was already married to the ribbon, he said, and the ribbon doesn't
 complain*.
 
-The Earth grows in the window. The open hand at arm's length. The panel says *1.2 kg*.
+The Earth grows in the window. The panel says *1.2 kg*.
 
 At four in the afternoon, a reading: *−2.4%*.
 
@@ -126,11 +127,11 @@ Until the wrench clicks on all of them."
 
 Álvaro opens his mouth. Closes it.
 
-"That's it," he says. "That was it." And then, lower: "He taught you for this."
+"That's it," he says. "That was it. Out there, you call it and I tighten." And then, lower: "He taught you for this."
 
 "He taught me because someone besides him had to know."
 
-"Same thing, kid."
+"Same thing."
 
 ---
 
@@ -155,11 +156,13 @@ past the cold room, which is closed and empty, and past the bottom bunk, on the 
 curtain closed, and I don't stop either.
 
 The clamp is at the back of the equipment bay, under the tarp. The way it was
-in my second year. With dust on top of it, which here doesn't fall: it stays, a thin layer, and when
+in my second year, and in the week of the body, when I pulled the tarp straight over it without lifting it. With dust on top of it, which here doesn't fall: it stays, a thin layer, and when
 Álvaro pulls off the tarp it floats away in a cloud.
 
-It's heavy. On the ground, it would be impossible to carry. Here, at four percent, it weighs what
-a backpack weighs. Álvaro puts it on his back.
+Folded, it's the size of a suitcase. On the ground, it would be impossible to carry. Here, at four
+percent, it weighs like a backpack, but it doesn't stop like one. Álvaro puts it on his back and
+turns toward the door, and the clamp keeps turning after he has stopped and carries him shoulder-first
+into the wall. He plants his boots and waits for it to settle.
 
 ---
 
@@ -170,8 +173,8 @@ ring and to each other.
 
 A hundred and eighty meters down. Hand over hand, down the ribbon, weightless. The hard Sun, from the
 side. The ribbon shining dully on one side and black on the other. The dosimeter on my
-chest counting faster, green. Álvaro's too, and his already has more years of layers
-than mine, and we both know it, and neither of us says it.
+chest counting faster, green. Álvaro's too, and he already carries more years of dose
+than I do, and we both know it, and neither of us says it.
 
 At a hundred and seventy meters I feel it in my glove. The ribbon isn't just rough at the edge anymore. It's
 different. Something I can't put into words, the way Otávio couldn't put it into words in my eighth month.
@@ -186,7 +189,11 @@ because there are no climbers. It's the ribbon. Singing on its own.
 
 A hundred and eighty meters. I stop.
 
-The two turns are there. Flattened by two months of wheels, gray, with the end I
+At the edge, outside the wheel track, there's already a fine robot, the size of a cat, gripping
+the twenty-centimeter band the wheels don't touch. It clicks when we arrive, a ticking like a
+clock, and moves half a hand. I put my glove on it as I pass. It's warm.
+
+The two turns are there. Flattened by two months of wheels, gray, with the ends I
 cut on the twelfth. Hugging the ribbon, just above the forty tired centimeters.
 
 The clamp needs two meters of clean ribbon. The turns are in the middle.
@@ -197,24 +204,24 @@ I know.
 
 ---
 
-*Whoever wants to undo it*, I thought, on the twelfth, cutting the rope away from the knot, *will have to come
+*Whoever wants to undo it*, I thought, on the twelfth, cutting the rope on both sides, close to the ribbon, *will have to come
 up here and undo it.*
 
 I came.
 
 There's no knot in the turns: the knot went with him, on the ring at his waist, to the cold room, to the
 gray bag, to the Well, to the agency. What stayed here were only the two turns, tight,
-flattened, with no beginning or end except the cut end. I take the end in my glove. I pull.
+flattened, with no beginning or end except the cut ends. I take one end in my glove. I pull.
 It doesn't come. He knew how to pull tight.
 
-I unwind it. Slowly. Under the ribbon, over, under, over. The rope comes off the ribbon
+I unwind it. Under the ribbon, over, under, over. The rope comes off the ribbon
 with a drag I feel and don't hear, leaving on the dark face two pale marks, smoother,
 where it has been for two months. The first turn. The second.
 
-It's in my hand. Half a meter of gray rope, flattened, with both ends cut by me on the twelfth, and
+It's in my hand. Some four meters of gray rope, flattened, with both ends cut by me on the twelfth, and
 still holding the shape of the two turns he made, tight, like someone who knew how to pull tight.
 
-I wind it around my wrist, over the suit, twice. I don't close it. I don't tie a knot.
+I coil it in loops, the way he used to, and clip it to my suit belt. I don't close it. I don't tie a knot.
 
 "Done," I say.
 
@@ -224,21 +231,26 @@ I wind it around my wrist, over the suit, twice. I don't close it. I don't tie a
 
 The clamp opens like a metal book.
 
-Álvaro holds the two halves around the ribbon, one on each side, and I close the latch. The
-latch clicks. I feel the click in my glove. The two meters of collar hug the ribbon above and
+Álvaro brings the two halves to the ribbon, and they come, and they don't stop where he wants:
+two hundred kilos that weigh eight here and arrive with the force of two hundred. He grips the
+ribbon between his knees, holds on, and lets the clamp settle against it without hitting. He closes
+the latch with his thumb. The latch clicks. I feel the click in my glove. The two meters of collar hug the ribbon above and
 below the forty tired centimeters, and the two pale marks where the rope was.
 
-"Tensioners," Álvaro says.
+"Call it," Álvaro says.
 
-I take the torque wrench off my thigh. The one-kilo one. Here, it weighs forty grams.
+I take the torque wrench off my thigh. The one-kilo one. Here, it weighs forty grams. I hand it
+to him.
 
-Crosswise. Like a car wheel. Top left, a quarter turn. Bottom
-right, a quarter. Top right. Bottom left. And the four in the middle, in the
-same order. And again. And again. Álvaro holds the clamp firm against the ribbon with his two
-big hands, without shaking, and I tighten, and the ribbon, inside there, under the collar, sings
+"Top, left. A quarter." He gives it. "Bottom, right. A quarter. Top, right. Bottom, left."
+
+Crosswise. Like a car wheel. And the four in the middle, in the same order. And again. And again. I
+call and he tightens, his knee locked against the edge of the collar so the wrench won't turn him
+instead of the tensioner, and the ribbon, inside there, under the collar, sings
 louder, and I don't know if that's good or bad.
 
-The reading comes in on my wrist in the middle of the third round. *−3.1%.*
+The reading comes in from the robot, right beside us, on my helmet visor, in the middle of the
+third round. *−3.1%.*
 
 "Keep going," Álvaro says.
 
@@ -246,7 +258,7 @@ Fourth round. Fifth. My dosimeter turns yellow. I don't say so. Álvaro's must h
 yellow for twenty minutes, and he doesn't say so.
 
 Sixth round. The wrench clicks on the first tensioner. On the second. On the third. On the fourth,
-no: a quarter turn to go. I give it. It clicks.
+no: a quarter turn to go. He gives it. It clicks.
 
 Seventh. Eighth. Click. Click. Click. Click.
 
@@ -270,7 +282,7 @@ reading. Estimated tension in remaining fibers: within limit.*
 "It's holding," he says. "It holds."
 
 I don't say anything. I stay with my open hand on the clamp, feeling the ribbon breathe more
-slowly underneath, and the gray rope wound around my wrist, and the yellow dosimeter on my chest, and the
+slowly underneath, and the gray rope on my belt, and the yellow dosimeter on my chest, and the
 hard Sun from the side, and the Earth down there the size of an open hand at arm's length.
 
 *Tension, not weight.*
@@ -279,11 +291,11 @@ hard Sun from the side, and the Earth down there the size of an open hand at arm
 
 "You've been in the yellow for half an hour."
 
-"I know." He already has the wrench in his hand, mine, and I didn't even see him take it. "Thirty-one
-years of layers in his. Twenty-nine in mine. A minute won't change anything." He checks the
+"I am." He still has the wrench in his hand, mine. "His had thirty-one years of layers. Mine has
+twenty-nine of dose. A minute won't change anything." He checks the
 first one. Click. "Go back inside, kid. I'll come up behind you."
 
-I stay. He checks all eight, one by one, with the forty-gram wrench, slowly, and they all
+I stay. He checks all eight, one by one, with the forty-gram wrench, and they all
 click, and only then do we go up, hand over hand, the two lifelines clipped to each
 other, a hundred and eighty meters, weightless.
 
@@ -297,16 +309,16 @@ looking down, where there's nothing to see but the dark ribbon vanishing.
 
 A hundred and eighty meters below, it passes over the clamp.
 
-I feel it in the floor of the Post. Everyone feels it, those who stayed: a jolt. Small. Half
-a second. P-7's wheel ring finding, in the middle of the smooth ribbon, the two meters of metal
-collar, and climbing over it, and coming down the other side.
+I feel it in the floor of the Post. Everyone feels it, those who stayed: a bump. Small. Half
+a second. P-7's wheel ring climbing the clamp's ramp, which was made for wheels, rolling over
+the two meters of collar, and coming down the ramp on the other side.
 
 And going on. Down. Toward the sea.
 
-Álvaro puts his big hand on my shoulder. He doesn't say anything. I unwind the gray rope from my wrist and
-look at it in the palm of my glove, half a meter, flattened, with both ends cut by me and
+Álvaro puts his big hand on my shoulder. He doesn't say anything. I unclip the gray rope from my belt and
+look at it in the palm of my glove, coiled, flattened, with both ends cut by me and
 the shape of his turns.
 
-Then I wind it again. Two turns. No knot.
+Then I clip it back on. No knot.
 
 Not yet.

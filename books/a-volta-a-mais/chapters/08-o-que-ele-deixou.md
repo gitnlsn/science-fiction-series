@@ -28,16 +28,16 @@ vesti mesmo assim, porque não tenho outra roupa que sirva para isso. A Inês es
 num canto, de braços cruzados, sem falar. Não é a audiência dela.
 
 O jurídico lê a acusação. Não chama de acusação: chama de *apuração de
-responsabilidade*. Lê o registro de partidas, a linha das uma e doze, o meu
+responsabilidade*. Lê o registro de partidas, a linha da uma e doze, o meu
 código. Lê a carta do serviço médico. Lê a lista do navio. Lê, com uma voz que
 não sobe nem desce, a frase que eu já sei de cor desde a sala 14: que uma técnica
-com acesso de emergência permitiu, por ação ou omissão, que um técnico proibido de
-subir subisse.
+com acesso de emergência permitiu, por ação ou omissão, que o código dela tirasse
+do Poço, fora da escala, uma cabine que ela não pediu.
 
 E aí a porta abre, e o Álvaro entra.
 
 Não estava convidado. Eu vejo nas caras do jurídico que não estava. Ele entra
-devagar, do jeito que anda no chão, como se o convés pedisse licença, e puxa uma
+do jeito que anda no chão, como se o convés pedisse licença, e puxa uma
 cadeira da parede, e senta do meu lado da mesa. Do meu lado. Não na ponta, onde
 os chefes sentam. Do meu lado.
 
@@ -50,7 +50,7 @@ Quando o cabo abriu. Eu escrevi a regra: todo formador sabe o código dos formad
 para o caso de alguém desmaiar do lado de fora. Está no manual. Página quarenta e
 tantos. Eu escrevi. — Ele põe as duas mãos de mecânico em cima da mesa, uma sobre a
 outra. — Se alguém é responsável por o Otávio ter o código da Iara, sou eu. Se
-vocês querem apurar, apurem a regra. Não a menina.
+vocês querem apurar, apurem a regra. Não a Iara.
 
 O jurídico anota. Alguém diz que a regra vai ser revista. Alguém diz que a
 apuração continua. Ninguém olha para mim.
@@ -71,22 +71,24 @@ suor não ter mais para onde ir. Os mais velhos conhecem pelo cheiro, dizem. Eu
 conheço pelo resfriador do casco sete, que às quatro da tarde começa a fazer um
 barulho diferente, mais agudo, de quem está trabalhando além do que devia.
 
-O pulso mostra, em vermelho, um número que eu aprendi na escola a respeitar: o
-bulbo úmido. Não a temperatura. A temperatura e a umidade juntas, o número que diz
-se o corpo ainda consegue se resfriar suando. Na sexta à tarde está em trinta e um.
+O pulso mostra o bulbo úmido em vermelho. Na sexta à tarde está em trinta e um.
 Na sexta à noite, trinta e dois. A Operadora manda a mensagem de sempre para todos
 os pulsos: *fiquem dentro, bebam água, não desliguem o resfriador*.
 
-No sábado de manhã, trinta e dois e meio.
+No sábado de manhã, trinta e dois e meio, e o meu resfriador para. A luzinha
+apaga. Na tela: *cota do mês esgotada*. Sem salário, não tem diferença para pagar.
 
-Eu passo a manhã deitada no chão do quarto, porque o chão é mais fresco que a cama,
+Subo os vinte e dois degraus até o convés dois, atrás de vento. Não tem. Desço
+contando, e no décimo quinto preciso parar, com a mão no corrimão quente.
+
+Eu passo o resto da manhã deitada no chão do quarto, porque o chão é mais fresco que a cama,
 com um pano molhado na testa, sem fazer nada, porque não tenho nada para fazer.
 Não tenho cabo. Não tenho turno. Não tenho a Bia, que não responde. Tenho sessenta e
 seis quilos colados no chão e um arquivo de quarenta e um segundos que não abre.
 
 ---
 
-A dona Celeste mora na cabine ao lado da minha.
+A dona Celeste mora no apartamento ao lado.
 
 Tem oitenta e quatro anos e vendeu peixe seco no convés três a vida inteira, até
 as pernas não deixarem mais. É viúva. Tem um filho no continente que liga no
@@ -105,7 +107,7 @@ trancada; ninguém tranca porta no casco sete.
 
 Está quente lá dentro. Mais quente que no corredor. O resfriador da parede está
 desligado, com a luzinha apagada, e na tela pequena dele, quando eu toco, aparece a
-mensagem: *cota do mês esgotada*.
+mensagem que eu li de manhã na minha: *cota do mês esgotada*.
 
 Ela está sentada na poltrona, perto da janela redonda, com um leque de papel
 caído no colo. De olhos fechados. Parece que dorme.
@@ -125,9 +127,8 @@ Um dos médicos sai e se agacha do meu lado. É jovem. Está suado até o pesco�
 
 — Era minha vizinha.
 
-— Ela desligou o resfriador na quarta — diz ele. — Para economizar. A cota dela
-tinha acabado, e ela não quis pagar a diferença. — Ele esfrega a testa com o
-braço. — É o quinto esta semana, na Âncora. Todos com mais de setenta.
+— A cota dela acabou na quarta, dia nove — diz ele. — O resfriador desliga
+sozinho. — Ele esfrega a testa com o braço. — É o quinto esta semana, na Âncora. Todos com mais de setenta.
 
 Cinco.
 
@@ -154,8 +155,8 @@ poltrona, com um leque de papel no colo e a cota do mês esgotada.
 
 ---
 
-À noite, não durmo. O resfriador do casco sete grita na parede. Do outro lado, a
-cabine da dona Celeste está vazia e escura, e ninguém bate.
+À noite, não durmo. Os resfriadores dos vizinhos gritam nas paredes; o meu, não.
+Do outro lado, a casa da dona Celeste está vazia e escura, e ninguém bate.
 
 Deito no chão e penso no Otávio.
 
@@ -188,7 +189,7 @@ Eu achei que ele estava brincando. Ele não estava.
 — Tudo o que está na fita faz a fita vibrar — disse. — Cada escalador que sobe,
 cada um que desce, cada cabine parada no Posto, cada vez que o vento bate aqui
 embaixo, cada pedrinha que bate lá em cima. A fita inteira é uma corda esticada de
-cem mil quilômetros, menina. Tudo o que encosta nela, ela canta. — Ele fechou os
+cem mil quilômetros. Tudo o que encosta nela, ela canta. — Ele fechou os
 olhos. — Sente agora. Tem um de carga subindo. Três, quatro mil quilômetros, mais
 ou menos. É a nota grave, que parece que vai e volta. Sente?
 
@@ -210,9 +211,9 @@ Ele sorriu. — *Quem sobe devagar*, lembra?
 
 — Os robôs escutam isso?
 
-— Os robôs escutam tudo. Gravam tudo. Em todo trecho. — Ele tirou a mão do anel.
-— Mas só avisam do que alguém mandou eles avisarem. O resto, eles guardam. Tem cem
-anos de canto do cabo guardados em algum lugar, e ninguém escuta.
+— Os robôs escutam. Gravam quase tudo. Uma hora aqui, outra ali. — Ele tirou a mão
+do anel. — Mas só avisam do que alguém mandou eles avisarem. O resto, eles guardam.
+Tem o canto do cabo desde que ele abriu, guardado em algum lugar, e ninguém escuta.
 
 — Por quê?
 
@@ -224,8 +225,8 @@ guardam o canto. Ninguém escuta.* E não pensei mais nisso durante doze anos.
 
 ---
 
-Agora, deitada no chão do casco sete a cem por cento, com o resfriador gritando e
-a cabine do lado vazia, eu penso nisso. E penso na outra coisa que ele disse, na
+Agora, deitada no chão do casco sete a cem por cento, com o resfriador apagado e
+o apartamento do lado vazio, eu penso nisso. E penso na outra coisa que ele disse, na
 Estação, na janela grande, com a maçã.
 
 *Uma órbita é uma queda que nunca termina.*
@@ -237,14 +238,14 @@ Não era só.
 
 Eu estou caindo desde o dia doze. Desde a mancha escura na fita, cento e oitenta
 metros abaixo do Posto. Caindo desde o nó, desde a câmara fria, desde os nove
-segundos de vento, desde a linha das uma e doze com o meu código, desde a Bia de
+segundos de vento, desde a linha da uma e doze com o meu código, desde a Bia de
 costas na esteira três, desde a dona Celeste na poltrona. Caindo em direção a um
 chão que eu achava que ia chegar, e que ia doer, e que ia acabar com isso.
 
 E o chão não chega. Eu continuo caindo.
 
 E talvez seja isso. Talvez não chegue nunca. Talvez o que ele estava tentando me
-dizer, aos vinte e quatro anos, na janela grande, é que dá para cair para sempre e
+dizer, quando eu tinha vinte e quatro anos, na janela grande, é que dá para cair para sempre e
 continuar. Que a queda não precisa terminar para a gente sobreviver a ela. Que a
 Estação está caindo há vinte anos e está lá, inteira, com gente dentro, porque
 está andando de lado depressa o bastante para errar o chão a cada volta.

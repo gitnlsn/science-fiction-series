@@ -15,10 +15,9 @@ cast:
 - otavio
 - bia
 source: a-volta-a-mais/chapters/05-a-descida.md
-source_sha: b9ee85f71ecd
+source_sha: 2b9495bbb04a
 status: draft
 ---
-
 Going down is worse than going up.
 
 Every technician knows it and nobody says it. Going up, you get lighter. Every
@@ -76,7 +75,7 @@ A message. Nine seconds.
 Nine seconds. He never left a nine-second message in his life.
 
 I look at the icon for a long time. Outside, the ribbon comes out from under the car and rises. The
-panel says *3.8 kg*.
+panel says *3.2 kg*.
 
 I touch it.
 
@@ -107,10 +106,10 @@ name into a device, once, and gave up.
 
 ---
 
-On the first night, the car passes sixteen thousand kilometers.
+On the first night, the car passes eighteen thousand kilometers.
 
 I don't sleep. I stay in the seat with my head against the cold window, watching the Earth,
-which is now a little bigger than an open hand, and almost entirely in darkness,
+which is now three fists at arm's length, and almost entirely in darkness,
 with the Sun on the other side. You can see the lights. A few, yellow, in patches, along
 coasts I've never visited. None on the sea. The Anchor is there, somewhere
 in that darkness, without a single light I could see from here, with nine thousand people
@@ -150,18 +149,33 @@ falling feels like floating."
 I thought it was beautiful. I wrote it down in my notebook, the way I wrote down everything he said back
 then, in the round handwriting of someone who still writes things down. I didn't think about it again.
 
-Now I do. With my head against a cold window, at sixteen thousand kilometers,
+Now I do. With my head against a cold window, at eighteen thousand kilometers,
 in a car that isn't in any orbit, that isn't falling and missing, that's
-only coming down, fastened to the ribbon, slowly, toward the ground it isn't going to miss.
+only coming down, fastened to the ribbon, toward the ground it isn't going to miss.
 With a three-kilo man in a bag behind me, who isn't falling
 along with anyone anymore either.
 
-The panel says *4.6 kg*.
+The panel says *3.6 kg*.
+
+---
+
+On Tuesday, a little after noon, the car stops at the fifteen-thousand collar.
+
+It's a siding. The collar's arm takes the car from above, with a jolt I feel
+in my teeth, and the wheel ring opens and lets go of the ribbon. We hang there
+sideways, and the ribbon stays where it is, a meter from the window, free.
+
+Forty minutes. The convoy comes up in that time: three cargo climbers, one behind
+the other. Each one is a hum that grows from below, goes past the window like a
+gray wall with no window at all, and drops in pitch up above, until it's gone. With
+each one, the arm ticks, taking the load, and the car sways a little on the arm.
+
+Then the ring closes on the ribbon again, and we go back to going down.
 
 ---
 
 In the small hours of Wednesday, ten thousand kilometers. Fourteen percent. Nine
-point three kilos.
+point four kilos.
 
 This is where the body starts to know. I get up from the seat to go to the cargo
 compartment and, for the first time since the Anchor, my feet stay on the floor by themselves, without my
@@ -182,7 +196,7 @@ I go back to the seat. My legs are a little heavier. I notice. I don't want to n
 On the second night, five thousand. Thirty percent. Twenty kilos.
 
 I try to sleep in the reclined seat and can't, because now the body weighs enough
-to hurt in the places where it rests. The shoulders. The hips. The back of the neck. Eleven days of
+to hurt in the places where it rests. The shoulders. The hips. The back of the neck. Ten days of
 almost nothing and the body has forgotten how to carry itself.
 
 And grief comes back that way too. I didn't know that. Nobody told me it was like that,
@@ -201,9 +215,7 @@ the whole twenty kilos.
 On Thursday morning, a thousand kilometers. Seventy-four percent.
 
 Now it hurts to stand. My knees complain. My head is heavy on my neck, like
-something someone put there and forgot. The sky outside has stopped being black: it's
-turning dark blue at the edges, because we're entering the end of the air, where
-there's no air yet but already the beginning of the color. Through the lower window I see the sea.
+something someone put there and forgot. The sky outside is still black. Through the lower window I see the sea.
 Not a color: the sea. With clouds over it. With the shadows of the clouds on the water.
 
 And in the middle of the sea, small, very small, a pale spot, round, with a
@@ -215,7 +227,10 @@ The panel says *49 kg*.
 
 ---
 
-The car enters the Well at ten past two on Thursday afternoon.
+In the last twenty minutes, the black of the window turns dark blue at the edges,
+and then blue, and the ribbon rises into a real sky.
+
+The car enters the Well at ten to three on Thursday afternoon.
 
 The Well is the hole in the center of the Anchor that the ribbon rises from, a deep cavity,
 round, surrounded by decks in rings, where the cars arrive and leave. It smells
@@ -227,7 +242,7 @@ The panel says *66 kg*.
 
 I try to get up from the seat.
 
-I can't. I mean, I can, but my legs don't obey the way they
+I can, but my legs don't obey the way they
 should, as if they'd gone numb, and I stand gripping the back of the seat,
 shaking, with my whole body weighing sixty-six kilos all at once, after
 eleven days of weighing almost nothing. The helmet, which I'm carrying under my arm, weighs like
@@ -246,7 +261,7 @@ only don't fall because I grab the edge of the hatch, and I stay there, half han
 with the helmet banging on the floor.
 
 Bia runs across the deck. She doesn't hold me up: she kneels in front of me and
-grabs the helmet, which was about to roll into the Well, and then looks up at me from below, with
+grabs the helmet, which was about to roll into the Well, and then raises her eyes to me, with
 a face I can't read, the face of someone who wants to say something and can't.
 
 "You weigh," she says. I don't know if it's a question.
@@ -257,8 +272,3 @@ Behind me, the two men in gray take the gray bag out of the cargo
 compartment. It takes both of them, now. One on each side. Seventy kilos.
 
 He's gone back to weighing what he weighed.
-
-I stand on the deck of the Well, with Bia's hand on my arm and the heat sticking
-to my skin, and I feel every kilo, mine and his, and I can't walk, and I don't want
-anyone to carry me, and I don't know how I'm going to carry all of this alone
-down here, at one hundred percent, where nothing falls slowly.

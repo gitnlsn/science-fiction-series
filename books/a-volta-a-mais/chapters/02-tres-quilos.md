@@ -2,7 +2,7 @@
 title: Três quilos
 part: I — VINTE MIL
 pov: Iara
-when: 2110-03-12 — noite
+when: 2110-03-12 — noite, até a madrugada de 03-13
 where: o Posto, a 20.000 km
 premise: 'No Posto, Iara leva o corpo para dentro: ele pesa três quilos; ela faz
   a conta em voz alta, e solto ali ele teria caído e queimado; o traje foi rasgado
@@ -29,9 +29,13 @@ carregando, não o traje, e porque se eu disser cinco vou ter de pensar no traje
 e eu não quero pensar no traje ainda.
 
 Três quilos. Um saco de arroz. Uma criança pequena. Menos que a minha mochila de
-turno. Eu o seguro pela cintura, com o braço esquerdo, e com o direito puxo a
-linha de vida, e a gente sobe pela fita junto, devagar, os dois de branco contra
-o escuro, e ele não pesa nada, e eu não aguento.
+turno. Eu seguro ele pela cintura, com o braço esquerdo, e com o direito puxo a
+linha de vida, e a gente desce pela fita junto até a cabine, os dois de branco
+contra o escuro, e ele não pesa nada, e eu não aguento.
+
+A cabine tem três metros por dois. Ele cabe. Deito ele no banco de trás e subo os
+duzentos metros até o Posto, e no lugar onde ele ficou o anel dá um tranco,
+passando por cima das duas voltas de corda.
 
 — Iara, controle. Qual é a sua situação?
 
@@ -45,14 +49,18 @@ Não sei se está. Deve estar. O controle fica calado, e eu sei que atrás do
 controle tem alguém consultando alguém, e que esse alguém vai consultar o Álvaro,
 e que o Álvaro vai dizer: deixa ela.
 
-— Deixa ela — diz a voz do Álvaro no canal, meio segundo depois. Eu quase sorrio.
-— Iara. Leva ele para a câmara fria do Posto. Não tira o traje. Não mexe em nada
-que você não precise mexer. Eu embarco daqui a quarenta minutos. Chego em dois
-dias e vinte horas.
+— Deixa ela — diz a voz do Álvaro no canal, meio segundo depois. — Iara. Leva
+ele para a câmara fria do Posto. Não tira o traje. Não mexe em nada que você não
+precise mexer. Eu embarco daqui a quarenta minutos. Chego em dois dias e
+dezenove horas.
 
 — Eu sei quanto tempo leva.
 
-— Eu sei que você sabe. — Uma pausa. — Estou dizendo para mim.
+— Eu sei que você sabe.
+
+Ele sai do canal. O Otávio, no lugar dele, teria dito mais uma coisa. Quando eu
+reclamava que ele me explicava o que eu já sabia, ele dizia: *Estou dizendo para
+mim.*
 
 ---
 
@@ -66,10 +74,11 @@ porque desfazer era apagar. Ele tinha feito aquele nó com as mãos dele, dentro
 luvas, a vinte mil quilômetros de qualquer pessoa, e o nó era a última coisa que
 ele tinha feito no mundo que eu sabia com certeza que ele tinha feito.
 
-Então eu cortei a corda. Do lado da fita, longe do nó. Com a faca de gancho que a
-gente carrega na coxa para cortar linha embolada. O nó ficou onde estava, no anel
-da cintura dele, inteiro, com um pedaço de corda solto balançando, e eu enrolei
-esse pedaço em volta do anel para não soltar.
+Então eu cortei os dois lados da corda, rente à fita, longe do nó. Com a faca de
+gancho que a gente carrega na coxa para cortar linha embolada. As duas voltas
+ficaram na fita. O nó ficou onde estava, no anel da cintura dele, inteiro, com o
+pedaço de corda que sobrou balançando, e eu enrolei esse pedaço em volta do anel
+para não soltar.
 
 Quem quiser desfazer, vai ter de vir até aqui e desfazer.
 
@@ -104,17 +113,20 @@ saber ainda.
 A minha voz na câmara fria faz um som pequeno, abafado, que o gelo das paredes
 come.
 
-O meu pulso vibra.
+O meu pulso vibra, dentro da luva.
 
-Eu olho, por reflexo, como se olha quando alguém chama. É uma mensagem. O
-remetente é uma linha que eu nunca vi escrita assim, porque ninguém escreve
-assim: *Otávio Reis — traje 4471*. Embaixo, em cinza: *entregue com atraso. Arquivo
-danificado.*
+Tiro a luva e olho, por reflexo, como se olha quando alguém chama. A faixa no meu
+pulso é de vidro mole, da largura de dois dedos, e quando trabalha é morna; aqui
+dentro, parada, estava fria contra a pele. Lá fora, sem rede, é só um relógio.
+
+É uma mensagem. O remetente é uma linha que eu nunca vi escrita assim, porque
+ninguém escreve assim: *Otávio Reis — traje 4471*. Embaixo, em cinza: *entregue
+com atraso. Arquivo danificado.*
 
 Os trajes seguram o que não conseguem mandar. Quando a pessoa está fora do
 alcance do canal, o traje guarda a mensagem e manda na primeira vez que acha uma
-rede. O traje dele achou uma rede agora, dentro do Posto, deitado no chão da
-câmara fria, seis dias depois.
+rede. O traje dele achou uma quando eu trouxe ele para dentro, seis dias
+depois.
 
 Eu toco no arquivo. O pulso pensa um instante e diz: *não foi possível abrir*.
 Toco de novo. *Não foi possível abrir.* Tem quarenta e um segundos. Não abre.
@@ -139,8 +151,9 @@ Então, se alguma coisa se solta da fita aqui, ela não fica. Ela está andando
 com a metade da velocidade de que precisaria. A Terra puxa, e ela cai. Não cai
 reto, cai numa curva, uma elipse cujo ponto mais baixo está dentro da Terra, o
 que quer dizer que ela não chega ao ponto mais baixo: antes disso, entra no ar.
-E a um quilômetro e novecentos por segundo, descendo, cada vez mais depressa, ela
-entra no ar como uma pedra entra num vidro, e queima.
+E desce cada vez mais depressa: duas horas e pouco depois de solta, quando chega
+ao ar, já está a quase dez quilômetros por segundo, e entra nele como uma pedra
+entra num vidro, e queima.
 
 Solto aqui, um corpo não fica. Solto aqui, um corpo vira aquela risca de luz que
 alguém no convés da Âncora vai achar bonita.
@@ -168,8 +181,8 @@ O rasgo está na coxa esquerda.
 
 Eu só acho porque procuro. Ninguém acharia sem procurar. É pequeno: dois
 centímetros, talvez menos, na lateral de fora da coxa, onde o tecido de fora do
-traje, o branco, é mais grosso. Parece um risco. Eu passo a ponta da luva por
-cima, devagar, e sinto a borda.
+traje, o branco, é mais grosso. Parece um risco. Eu passo a ponta do dedo por
+cima e sinto a borda.
 
 A borda está virada para dentro.
 
@@ -197,16 +210,18 @@ não tem mais volta. Com um rasgo grande, ninguém amarra nó nenhum.
 Um rasgo pequeno é outra coisa. Um rasgo pequeno é um vazamento. O traje sente a
 pressão caindo e abre a reserva, e a reserva empurra ar para dentro tão depressa
 quanto o ar sai, por um tempo, e o tempo depende do tamanho do furo e do tamanho
-da reserva. Minutos. Não muitos. Mas minutos.
+da reserva. Minutos. Dez, quinze, para um furo desse tamanho. Mas minutos.
 
 Minutos dá para amarrar um nó. Dá para amarrar um nó com uma volta a mais.
 
-Eu abro o painel da reserva, na lateral do capacete dele, com as mãos tremendo
-dentro das luvas, e o ponteiro está no zero. Esgotada.
+Eu abro o painel da reserva, na lateral do capacete dele, com as mãos tremendo,
+e o ponteiro está no zero. Esgotada.
 
 Ele gastou a reserva inteira. Ficou do lado de fora até o fim do ar. E, em algum
 momento desses minutos, sabendo, parou de tentar voltar para o Posto, que estava
-a cento e oitenta metros, e pegou a corda.
+a cento e oitenta metros. Sem linha, cento e oitenta metros de mão na borda da
+fita são cento e oitenta metros para escorregar uma vez, e uma vez aqui é a risca
+de luz. Ele pegou a corda.
 
 ---
 
@@ -218,7 +233,7 @@ para ninguém: guarda. Guarda a dose como um tronco guarda os anos, em camadas, 
 só se lê no leitor da oficina. O Otávio se recusava a trocar. Dizia que um
 dosímetro que conversa com o controle é um dosímetro que o controle pode calar.
 
-Eu nunca entendi isso também.
+Isso eu também nunca entendi.
 
 O Posto tem um leitor. Na oficina, ao lado da bancada. Eu solto o dosímetro do
 peito dele, desatarraxando com cuidado, e levo, e ponho no leitor, e o leitor
@@ -232,9 +247,9 @@ cinturões com a blindagem segurando o grosso. Depois fica plana outra vez, mais
 alta, por umas poucas horas: o Posto, que protege mas não tanto.
 
 E depois ela empina. Sobe reta, inclinada, do jeito que a dose sobe quando a
-pessoa sai da blindagem e fica do lado de fora, no cinturão, sem nada entre ela e
-o céu além do traje. E não para mais. Sobe reta durante seis dias, igual, sem
-mudar, até a hora em que eu soltei o dosímetro do peito dele.
+pessoa sai da blindagem e fica do lado de fora, no cinturão, sem nada entre ela
+e o céu além do traje. E não para mais. Sobe quase reta durante seis dias,
+igual, sem mudar, até a hora em que eu soltei o dosímetro do peito dele.
 
 O dosímetro não sabe se a pessoa está viva. Só sabe que ela está do lado de fora.
 
@@ -253,33 +268,32 @@ a vinte mil quilômetros de altura, e não voltou.
 
 Volto para a câmara fria.
 
-O ar branco sai de novo quando eu abro a porta, e fica no ar, e desce devagar. O
+O ar branco sai de novo quando eu abro a porta, e fica parado no ar. O
 Otávio está onde eu deixei, de costas, com os braços arrumados, a viseira branca
 de gelo. O nó na cintura. O pedaço de corda enrolado no anel. O mosquetão sem
 linha. O rasgo na coxa, com a borda para dentro.
 
 Sento outra vez no chão do lado dele.
 
-*O cabo não aguenta peso*, ele dizia, na primeira semana, no convés, me mostrando
-a fita que subia do meio da Âncora e sumia. *Todo mundo acha que é uma coluna.
-Não é. Uma coluna aguenta peso, empurra para cima. O cabo não empurra nada. O cabo
-é puxado. A Terra puxa para baixo, o contrapeso puxa para fora, e ele fica no
-meio, esticado entre as duas coisas. O cabo aguenta tensão.*
+*Todo mundo acha que é uma coluna*, ele dizia, na primeira semana, no convés, me
+mostrando a fita que subia do meio da Âncora e sumia. *Não é. O cabo não empurra
+nada. É puxado dos dois lados, e fica no meio.*
 
 Eu estou sentada no chão de uma câmara a vinte graus negativos, ao lado de um
 homem que pesa três quilos e que eu não consigo carregar, e pela primeira vez
-entendo que não é o peso. Três quilos não é nada. Eu levanto três quilos com um
-dedo. O que eu não aguento é o outro lado. É estar esticada entre duas coisas que
-puxam: o Otávio, aqui, morto, amarrado com a volta a mais; e alguma coisa que eu
-não sei o que é, que o levou para fora às dez da noite de uma quinta-feira em
-que ele devia estar num navio.
+entendo que não é o peso. Três quilos não é nada. O que eu não aguento é o outro
+lado. É estar esticada entre duas coisas que puxam: o Otávio, aqui, morto,
+amarrado com a volta a mais; e alguma coisa que eu não sei o que é, que levou
+ele para fora às dez da noite de uma quinta-feira em que ele devia estar num
+navio.
 
 A parte da cabeça que ninguém desligou faz uma última conta, a mais simples.
 
-Se ele tivesse se soltado, ninguém o teria achado. Se alguém o tivesse soltado,
-ninguém o teria achado. Se a linha tivesse arrebentado e ele não tivesse feito
-nada, ninguém o teria achado. De todas as maneiras de acabar aquela noite, só uma
-deixava o Otávio no cabo, cento e oitenta metros abaixo do Posto, esperando.
+Se ele tivesse se soltado, ninguém teria achado ele. Se alguém tivesse soltado
+ele, ninguém teria achado ele. Se a linha tivesse arrebentado e ele não tivesse
+feito nada, ninguém teria achado ele. De todas as maneiras de acabar aquela
+noite, só uma deixava o Otávio no cabo, cento e oitenta metros abaixo do Posto,
+esperando.
 
 Ele quis ficar.
 
@@ -297,5 +311,5 @@ investigadora da agência vem com ele. Você precisa descansar.
 
 E fico sentada no chão da câmara fria, ao lado do Otávio, até o frio entrar pelo
 traje e eu não sentir mais as mãos, e mesmo assim não saio, porque alguém tem de
-ficar com ele, e porque, se eu levantar, vou ter de ir dormir no beliche onde ele
+ficar com ele, e porque, se eu levantar, vou ter de ir dormir no módulo onde ele
 dormiu três mil noites, e ainda não consigo.

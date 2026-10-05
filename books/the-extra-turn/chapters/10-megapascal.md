@@ -12,19 +12,21 @@ threads:
 - a-operadora
 pays:
 - o-trecho
+- quem-sobe-devagar
 cast:
 - iara
 - bia
 source: a-volta-a-mais/chapters/10-megapascal.md
-source_sha: 2bdac9a1ab39
+source_sha: 91df3b6ff460
 status: draft
 ---
 The niche is one meter ten high, eighty centimeters wide and one meter
 sixty deep, and I'm going to spend five days inside it.
 
 Every cargo climber has one. It's the law, since the cable's second accident: a
-pressurized space, the size of a wardrobe lying on its back, fixed under the wheel
-ring, between the ring and the cargo body, with air, water, dried food and heating
+pressurized space, thick-walled against the belts, because it's a refuge, the size
+of a wardrobe lying on its back, fixed under the wheel ring, between the ring and
+the cargo body, with air, water, dried food and heating
 for one person for seven days. In case a technician needs to repair
 something in transit and gets stuck. Nobody uses it. Nobody has used one for twenty
 years. The lid of the niche on climber C-114 was sealed with the same plastic
@@ -40,14 +42,15 @@ bathroom. There's a bag. Sorry."
 
 "I know what it's like."
 
-"You don't know what it's like. Nobody knows what it's like. Nobody's ever done this." She
-looked at me. "C-114 is a regular, Iara. It's on the schedule. It goes up at ten, with the convoy. It goes
+"You don't know what it's like. Nobody knows what it's like. Nobody's ever done this. C-114
+is a regular, Iara. It's on the schedule. It goes up at ten, with the convoy. It goes
 to the Station, unloads the disks in the transfer yard, and comes back down empty on
 Tuesday. You get out at the Station. After that, I don't know."
 
-"After that, I know."
+"After that, the comms lab. The forty-one seconds."
 
-"You don't know." She almost laughed. "You never know. You just go."
+"If there's anything left in them." She shook her head. "You never know. You just
+go."
 
 I got into the niche backward, folding my knees up to my chest, with my suit on and
 my helmet in my lap, and the notebook inside the suit, against my belly, wrapped in the
@@ -66,16 +69,17 @@ I feel it before I hear it: the wheel ring, half a meter above my head,
 gripping the ribbon, and the small jolt of the climber letting go of the ramp and hanging
 from the ribbon alone, and then the rumble, which inside the niche isn't a rumble, it's a
 tremor that comes in through my back and up through my teeth. It rises in pitch. It becomes a hum. I
-close my eyes and feel the Anchor dropping away below, the Well, hull seven,
-Mrs. Celeste's empty place, Bia at belt three pretending she isn't looking
+feel the Anchor dropping away below, the Well, hull seven,
+Mrs. Celeste's empty apartment, Bia at belt three pretending she isn't looking
 up.
 
 The niche's small screen, on the front wall, twenty centimeters from my face,
 lights up with the usual things. Altitude. Speed: three hundred kilometers an
 hour. Pressure. Temperature: twenty-eight degrees and rising. And, in the corner, because
-someone at the Operator thought the technicians would like to know, *apparent mass*.
+someone at the Operator thought the technicians would like to know, *apparent mass:
+100%*.
 
-Sixty-six kilos. Sixty-five point nine. Sixty-five point eight.
+Ninety-nine point nine. Ninety-nine point eight.
 
 The backpacks start coming off.
 
@@ -162,22 +166,29 @@ I know how to do it. I redo it along with him, line by line, in the niche, at se
 with the pen from the emergency kit in the margins of his notebook, under his
 handwriting.
 
-The ribbon, at that point, works at forty-eight thousand megapascals. That's how much
-pull it takes per unit of area, counting the weight of everything below it and the force of the
+The ribbon, at that point, works at forty-eight thousand megapascals. That's the pull
+per unit of area, counting the weight of everything below it and the force of the
 counterweight up above and the climbers going past. New, from the factory, it could take a
-hundred thousand. Twice as much. It's what we call the safety factor: two. The whole ribbon
-was made to take twice what it needs to.
+hundred thousand. Factor two. The whole ribbon was made to take twice what it needs to.
 
 But every fiber that breaks takes a little off the hundred thousand, and takes nothing off the
-forty-eight. And the curve, with his five points and mine, isn't a straight line. It climbs faster and faster.
+forty-eight. And the eight tenths are the average the handheld reader takes across the
+whole face. In the edge band, where the fibers are frayed, the edge no longer pulls,
+and what it pulled has gone to the fiber beside it. Next to the math, in pencil: *it's
+not the average, it's the neighbor of the broken fiber.*
+
+And the curve, with his five points and mine, isn't a straight line. It climbs faster and faster.
 Each year takes away more than the year before took. Because every broken fiber puts more
 load on the others, and the others break faster, and so on.
 
 And there's something else, which he wrote in the margin, underlined twice: *the extras*.
 
-The climbers going past. Every one that goes past that stretch pulls the ribbon sideways,
-a little, the way the cable sings the lag of whoever's climbing. Every sideways pull is
-extra strain on fibers that are already on their own. Three climbers a day, and the curve
+*Whoever climbs slowly gets there faster than the cable.* He said it wrong on purpose,
+to see who was thinking. The piece of ribbon above moves faster than the piece below,
+and every climber going up gets to it late and has to be pushed sideways to keep up.
+And it pushes the ribbon back. Every one that goes past that stretch pulls the ribbon
+sideways, a little, and the cable sings the lag. Every sideways pull is extra strain on
+fibers that are already on their own. Three climbers a day, and the curve
 is one curve. Four, and the curve is another, steeper.
 
 At the foot of the page, inside a ruled box, he wrote the two answers.
@@ -198,13 +209,12 @@ The niche shakes. The hum of the wheel ring, half a meter above, is the only noi
 world. The screen says *1,180 km, 71%*. Outside, where I can't see, the ribbon rises straight to
 the Station, and passes through the stretch just below the Post, a hundred and eighty meters, where
 there are two turns of rope with the end cut, and goes on, and ends at a counterweight
-a hundred thousand kilometers out from which disks the size of a dinner plate are released
-toward the Sun.
+a hundred thousand kilometers out, where the stacks of disks the size of a dinner plate
+are flung off, each with its ion tug, for the months of travel to their place between
+the Earth and the Sun.
 
-*Factor one* means what it can take equals what's pulling on it. It means the ribbon,
-at that point, has nothing left over. It means that anything more, a
-climber, a gust of wind down below, a grain of dust hitting it, is what
-breaks it.
+*Factor one*: what it can take equals what's pulling on it. Nothing left over. One
+more climber, a gust of wind down below, a grain of dust hitting it, and it breaks.
 
 *Four a day: four months.* Counted from when he wrote it, in the middle of the second
 month. It's been almost three. That leaves a month and a bit.
@@ -213,12 +223,11 @@ The extras. The climbers that don't exist, that Bia loads in the small hours for
 money, for Hugo's program, which has a target and a date. Three on the schedule and
 one off it. Four a day. Since the start of the year.
 
-Otávio asked for a reduction to two a day. Three months ago. *The ribbon is tired,
-Hugo.* Hugo said no, in front of everyone, and Otávio left the office without saying
-anything, which he never did, and went back to hull nineteen and did this math in pencil
-at a wooden table.
+Otávio did this math in pencil at a wooden table and, with it in his hand, asked for a
+reduction to two a day. *The ribbon is tired, Hugo.* Hugo said no, in front of
+everyone, and Otávio left the office without saying anything, which he never did.
 
-And then he wrote a report. I'm certain of it, sitting in the niche, that he
+And he wrote a report. I'm certain of it, sitting in the niche, that he
 wrote a report. Otávio believed in reports. He said we write them
 so that, when it goes wrong, nobody can say they didn't know.
 
@@ -226,19 +235,16 @@ I never heard of any report.
 
 ---
 
-I open the notebook again to page twenty-four and put my finger on the ruled
-box. On the two numbers. On the four months.
+The screen says *1,340 km*. The hum of the ring goes on. I lean my head against the wall of the
+niche, with the notebook closed on my knees, and let the climber carry me up, lighter
+and lighter, with no one knowing I'm here, the same way he went up, two months ago,
+in a car with my code, with no one knowing he was there.
+
+I open the notebook again to page twenty-four and put my finger on the box. On the
+two numbers. On the four months.
 
 It isn't what I think. It's what he measured, five times in four years, with his glove, with
 the handheld reader, always stopping at the same place, with an asterisk, even when the
 exit was for another stretch. And it's what I measured, once, with Álvaro shouting.
 
 The flaw is real.
-
-It isn't within tolerance. Each point is, on its own. Together, they're not.
-
-The screen says *1,340 km*. The hum of the ring goes on. I lean my head against the wall of the
-niche, with the notebook open on my knees and my finger on the four months, and let the
-climber carry me up, lighter and lighter, with no one knowing I'm
-here, the same way he went up, two months ago, in a car with my code,
-with no one knowing he was there.

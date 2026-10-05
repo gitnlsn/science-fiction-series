@@ -3,8 +3,8 @@
 2026-10-05. Quatro leituras independentes do manuscrito inteiro, uma lente cada:
 estrutura e mistério; o futuro na página e o cânone; ciência real; continuidade e
 prosa. Achados repetidos entre leituras foram fundidos (quando duas ou mais
-chegaram sozinhas ao mesmo problema, está marcado **×2**, **×3**). Nada no
-manuscrito foi alterado.
+chegaram sozinhas ao mesmo problema, está marcado **×2**, **×3**). Aplicada em 2026-10-05:
+ver as decisões em cada item.
 
 **Como usar:** marque cada item `[x]` aceito, `[-]` recusado, ou escreva a sua
 versão depois de *Decisão:*. Os itens têm número (R1, R2…) para a gente falar
@@ -40,7 +40,7 @@ ainda passam sob as rodas (por isso estão achatadas). E os cargueiros **acusara
 "objeto na borda", dezenove vezes, e a triagem arquivou como "detrito aderido,
 abaixo do limiar". É o mesmo filtro que matou o relatório. Uma linha em
 *O relatório* ou *A dose*; uma linha na bíblia.
-- [ ] Decisão:
+- [x] Decisão: aceito: corpo na borda, fora do trilho; 19 alertas "objeto na borda" arquivados pela triagem (*O relatório*).
 
 ### R2. "Uma fita, um sentido" não sobrevive ao tráfego do próprio livro **×3**
 *O Posto, A descida, Megapascal, O que não cai*; bíblia. Ninguém se cruza na fita,
@@ -53,7 +53,7 @@ separadas por dias. **Proposta:** os colares do Posto e da Estação são **desv
 janelas. Mostrar uma vez: a descida de *A descida* parada num colar vendo um
 comboio passar. Em *O Posto*, Álvaro: "Não se cruzam na fita. Só no Posto, que
 tem desvio." Em *O que não cai*, "uns quinze escaladores parados ao longo da fita".
-- [ ] Decisão:
+- [x] Decisão: aceito: colares de desvio a cada ~5.000 km, no Posto e na Estação; a descida espera 40 min no desvio dos 15 mil.
 
 ### R3. A Parte IV não tem dilema: ninguém se opõe à Iara
 *O dilema, O que não cai.* O outline pede "um dilema de verdade"; a bíblia diz que a
@@ -65,7 +65,7 @@ não." **Proposta:** em *O dilema* a Iara defende parar tudo, contra o meio-term
 dois por dia, e **perde** para o Álvaro e o Hugo juntos. As leituras âmbar de
 *O que não cai* dão razão a ela tarde demais; o "Deixa ela" do Álvaro vira uma
 virada que ele paga, e a subida dele à trava, coragem depois de ter errado.
-- [ ] Decisão:
+- [x] Decisão: aceito: em *O dilema* Iara pede parar tudo e perde, dois contra um; em *O que não cai* o Álvaro diz "Eu errei."
 
 ### R4. O caderno fica vinte dias sem ser lido, e a Parte III não tem objetivo dito
 *Bia, Megapascal.* Ela recebe o caderno em 20/04, lê só a última página ("Não leio
@@ -75,7 +75,7 @@ atraso como luto (abre e não consegue continuar); nomear o objetivo — o arqui
 41 segundos, que *A descida* já diz que só o laboratório da Estação recupera. Ela
 sobe pelo luto e acha o caso no caminho. Uma linha sobre por que não a Inês (o
 jurídico a suspendeu; uma tabela não lida é "o que eu acho").
-- [ ] Decisão:
+- [x] Decisão: aceito: o caderno não passa da terceira linha ("É a letra."); o objetivo é o arquivo de 41 s.
 
 ### R5. Fatos de que a solução depende aparecem só na hora de usar **×2**
 Quebra a regra de jogo limpo do próprio outline. Onde plantar:
@@ -87,14 +87,14 @@ Quebra a regra de jogo limpo do próprio outline. Onde plantar:
 - **a média de 2 m dos robôs** / "robótica prevalece" (*O relatório*) — no "os
   robôs vão reler" do Álvaro em *O nó*;
 - **as rodadas de gravação** (*A dose*) — ver R9.
-- [ ] Decisão:
+- [x] Decisão: aceito: a lona em *O Posto*, a caixa vermelha em *A última mensagem*, a média de 2 m em *O nó*.
 
 ### R6. A corda de meio metro não dá duas voltas numa fita de um metro **×1, conferido**
 *O nó, A trava, Terra*; bíblia, "A marca de Otávio". Duas voltas numa fita de 1 m
 pedem ~4 m de corda, mais o lais de guia. Em *Terra* o mesmo meio metro dá duas
 voltas na cintura de um corpo. **Proposta:** "uns cinco metros" / "um lance da
 corda da perna" em todo lugar, e na bíblia.
-- [ ] Decisão:
+- [x] Decisão: aceito, com conta própria: uns seis metros no total; as duas voltas são uns quatro metros.
 
 ### R7. Em *Vinte mil*, a Iara desce até um corpo que está acima dela **×1, conferido**
 O corpo está 180 m abaixo do Posto; a cabine para 20 m abaixo do corpo (o leitor
@@ -104,7 +104,7 @@ repete ("como eu desci no dia doze"). A linha de vida presa na cabine, que fica
 abaixo, também não puxa o corpo até o Posto em *Três quilos*. **Proposta:** trocar
 os verbos e prender a linha de vida num ponto do Posto ou levar a cabine até o
 corpo.
-- [ ] Decisão:
+- [x] Decisão: aceito: ela sobe até ele; o corpo vai dentro da cabine até o Posto.
 
 ### R8. O Otávio estava ou não proibido de subir? **×2**
 *Cem por cento* diz "Ele subiu dia quatro. Antes do dia dez. Dentro do prazo." —
@@ -114,7 +114,7 @@ conseguiu subir". **Proposta:** a acusação é a partida fora de escala no cód
 dela (ou a carta vale a partir do recebimento); em *Cem por cento*, a Iara deduz:
 "Pela curva do dosímetro, dois dias e meio de subida antes de quinta: ele subiu
 dia quatro."
-- [ ] Decisão:
+- [x] Decisão: aceito: a acusação é a partida fora da escala com o código dela; Iara deduz o dia quatro pelo dosímetro.
 
 ### R9. Os robôs movem a trama mas nunca aparecem, e o livro se contradiz sobre como gravam **×3**
 Nenhum robô é visto: sem tamanho, som, calor, nem como "sobem e descem pela fita"
@@ -128,7 +128,7 @@ luva. O Otávio diz desde o início: "Gravam quase tudo. Uma hora aqui, outra al
 "Cem anos" → "vinte anos" (*O que ele deixou*, *A dose*; *Três quilos* fala de
 satélites de cem anos e está certo). O limite é energia e banda — "o cinturão
 come os buffers", como já diz o Tomé.
-- [ ] Decisão:
+- [x] Decisão: aceito: um robô fino na página em *A trava*; "quase tudo, uma hora aqui, outra ali"; vinte anos.
 
 ---
 
@@ -143,7 +143,7 @@ escalador não sobem numa fita "mais fina que papel". **Opções (do autor):** o
 elevador faz só parte do para-sol, ou só a reposição; ou há mais fitas; ou o
 livro para de dar números de discos e fala em toneladas. O que escolher vai para
 a bíblia.
-- [ ] Decisão:
+- [x] Decisão: decidido: discos inventados, muito mais leves (~270 mil t no total); ~13 t por escalador; o livro fala em toneladas; o elevador mal ganha do desgaste.
 
 ### R11. Soltar na ponta não leva a L1, e L1 está mal definido **×2**
 *Cem por cento, Megapascal, O que não cai.* (1) A 100 mil km a fita anda a
@@ -154,7 +154,7 @@ lançamento é mais baixo (~47–50 mil km). (2) L1 não é onde "a Terra e o So
 na mesma medida" (isso fica a ~260 mil km); é onde a coisa dá a volta no Sol no
 mesmo passo da Terra. **Proposta:** "até L1", ou "onde a coisa dá a volta no Sol
 no mesmo passo da Terra" — de preferência na boca do velho, não da narradora (R18).
-- [ ] Decisão:
+- [x] Decisão: decidido: cada pilha leva um rebocador iônico; a definição de L1 está na boca do velho.
 
 ### R12. A Terra vista do cabo: fase e rotação **×3**
 O cabo fica sobre a Âncora, então a parte acesa da Terra acompanha o relógio da
@@ -171,7 +171,7 @@ fica em cima do mesmo lugar".
 - *O dilema* — "a Terra gira devagar…" → "a sombra da noite anda devagar por cima
   dela".
 - *O Posto* (2h) está certo.
-- [ ] Decisão:
+- [x] Decisão: aceito: chegada às ~20h40; dezoito mil; Terra quase toda acesa às 10h30; a sombra da noite anda.
 
 ### R13. 0,8% de queda do módulo não leva o fator de segurança a 1 **×2**
 *Megapascal, O que não cai, A trava.* Na média, 0,8% de fibras partidas leva o
@@ -180,7 +180,7 @@ real de compósitos. **Proposta:** uma frase do Otávio no caderno: "não é a m
 o vizinho da fibra partida"; ou o leitor de mão faz a média na largura toda e o
 dano está na faixa da borda ("a borda já não puxa"), o que ainda usa as "fibras
 arrepiadas" e casa com R1. Entrada em references.md (modelos de feixe de fibras).
-- [ ] Decisão:
+- [x] Decisão: aceito: o dano está na faixa da borda; "não é a média, é o vizinho da fibra partida".
 
 ### R14. Radiação no nicho do cargueiro
 *Megapascal → A última mensagem.* Cinco dias no nicho, atravessando o miolo dos
@@ -189,7 +189,7 @@ dose. Jorgensen et al. (2007) estimam ~2 Sv sem blindagem numa subida lenta.
 **Proposta:** uma linha dizendo que o nicho é blindado por lei (é refúgio), e a
 Iara lendo o dosímetro na chegada — uma dose alta seria um bom custo para ela,
 e ajuda R16.
-- [ ] Decisão:
+- [x] Decisão: aceito: nicho blindado; 190 mSv na chegada.
 
 ### R15. Números menores de física
 - *A descida*: o céu ficando "azul-escuro" a 1.000 km — lá não há ar; a cor aparece
@@ -218,7 +218,7 @@ e ajuda R16.
   dar um modo de passagem a 20 km/h.
 - *Três quilos*: "sobe reta durante seis dias" → "quase reta".
 - *A trava*: o dosímetro de tempo real não tem "camadas"; só o cristalino.
-- [ ] Decisão:
+- [x] Decisão: aceito, item por item.
 
 ---
 
@@ -229,14 +229,14 @@ e ajuda R16.
 e depois o Otávio em *A última mensagem* só confirma. **Proposta:** em *O relatório*
 e *Ele se prendeu*, parar em "não tem culpado" e nas duas colunas. Deixar a ideia
 sistêmica para a voz dele, e o Álvaro torná-la pessoal em *A trava*.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### R17. A última frase do livro já foi usada em *Ele se prendeu* **×2, conferido**
 "Não sei como ele morreu… O que eu sei é o que ele quis que eu soubesse." fecha os
 dois capítulos. **Proposta:** *Ele se prendeu* termina na caneta ("A caneta chega
 ao chão do nicho sem barulho."); *Terra* fica dona da frase. Cortar também a lista
 "o que eu sei" de *Ele se prendeu* pela metade — é recapitulação.
-- [ ] Decisão:
+- [x] Decisão: aceito: *Ele se prendeu* termina na caneta.
 
 ### R18. Peso × tensão explicado quatro vezes
 *Três quilos* (parágrafo inteiro), *O dilema*, *O que não cai* (duas vezes), *Terra*
@@ -244,7 +244,7 @@ ao chão do nicho sem barulho."); *Terra* fica dona da frase. Cortar também a l
 **Proposta:** em *Terra*, cortar de "Eu entendo agora…" a "…E é isso que segura." e
 ir do itálico direto para "O pano encosta na água." Em *O que não cai*, cortar "a
 tensão, sem o peso" do Hugo.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### R19. A Parte II tira a mudança de monólogo, e a suspeita se desfaz na mesma cena
 *A suspeita, O que ele deixou.* A Inês diz logo "Eu sei que não foi você"; a
@@ -253,7 +253,7 @@ suspensão custa algo material — salário, logo a cota de resfriamento dela �
 morte da dona Celeste acontece também com a Iara, não só ao lado dela. Na bíblia,
 a tabela dos quatro arcos registra situações ("suspensa, suspeita, com o caderno"),
 não mudanças internas — reescrever como mudanças.
-- [ ] Decisão:
+- [x] Decisão: aceito: a suspensão corta o salário e a cota; a semana parada pega a Iara; a tabela dos arcos foi reescrita.
 
 ### R20. A Bia é pista falsa apontada para a noite errada
 *A suspeita, Bia.* Ela teme ser "a pessoa que estava acordada e no Poço na noite em
@@ -261,7 +261,7 @@ que ele morreu" — mas ele morreu a 20 mil km; estar no chão é álibi. A hora
 incrimina é **terça, 1h12**: o M‑3 sai do Poço com o código da Iara enquanto a Bia
 está lá, carregando o C‑X9. **Proposta:** a Inês, ou a lógica da Iara em
 *A suspeita*, liga o crachá da Bia à partida de 1h12.
-- [ ] Decisão:
+- [x] Decisão: aceito: o crachá de Bia na catraca entre 23h58 e ~05h30, cobrindo a partida de 01h12.
 
 ### R21. A Inês some justamente quando a investigação acontece
 De *O que ele deixou* a *O que não cai*. Ela é o método do livro ("o que você
@@ -269,7 +269,7 @@ sabe / o que você acha"), e o melhor gesto dela chega de segunda mão, pelo Moi
 O "Você me ensinou" de *Terra* fica sem lastro. **Proposta:** uma troca dela no
 canal de telemetria em *A dose*, logo depois da confissão da Bia: sabe que a Iara
 está no C‑114 e deixa seguir.
-- [ ] Decisão:
+- [x] Decisão: aceito: Inês no canal de telemetria em *A dose*.
 
 ### R22. Fios soltos
 - O "Nada que esteja na escala" do Álvaro em *O Posto* — a primeira pista dos extras
@@ -284,7 +284,7 @@ está no C‑114 e deixa seguir.
   única mensagem que não se perdia.
 - Por que o traje dele não alcançou a rede do Posto a 180 m? Uma linha.
 - O empreiteiro "sumiu" em *Terra* — dizer antes, uma vez.
-- [ ] Decisão:
+- [x] Decisão: aceito, todos.
 
 ### R23. O fim cura tudo de uma vez
 *Terra.* O luto paga inteiro e bem. Mas o caso fecha limpo demais: jurídico
@@ -292,7 +292,7 @@ encerra, regra revogada, Bia recontratada nos termos da Iara, Hugo com um peixe;
 Iara não paga nada por ter parado o cabo. **Proposta:** deixar um custo aberto, na
 pele dela — a Bia recusa o emprego, ou alguém que ela conhece é ferido pela parada,
 ou o amarelo do dosímetro em *A trava* tem consequência (casa com R14).
-- [ ] Decisão:
+- [x] Decisão: decidido: o custo é a dose; ela não sobe por um ano e dirige a troca do chão.
 
 ### R24. O enigma "Quem sobe devagar" se paga no lugar errado
 Em *A dose* vira aritmética ("os dois chegam atrasados"). O pagamento de verdade já
@@ -300,7 +300,7 @@ está em *Megapascal*: o arrasto lateral de cada escalador cansa a fibra, e os
 extras deixam a curva mais íngreme. Mover a lembrança para lá. A bíblia descreve um
 terceiro sentido ("Álvaro tinha de ter descido antes") que não está na prosa —
 atualizar.
-- [ ] Decisão:
+- [x] Decisão: aceito: o pagamento fica em *Megapascal*; o fio foi movido.
 
 ---
 
@@ -349,7 +349,7 @@ atualizar.
   num navio". E "dinheiro que eu não perguntei de onde a Bia tirou" — ela sabe.
 - Front matter de *A trava* e timeline: "~14h37" → 14h39 (a prosa está certa).
 - timeline.md repete o erro dos "dezesseis mil na primeira noite".
-- [ ] Decisão:
+- [x] Decisão: aceito, todos; a Iara dita a ordem e o Álvaro aperta, o que concilia o plano com a prosa.
 
 ---
 
@@ -365,7 +365,7 @@ atualizar.
 **Proposta:** cortar as glosas e deixar a ação carregar (o escalador defeituoso que
 ela descarregou, os 22 degraus, a tela da cota da Celeste). A frase de L1 vai para
 o velho, ou cai.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### R27. O pulso e as telas no ar não têm hardware nem estão no cânone
 O pulso é a tecnologia mais usada do livro (ligação, recado, mensagens, novela,
@@ -373,7 +373,7 @@ alerta de bulbo úmido, transferência por toque) e não tem forma, material, ca
 nem peso. As folhas que crescem no ar (*A suspeita*, *A última mensagem*) não têm
 custo nem limite. **Proposta:** descrever o pulso uma vez (frio contra a pele na
 câmara fria, em *Três quilos*) e registrar na bíblia, com o limite de rede.
-- [ ] Decisão:
+- [x] Decisão: aceito: a faixa de vidro mole, em *Três quilos*.
 
 ### R28. Lacunas da bíblia (invenções na prosa que não estão escritas)
 - o pulso; telas projetadas (R27);
@@ -399,7 +399,7 @@ E na bíblia, consertar:
 - a linha "Álvaro desceu antes de Iara subir" e a linha de *A dose* na tabela de
   frases (R24) não estão na prosa;
 - as seções "O vocabulário do mundo" e "Os lugares" estão vazias.
-- [ ] Decisão:
+- [x] Decisão: aceito: bíblia completada, referência cruzada removida (também no outline).
 
 ### R29. O marcador em aberto: o jargão dos técnicos
 O marcador da bíblia (linha ~162) pergunta o nome que os técnicos dão às cabines, ao trabalho fora, aos turnos.
@@ -417,7 +417,7 @@ fora"; "turno" para o convés, "subida" para uma viagem, "noites" para antiguida
    "noites". Dá ao título um segundo sentido — a última subida do Otávio como a
    volta a mais — mas carrega o título demais. A alternativa é fazer de "subida" a
    unidade.
-- [ ] Decisão:
+- [x] Decisão: decidido: "cabine" só para o que anda na fita; letras na fala; "luva" para saída; "subida" e "noites"; nunca "volta".
 
 ---
 
@@ -464,7 +464,7 @@ O que mais pesa, com a proposta:
 | ombros sacudindo sem barulho | 4 | 3, 11, 15 |
 
 (Os números de capítulo da tabela são só para localizar: ver `make digest`.)
-- [ ] Decisão:
+- [x] Decisão: aceito: devagar 61→33, menina 25→14, "Quer dizer" 22→4.
 
 ### R31. As vozes se parecem
 - "Estou dizendo para mim" é do Álvaro em *Três quilos*, volta palavra por palavra
@@ -473,7 +473,7 @@ O que mais pesa, com a proposta:
 - Inês, Bia, Álvaro e Hugo falam no mesmo "Eu sei." / "Não sei." curto. O Hugo é
   "correto demais" mas fala solto ("a gente lançava demais"): dar-lhe sintaxe formal
   ("Ele achava que nós lançávamos demais", "Não pretendo fingir").
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### R32. Aberturas e fechos
 Fortes: as aberturas de *Vinte mil, Três quilos, O nó, A suspeita, A dose, A última
@@ -487,7 +487,7 @@ entra."), *A trava* ("Ainda não.").
 - *A descida*: terminar em "Ele voltou a pesar o que pesava."
 - *Megapascal*: o fecho é "A falha é real."; o parágrafo depois dilui.
 - *Ele se prendeu*: ver R17.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ### R33. Erros pequenos
 - "Às uma e doze" → "À uma e doze" (*A suspeita* l.127; *O que ele deixou* l.31,
@@ -509,7 +509,7 @@ entra."), *A trava* ("Ainda não.").
 - *Terra* l.137: "sumiu do continente" → "sumiu no continente".
 - Pronome oblíquo misturado na narração ("Eu vejo ela notar" × "Eu a vejo"). Escolher
   um registro.
-- [ ] Decisão:
+- [x] Decisão: aceito.
 
 ---
 

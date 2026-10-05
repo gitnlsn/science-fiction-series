@@ -22,10 +22,9 @@ cast:
 - moises
 - rute
 source: a-volta-a-mais/chapters/18-terra.md
-source_sha: 08c54f0c6a86
+source_sha: 24d84832979a
 status: draft
 ---
-
 On the Anchor, I weigh sixty-six kilos, and today I don't complain about any of them.
 
 It's been a month since I came down. I came down with Álvaro in M-1, along the stopped ribbon, two days and
@@ -42,8 +41,9 @@ My knees complained. I stood anyway.
 The cable is still stopped.
 
 Not all of it. The replacement of the stretch began two weeks after the clamp: a crew of eight, with
-Álvaro at the Post and me in control, because control is what I'm allowed to do while
-legal hasn't decided. The maintenance cars go up and down, one at a time, released by
+Álvaro at the Post and me in control, on the ground. The letter from the medical service came on
+the second day, with the same letterhead as Otávio's: the year's limit is reached, and I don't go
+up until a year after the clamp. The maintenance cars go up and down, one at a time, released by
 hand, carrying new ribbon and tools and people. The cargo climbers, no. The ramp in the
 launch bay has been empty for thirty-five days. C-114 is parked against the wall of the
 cargo deck, with the lid of its niche open, because nobody has had the heart to seal it
@@ -63,9 +63,9 @@ cloud, more or less. Four hundredths of a degree, more or less, added to the wor
 when there shouldn't have been any. And, on the Anchor and along the whole coast of the Equator, more still
 weeks than there would have been.
 
-"People are going to die," Hugo said, at the circle. "I'm not going to pretend they won't. More than would
-have died if the cable hadn't stopped. I know the numbers." He looked at me, from the other
-side of the Well. "And I know the other number. The one for the ribbon on the ground along the Equator. That one is
+"People are going to die," Hugo said, at the circle. "I do not intend to pretend otherwise. More than would
+have died if the cable hadn't stopped. I am familiar with the numbers." He found my face, from the other
+side of the Well. "And I am familiar with the other number. The one for the ribbon on the ground along the Equator. That one is
 bigger."
 
 Nobody applauded. It isn't something you applaud. But the old man with the dried fish, who now has
@@ -90,9 +90,9 @@ She turns off the device. "That's what I can write."
 
 "That's what it is."
 
-"That's what I know." She looks at me. "You taught me something, Iara. I thought separating
+"That's what I know." She turns to me. "You taught me something, Iara. I thought separating
 what we know from what we think was the end of the job. That after you separate them, what's left is
-the truth." She almost smiles, and it's the first time I've seen her almost smile. "Sometimes
+the truth." One corner of her mouth moves, and it's the first time I've seen that. "Sometimes
 what's left is only the separation."
 
 I don't say anything.
@@ -132,15 +132,15 @@ read it. All of them. Even the wrong ones. Especially the wrong ones."
 
 "I know. I'm saying it for me."
 
-Álvaro almost laughs. He nods.
+Álvaro lets a breath out through his nose, which for him is laughing. He nods.
 
 "The second: Bia comes back. To the technicians. Not to the deck. With me."
 
 Álvaro goes quiet. Bia was fired the day she told Inês about the extras. The man who
-paid on the side has vanished from the mainland. Mrs. Rute's cooler is still on the wall, paid off to the
-end, and I didn't ask Bia where the money came from.
+paid on the side is still missing somewhere on the mainland. Mrs. Rute's cooler is still on the wall, paid
+off to the end with the money from the extras, which nobody has come to ask for back.
 
-"She loaded the extras," Álvaro says, slowly.
+"She loaded the extras," Álvaro says.
 
 "And she told. When nobody else was going to tell." I look at the ribbon. "He tied himself on for me to
 find. Bia kept the notebook for me to find. Without her, I'd have had nothing."
@@ -182,10 +182,10 @@ Nobody speaks. It isn't a circle for speaking.
 The burial rope is an ordinary rope, thick, a deck rope. Someone has to tie it to the cloth,
 at the waist, to lower it.
 
-I take the gray rope off my wrist. The half-meter one. Flattened by two months of wheels, with
+I take the gray rope out of my coverall pocket, coiled. The four meters. Flattened by two months of wheels, with
 both ends cut by me on the twelfth, and the grip of his hands still pressed into the
-turns he made around the ribbon, a hundred and eighty meters below the Post, at eleven-something on a
-Thursday when he was supposed to be on a ship.
+turns he made around the ribbon, a hundred and eighty meters below the Post, on a
+night when he was supposed to be on a ship.
 
 I don't know what time. I don't know from what. I'm not going to know.
 
@@ -204,24 +204,16 @@ Then I tie the thick deck rope to the gray rope, with an ordinary knot, and I st
 
 ---
 
-Álvaro and I lower the rope together. Slowly. Hand over hand, like on the ribbon. The white
+Álvaro and I lower the rope together. Hand over hand, like on the ribbon. The white
 cloth goes down over the edge of hull nineteen, against the metal, and the wind makes it sway a
 little, and the low sun, from the side, turns it orange for a moment. He weighs seventy kilos.
 Here, he weighs seventy. My arms feel every one.
 
 *The cable doesn't hold weight. It holds tension.*
 
-I understand now, with the rope burning my hands, what I didn't understand in the cold room. It isn't
-the weight you carry. Seventy kilos, three kilos, it's the same thing. It's what you hold
-stretched between two things that pull. Hugo and Otávio. The heat and the ribbon. Álvaro and the
-rule he wrote. Bia and her mother. Me and a call at twenty-three fourteen that
-I didn't answer, and a forty-one-second voice saying *leave that with me*.
-
-Nobody holds the weight. We hold the tension. And that's what holds.
-
 The cloth touches the water.
 
-Álvaro looks at me. I nod. He lets go of the rope.
+Álvaro waits. I nod. He lets go of the rope.
 
 ---
 
@@ -238,7 +230,7 @@ It's warm. And it vibrates. Not much. Something fine, continuous, that I feel mo
 than in the skin.
 
 It's a maintenance car. Just one. The replacement car, going up with new ribbon to the Post, where
-Álvaro will be tomorrow, released by hand by Laís, at three hundred an hour. I recognize the
+Álvaro will be tomorrow and I won't, released by hand by Laís, at three hundred an hour. I recognize the
 song. High. Light. With the coming and going of something that climbs and is always a little behind
 the piece of ribbon above it.
 

@@ -2,7 +2,7 @@
 title: Vinte mil
 part: I — VINTE MIL
 pov: Iara
-when: 2110-03-12 — tarde
+when: 2110-03-12 — noite (chegada às ~20h40)
 where: o cabo, a 20.000 km
 premise: Numa subida de manutenção, Iara encontra um corpo amarrado ao cabo, e é
   Otávio; ela vê o nó e ainda não o lê; lembra que não atendeu a ligação dele.
@@ -118,19 +118,20 @@ o chão e a Estação onde alguém pode dormir de verdade. Eu dormi ali umas
 duzentas noites na vida. O Otávio, umas três mil.
 
 Diminuo a velocidade. As rodas do anel mudam de som contra a fita, de um
-zumbido para um ronco baixo, e a cabine desacelera tão devagar que eu só sei que
+zumbido para um ronco baixo, e a cabine desacelera sem que eu sinta. Só sei que
 desacelerou porque o número no painel diminui.
 
 E então o painel apita.
 
-Não é o alarme. É o outro som, o curto, o de *objeto na fita*. O leitor da
+Não é o alarme. É o outro som, o curto, o de *objeto na borda*. O leitor da
 frente, que varre o cabo acima da cabine, achou alguma coisa que não devia estar
 ali, presa ao cabo, a cento e oitenta metros abaixo do Posto, e parou de
 contar para me mostrar.
 
 Olho a imagem.
 
-É uma mancha escura, do tamanho de uma pessoa, no meio da fita.
+É uma mancha escura, do tamanho de uma pessoa, na borda da fita, fora do trilho
+das rodas.
 
 ---
 
@@ -157,14 +158,15 @@ de sala, é outra coisa, é a falta de qualquer coisa que possa levar um som. Sa
 O cabo está na minha frente. Um metro de largura, escuro, fosco, sem brilho
 nenhum. Visto de perto não parece uma fita: parece um corte no céu. Estendo a
 mão e toco nele com a luva, como toco todas as vezes, porque o Otávio tocava.
-É duro. Não é rígido, mas é duro, esticado entre duas forças que eu não consigo
-imaginar, a Terra puxando para baixo e o contrapeso, a cem mil quilômetros daqui,
-puxando para fora.
+Ele lia a fita com a palma, e é dele que vem a gente chamar saída de luva. É
+duro. Não é rígido, mas é duro, esticado entre duas forças que eu não consigo
+imaginar, a Terra puxando para baixo e o contrapeso, a cem mil quilômetros
+daqui, puxando para fora.
 
 *O cabo não aguenta peso*, dizia ele. *Aguenta tensão.*
 
-Desço pela fita, mão depois de mão, puxando a linha de vida. Não preciso de
-força. Eu peso quase nada. É mais nadar do que descer.
+Subo pela fita, mão depois de mão, puxando a linha de vida. Não preciso de
+força. Eu peso quase nada. É mais nadar do que subir.
 
 Vinte metros. Quinze.
 
@@ -175,7 +177,7 @@ A mancha escura tem braços.
 É um traje de trabalho. Igual ao meu, branco e cinza, só que mais velho, com as
 faixas refletivas descascando nos cotovelos, do jeito que só ficam as faixas
 de quem usa o mesmo traje por anos e se recusa a trocar. Está de costas para
-mim, encostado na fita, com os braços soltos, abertos, balançando devagar num
+mim, encostado na fita, com os braços soltos, abertos, balançando num
 vento que não existe. Está parado. Tudo aqui em cima está parado, e mesmo assim
 aquele traje está mais parado do que tudo.
 
@@ -191,7 +193,7 @@ para ficar torto*, ele disse, *assim eu sei que é o meu*.
 
 Está torto.
 
-Estendo a mão e viro o traje para mim, devagar, porque não pesa nada, e o traje
+Estendo a mão e viro o traje para mim, sem força, porque não pesa nada, e o traje
 gira na fita com uma leveza horrível, como se fosse vazio.
 
 Não é vazio.
@@ -238,7 +240,7 @@ tinha avisado que ia faltar.
 
 Eu vejo agora. Não tinha visto, porque estava olhando a cara dele. Na cintura do
 traje, no anel de engate onde a gente prende a linha de vida, não há linha de
-vida. Não há mosquetão. Há uma corda. Uma corda fina, de trabalho, de fibra
+vida. Não vejo mosquetão. Há uma corda. Uma corda fina, de trabalho, de fibra
 cinza, das que a gente carrega enrolada na perna do traje para emergência. Ela
 sai do anel da cintura dele, dá duas voltas na fita, por cima e por baixo, e
 volta para o anel. E fecha num nó.
@@ -260,7 +262,7 @@ aprende no primeiro mês, porque não corre e não aperta e desfaz com uma mão 
 Mas tem uma volta a mais. Uma volta por dentro da alça, antes de fechar, que
 ninguém no cabo dá, porque não precisa, porque não serve para nada.
 
-Ninguém, menos um.
+Ninguém. Só um.
 
 *Amarra como se fosse voltar*, ele dizia, no meu primeiro ano, me vendo errar
 o lais de guia pela décima vez no convés da Âncora, com as mãos queimadas de
@@ -269,15 +271,15 @@ sol. E dava a volta a mais, devagar, para eu ver. *Essa volta não segura nada.
 
 Eu nunca entendi direito. Achei que era mania. O Otávio tinha muitas.
 
-Fico olhando o nó. Uma hora e dez de dose, e eu gasto não sei quantos minutos
-olhando um nó.
+Fico olhando o nó. Uma luva de uma hora e dez, e eu gasto não sei quantos
+minutos olhando um nó.
 
 Tem outra coisa, e eu só percebo porque sou técnica, e porque a parte da cabeça
 que ninguém desligou continua fazendo contas. Um corpo solto aqui não fica. A
 fita gira com a Terra, e nesta altura ela gira devagar demais para segurar uma
 coisa solta em órbita. Se ele tivesse se soltado, se tivesse escorregado, se
-alguém o tivesse soltado, ele teria ido. Teria caído, devagar primeiro, depois
-cada vez mais depressa, em direção àquela mão aberta azul e branca lá embaixo, e
+alguém tivesse soltado ele, ele teria ido. Teria caído, devagar primeiro, depois
+cada vez mais depressa, em direção àquela coisa azul e branca lá embaixo, e
 em algum ponto teria entrado no ar e queimado, e ninguém nunca teria achado nada.
 
 Ele não foi. Ele está aqui. Amarrado com uma corda que não é a linha de vida,
@@ -318,10 +320,10 @@ mundo disse.
 
 Eu não liguei.
 
-Tiro a mão de cima da luva dele. Puxo a linha de vida. Subo pela fita, mão
-depois de mão, sem peso nenhum, sem nada que me segure além de uma corda presa
+Tiro a mão de cima da luva dele. Puxo a linha de vida. Desço pela fita até a
+cabine, sem peso nenhum, sem nada que me segure além de uma corda presa
 a uma caixa presa a uma fita presa a uma cidade que flutua num mar que eu não
 consigo ver daqui.
 
-Atrás de mim, cento e oitenta metros abaixo do Posto, o Otávio fica onde está.
+Acima de mim, cento e oitenta metros abaixo do Posto, o Otávio fica onde está.
 Amarrado. Esperando alguém vir desfazer o nó e saber que foi ele.

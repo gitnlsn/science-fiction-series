@@ -21,10 +21,9 @@ cast:
 - ines
 - bia
 source: a-volta-a-mais/chapters/07-a-suspeita.md
-source_sha: 724718e6dc72
+source_sha: 27930acbab0f
 status: draft
 ---
-
 The robots don't find anything.
 
 Álvaro sends me the message on the fifth day after the descent, from up there, from the
@@ -46,7 +45,7 @@ Neither do I.
 
 ---
 
-Twelve days after the descent, Inês sends for me.
+Thirteen days after the descent, Inês sends for me.
 
 She sends for me the way the agency does: a message on my wrist, at seven in the morning on a
 Wednesday, with a time and a place and no question. *Nine o'clock. Deck one,
@@ -61,7 +60,7 @@ looking switched off.
 
 "Sit down, Iara."
 
-I sit. The room's cooler is at twenty-five degrees, and after twelve days at
+I sit. The room's cooler is at twenty-five degrees, and after thirteen days at
 twenty-nine in hull seven, the cold raises goosebumps on my arms.
 
 "Two things," she says. "And then a question."
@@ -76,7 +75,7 @@ A hundred and twelve passengers. The names in order. I read without meaning to, 
 
 *Reis, Otávio — reserved — did not board.*
 
-"He made the reservation three weeks ago," Inês says. "The same day he got the letter
+"He made the reservation three weeks before he died," Inês says. "The same day he got the letter
 from the medical service. He reserved, and didn't board, and nobody noticed, because a passenger
 who doesn't show up for the ship isn't anybody's problem. The ship sails anyway."
 
@@ -88,7 +87,7 @@ everyone would think he was at sea.
 
 "I found it in his apartment."
 
-"I know you found it." Her face doesn't change. "You broke the seal."
+"You found it after you broke the seal." Her face doesn't change.
 
 "I did."
 
@@ -124,11 +123,18 @@ It didn't log who was inside, because the Post doesn't ask."
 
 "It wasn't me."
 
-"I know it wasn't you." She says it quickly, and it's the first time I've
-seen her say anything quickly. "Your badge went through the turnstile on the cargo
-deck at six in the morning that Tuesday, and at eleven, and at two, and at eight at night.
-You were here. You worked fourteen hours. At twelve past one you were
-asleep, or should have been. You didn't go up."
+"What I know is that it wasn't you who went up." She says it quickly, and it's the
+first time I've seen her say anything quickly. The screen changes in the air: the
+turnstile on the cargo deck. "Your badge went through here at six in the morning that
+Tuesday, and at eleven, and at two, and at eight at night. You worked fourteen hours. At
+twelve past one you were asleep, or should have been."
+
+She looks at my line. I read the one above it, without meaning to, the way I read the ship's.
+
+*Monday, 23:58 — entry — technician B.* And no exit until five thirty.
+
+At twelve past one, when the car left the Well with my code, Bia was on the
+cargo deck, right up against the Well. I don't say anything.
 
 "Then it was him."
 
@@ -167,7 +173,7 @@ A breath. Of someone who was going to say something more, and was choosing how.
 "He called me," I say. My voice comes out strange. "The night before. At eleven at night. I didn't
 answer."
 
-Inês stays silent. A long time. I see, for the first time, something cross her
+Inês stays silent. A long time. I see something cross her
 face, quickly, that she hides right away, but that I see: it isn't distrust. It's
 pity.
 
@@ -190,23 +196,22 @@ I separate them, and even separated they both hurt the same.
 She puts her hands together on the table, the sleeves rolled twice.
 
 "For the agency, Otávio died in an accident. So far, that's what the evidence says.
-But the Operator doesn't only want to know how he died. It wants to know how a technician
-barred from going up by the medical service managed to go up. And the answer is: with your
-code. On an emergency departure you never asked for, but that's in your
+But the Operator doesn't only want to know how he died. It wants to know how a car
+left the Well off-schedule, in the middle of the night, with no emergency at all. And the
+answer is: with your code. On an emergency departure you never asked for, but that's in your
 name." She stops. "The Operator's legal people think you made it easy. That you gave him the
-code, or let him know the code knowing he could use it. That you helped
-a man barred from going up to go up. And that he died up there."
+code, or let him know the code knowing he could use it. That a man six days from never
+going up again went out alone, off-schedule, because you let him. And that he died up there."
 
-"I didn't know about the letter."
+"I didn't know he was going up."
 
-"I believe you. Legal, I don't know." She looks at the ribbon through the window. "Your
+"I believe you. Legal, not yet." She looks at the ribbon through the window. "Your
 suspension is going to continue. Not because of the seal, or cutting the rope. Because of this.
 Until they decide whether you're responsible."
 
 "Responsible for his death."
 
-"For his climb." She looks at me again. "It's not the same thing. But to
-someone on the outside, it looks like it."
+"For his climb. It's not the same thing. But to someone on the outside, it looks like it."
 
 I don't say anything. There's nothing to say. Outside, in the window, a cargo climber
 goes up the ribbon, the second of the morning, and I hear, even through the glass, the rumble of the
@@ -229,7 +234,8 @@ Iara, is that it wasn't there. The rest is what you think."
 
 I go down to the cargo deck to look for Bia.
 
-I don't know why. Because it's what I do when I don't know what to do: I go to Bia.
+I tell myself it's because it's what I do when I don't know what to do: I go to
+Bia. I don't tell myself about the line at eleven fifty-eight.
 It's been that way for nine years. Bia came to the cable three years after me, and Otávio
 trained us both, and we shared a car on thirty climbs and a bunk room for a hundred nights
 at the Post, and she's the only person on the Anchor who has seen me throw up and laugh on the same day.
@@ -272,10 +278,11 @@ rain starts when I'm halfway there, and falls hard on the slanted
 panels of the roofs, and runs down the gutters to the cisterns, and the covered
 corridor fills with a noise of water that doesn't wet anyone.
 
-I think: my code. My unanswered call. My friend with her back turned.
+I think: my code. My unanswered call. My friend with her back turned,
+who was on the deck at twelve past one.
 
 I think: it's me. For the Operator, for legal, for anyone on the outside, the
-person who made possible the climb of a man barred from going up, who died up
+person whose code took out of the Well, off-schedule, the car of a man who died up
 there, is me.
 
 And I think, with the part of my head that nobody switched off and that keeps doing

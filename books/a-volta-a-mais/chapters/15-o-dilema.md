@@ -39,14 +39,14 @@ todo mundo um pouquinho. Eu inclusive. Três mil noites.*
 — Ele sempre fazia isso — diz o Álvaro. — Se botava na conta. Primeiro. Antes de todo
 mundo. Para ninguém se sentir sozinho na culpa. — Ele esfrega os olhos com as costas da
 mão, e as bolhas d'água se partem e ficam flutuando, pequenas, na frente da tela. — Eu
-nunca vi o relatório, menina. Juro.
+nunca vi o relatório. Juro.
 
 — Eu sei.
 
 — Como você sabe?
 
 — Ninguém viu. — Eu solto o caderno do elástico do pulso e abro na página vinte e
-quatro, no quadrado feito à régua. — Senta. Quer dizer. Se prende. Eu vou te mostrar
+quatro, no quadrado feito à régua. — Se prende em alguma coisa. Eu vou te mostrar
 tudo. E depois eu preciso mostrar para o Hugo.
 
 ---
@@ -55,7 +55,7 @@ O módulo de reunião da Estação é redondo, com uma mesa redonda no meio que 
 para apoiar nada, porque nada se apoia aqui, e que existe só porque as pessoas não
 sabem conversar sem uma mesa no meio. As cadeiras são alças presas no chão, onde se
 enganchar os pés. Tem uma janela grande, a mesma da minha primeira vez, que dá para
-baixo, para a Terra do tamanho de um punho fechado.
+baixo, para a Terra do tamanho de dois punhos fechados.
 
 O Hugo está enganchado do outro lado da mesa, de camisa clara de manga comprida, com o
 cabelo preto penteado para trás, que aqui não fica penteado: flutua um pouco, como
@@ -84,14 +84,14 @@ página vinte e três, e eu seguro com a mão.
 Levo uma hora e meia. Mostro tudo, na ordem, do jeito que o Otávio fazia com a fita
 velha na bancada. De um lado o que eu sei, do outro o que eu acho. Nunca misturar.
 
-A tabela à régua. Um décimo, dois, quatro, seis, sete. E o meu oito, com o leitor de
+A tabela. Um décimo, dois, quatro, seis, sete. E o meu oito, com o leitor de
 mão, às quatro da manhã do dia dezesseis.
 
-A conta a lápis com rasuras. Quarenta e oito mil megapascal num lugar que aguentava
-cem mil. Fator dois. As fibras que se partem e passam a carga para as vizinhas. A curva
-que não é reta.
+A conta a lápis com rasuras. Quarenta e oito mil megapascals num lugar que aguentava
+cem mil. Fator dois. As fibras que se partem e passam a carga para as vizinhas: *não é a
+média, é o vizinho da fibra partida*. A curva que não é reta.
 
-O quadrado à régua. *Três por dia: ~2113. Quatro por dia: ~4 meses. Dois por dia:
+O quadrado. *Três por dia: ~2113. Quatro por dia: ~4 meses. Dois por dia:
 aguenta até a troca do trecho, com folga.*
 
 O relatório do dia dezessete do segundo mês. As quatro linhas do trâmite. Um minuto.
@@ -100,8 +100,8 @@ décimos em um sexto de por cento.
 
 E depois os extras.
 
-O Hugo não se mexe quando eu digo *extras*. O Álvaro se mexe: vira a cabeça para o Hugo,
-devagar, e fica olhando.
+O Hugo não se mexe quando eu digo *extras*. O Álvaro se mexe: vira a cabeça para o Hugo
+e fica olhando.
 
 Mostro o registro de cobrança. *Terça, dia 4. Complementar C-X9. Saída do Poço 06h40.*
 Mostro o canto do cabo daquela noite, a linha fina subindo e descendo na tela, o tremido
@@ -127,7 +127,7 @@ fora da fita.
 — Ninguém sabia — digo.
 
 — Eu não sabia. — Ele repete, como se repetir desse para desfazer. — Os complementares
-sobem atrás do comboio, com distância, e ninguém nunca... não tem ninguém do lado de
+sobem atrás do comboio, com distância, e ninguém nunca... não há ninguém do lado de
 fora de madrugada, fora da escala, ninguém nunca... — Ele para. Olha o canto do cabo na
 tela, o buraco de duas horas. — Foi o C-X9?
 
@@ -157,13 +157,13 @@ quem sabe o que vem e já perdeu a discussão antes de começar e vai discutir m
 
 — Eu quero que ninguém mais suba por aquele trecho até alguém trocar ele.
 
-— É a mesma coisa. Não tem outro caminho. É uma fita só. — Ele se inclina para a frente,
+— É a mesma coisa. Não há outro caminho. É uma fita só. — Ele se inclina para a frente,
 preso pelos pés. — Você sabe o que acontece se o cabo parar, Iara? Não só o para-sol. O
 para-sol, sim: os discos se gastam, cinco por cento da nuvem por ano, e ninguém repõe. Um
 ano de cabo parado, e a sombra encolhe cinco por cento, e o planeta esquenta um décimo de
-grau num ano. Um décimo de grau num ano, Iara. É o que antes levava dez. — Ele aponta pela
-janela, para a Terra do tamanho de um punho. — E não é no planeta. É no Equador. É na
-Âncora. Você teve a semana parada. Cinco velhos. A sua vizinha.
+grau, quando o mar alcançar. Um décimo de grau, Iara. É o que antes levava quatro ou cinco
+anos. — Ele aponta pela janela, para a Terra do tamanho de dois punhos. — E não é no
+planeta. É no Equador. É na Âncora. Você teve a semana parada. Cinco velhos. A sua vizinha.
 
 — A dona Celeste.
 
@@ -171,7 +171,7 @@ janela, para a Terra do tamanho de um punho. — E não é no planeta. É no Equ
 os números. É o meu trabalho saber os números. E os números dizem que um ano de cabo parado
 são semanas paradas que não acabam. Não cinco. Centenas. Na Âncora e em toda a costa do
 Equador, em lugares que você nunca viu. — Ele respira. — Eu mandei os extras porque o
-programa está atrasado e o calor não espera. Não porque eu não gostava do Otávio.
+programa está atrasado e o calor não espera. Não por não gostar do Otávio.
 
 — Eu sei.
 
@@ -186,13 +186,13 @@ O Álvaro fala pela primeira vez desde o laboratório.
 
 Nós dois olhamos para ele.
 
-Ele estende a mão grande e põe o dedo no quadrado à régua, embaixo do meu, na última
+Ele estende a mão grande e põe o dedo no quadrado, embaixo do meu, na última
 linha, a menor, escrita com o til torto. *Dois por dia: aguenta até a troca do trecho, com
 folga.*
 
 — Ele deixou a resposta — diz o Álvaro. — Ele não pediu para parar o cabo. Ele pediu dois
 por dia. Foi o que ele pediu para você, Hugo, na sala, na frente de todo mundo. Dois por
-dia até trocarem o trecho. — Ele olha para mim. — Ele não queria parar o cabo, menina.
+dia até trocarem o trecho. — Ele se vira para mim. — Ele não queria parar o cabo, menina.
 Ele construiu o cabo. Ele queria que o cabo continuasse.
 
 Eu olho o número. *Dois por dia. Com folga.*
@@ -204,8 +204,8 @@ O Hugo olha também. Muito tempo.
 — Dois anos atrasado é melhor que um ano parado — diz o Álvaro. — E muito melhor que a
 fita no chão ao longo do Equador.
 
-O Hugo fica calado. Lá fora, pela janela, a Terra gira devagar, tão devagar que só dá
-para ver que girou se a gente parar de olhar por uma hora.
+O Hugo fica calado. Lá fora, pela janela, a sombra da noite anda devagar por cima da
+Terra, tão devagar que só dá para ver que andou se a gente parar de olhar por uma hora.
 
 — Sem extras — diz o Hugo, por fim. — Nenhum. Eu corto hoje. — Ele solta um pé da alça e
 engancha de novo, um gesto nervoso de quem não sabe o que fazer com o corpo sem peso. —
@@ -219,42 +219,48 @@ Eles olham para mim. Os dois.
 
 ---
 
-Eu devia dizer sim.
-
-É a resposta dele. Está escrita a lápis, com o til torto, num quadrado feito à régua. É o
-que ele pediu, na sala do Hugo, e ninguém ouviu, e morreu tentando mostrar. É o meio do
-caminho entre o para-sol e a fita, entre o calor e a queda, entre o Hugo e o Otávio.
-Ninguém perde tudo. O programa atrasa. O cabo não para. A dona Celeste não teria morrido
-por causa disso, e os que vêm depois dela também não.
-
-*O cabo não aguenta peso. Aguenta tensão.*
-
-Eu estou enganchada pelos pés numa alça do chão, sem peso nenhum, e sinto a tensão como
-senti na câmara fria, com ele a três quilos do meu lado. Não o peso. As duas coisas
-puxando. De um lado o Hugo, com os números certos sobre o calor. Do outro, o Otávio, com os
-números certos sobre a fita. E o Álvaro no meio, esticado, com a mão grande em cima do
-quadrado, segurando as duas coisas, como o cabo segura a Terra e o contrapeso.
-
-— Dois por dia funciona — digo. — Se ainda estiver na curva dele.
+— Não — digo.
 
 O Álvaro franze a testa.
 
-— Como assim?
-
 — A conta dele é de três meses atrás. Com cinco pontos. — Eu aperto o caderno. — Desde
-então passaram três meses de extras. Quatro por dia. Mais o do C-X9, que passou por lá na
-noite em que ele morreu, e pode ter puxado a fita de lado com um homem preso nela. Mais
-todos os outros. A curva não é reta, Álvaro. Cada ano tira mais do que o anterior. Se
-ainda estiver onde ele disse, dois por dia segura. Se já tiver passado...
+então passaram três meses de extras. Quatro por dia. Mais o C-X9, que passou por lá na
+noite em que ele morreu e pode ter puxado a fita de lado com um homem preso nela. A curva
+não é reta, Álvaro. Cada ano tira mais do que o anterior. Ele escreveu dois há três meses.
+Ninguém sabe se ainda é dois.
 
-— Então os robôs finos vão dizer — diz o Hugo. — De hora em hora. É para isso.
+— Os robôs finos vão dizer — diz o Hugo. — De hora em hora. É para isso que servem.
 
-— É para isso — digo.
+— Os robôs vão dizer quando já tiver passado. — Eu ponho o dedo no meu oito, a última
+linha da tabela. — Para tudo agora. Hoje. Ninguém passa por aquele trecho até a troca. Se
+eu estiver errada, vocês perdem uns meses de para-sol. Se vocês estiverem errados, perdem
+a fita.
 
-E não digo sim. E não digo não. Fico olhando a Terra pela janela grande, do tamanho de um
-punho, com a linha que eu não vejo saindo do meio dela, passando por quarenta centímetros
-cansados a vinte mil quilômetros, e penso na tabela à régua, um décimo, dois, quatro, seis,
-sete, oito, e em quanto seria o próximo número.
+— Uns meses de para-sol são as semanas paradas — diz o Álvaro. — Com nome. Você sabe
+disso melhor que eu. — Ele bate o dedo no quadrado. — Ele escreveu dois. Com folga. Eu
+acredito no que ele escreveu.
+
+— Ele escreveu há três meses.
+
+— E eu trabalhei com ele a vida inteira.
+
+O Hugo alisa a manga da camisa, que não precisa de nada.
+
+— A revisão do programa somos nós dois, Iara — diz ele, sem nenhum triunfo. — Você está
+suspensa. Não tem voto. — Ele olha para o Álvaro, e o Álvaro faz que sim. — Mas, se
+tivesse, seriam dois contra um.
+
+— Então eu digo o que eu acho, que é a única coisa que ainda me deixam fazer. — A voz sai
+mais baixa do que eu queria. — Vocês estão apostando a fita numa conta de três meses
+atrás, de um homem que vocês não ouviram quando ele estava vivo. E quem paga, se a curva
+já passou, não está nesta sala.
+
+Ninguém responde. O Hugo escreve a decisão no pulso. O Álvaro não olha para mim.
+
+Eu fico olhando a Terra pela janela grande, do tamanho de dois punhos, com a linha que eu
+não vejo saindo do meio dela, passando por quarenta centímetros cansados a vinte mil
+quilômetros, e penso na tabela, um décimo, dois, quatro, seis, sete, oito, e em quanto
+seria o próximo número.
 
 ---
 
@@ -275,9 +281,12 @@ caderno na minha mão. — Ele só não te deixou como morreu.
 
 — Talvez. — Eu olho para a janela. — Ele disse *não fica procurando*.
 
-O Álvaro fica um tempo na porta. Depois faz que sim, devagar, e sai flutuando pelo
+O Álvaro fica um tempo na porta. Depois faz que sim e sai flutuando pelo
 corredor, grande, desajeitado, como um urso que alguém soltou na água.
 
 Eu fico sozinha no módulo de reunião, presa pelos pés, com o caderno aberto no quadrado à
-régua. Lá fora, a Terra. Lá embaixo, a vinte mil quilômetros, os robôs finos começando a
-subir pelo trecho, para ler, de hora em hora, o que ninguém lia.
+régua. Lá fora, a Terra. Lá embaixo, a vinte mil quilômetros, o trecho que eles decidiram
+continuar usando, dois por dia, e os robôs finos começando a subir por ele, para ler, de
+hora em hora, o que ninguém lia.
+
+Eu disse não. Não contou.

@@ -26,7 +26,7 @@ cortina fechada e a luz de leitura virada para a parede, do jeito que ele virava
 olhando o teto de plástico a trinta centímetros da minha cara. O Posto faz o
 barulho que faz de madrugada, o zumbido baixo da ventilação, o estalo de vez em
 quando da estrutura esfriando do lado da sombra. Do outro lado do corredor, a
-Inês respira devagar, dormindo como quem dorme em qualquer lugar. O Álvaro não
+Inês respira fundo e igual, dormindo como quem dorme em qualquer lugar. O Álvaro não
 dorme; ouço ele se mexer no beliche de baixo, à direita, o único que ele aceitou.
 
 E eu estou pensando no meu primeiro ano, sem querer, numa saída qualquer, e de
@@ -50,8 +50,8 @@ Eu olhei. Era a fita. Escura, fosca, igual.
 pela face, e depois de novo pela borda. — Mas tem alguma coisa. Sente.
 
 Eu passei a luva. Não senti nada. Senti a fita, dura, esticada. Disse que não
-sentia nada, e ele não insistiu. Tirou da perna do traje um pedaço curto de
-corda de emergência, meio metro, e deu duas voltas em volta da fita, bem apertado,
+sentia nada, e ele não insistiu. Tirou da perna do traje um lance da
+corda de emergência, uns seis metros, e deu duas voltas em volta da fita, bem apertado,
 e fechou com um lais de guia.
 
 Com a volta a mais.
@@ -82,7 +82,7 @@ centímetros de um teto de plástico.
 
 Ele não se amarrou para não cair.
 
-Quer dizer, se amarrou. Mas não foi para isso. Um homem que está sem ar e que
+Um homem que está sem ar e que
 quer só não cair prende a linha, ou o que sobrou dela, ou abraça a fita. Não tira
 a corda da perna, não dá duas voltas, não faz um lais de guia com uma volta a
 mais que não segura nada e que custa, com a luva, sem ar, uns trinta segundos a
@@ -120,7 +120,7 @@ Saio.
 Cento e oitenta metros para baixo. Mão depois de mão, pela fita, sem peso. Não
 está escuro. Lá embaixo, na Âncora, são quatro da manhã e é noite fechada; aqui
 em cima, a noite quase nunca chega. O Posto está alto demais para a sombra da
-Terra, que só o alcança perto da meia-noite, por uma hora, nesta época do ano. O
+Terra, que só o alcança perto da meia-noite, por quase duas horas, nesta época do ano. O
 resto do tempo é o Sol, sempre, duro, de lado, sem ar nenhum para amaciar. A fita
 brilha fosca do lado de onde ele vem e é preta do outro. As luzes de posição do
 Posto, vermelha e verde, vão ficando pequenas lá em cima.
@@ -131,15 +131,15 @@ Cento e oitenta metros. Paro.
 
 Estão ali.
 
-As duas voltas da corda de emergência, em volta da fita, apertadas, com a ponta
-que eu cortei balançando solta. Eu cortei do lado da fita, longe do nó, para
+As duas voltas da corda de emergência, em volta da fita, apertadas, com as duas
+pontas curtas que eu cortei. Eu cortei dos dois lados, rente à fita, para
 levar o nó com ele; e o que ficou foram estas duas voltas, aqui, abraçando o
-cabo, sem nó nenhum, com a ponta cortada. Eu passei três dias no Posto sabendo
+cabo, sem nó nenhum. Eu passei três dias no Posto sabendo
 que elas estavam aqui, e não pensei nelas.
 
 Ele marcou o lugar, e eu levei a marca e deixei o lugar.
 
-Ponho a luva em cima das duas voltas. Estão firmes. Seis dias do lado de fora e
+Ponho a luva em cima das duas voltas. Estão firmes. Dez dias do lado de fora e
 estão firmes. Ele sabia apertar.
 
 — Oi — digo, para a corda.
@@ -186,17 +186,18 @@ nada.
 
 E é exatamente aqui. Nos quarenta centímetros embaixo do nó.
 
-Ponho a luva em cima. Passo devagar pela face da fita, e depois pela borda, e
+Ponho a luva em cima. Passo pela face da fita, e depois pela borda, e
 depois de novo pela borda, como ele fez no meu oitavo mês, e fecho os olhos
 dentro do capacete, e tento sentir.
 
-Na borda, um palmo abaixo das voltas, a luva agarra. De leve. Como se a borda
-da fita, que devia ser lisa, estivesse um pouco áspera, com fibras finíssimas se
-soltando da trama, arrepiadas, feito pelo de braço.
+Na borda, um palmo abaixo das voltas, do lado onde ele ficou pendurado, a luva
+agarra. De leve. Como se a borda da fita, que devia ser lisa, estivesse um pouco
+áspera, com fibras finíssimas se soltando da trama, arrepiadas, feito pelo de
+braço.
 
-Não sei se é isso. Não sei se é da fita, ou da linha de vida dele, que acabou
-esgarçada a um palmo do mosquetão, esfregando aqui. Não sei se é a causa ou a
-consequência. Não sei nem se é alguma coisa.
+Não sei se é isso. Pode ser da fita, ou da linha de vida dele, que acabou
+esgarçada a um palmo do mosquetão, esfregando aqui. Pode ser a causa ou a
+consequência. Pode não ser nada.
 
 Sei que é aqui.
 
@@ -218,7 +219,7 @@ novato soltou a linha de vida no convés da Âncora num dia de vento.
 
 — São quatro da manhã. — A voz dele treme. Não de raiva. — Você viu onde ele
 está. Você viu. E você sai sozinha, de madrugada, sem escala, para o mesmo lugar.
-*Ninguém cai sozinho*, menina. Você esqueceu?
+*Ninguém cai sozinho.* Você esqueceu?
 
 — Tem uma coisa na fita, Álvaro.
 
@@ -236,7 +237,8 @@ mudou de novo. Ficou cansada. — Você sabe disso.
 
 — Eu sei.
 
-— Os robôs vão reler o trecho. Hoje. Inteiro. Eu vou pedir.
+— Os robôs vão reler o trecho. Hoje. Inteiro, palmo a palmo, não de dois em dois
+metros como na rotina. Eu vou pedir.
 
 — Os robôs não vão ver.
 
@@ -247,7 +249,7 @@ mudou de novo. Ficou cansada. — Você sabe disso.
 Ele não responde. A outra voz fala de novo, e dessa vez é no canal, direto, no
 meu ouvido, calma como se falasse de uma mesa de cozinha.
 
-— Iara, é a Inês Garrido. Você saiu da estação durante uma investigação, sem
+— Iara, é a Inês Garrido. Você saiu do Posto durante uma investigação, sem
 autorização, e mexeu no local onde o corpo foi encontrado. Eu preciso que você
 volte agora, que você não toque em mais nada, e que você me entregue o leitor que
 está na sua mão sem apagar nenhuma leitura. Está bem?
@@ -277,7 +279,7 @@ que fez.
 Eu não tenho o que dizer.
 
 — Amanhã você desce — diz a Inês. — Com ele. A cabine de manutenção leva os dois.
-Eu fico com o Álvaro mais dois dias, para os robôs relerem o trecho. Lá embaixo,
+Eu fico com o Álvaro mais uma semana, para os robôs relerem o trecho. Lá embaixo,
 eu falo com você de novo.
 
 Olho para o Álvaro. Ele olha para o chão.

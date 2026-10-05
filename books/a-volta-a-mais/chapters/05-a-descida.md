@@ -73,7 +73,7 @@ Um recado. Nove segundos.
 Nove segundos. Ele nunca deixou um recado de nove segundos na vida.
 
 Eu olho o ícone por muito tempo. Lá fora, a fita sai de baixo da cabine e sobe. O
-painel diz *3,8 kg*.
+painel diz *3,2 kg*.
 
 Toco.
 
@@ -104,10 +104,10 @@ nome para um aparelho, uma vez, e desistiu.
 
 ---
 
-Na primeira noite, a cabine passa pelos dezesseis mil quilômetros.
+Na primeira noite, a cabine passa pelos dezoito mil quilômetros.
 
 Não durmo. Fico no banco com a cabeça encostada na janela fria, olhando a Terra,
-que agora é um pouco maior que uma mão aberta, e que está quase inteira no escuro,
+que agora dá três punhos com o braço esticado, e que está quase inteira no escuro,
 com o Sol do outro lado. Dá para ver as luzes. Poucas, amarelas, em manchas, ao
 longo de costas que eu nunca visitei. Nenhuma no mar. A Âncora está lá, em algum
 lugar desse escuro, sem luz nenhuma que dê para ver daqui, com nove mil pessoas
@@ -147,18 +147,33 @@ cair parece boiar.
 Eu achei bonito. Anotei no caderno, como anotava tudo o que ele dizia naquela
 época, com a letra redonda de quem ainda anota. Não pensei mais nisso.
 
-Agora penso. Com a cabeça encostada numa janela fria, a dezesseis mil quilômetros,
+Agora penso. Com a cabeça encostada numa janela fria, a dezoito mil quilômetros,
 numa cabine que não está em órbita nenhuma, que não está caindo e errando, que
-está só descendo, presa à fita, devagar, em direção ao chão que ela não vai errar.
+está só descendo, presa à fita, em direção ao chão que ela não vai errar.
 Com um homem de três quilos num saco atrás de mim, que também não está mais caindo
 junto com ninguém.
 
-O painel diz *4,6 kg*.
+O painel diz *3,6 kg*.
+
+---
+
+Na terça, pouco depois do meio-dia, a cabine para no colar dos quinze mil.
+
+É um desvio. O braço do colar pega a cabine por cima, com um baque que eu sinto
+nos dentes, e o anel de rodas se abre e solta a fita. A gente fica pendurada de
+lado, e a fita fica ali, a um metro da janela, livre.
+
+Quarenta minutos. O comboio sobe nesse tempo: três escaladores de carga, um atrás
+do outro. Cada um é um zumbido que cresce por baixo, passa pela janela como uma
+parede cinza sem janela nenhuma e cai de tom lá em cima, até sumir. A cada um, o
+braço estala, tomando a carga, e a cabine balança um pouco no braço.
+
+Depois o anel fecha de novo na fita, e a gente volta a descer.
 
 ---
 
 Na madrugada de quarta-feira, os dez mil quilômetros. Catorze por cento. Nove
-quilos e trezentos.
+quilos e quatrocentos.
 
 É aqui que o corpo começa a saber. Eu levanto do banco para ir ao compartimento de
 carga e, pela primeira vez desde a Âncora, os pés ficam no chão sozinhos, sem eu
@@ -179,7 +194,7 @@ Volto para o banco. As pernas estão um pouco mais pesadas. Eu noto. Não quero 
 Na segunda noite, os cinco mil. Trinta por cento. Vinte quilos.
 
 Tento dormir no banco reclinado e não consigo, porque agora o corpo pesa o bastante
-para doer nos lugares onde encosta. Os ombros. O quadril. A nuca. Onze dias de
+para doer nos lugares onde encosta. Os ombros. O quadril. A nuca. Dez dias de
 quase nada e o corpo esqueceu como se carrega a si mesmo.
 
 E o luto também volta assim. Eu não sabia disso. Ninguém me contou que era assim,
@@ -198,10 +213,9 @@ os vinte quilos inteiros.
 Na manhã de quinta-feira, os mil quilômetros. Setenta e quatro por cento.
 
 Agora dói ficar de pé. Os joelhos reclamam. A cabeça fica pesada no pescoço, como
-uma coisa que alguém pôs ali e esqueceu. O céu lá fora deixou de ser preto: está
-ficando azul-escuro nas bordas, porque a gente está entrando no fim do ar, onde
-ainda não tem ar mas já tem o começo da cor. Pela janela de baixo eu vejo o mar.
-Não uma cor: o mar. Com nuvens em cima. Com as sombras das nuvens na água.
+uma coisa que alguém pôs ali e esqueceu. O céu lá fora ainda é preto. Pela
+janela de baixo eu vejo o mar. Não uma cor: o mar. Com nuvens em cima. Com as
+sombras das nuvens na água.
 
 E no meio do mar, pequena, muito pequena, uma mancha clara, redonda, com uma
 linha fina saindo do centro e subindo em direção a mim.
@@ -212,7 +226,10 @@ O painel diz *49 kg*.
 
 ---
 
-A cabine entra no Poço às duas e dez da tarde de quinta-feira.
+Nos últimos vinte minutos, o preto da janela fica azul-escuro nas bordas, e
+depois azul, e a fita sobe para dentro de um céu de verdade.
+
+A cabine entra no Poço às duas e cinquenta da tarde de quinta-feira.
 
 O Poço é o buraco no centro da Âncora de onde a fita sobe, uma cavidade funda,
 redonda, cercada por conveses em anéis, onde as cabines chegam e saem. Tem cheiro
@@ -224,11 +241,11 @@ O painel diz *66 kg*.
 
 Eu tento levantar do banco.
 
-Não consigo. Quer dizer, consigo, mas as pernas não obedecem do jeito que
-deviam, como se estivessem dormentes, e eu fico de pé agarrada no encosto,
-tremendo, com o corpo inteiro pesando sessenta e seis quilos de uma vez, depois
-de onze dias pesando quase nada. O capacete, que eu carrego debaixo do braço, pesa como
-uma pedra. O ar pesa. A luz pesa.
+Consigo, mas as pernas não obedecem do jeito que deviam, como se estivessem
+dormentes, e eu fico de pé agarrada no encosto, tremendo, com o corpo inteiro
+pesando sessenta e seis quilos de uma vez, depois de onze dias pesando quase
+nada. O capacete, que eu carrego debaixo do braço, pesa como uma pedra. O ar
+pesa. A luz pesa.
 
 Na borda do Poço, no convés de chegada, tem gente esperando. Dois homens da
 agência, de cinza, com uma maca para o saco. Um médico da Operadora, que eu
@@ -243,7 +260,7 @@ não caio só porque me agarro na borda da escotilha, e fico ali, meio pendurada
 com o capacete batendo no chão.
 
 A Bia atravessa o convés correndo. Não me segura: se ajoelha na minha frente e
-segura o capacete, que ia rolar para o Poço, e depois olha para mim de baixo, com
+segura o capacete, que ia rolar para o Poço, e depois ergue os olhos para mim, com
 uma cara que eu não sei ler, uma cara de quem quer dizer uma coisa e não pode.
 
 — Você pesa — diz ela. Não sei se é pergunta.
@@ -254,8 +271,3 @@ Atrás de mim, os dois homens de cinza tiram o saco cinza do compartimento de
 carga. Precisam dos dois, agora. Um de cada lado. Setenta quilos.
 
 Ele voltou a pesar o que pesava.
-
-Eu fico de pé no convés do Poço, com a mão da Bia no meu braço e o calor grudando
-na pele, e sinto cada quilo, os meus e os dele, e não consigo andar, e não quero
-que ninguém me carregue, e não sei como vou fazer para carregar isso tudo sozinha
-lá embaixo, a cem por cento, onde nada cai devagar.

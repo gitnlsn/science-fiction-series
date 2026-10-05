@@ -39,8 +39,9 @@ Os joelhos reclamaram. Eu fiquei de pé mesmo assim.
 O cabo continua parado.
 
 Não todo. A troca do trecho começou duas semanas depois da trava: uma equipe de oito, com
-o Álvaro no Posto e eu no controle, porque o controle é o que eu posso fazer enquanto o
-jurídico não decide. As cabines de manutenção sobem e descem, uma por vez, liberadas à
+o Álvaro no Posto e eu no controle, no chão. A carta do serviço médico chegou no segundo
+dia, com o mesmo timbre da carta do Otávio: o limite do ano está batido, e eu não subo antes de fazer um
+ano da trava. As cabines de manutenção sobem e descem, uma por vez, liberadas à
 mão, levando fita nova e ferramenta e gente. Os escaladores de carga, não. A rampa da
 baía de lançamento está vazia há trinta e cinco dias. O C-114 está encostado na parede do
 convés de carga, com a tampa do nicho aberta, porque ninguém teve coragem de lacrar de
@@ -60,9 +61,9 @@ nuvem, mais ou menos. Quatro centésimos de grau, mais ou menos, a mais no mundo
 em que não devia ter nenhum. E, na Âncora e em toda a costa do Equador, mais semanas
 paradas do que haveria.
 
-— Vai morrer gente — disse o Hugo, na roda. — Eu não vou fingir que não. Mais do que ia
-morrer se o cabo não tivesse parado. Eu sei os números. — Ele olhou para mim, do outro
-lado do Poço. — E eu sei o outro número. O da fita no chão ao longo do Equador. Esse é
+— Vai morrer gente — disse o Hugo, na roda. — Não pretendo fingir que não. Mais do que
+morreria se o cabo não tivesse parado. Conheço os números. — Ele procurou o meu rosto, do
+outro lado do Poço. — E conheço o outro número. O da fita no chão ao longo do Equador. Esse é
 maior.
 
 Ninguém aplaudiu. Não é coisa que se aplauda. Mas o velho do peixe seco, que agora tem
@@ -87,9 +88,9 @@ registrado no trecho; condição estrutural não detectada pelos sistemas de mon
 
 — É o que é.
 
-— É o que eu sei. — Ela me olha. — Você me ensinou uma coisa, Iara. Eu achava que separar
+— É o que eu sei. — Ela se vira para mim. — Você me ensinou uma coisa, Iara. Eu achava que separar
 o que a gente sabe do que a gente acha era o fim do trabalho. Que depois de separar, sobrava
-a verdade. — Ela quase sorri, e é a primeira vez que eu a vejo quase sorrir. — Às vezes o
+a verdade. — Um canto da boca dela se mexe, e é a primeira vez que eu vejo isso. — Às vezes o
 que sobra é só a separação.
 
 Eu não digo nada.
@@ -129,15 +130,15 @@ leio. Todas. Mesmo as erradas. Principalmente as erradas.
 
 — Eu sei. Estou dizendo para mim.
 
-O Álvaro quase ri. Faz que sim.
+O Álvaro solta o ar pelo nariz, que nele é rir. Faz que sim.
 
 — A segunda: a Bia volta. Para a técnica. Não para o convés. Comigo.
 
 O Álvaro fica calado. A Bia foi demitida no dia em que contou à Inês dos extras. O homem que
-pagava por fora sumiu do continente. O resfriador da dona Rute continua na parede, pago até o
-fim, com dinheiro que eu não perguntei de onde a Bia tirou.
+pagava por fora continua sumido no continente. O resfriador da dona Rute continua na
+parede, pago até o fim com o dinheiro dos extras, que ninguém veio pedir de volta.
 
-— Ela carregou os extras — diz o Álvaro, devagar.
+— Ela carregou os extras — diz o Álvaro.
 
 — E contou. Quando ninguém mais ia contar. — Eu olho para a fita. — Ele se amarrou para eu
 achar. A Bia guardou o caderno para eu achar. Sem ela, eu não tinha nada.
@@ -179,10 +180,10 @@ O Álvaro olha para mim.
 A corda do enterro é uma corda comum, grossa, de convés. Alguém tem de amarrar no pano,
 na altura da cintura, para descer.
 
-Eu tiro a corda cinza do pulso. A de meio metro. Achatada por dois meses de rodas, com
-as duas pontas cortadas por mim no dia doze, e o aperto das mãos dele ainda marcado nas
-voltas que ele deu na fita, cento e oitenta metros abaixo do Posto, às onze e tanto de uma
-quinta-feira em que ele devia estar num navio.
+Eu tiro a corda cinza do bolso do macacão, enrolada. Os quatro metros. Achatada por dois
+meses de rodas, com as duas pontas cortadas por mim no dia doze, e o aperto das mãos dele
+ainda marcado nas voltas que ele deu na fita, cento e oitenta metros abaixo do Posto, numa
+noite em que ele devia estar num navio.
 
 Não sei a que horas. Não sei de quê. Não vou saber.
 
@@ -201,24 +202,16 @@ Depois amarro a corda grossa de convés na corda cinza, com um nó comum, e me l
 
 ---
 
-O Álvaro e eu descemos a corda juntos. Devagar. Mão depois de mão, como na fita. O pano
-branco desce pela borda do casco dezenove, encostado no metal, e o vento o faz balançar um
+O Álvaro e eu descemos a corda juntos. Mão depois de mão, como na fita. O pano
+branco desce pela borda do casco dezenove, encostado no metal, e o vento faz ele balançar um
 pouco, e o sol baixo, de lado, deixa ele laranja por um instante. Ele pesa setenta quilos.
 Aqui, pesa setenta. Os meus braços sentem cada um.
 
 *O cabo não aguenta peso. Aguenta tensão.*
 
-Eu entendo agora, com a corda queimando as mãos, o que eu não entendia na câmara fria. Não é
-o peso que se carrega. Setenta quilos, três quilos, é a mesma coisa. É o que se aguenta
-esticado entre duas coisas que puxam. O Hugo e o Otávio. O calor e a fita. O Álvaro e a
-norma que ele escreveu. A Bia e a mãe dela. Eu e uma ligação às vinte e três e catorze, que
-eu não atendi, e uma voz de quarenta e um segundos dizendo *deixa isso comigo*.
-
-Ninguém aguenta o peso. A gente aguenta a tensão. E é isso que segura.
-
 O pano encosta na água.
 
-O Álvaro olha para mim. Eu faço que sim. Ele solta a corda.
+O Álvaro espera. Eu faço que sim. Ele solta a corda.
 
 ---
 
@@ -235,7 +228,7 @@ Está morno. E vibra. Não muito. Uma coisa fina, contínua, que eu sinto mais n
 do que na pele.
 
 É uma cabine de manutenção. Uma só. A da troca, subindo com fita nova para o Posto, onde o
-Álvaro vai estar amanhã, liberada à mão pela Laís, a trezentos por hora. Eu reconheço o
+Álvaro vai estar amanhã e eu não, liberada à mão pela Laís, a trezentos por hora. Eu reconheço o
 canto. Agudo. Leve. Com o jeito de ir e voltar de quem sobe e está sempre um pouco atrasado
 em relação ao pedaço de fita que está em cima.
 
