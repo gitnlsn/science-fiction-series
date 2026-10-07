@@ -8,8 +8,12 @@
 // stock, 0.002252in on white) and is computed by scripts/build.py, so this
 // file only ever receives a finished measurement.
 //
-// This is a working starting point, not a finished jacket. Replace the flat
-// fills with artwork when you have it; the geometry and safe areas stay right.
+// With no artwork the cover is typographic: flat fills and type. With
+// artwork (`art`, a path next to this file) the picture fills the front panel
+// to the bleed, the title sits in the calm band the picture leaves at the top
+// (`art-top`, a fraction of the panel height) and the author in the band at
+// the foot (`art-bottom`). Back cover and spine stay flat, in `bg`, which
+// book.yaml takes from the art so the wrap reads as one piece.
 
 #let bleed = 0.125in
 
@@ -35,30 +39,61 @@
   serif: ("Libertinus Serif", "Georgia"),
   sans: ("Libertinus Sans",),
   display: ("Libertinus Serif Display", "Libertinus Serif"),
-) = block(width: w, height: h)[
-  #place(top + left, dx: inset, dy: top-drop, block(width: w - side-trim)[
-    #align(center)[
-      #if series != none [
-        #text(font: sans, size: 8pt, tracking: 0.26em, fill: accent)[
-          #upper(series)
-        ]
-        #v(2.2em)
+  // Over artwork: the bands the type is centred in, and its colours. The
+  // bands start below `top-safe` and end above `foot-safe`, which keep the
+  // type clear of the trim.
+  art-top: none,
+  art-bottom: none,
+  top-safe: 0in,
+  foot-safe: 0in,
+  title-ink: none,
+  author-ink: none,
+) = {
+  let over-art = art-top != none
+  let series-fill = if over-art and title-ink != none { title-ink } else { accent }
+  let heading = align(center)[
+    #set text(fill: title-ink) if title-ink != none
+    #if series != none [
+      #text(font: sans, size: 8pt, tracking: 0.26em, fill: series-fill)[
+        #upper(series)
       ]
-      #text(font: display, size: title-size, weight: "semibold")[#title]
-      #if subtitle != none [
-        #v(1.1em)
-        #line(length: 22%, stroke: 0.6pt + accent)
-        #v(1.1em)
-        #text(font: serif, size: subtitle-size, style: "italic")[#subtitle]
-      ]
+      #v(if over-art { 0.9em } else { 2.2em })
     ]
-  ])
-  #place(bottom + center, dy: -author-lift, text(
+    #text(font: display, size: title-size, weight: "semibold")[#title]
+    // Over art the band holds the series and the title and nothing else: the
+    // subtitle ("romance", "a novel") would push into the picture, and the
+    // title page carries it anyway.
+    #if subtitle != none and not over-art [
+      #v(1.1em)
+      #line(length: 22%, stroke: 0.6pt + accent)
+      #v(1.1em)
+      #text(font: serif, size: subtitle-size, style: "italic")[#subtitle]
+    ]
+  ]
+  let byline = text(
     font: sans,
     size: author-size,
     tracking: 0.18em,
-  )[#upper(author)])
-]
+    fill: if author-ink != none { author-ink } else { auto },
+  )[#upper(author)]
+  block(width: w, height: h, {
+    if over-art {
+      let top-h = art-top * h - top-safe
+      let foot-h = art-bottom * h - foot-safe
+      place(top + left, dx: inset, dy: top-safe, block(
+        width: w - side-trim, height: top-h,
+        align(center + horizon, heading),
+      ))
+      place(bottom + left, dx: inset, dy: -foot-safe, block(
+        width: w - side-trim, height: foot-h,
+        align(center + horizon, byline),
+      ))
+    } else {
+      place(top + left, dx: inset, dy: top-drop, block(width: w - side-trim, heading))
+      place(bottom + center, dy: -author-lift, byline)
+    }
+  })
+}
 
 // The eBook cover: the same front panel on a single 1:1.6 page, which is the
 // shape KDP asks for (1600 x 2560). No bleed and no trim, because nothing is
@@ -74,17 +109,36 @@
   serif: ("Libertinus Serif", "Georgia"),
   sans: ("Libertinus Sans",),
   display: ("Libertinus Serif Display", "Libertinus Serif"),
+  // The title as the front panel breaks it, when the automatic break is
+  // poor ("What Belongs to / the Sea"). The spine keeps `title`.
+  front-title: none,
+  art: none,
+  art-top: 0.25,
+  art-bottom: 0.1,
+  title-ink: none,
+  author-ink: none,
   body,
 ) = {
   let w = 5.5in
   let h = 8.8in
   set page(width: w, height: h, margin: 0pt, fill: bg)
   set text(font: serif, fill: ink, hyphenate: false)
+  if art != none {
+    place(top + left, image(art, width: w, height: h, fit: "cover"))
+  }
   front-panel(
-    title: title, subtitle: subtitle, author: author, series: series,
+    title: if front-title != none { front-title } else { title }, subtitle: subtitle, author: author, series: series,
     w: w, h: h, inset: 0.4in, top-drop: 1.5in, author-lift: 1in,
-    side-trim: 0.8in, title-size: 40pt, subtitle-size: 15pt, author-size: 14pt,
+    side-trim: 0.8in,
+    // Over art the title is what a shopper reads at thumbnail size, so it is
+    // set as large as the band allows.
+    title-size: if art != none { 50pt } else { 40pt },
+    subtitle-size: 15pt, author-size: if art != none { 16pt } else { 14pt },
     accent: accent, serif: serif, sans: sans, display: display,
+    art-top: if art != none { art-top }, art-bottom: art-bottom,
+    // Nothing is trimmed on an eBook, so the type may sit nearer the edge.
+    top-safe: 0.1in, foot-safe: 0.1in,
+    title-ink: title-ink, author-ink: author-ink,
   )
   body
 }
@@ -105,6 +159,14 @@
   serif: ("Libertinus Serif", "Georgia"),
   sans: ("Libertinus Sans",),
   display: ("Libertinus Serif Display", "Libertinus Serif"),
+  // The title as the front panel breaks it, when the automatic break is
+  // poor ("What Belongs to / the Sea"). The spine keeps `title`.
+  front-title: none,
+  art: none,
+  art-top: 0.25,
+  art-bottom: 0.1,
+  title-ink: none,
+  author-ink: none,
   body,
 ) = {
   let tw = trim.at(0)
@@ -179,11 +241,21 @@
     ])
 
     // ---------------- front cover ----------------
+    // The art runs from the spine fold out through the bleed.
+    #if art != none {
+      place(top + left, dx: bleed + tw + spine, dy: 0pt,
+        image(art, width: tw + bleed, height: full-h, fit: "cover"))
+    }
     #place(top + left, dx: bleed + tw + spine, dy: 0pt, front-panel(
-      title: title, subtitle: subtitle, author: author, series: series,
+      title: if front-title != none { front-title } else { title }, subtitle: subtitle, author: author, series: series,
       w: tw, h: full-h, inset: 0.25in, top-drop: safe + 0.6in,
       author-lift: safe + 0.3in, side-trim: 2 * 0.25in + bleed,
+      title-size: if art != none { 46pt } else { 34pt },
+      author-size: if art != none { 15pt } else { 13pt },
       accent: accent, serif: serif, sans: sans, display: display,
+      art-top: if art != none { art-top }, art-bottom: art-bottom,
+      top-safe: safe, foot-safe: safe,
+      title-ink: title-ink, author-ink: author-ink,
     ))
 
     // ---------------- production guides ----------------

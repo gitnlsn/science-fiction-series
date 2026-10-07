@@ -65,12 +65,18 @@ kdp:
   age_range: adulto
   price_usd: 12.99
 
-# Capa tipográfica, sem arte, como Depois de mim. Paleta própria: o azul da
-# noite acima do cabo e o âmbar dos macacões e do pôr do sol do enterro.
 cover:
-  bg: "#151c26"       # azul-noite, o espaço acima do cabo
-  ink: "#eef0f3"      # título e texto
-  accent: "#d98a3d"   # âmbar: o fio sob o título
+  # Arte de capa (2026-10-06). O título fica no céu escuro acima da fita e a
+  # autora na faixa do pé; o verso e a lombada levam a cor dessas faixas.
+  art: cover.jpeg
+  art_crop: [0.036, 0, 0.036, 0]   # a moldura lateral da arte
+  art_top: 0.23
+  art_bottom: 0.09
+  bg: "#131d27"       # azul-noite, a faixa da arte
+  ink: "#eef0f3"
+  accent: "#d98a3d"   # âmbar: a fita
+  title_ink: "#eef0f3"
+  author_ink: "#eef0f3"
 
 cover_guides: false
 
@@ -89,6 +95,5 @@ print:
   illustration_width: 0.74
 
 epub:
-  cover: cover.png
   illustration_format: jpg
   illustration_max_px: 1400

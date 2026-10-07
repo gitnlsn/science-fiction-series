@@ -146,10 +146,12 @@ way *Forty Working Days* is for *Quarenta dias úteis*:
 - The build still supports the `::: {.registro}` block (a set-apart machine
   document) from *Quarenta dias úteis*. Useful for logs, transmissions and
   system output — whether any of the three uses it is undecided.
-- Covers are typographic, from `shared/print/cover.typ`. Each book can set its
-  own palette in `book.yaml` under `cover:` (`bg`, `ink`, `accent`, hex); the
-  build passes them to both the print wrap and the eBook cover. *Depois de mim*
-  has no cover artwork, by the author's decision.
+- Covers come from `shared/print/cover.typ`, for print wrap and eBook alike.
+  Since 2026-10-06 each book has cover art (`cover.art` in `book.yaml`, the
+  author's decision): the picture carries no lettering, and the title, series
+  and author are set by the build in the calm bands the art leaves at top and
+  foot. Every key of the `cover:` block is explained in `docs/kdp-upload.md`.
+  A book with no `cover.art` falls back to the typographic cover.
 - `dist/` is never committed.
 
 ## Commands

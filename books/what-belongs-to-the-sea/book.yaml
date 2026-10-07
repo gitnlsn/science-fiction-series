@@ -86,11 +86,21 @@ print:
   illustration_width: 0.74
 
 epub:
-  cover: cover.png
   illustration_format: jpg
   illustration_max_px: 1400
 
-cover:                  # decidido (delegado pelo autor, 2026-10-03)
-  bg: "#16302e"       # verde-mar escuro: a água do canal na maré cheia
-  ink: "#eef2ef"      # título e texto
-  accent: "#d9825b"   # coral: o fio sob o título
+cover:
+  # Arte de capa (2026-10-06). O título fica no céu verde-água e a autora na
+  # faixa escura do pé; o verso e a lombada levam a cor dessa faixa.
+  art: cover.jpeg
+  title: |          # a quebra da capa; a lombada leva o título numa linha
+    What Belongs
+    to the Sea
+  art_crop: [0.031, 0.021, 0.031, 0.023]   # a borda de papel da arte
+  art_top: 0.29
+  art_bottom: 0.09
+  bg: "#1e4448"       # verde-mar escuro, a faixa do pé
+  ink: "#eef2ef"
+  accent: "#d9825b"   # coral: o sol
+  title_ink: "#16302e"
+  author_ink: "#eef2ef"

@@ -297,19 +297,11 @@ def build_epub(book_dir: Path, cfg: dict, pieces: list[Piece],
         derive(master, dest, label, px=px, gray=False, dpi=None)
         return "img/" + dest.name
 
-    # Cover
-    cover_rel = None
-    cover_master = book_dir / "illustrations" / "masters" / str(ep.get("cover", "cover.png"))
+    # Cover: the same front panel the printed wrap uses, over the artwork when
+    # book.yaml names one (`cover.art`), typographic when it does not. Either
+    # way the title is set by the build, never painted into the picture.
     cover_path = work / "img" / "cover.jpg"
-    if cover_master.exists():
-        run(["magick", str(cover_master), "-strip", "-colorspace", "sRGB",
-             "-resize", "1600x2560^", "-gravity", "center", "-extent", "1600x2560",
-             "-quality", "90", str(cover_path)])
-    else:
-        # No artwork: set the same typographic front panel the printed wrap
-        # uses. This is the finished cover for a text-only edition, not a
-        # stand-in, so it carries no placeholder mark.
-        typeset_ebook_cover(cfg, work / "cover", cover_path)
+    typeset_ebook_cover(book_dir, cfg, work / "cover", cover_path)
     cover_rel = "img/cover.jpg"
 
     # Body markdown, one level-1 heading per piece so pandoc splits on chapters.
@@ -642,16 +634,63 @@ def cover_colours(cfg: dict) -> list[str]:
     """
     colours = cfg.get("cover") or {}
     lines = []
-    for key in ("bg", "ink", "accent"):
+    for key in ("bg", "ink", "accent", "title_ink", "author_ink"):
         if value := colours.get(key):
             hexv = str(value).strip().lstrip("#")
             if len(hexv) != 6 or any(c not in "0123456789abcdefABCDEF" for c in hexv):
                 sys.exit(f"!! cover.{key} must be a hex colour like \"#1d2b2b\", got {value!r}")
-            lines.append(f'  {key}: rgb("#{hexv}"),')
+            lines.append(f'  {key.replace("_", "-")}: rgb("#{hexv}"),')
     return lines
 
 
-def typeset_ebook_cover(cfg: dict, work: Path, dest: Path) -> None:
+# Tall enough for 300 dpi on the tallest panel the template sets (9in + bleed).
+ART_PX_HIGH = 2800
+
+
+def cover_art(book_dir: Path, cfg: dict, work: Path) -> list[str]:
+    """Prepare `cover.art` for the template and return its typst arguments.
+
+    The master is cropped by `cover.art_crop` -- fractions [left, top, right,
+    bottom] that take off a painted frame or paper border, which would
+    otherwise land unevenly on the trim -- and resampled to ART_PX_HIGH.
+    `cover.art_top` / `art_bottom` are the calm bands, as fractions of the
+    panel height, that the title and the author are centred in. No `art:` key
+    means a typographic cover, and an empty list.
+    """
+    c = cfg.get("cover") or {}
+    name = c.get("art")
+    if not name:
+        return []
+    master = book_dir / "illustrations" / "masters" / str(name)
+    if not master.exists():
+        sys.exit(f"!! cover.art: {master.relative_to(ROOT)} does not exist")
+    crop = c.get("art_crop") or [0, 0, 0, 0]
+    if len(crop) != 4 or not all(0 <= float(f) < 0.25 for f in crop):
+        sys.exit(f"!! cover.art_crop must be four fractions [left, top, right, bottom], got {crop!r}")
+    l, t, r, b = (float(f) for f in crop)
+    work.mkdir(parents=True, exist_ok=True)
+    dest = work / "art.jpg"
+    w, h = (int(v) for v in subprocess.run(
+        ["magick", "identify", "-format", "%w %h", str(master)],
+        check=True, capture_output=True, text=True).stdout.split())
+    box = (f"{round(w * (1 - l - r))}x{round(h * (1 - t - b))}"
+           f"+{round(w * l)}+{round(h * t)}")
+    run(["magick", str(master), "-strip", "-colorspace", "sRGB",
+         "-crop", box, "+repage", "-filter", "Lanczos", "-resize", f"x{ART_PX_HIGH}",
+         "-quality", "92", str(dest)])
+    out = []
+    if c.get("title"):
+        # `cover.title` breaks the front-panel title by hand: a newline in the
+        # YAML is a line break on the cover.
+        out.append(f"  front-title: {typ_str(str(c['title']).strip())},")
+    return out + [
+        '  art: "art.jpg",',
+        f"  art-top: {float(c.get('art_top', 0.25))},",
+        f"  art-bottom: {float(c.get('art_bottom', 0.1))},",
+    ]
+
+
+def typeset_ebook_cover(book_dir: Path, cfg: dict, work: Path, dest: Path) -> None:
     """The eBook cover, typeset from the same template as the printed wrap.
 
     KDP wants 1600x2560. The typst page is 5.5 x 8.8in, which is that ratio
@@ -669,6 +708,7 @@ def typeset_ebook_cover(cfg: dict, work: Path, dest: Path) -> None:
         f"  author: {typ_str(cfg.get('author'))},",
         f"  series: {typ_str(series.get('name') or None)},",
         *cover_colours(cfg),
+        *cover_art(book_dir, cfg, work),
         ")",
         "",
     ]) + "\n"
@@ -704,12 +744,13 @@ def build_cover(book_dir: Path, cfg: dict) -> Path:
         f"  subtitle: {typ_str(cfg.get('subtitle'))},",
         f"  author: {typ_str(cfg.get('author'))},",
         f"  blurb: {typ_paragraphs(cfg.get('kdp', {}).get('description'))},",
-        f"  series: {typ_str(series.get('name'))},",
+        f"  series: {typ_str(series.get('name') or None)},",
         f"  trim: ({trim[0]}, {trim[1]}),",
         f"  spine: {spine:.4f}in,",
         f"  pages: {pages},",
         f"  guides: {str(bool(cfg.get('cover_guides', True))).lower()},",
         *cover_colours(cfg),
+        *cover_art(book_dir, cfg, work),
         ")",
         "",
     ]) + "\n"

@@ -136,17 +136,37 @@ publicar:
 E a checagem que nenhuma ferramenta faz: ler o PDF inteiro, em papel se possível,
 uma vez, antes de subir.
 
-## Decisão sobre a capa — 1ª edição
+## A capa — com arte desde 2026-10-06
 
-**Esta edição sai sem arte de capa.** A capa é tipográfica: título, subtítulo,
-autora e lombada, compostas pelo `shared/print/cover.typ`, sem imagem. A capa
-do eBook sai do mesmo arquivo e do mesmo painel, de modo que as duas não podem
-divergir.
+A primeira edição saiu com capa tipográfica. Em 2026-10-06 o autor decidiu dar
+arte às capas, porque a miniatura na Amazon é o que o leitor julga primeiro e uma
+capa só de texto não se lê nesse tamanho.
 
-Isso é uma escolha e não uma pendência. Não gerar `illustrations/masters/cover.png`
-não bloqueia o build nem a submissão: a KDP exige uma capa full-wrap com sangria
-e a nossa atende. Se uma edição futura quiser arte, é só colocar o arquivo com
-esse nome e reconstruir.
+**A arte é gerada por IA (Gemini) e o texto da capa não é.** A imagem é só a
+imagem, sem nenhuma letra; título, série e autora são compostos pelo
+`shared/print/cover.typ` por cima dela, na faixa lisa que a arte deixa no alto e
+na do pé. O eBook e o impresso saem do mesmo painel e não podem divergir. O
+verso e a lombada são lisos, na cor das faixas da arte.
+
+Tudo fica no bloco `cover:` do `book.yaml`:
+
+| Chave | O que faz |
+|---|---|
+| `art` | o arquivo em `illustrations/masters/`; sem ela, a capa volta a ser tipográfica |
+| `art_crop` | frações [esquerda, topo, direita, base] que tiram moldura ou borda de papel da arte, que cairiam tortas no corte |
+| `art_top`, `art_bottom` | a altura das faixas lisas, em fração do painel; o título e a autora se centram nelas |
+| `title_ink`, `author_ink` | a cor do título e da autora sobre a arte |
+| `title` | a quebra do título na capa, quando a automática é ruim; a lombada leva o título numa linha |
+| `bg`, `ink`, `accent` | verso e lombada |
+
+**A resolução.** As artes vieram a 848×1264 px. O build as reamostra para 2800 px
+de altura, o que passa no preflight mas não inventa detalhe: impressas, ficam
+mais macias que o miolo. Antes de pedir a prova impressa, vale gerar de novo em
+2K ou 4K com o mesmo prompt e trocar o arquivo; nada mais precisa mudar.
+
+**A declaração de IA muda.** Com a arte, a capa também é conteúdo gerado por IA,
+e isso precisa ser marcado na seção de IA do formulário (ver acima), em cada
+livro que já estiver publicado.
 
 `cover_guides` fica em `false` para a versão de envio. Só volte a `true` para
 conferir margens de sangria e a área do código de barras.
